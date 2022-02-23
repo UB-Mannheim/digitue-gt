@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00001.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:45.884592+00:00</Created>
+        <LastChange>2022-02-23T18:18:45.884639+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="0_c6c10_default.jpg" imageWidth="1892" imageHeight="2861">
+  </Page>
+</PcGts>

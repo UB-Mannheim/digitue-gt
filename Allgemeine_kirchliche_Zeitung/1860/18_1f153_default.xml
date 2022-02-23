@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00019.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.142080+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.142096+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="18_1f153_default.jpg" imageWidth="1497" imageHeight="2610">
+    <TextRegion id="eSc_textblock_1a59def1"  >
+      <Coords points="763,119 704,128 704,78 755,78 763,119"/>
+      <TextLine id="eSc_line_21ee6e1e" >
+        <Coords points="702,121 694,84 739,69 752,115 750,126 702,130"/>
+        <Baseline points="702,121 752,115"/>
+        <TextEquiv>
+          <Unicode>17</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a3aa5073"  >
+      <Coords points="1442,1955 974,1972 937,1992 955,2068 920,2079 1068,2122 1105,2227 1425,2253 1416,2451 1122,2451 1079,2486 1059,2442 52,2416 52,2262 119,2253 130,2218 356,2190 337,2007 87,1998 52,1990 43,1937 60,182 1425,200 1442,1955"/>
+      <TextLine id="eSc_line_26f892aa" >
+        <Coords points="47,221 47,169 1418,187 1418,232 1414,243 45,232"/>
+        <Baseline points="47,221 1418,232"/>
+        <TextEquiv>
+          <Unicode>Der Geiſt der Wahrheit ſelbſt ſträubt ſich gegen jede äußere Form, in die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc9399db" >
+        <Coords points="47,274 47,230 1414,241 1416,282 1412,295 45,287"/>
+        <Baseline points="47,274 1416,282"/>
+        <TextEquiv>
+          <Unicode>man ihn ſpannt, weil er ſeinem Weſen nach göttlich, unendlich, ewig ſchöpfer⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b9e39f5a" >
+        <Coords points="47,328 47,284 1416,293 1418,337 1416,348 391,354 389,354 45,339"/>
+        <Baseline points="47,328 1418,337"/>
+        <TextEquiv>
+          <Unicode>kräftig iſt. Die Ueberlieferung umfaßt nur Geſchaffenes; das ſchaffende Element</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2600bef6" >
+        <Coords points="50,382 50,330 1416,343 1418,387 1414,398 47,393"/>
+        <Baseline points="50,382 1418,387"/>
+        <TextEquiv>
+          <Unicode>ſelbſt entzieht ſich ihren Schranken. So kann der Botaniker die Blumen des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_49978ad7" >
+        <Coords points="50,437 50,384 1416,398 1418,443 1414,456 47,448"/>
+        <Baseline points="50,437 1418,443"/>
+        <TextEquiv>
+          <Unicode>Feldes wohl pflücken, trocknen, in ſeinem Herbarium ordnen und zurechtlegen;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2656a95d" >
+        <Coords points="50,487 50,434 1416,452 1418,495 1414,506 47,500"/>
+        <Baseline points="50,487 1418,495"/>
+        <TextEquiv>
+          <Unicode>aber das Herbarium wird dadurch nicht zu einem grünen Wieſenplatz, und die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b7d5f55" >
+        <Coords points="50,539 50,487 115,502 565,502 628,495 672,491 672,491 674,491 674,491 676,491 676,491 676,491 678,491 685,495 696,502 924,500 1386,495 1388,495 1388,495 1390,495 1390,495 1390,495 1418,508 1418,548 1414,561 47,552"/>
+        <Baseline points="50,539 1418,548"/>
+        <TextEquiv>
+          <Unicode>Bienen ſaugen aus den dürren Blumen keinen Honigſeim. Jede überlieferte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7316e852" >
+        <Coords points="50,593 50,541 1416,558 1418,604 1414,622 47,604"/>
+        <Baseline points="50,593 1418,604"/>
+        <TextEquiv>
+          <Unicode>Religion gleicht, wenn der lebendige Geiſt der Wahrheit nicht mehr gegenwärtig</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9f4a781" >
+        <Coords points="47,645 47,604 1420,613 1420,654 1416,667 45,659"/>
+        <Baseline points="47,645 1420,654"/>
+        <TextEquiv>
+          <Unicode>in ihr waltet, einem ſolchen Herbarium; die Lehrſätze werden zu vertrockneten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c3feda1" >
+        <Coords points="50,698 50,654 1064,665 1066,709 1061,722 45,711"/>
+        <Baseline points="50,698 1066,709"/>
+        <TextEquiv>
+          <Unicode>Blättern; es fehlt der friſche Duft des blühenden Lebens.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f6fb206" >
+        <Coords points="130,756 130,702 1412,717 1414,763 1409,780 126,772"/>
+        <Baseline points="130,756 1414,763"/>
+        <TextEquiv>
+          <Unicode>Der Proteſtantismus iſt nicht ungerecht gegen die Ueberlieferung geweſen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc792cd5" >
+        <Coords points="47,806 47,756 1416,767 1418,813 1414,826 45,819"/>
+        <Baseline points="47,806 1418,813"/>
+        <TextEquiv>
+          <Unicode>wie man ihm öfters vorgeworfen hat. Er unterſchätzt ſie nicht. Wir ehren das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31b40b2f" >
+        <Coords points="50,861 50,811 1414,826 1416,869 1412,880 47,872"/>
+        <Baseline points="50,861 1416,869"/>
+        <TextEquiv>
+          <Unicode>Wort unſerer Väter, der Reformatoren, als ein wunderbares, gottgeſegnetes Zeu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6c4d4bf" >
+        <Coords points="47,913 47,867 1416,872 1418,922 1414,933 45,926"/>
+        <Baseline points="47,913 1418,922"/>
+        <TextEquiv>
+          <Unicode>genwort. Wir erkennen in den Bekenntniſſen, in welchen ſie ihre Glaubens⸗ und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_beb217d3" >
+        <Coords points="50,963 50,915 1416,933 1418,972 1414,985 47,978"/>
+        <Baseline points="50,963 670,976 1418,972"/>
+        <TextEquiv>
+          <Unicode>Lebensüberzeugungen ausſprechen, Vorbilder für unſere Glaubens⸗ und Lebensbe⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_db08ba88" >
+        <Coords points="50,1017 50,967 990,983 1018,983 1183,974 1185,974 1185,974 1188,974 1188,974 1188,974 1211,985 1211,985 1218,985 1381,976 1383,976 1383,976 1383,976 1386,976 1386,976 1418,989 1418,1030 1416,1041 280,1044 278,1044 278,1044 276,1044 276,1044 250,1033 110,1041 108,1041 108,1041 108,1041 47,1028"/>
+        <Baseline points="50,1017 1418,1030"/>
+        <TextEquiv>
+          <Unicode>kenntniſſe. Wir gehen gern bei allen treuen Lehrern unſerer Kirche in die Schule,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_27894642" >
+        <Coords points="50,1070 50,1024 598,1024 598,1024 598,1024 644,1033 657,1035 685,1033 796,1026 798,1026 1007,1039 1022,1039 1024,1039 1070,1028 1072,1028 1072,1028 1074,1028 1394,1030 1394,1030 1394,1030 1396,1030 1396,1030 1396,1030 1399,1030 1420,1046 1418,1085 1416,1096 248,1096 245,1094 47,1078"/>
+        <Baseline points="50,1070 1418,1085"/>
+        <TextEquiv>
+          <Unicode>und wir wiſſen insbeſondere, was wir in trüber Zeit einem Arndt, Spener,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2112b7a" >
+        <Coords points="50,1122 50,1078 1124,1078 1124,1078 1124,1078 1196,1089 1392,1080 1394,1080 1394,1080 1394,1080 1396,1080 1396,1080 1399,1080 1420,1094 1418,1133 1414,1144 47,1135"/>
+        <Baseline points="50,1122 1418,1133"/>
+        <TextEquiv>
+          <Unicode>A. .H Francke und vielen anderen geiſtgeſalbten Zeugen zu verdanken haben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36200d2d" >
+        <Coords points="47,1174 47,1124 1416,1146 1418,1187 1414,1204 45,1191"/>
+        <Baseline points="47,1174 1418,1187"/>
+        <TextEquiv>
+          <Unicode>Aber wir wiſſen uns an keine menſchliche Ueberlieferung ohne Weiteres gebunden,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5ec4b25e" >
+        <Coords points="50,1224 50,1183 1392,1187 1392,1187 1392,1187 1394,1187 1394,1187 1394,1187 1418,1200 1418,1239 1414,1250 47,1237"/>
+        <Baseline points="50,1224 1418,1239"/>
+        <TextEquiv>
+          <Unicode>weil wir uns lediglich an die Wahrheit ſelbſt ſchlechthin gebun⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac74305a" >
+        <Coords points="50,1278 50,1235 1423,1252 1423,1294 1418,1305 47,1289"/>
+        <Baseline points="50,1278 1423,1294"/>
+        <TextEquiv>
+          <Unicode>den wiſſen. Als ächte Proteſtanten proteſtiren wir heute noch gegen jeden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c408e540" >
+        <Coords points="52,1331 52,1278 1418,1305 1420,1348 1416,1361 47,1344"/>
+        <Baseline points="52,1331 1420,1348"/>
+        <TextEquiv>
+          <Unicode>Verſuch, den Wahrheitstrieb nach irgend einer Richtung zu beſchränken. Es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca78d294" >
+        <Coords points="52,1387 52,1344 1420,1359 1423,1402 1420,1411 446,1413 443,1413 50,1396"/>
+        <Baseline points="52,1387 1423,1402"/>
+        <TextEquiv>
+          <Unicode>iſt der Beruf des deutſchen Volkes, die Wahrheit, die ganze, die volle</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55dc1436" >
+        <Coords points="54,1442 54,1385 254,1398 711,1396 1011,1396 1013,1396 1418,1411 1420,1457 1416,1468 52,1452"/>
+        <Baseline points="54,1442 1420,1457"/>
+        <TextEquiv>
+          <Unicode>Wahrheit zu ergründen, und die ganze iſt die — chriſtliche Wahrheit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a60c74e" >
+        <Coords points="50,1496 50,1444 152,1455 226,1446 226,1446 228,1446 402,1459 1420,1459 1423,1505 1418,1518 47,1509"/>
+        <Baseline points="50,1496 1423,1505"/>
+        <TextEquiv>
+          <Unicode>Dieſe aber iſt nach ihrem ewigen Ausgangspunkte in Gott ſelbſt; ihr Urquell</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_72fab81e" >
+        <Coords points="52,1550 52,1502 1420,1520 1423,1563 1418,1574 50,1561"/>
+        <Baseline points="52,1550 1423,1563"/>
+        <TextEquiv>
+          <Unicode>liegt jenſeits aller menſchlichen Begriffs⸗ und Lehrbildung; dort will ſie geſchöpft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b678f442" >
+        <Coords points="50,1602 50,1550 1418,1572 1420,1613 1416,1626 47,1616"/>
+        <Baseline points="50,1602 1420,1613"/>
+        <TextEquiv>
+          <Unicode>ſein; ſie duldet keine Schranken, welche Herkommen, Gewohnheit und Bequem⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b14945d" >
+        <Coords points="52,1657 52,1602 161,1613 718,1611 1151,1611 1153,1611 1425,1624 1425,1668 1420,1681 50,1670"/>
+        <Baseline points="52,1657 1425,1668"/>
+        <TextEquiv>
+          <Unicode>lichkeit ihrer Erkenntniß zieht; ſie will da aufgefunden werden, wohin nur die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_644f606f" >
+        <Coords points="50,1713 50,1659 1425,1676 1427,1722 1423,1735 47,1724"/>
+        <Baseline points="50,1713 1427,1722"/>
+        <TextEquiv>
+          <Unicode>edelſten, unerſchrockenſten, opferwilligſten Geiſter vordringen, in der heiligen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55fac7a1" >
+        <Coords points="54,1766 54,1716 587,1733 589,1776 585,1785 50,1776"/>
+        <Baseline points="54,1766 589,1776"/>
+        <TextEquiv>
+          <Unicode>Region der unſichtbaren Welt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_257e9938" >
+        <Coords points="132,1824 132,1772 1431,1779 1433,1829 1429,1842 128,1833"/>
+        <Baseline points="132,1824 1433,1829"/>
+        <TextEquiv>
+          <Unicode>Die Deutſchen dürfen es mit einem edeln Stolze von ſich ſagen: ſie ſind</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1192f2c" >
+        <Coords points="52,1874 52,1829 1433,1842 1436,1885 1431,1898 50,1885"/>
+        <Baseline points="52,1874 1436,1885"/>
+        <TextEquiv>
+          <Unicode>das einzige Volk, das mit der religiöſen Forſchung ungeheuchelten Ernſt gemacht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b1f38a1" >
+        <Coords points="50,1929 50,1881 1425,1892 1427,1940 1425,1948 1164,1959 1161,1959 1161,1959 1161,1959 1159,1959 1159,1959 1159,1959 1157,1959 1157,1959 1144,1948 1144,1948 1137,1948 879,1957 876,1957 47,1940"/>
+        <Baseline points="50,1929 1427,1940"/>
+        <TextEquiv>
+          <Unicode>hat, das bis an die letzten Gränzen der Schöpfung forſchend vorgedrungen iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b0dbd69" >
+        <Coords points="52,1981 52,1931 833,1940 835,1992 831,2000 47,1998"/>
+        <Baseline points="52,1981 835,1992"/>
+        <TextEquiv>
+          <Unicode>um mit den Worten des Dichters zu reden:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9cc5692" >
+        <Coords points="363,2040 361,1987 942,1985 946,2046 944,2055 361,2055"/>
+        <Baseline points="363,2040 946,2046"/>
+        <TextEquiv>
+          <Unicode>Bis dahin wo, — am Strande</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d52e06e1" >
+        <Coords points="361,2098 361,2040 820,2044 820,2098 818,2109 359,2107"/>
+        <Baseline points="361,2098 820,2098"/>
+        <TextEquiv>
+          <Unicode>Seiner Wogen ich lande,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b0bd22af" >
+        <Coords points="365,2151 363,2096 937,2094 939,2094 1068,2109 1068,2164 1064,2168 361,2159"/>
+        <Baseline points="365,2151 1068,2164"/>
+        <TextEquiv>
+          <Unicode>Anker werf&#39;, wo kein Hauch mehr weht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a09a686" >
+        <Coords points="361,2201 361,2144 1081,2166 1081,2218 1077,2225 356,2207"/>
+        <Baseline points="361,2201 1081,2218"/>
+        <TextEquiv>
+          <Unicode>Und der Markſtein der Schöpfung ſteht.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1bb54552" >
+        <Coords points="130,2253 130,2198 391,2198 391,2198 391,2198 393,2198 419,2207 441,2211 469,2207 535,2198 535,2198 537,2198 822,2205 822,2205 961,2222 968,2222 972,2222 1077,2211 1077,2211 1079,2211 1079,2211 1079,2211 1151,2229 1166,2233 1423,2238 1423,2285 1420,2294 1253,2301 1251,2301 1251,2301 1248,2301 1211,2290 1201,2288 1159,2288 1040,2292 1037,2292 1037,2292 948,2283 892,2277 857,2281 789,2288 789,2288 787,2288 787,2288 785,2288 785,2288 785,2288 783,2288 783,2288 783,2285 774,2279 770,2275 694,2275 533,2279 530,2279 530,2279 485,2270 461,2266 422,2268 317,2277 315,2277 315,2277 126,2259"/>
+        <Baseline points="130,2253 770,2262 1423,2285"/>
+        <TextEquiv>
+          <Unicode>England, ſonſt ſo beneidenswerth in feiner Thatkraft und in der Friſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8b364934" >
+        <Coords points="47,2301 47,2242 115,2257 454,2255 609,2255 611,2255 835,2262 835,2262 835,2262 837,2262 865,2270 889,2277 896,2270 902,2264 902,2264 905,2264 905,2264 905,2264 907,2264 907,2264 909,2264 970,2264 970,2264 970,2264 1037,2275 1072,2281 1111,2279 1181,2272 1183,2272 1183,2272 1183,2272 1185,2272 1185,2272 1185,2272 1188,2272 1188,2272 1188,2275 1196,2281 1198,2285 1418,2290 1418,2340 1416,2351 1253,2353 1251,2353 1251,2353 1248,2353 1248,2353 1248,2353 1246,2353 1246,2353 1246,2351 1242,2346 1233,2340 1192,2346 1151,2351 1151,2351 1148,2351 1148,2351 1146,2351 1146,2351 1127,2344 1105,2335 966,2340 907,2340 905,2340 905,2340 902,2340 892,2338 863,2329 839,2335 824,2340 822,2340 822,2340 822,2340 820,2340 820,2340 820,2340 818,2340 800,2333 776,2327 696,2331 650,2333 648,2333 648,2333 648,2333 624,2329 589,2322 565,2327 541,2333 539,2333 539,2333 537,2333 537,2333 469,2325 430,2320 404,2322 343,2331 343,2331 341,2331 341,2331 341,2331 339,2331 339,2331 339,2331 317,2320 313,2318 308,2320 289,2329 289,2329 287,2329 287,2329 287,2329 285,2329 158,2327 158,2327 158,2327 156,2327 156,2327 156,2327 134,2316 126,2312 45,2312"/>
+        <Baseline points="47,2301 1024,2320 1418,2340"/>
+        <TextEquiv>
+          <Unicode>und Tüchtigkeit ſeiner Gedanken, hat es auf dem Gebiete religiöſer Forſchung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0834fa7b" >
+        <Coords points="47,2355 47,2301 152,2314 217,2305 221,2305 221,2305 224,2305 224,2305 224,2305 226,2305 226,2305 226,2305 226,2305 228,2305 243,2316 289,2307 313,2303 313,2303 313,2303 315,2303 315,2303 317,2303 317,2303 317,2303 330,2307 352,2318 393,2309 424,2305 424,2305 426,2305 426,2305 496,2314 552,2320 561,2316 572,2307 574,2307 574,2307 574,2307 576,2307 576,2307 578,2307 798,2312 798,2312 798,2312 800,2312 800,2312 800,2312 822,2322 831,2327 852,2325 920,2314 920,2314 922,2314 992,2316 992,2316 992,2316 994,2316 994,2316 994,2316 996,2316 1016,2329 1022,2333 1033,2329 1057,2320 1057,2320 1059,2320 1059,2320 1059,2320 1061,2320 1061,2320 1064,2320 1107,2331 1124,2338 1416,2342 1416,2390 1414,2396 1225,2405 1222,2405 1222,2405 1220,2405 1220,2405 1188,2392 1174,2388 1155,2392 1129,2396 1129,2396 1129,2396 1127,2396 1127,2396 1066,2390 1009,2383 1003,2388 992,2396 992,2399 992,2399 990,2399 990,2399 987,2399 987,2399 987,2399 985,2399 985,2399 983,2399 939,2388 916,2381 855,2385 807,2388 805,2388 805,2388 759,2383 704,2377 687,2381 657,2390 654,2390 654,2390 654,2390 652,2390 652,2390 650,2390 609,2379 598,2377 587,2379 552,2388 550,2388 550,2388 548,2388 548,2388 548,2388 546,2388 546,2388 546,2388 543,2388 543,2388 543,2385 535,2377 530,2375 487,2377 345,2385 343,2385 343,2385 343,2385 341,2385 341,2385 339,2385 339,2385 324,2372 319,2370 311,2372 285,2381 282,2381 282,2381 282,2381 280,2381 191,2379 191,2379 191,2379 189,2379 189,2379 189,2379 187,2379 187,2379 187,2377 178,2370 176,2368 174,2370 139,2381 137,2381 137,2381 137,2381 134,2381 134,2381 45,2366"/>
+        <Baseline points="47,2355 1003,2372 1416,2390"/>
+        <TextEquiv>
+          <Unicode>nur zu ſchaaler Freidenkerei gebracht und iſt aus dieſer wieder auf die Heer⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_adec9707" >
+        <Coords points="50,2407 50,2355 350,2370 428,2366 509,2362 511,2362 511,2362 511,2362 513,2362 513,2362 515,2362 526,2368 535,2375 554,2370 578,2364 580,2364 580,2364 583,2364 907,2370 907,2370 907,2370 968,2383 972,2383 979,2383 1077,2375 1077,2375 1079,2375 1079,2375 1081,2375 1081,2375 1081,2375 1083,2375 1083,2375 1083,2377 1085,2377 1094,2388 1096,2390 1129,2388 1218,2383 1220,2383 1416,2399 1416,2442 1414,2457 1264,2466 1262,2466 1262,2466 1259,2466 1207,2453 1192,2449 1188,2451 1168,2464 1166,2464 1166,2464 1166,2464 1164,2464 1164,2464 1161,2464 1161,2464 1161,2464 1159,2464 1159,2464 1159,2464 1133,2451 1124,2444 1020,2444 1016,2446 1000,2457 998,2457 998,2457 998,2457 996,2457 996,2457 996,2457 994,2457 994,2457 992,2457 992,2457 992,2457 990,2457 972,2444 966,2442 926,2444 833,2449 831,2449 831,2449 759,2438 733,2436 722,2438 681,2449 678,2449 678,2449 676,2449 676,2449 541,2433 502,2446 502,2446 500,2446 500,2446 498,2446 498,2446 498,2446 496,2446 496,2446 496,2446 474,2436 224,2440 221,2440 221,2440 219,2440 219,2440 178,2425 139,2438 137,2438 137,2438 137,2438 134,2438 69,2436 69,2436 69,2436 67,2436 67,2436 67,2436 65,2436 65,2436 43,2418"/>
+        <Baseline points="50,2407 1416,2442"/>
+        <TextEquiv>
+          <Unicode>ſtraße des kirchlichen Herkommens zurückgekehrt. Frankreich, an Eroberungen</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_cc52c1f6" >
+        <Coords points="1077,2481 1066,2436 1092,2433 1103,2477 1105,2496 1079,2499"/>
+        <Baseline points="1077,2481 1103,2477"/>
+        <TextEquiv>
+          <Unicode>2</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

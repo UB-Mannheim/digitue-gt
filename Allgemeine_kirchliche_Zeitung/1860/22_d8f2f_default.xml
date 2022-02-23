@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00023.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.192358+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.192374+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="22_d8f2f_default.jpg" imageWidth="1497" imageHeight="2610">
+    <TextRegion id="eSc_textblock_200f6474"  >
+      <Coords points="746,119 678,119 678,69 746,69 746,119"/>
+      <TextLine id="eSc_line_d10b8bbf" >
+        <Coords points="683,108 683,63 739,65 739,108 739,121 683,121"/>
+        <Baseline points="683,108 739,108"/>
+        <TextEquiv>
+          <Unicode>21</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ab34d7ce"  >
+      <Coords points="1364,2433 339,2425 17,2390 8,704 34,165 1399,208 1364,2433"/>
+      <TextLine id="eSc_line_2c8d5d85" >
+        <Coords points="30,206 32,152 1392,154 1392,232 1388,243 26,217"/>
+        <Baseline points="30,206 1392,232"/>
+        <TextEquiv>
+          <Unicode>die urſprügliche Vollkommenheit des Menſchen ſo hoch, um ihn zugleich daran</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e92b6add" >
+        <Coords points="30,261 30,215 1390,239 1392,284 1388,295 26,276"/>
+        <Baseline points="30,261 1392,284"/>
+        <TextEquiv>
+          <Unicode>zu erinnern, wie unendlich weit er ſich von ſeinem Ideale entfernt hat. Da</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4ee9efe" >
+        <Coords points="30,313 30,261 1388,291 1390,339 1386,350 26,326"/>
+        <Baseline points="30,313 1390,339"/>
+        <TextEquiv>
+          <Unicode>hilft keine Selbſtqual, kein Verdienſt der Werke, keine künſtlich aufgeputzte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75b1667c" >
+        <Coords points="30,367 30,319 1383,343 1386,391 1381,402 26,378"/>
+        <Baseline points="30,367 1386,391"/>
+        <TextEquiv>
+          <Unicode>Tugend; das Alles vermag den ſcharfen Blick der Selbſtprüfung nicht zu er⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ed22853" >
+        <Coords points="28,419 28,371 1383,393 1386,443 1381,456 23,432"/>
+        <Baseline points="28,419 1386,443"/>
+        <TextEquiv>
+          <Unicode>tragen; es muß in die demüthigende Tiefe der Selbſtverleugnung hinabge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be1e0301" >
+        <Coords points="28,474 28,424 1381,450 1383,495 1379,508 23,493"/>
+        <Baseline points="28,474 1383,495"/>
+        <TextEquiv>
+          <Unicode>ſtiegen, es muß geſtorben werden, damit eine Auferſtehung zu Stande komme;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47e9f93a" >
+        <Coords points="28,526 28,478 1381,504 1383,545 1379,558 23,539"/>
+        <Baseline points="28,526 1383,545"/>
+        <TextEquiv>
+          <Unicode>es muß im innerſten Herzpunkte zu einer neuen Geburt, einem Werde⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aec958cf" >
+        <Coords points="26,580 26,528 1386,558 1386,602 1381,615 21,593"/>
+        <Baseline points="26,580 1386,602"/>
+        <TextEquiv>
+          <Unicode>proceſſe kommen, aus dem ein neues geiſtgeſalbtes Leben hervorgeht. Und das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b2d1395" >
+        <Coords points="26,635 26,582 1381,611 1383,659 1379,674 21,645"/>
+        <Baseline points="26,635 1383,659"/>
+        <TextEquiv>
+          <Unicode>Alles kommt nicht aus der alten, in die Sünde gefangenen Natur, ſondern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4219fb97" >
+        <Coords points="23,687 23,643 1381,661 1383,711 1379,722 19,698"/>
+        <Baseline points="23,687 1383,711"/>
+        <TextEquiv>
+          <Unicode>aus einer neuen göttlichen Perſon, aus dem im Todesopfer verklärten Leben</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7b7f15bc" >
+        <Coords points="23,741 23,689 1379,717 1381,763 1377,782 19,754"/>
+        <Baseline points="23,741 1381,763"/>
+        <TextEquiv>
+          <Unicode>des gottmenſchlichen Welterlöſers und aus der Kraft ſeines von ihm ausſtrö⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1011c8c" >
+        <Coords points="21,793 21,741 924,759 926,811 922,822 17,804"/>
+        <Baseline points="21,793 926,811"/>
+        <TextEquiv>
+          <Unicode>menden h. Geiſtes, mit Hülfe des Glaubens.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c1b789b1" >
+        <Coords points="97,852 97,802 1379,817 1379,869 1375,880 93,863"/>
+        <Baseline points="97,852 1379,869"/>
+        <TextEquiv>
+          <Unicode>Damit iſt zugleich das tiefſte Geheimniß des Proteſtantismus ausgeſprochen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_622c01b6" >
+        <Coords points="21,900 21,848 1377,880 1377,924 1372,939 17,913"/>
+        <Baseline points="21,900 1377,924"/>
+        <TextEquiv>
+          <Unicode>Es iſt der Glaube an das ſchöpferiſche und heiligende Gottesleben in der Per⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1eb12728" >
+        <Coords points="21,954 21,904 1381,928 1381,976 1377,989 17,967"/>
+        <Baseline points="21,954 1381,976"/>
+        <TextEquiv>
+          <Unicode>ſon Chriſti, der eine fortwährend wiedergebärende, heiligende und verklärende</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f73e4d64" >
+        <Coords points="21,1009 21,963 1375,980 1377,1030 1372,1041 17,1020"/>
+        <Baseline points="21,1009 1377,1030"/>
+        <TextEquiv>
+          <Unicode>Kraft ausübt. Das Wort vom Glauben, das iſt es, was wir als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fed7d485" >
+        <Coords points="21,1061 21,1009 1372,1033 1375,1085 1370,1096 17,1072"/>
+        <Baseline points="21,1061 1375,1085"/>
+        <TextEquiv>
+          <Unicode>deutſche Proteſtanten treu zu bewahren, zu lehren, wirkſam zu machen haben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c65b88dc" >
+        <Coords points="21,1113 21,1065 1377,1087 1377,1135 1372,1148 17,1126"/>
+        <Baseline points="21,1113 1377,1135"/>
+        <TextEquiv>
+          <Unicode>Wer es noch nicht erkannt hat, wie aller Kern, alle Kraft, alles</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f182ea7d" >
+        <Coords points="21,1167 21,1115 1372,1144 1375,1189 1370,1200 17,1178"/>
+        <Baseline points="21,1167 1375,1189"/>
+        <TextEquiv>
+          <Unicode>Licht des Proteſtantismus in dieſem Worte ſteht, der hat den un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8eb621b9" >
+        <Coords points="21,1220 21,1170 1370,1202 1372,1246 1368,1265 17,1231"/>
+        <Baseline points="21,1220 1372,1246"/>
+        <TextEquiv>
+          <Unicode>erſchütterlichen Grund für ſeine evangeliſche Ueberzeugung noch nicht gefunden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_49705a67" >
+        <Coords points="21,1270 21,1226 1372,1250 1375,1296 1370,1307 17,1291"/>
+        <Baseline points="21,1270 206,1283 1375,1296"/>
+        <TextEquiv>
+          <Unicode>Alles Heil, aller Friede, alle Gemeinſchaft mit dem Ewigen kommt aus der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9751c04e" >
+        <Coords points="21,1324 21,1276 1370,1302 1370,1355 1366,1365 17,1335"/>
+        <Baseline points="21,1324 1370,1355"/>
+        <TextEquiv>
+          <Unicode>Kraft des Glaubens. Der Glaube iſt das Demüthigſte und das Muthigſte,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e56fcaf" >
+        <Coords points="21,1376 21,1326 1368,1368 1368,1411 1366,1420 1307,1431 1307,1431 1305,1431 1305,1431 1305,1431 1303,1431 1303,1431 1303,1431 1279,1418 609,1413 609,1413 106,1400 106,1400 17,1385"/>
+        <Baseline points="21,1376 1368,1411"/>
+        <TextEquiv>
+          <Unicode>was es giebt: demüthig, weil er Inhalt und Kraft von Gott nimmt, muthig,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c55760d1" >
+        <Coords points="21,1431 21,1381 1366,1411 1370,1455 1366,1474 17,1444"/>
+        <Baseline points="21,1431 1109,1459 1370,1455"/>
+        <TextEquiv>
+          <Unicode>weil er in Gott und um Gottes willen wirklich Alles, auch die Berge des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1574b95a" >
+        <Coords points="17,1487 17,1442 1074,1463 1074,1511 1070,1522 13,1498"/>
+        <Baseline points="17,1487 1074,1511"/>
+        <TextEquiv>
+          <Unicode>größten und feindſeligſten Widerſtandes, zu verſetzen vermag.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_441f9834" >
+        <Coords points="87,1546 87,1494 1370,1522 1372,1568 1368,1579 82,1557"/>
+        <Baseline points="87,1546 1372,1568"/>
+        <TextEquiv>
+          <Unicode>Daher iſt es die erſte Aufgabe der deutſchen evangeliſchen Kirche, den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_679e55b4" >
+        <Coords points="23,1594 23,1542 1074,1565 1074,1616 1070,1629 19,1607"/>
+        <Baseline points="23,1594 1074,1616"/>
+        <TextEquiv>
+          <Unicode>Glauben zu pflanzen, zu pflegen, zu ſchirmen, zu erhalten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f94bf76c" >
+        <Coords points="84,1652 84,1600 1368,1626 1368,1674 1364,1685 80,1668"/>
+        <Baseline points="84,1652 1368,1674"/>
+        <TextEquiv>
+          <Unicode>Dieſe Aufgabe iſt in der Gegenwart eine beſonders dringende geworden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d71f138" >
+        <Coords points="19,1696 19,1652 1364,1679 1366,1724 1362,1735 17,1718"/>
+        <Baseline points="19,1696 243,1711 1366,1724"/>
+        <TextEquiv>
+          <Unicode>Das Glauben fällt unſerm Fleiſche und Blute an und für ſich ſehr ſchwer.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1b13473" >
+        <Coords points="21,1748 21,1705 1368,1733 1368,1779 1364,1792 19,1770"/>
+        <Baseline points="21,1748 293,1766 1368,1779"/>
+        <TextEquiv>
+          <Unicode>Der ſinnliche Menſch iſt mit tauſend Banden an die Sinnenwelt gekettet; was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d9ad5f41" >
+        <Coords points="19,1800 19,1759 1368,1776 1368,1829 1364,1850 17,1824"/>
+        <Baseline points="20,1803 330,1820 1370,1831"/>
+        <TextEquiv>
+          <Unicode>er nicht ſehen, hören, riechen, ſchmecken, fühlen kann: das iſt für ihn nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_52599a98" >
+        <Coords points="23,1853 23,1813 372,1831 1368,1837 1368,1885 1364,1896 372,1892 372,1892 19,1874"/>
+        <Baseline points="23,1853 108,1868 261,1872 1368,1885"/>
+        <TextEquiv>
+          <Unicode>da. Der Widerſtand, den das Chriſtenthum, und deſſen jüngſte und edelſte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f9f76a1" >
+        <Coords points="23,1907 23,1866 126,1877 200,1868 208,1868 208,1868 211,1868 211,1868 211,1868 217,1868 269,1879 372,1872 400,1870 402,1870 402,1870 402,1870 415,1872 454,1881 809,1881 1179,1879 1181,1879 1181,1879 1183,1879 1183,1879 1183,1879 1185,1879 1196,1887 1203,1892 1368,1892 1368,1935 1364,1946 19,1931"/>
+        <Baseline points="23,1907 289,1927 1368,1935"/>
+        <TextEquiv>
+          <Unicode>deutſche Tochter, der Proteſtantismus, fand, ſteht mit der auf das Irdiſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_05e1b01f" >
+        <Coords points="21,1961 21,1920 1364,1946 1366,1990 1362,2005 202,1998 202,1998 202,1998 200,1998 200,1998 200,1998 198,1998 198,1998 198,1996 195,1996 189,1987 189,1985 19,1983"/>
+        <Baseline points="21,1961 337,1981 1366,1990"/>
+        <TextEquiv>
+          <Unicode>gerichteten Grundneigung des menſchlichen Herzens in engſtem Zuſammenhange.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4277ac27" >
+        <Coords points="23,2014 23,1972 215,1985 300,1977 313,1977 313,1977 315,1977 315,1977 326,1977 382,1987 796,1987 1194,1987 1196,1987 1366,2000 1368,2044 1364,2064 21,2035"/>
+        <Baseline points="23,2014 265,2033 1368,2044"/>
+        <TextEquiv>
+          <Unicode>Die Religion iſt eine Blüthe der unſichtbaren Welt. Das Gewiſſen, ihre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ff4c0710" >
+        <Coords points="13,2055 13,2027 1366,2055 1366,2098 1362,2114 8,2092"/>
+        <Baseline points="14,2057 170,2087 1368,2101"/>
+        <TextEquiv>
+          <Unicode>verborgene Lebenswurzel, entzieht ſich der finnlichen Wahrnehmung, und der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47c94c60" >
+        <Coords points="17,2118 17,2077 215,2092 626,2090 715,2090 718,2090 744,2092 818,2101 850,2094 876,2090 879,2090 881,2090 883,2090 883,2092 887,2096 894,2103 1000,2103 1009,2098 1018,2092 1020,2092 1022,2092 1024,2092 1059,2098 1087,2105 1135,2101 1214,2094 1216,2094 1364,2107 1366,2151 1362,2166 15,2144"/>
+        <Baseline points="19,2120 241,2140 1368,2153"/>
+        <TextEquiv>
+          <Unicode>rohe Genuſſesſinn wagt es darum auch, daſſelbe zu läugnen. Der Glaube</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e25dd30d" >
+        <Coords points="15,2157 21,2129 106,2131 108,2131 110,2131 110,2133 124,2144 537,2142 539,2142 541,2142 543,2142 561,2155 1366,2155 1366,2207 1364,2218 1268,2229 1266,2229 10,2194"/>
+        <Baseline points="17,2159 56,2179 410,2195 1368,2209"/>
+        <TextEquiv>
+          <Unicode>iſt „eine gewiſſe Zuverſicht deſſen, was man hoffet und ein Nicht⸗Zweifeln an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5444ef8f" >
+        <Coords points="15,2222 15,2183 685,2205 768,2196 770,2196 772,2196 774,2196 809,2207 879,2198 881,2198 883,2198 922,2209 1135,2203 1142,2203 1144,2203 1148,2203 1268,2216 1364,2207 1366,2262 1364,2272 1270,2283 1268,2283 1266,2283 1227,2272 796,2275 794,2275 10,2248"/>
+        <Baseline points="16,2225 304,2248 1368,2262"/>
+        <TextEquiv>
+          <Unicode>dem, was man nicht ſiehet“ (Hebr. 11, 1.). Das Ewige, Göttliche, die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63c0aceb" >
+        <Coords points="15,2279 15,2240 1359,2270 1362,2312 1359,2322 1283,2335 1281,2335 1079,2320 1077,2320 1074,2320 659,2327 657,2327 10,2303"/>
+        <Baseline points="16,2281 324,2303 1364,2314"/>
+        <TextEquiv>
+          <Unicode>Kräfte des h. Geiſtes, ſind idealer Natur, der Glaube iſt das ideale Ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d813513a" >
+        <Coords points="10,2327 10,2290 824,2316 1357,2316 1359,2372 1355,2388 180,2370 6,2353"/>
+        <Baseline points="11,2328 82,2344 289,2355 1362,2375"/>
+        <TextEquiv>
+          <Unicode>mögen des Menſchen, von welchem der an die triviale Wirklichkeit der Dinge,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ebd3e999" >
+        <Coords points="10,2379 10,2344 124,2359 141,2346 143,2346 145,2346 147,2346 150,2346 152,2346 176,2359 489,2366 726,2364 983,2359 985,2359 987,2359 1011,2370 1022,2375 1029,2370 1050,2362 1053,2362 1055,2362 1111,2372 1131,2377 1157,2375 1244,2366 1246,2366 1357,2381 1359,2422 1357,2449 1277,2459 1275,2459 1272,2459 1246,2446 1229,2440 1142,2440 1133,2444 1127,2451 1124,2451 1122,2451 1120,2451 1118,2451 1116,2451 1116,2449 1109,2444 1103,2438 1055,2438 1035,2442 990,2455 987,2455 985,2455 983,2455 953,2440 942,2436 870,2436 844,2438 744,2451 741,2451 739,2451 694,2436 681,2431 667,2433 613,2446 611,2446 609,2446 565,2431 563,2431 541,2446 539,2446 537,2446 535,2446 426,2433 132,2440 130,2440 128,2440 91,2420 89,2420 8,2420"/>
+        <Baseline points="13,2381 102,2399 324,2409 1362,2425"/>
+        <TextEquiv>
+          <Unicode>die im Grunde doch nur Schein iſt, hingegebene Menſch keinen Begriff hat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

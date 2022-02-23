@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00014.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.081777+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.081792+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="13_778a6_default.jpg" imageWidth="1501" imageHeight="2610">
+    <TextRegion id="eSc_textblock_a0d535ae"  >
+      <Coords points="787,93 730,102 730,52 778,52 787,93"/>
+      <TextLine id="eSc_line_799fb1dc" >
+        <Coords points="728,93 724,50 774,43 780,89 778,106 726,104"/>
+        <Baseline points="728,93 780,89"/>
+        <TextEquiv>
+          <Unicode>12</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_06a06bd5"  >
+      <Coords points="1422,2407 52,2390 78,156 1440,174 1422,2407"/>
+      <TextLine id="eSc_line_8825dfc9" >
+        <Coords points="71,191 71,147 1437,165 1437,208 1433,221 67,204"/>
+        <Baseline points="71,191 1437,208"/>
+        <TextEquiv>
+          <Unicode>Einrichtungen der römiſchen Kirche, an das Walten des h. Geiſtes in dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a73d6f6c" >
+        <Coords points="73,245 73,193 1433,217 1435,261 1431,274 71,258"/>
+        <Baseline points="73,245 1435,261"/>
+        <TextEquiv>
+          <Unicode>Prieſterthum? Man macht die kirchlichen Ceremonien mit; ſie ſind öffentliche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4e97605" >
+        <Coords points="71,300 71,256 1429,267 1431,317 1427,334 69,311"/>
+        <Baseline points="71,300 1431,317"/>
+        <TextEquiv>
+          <Unicode>Schauſpiele und bringen einen angenehmen Wechſel in das Einerlei des täg⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_260d1ac7" >
+        <Coords points="69,352 69,308 1431,324 1433,367 1429,382 67,365"/>
+        <Baseline points="69,352 1433,367"/>
+        <TextEquiv>
+          <Unicode>lichen Lebens. Man unterhält ſich dabei, man ſcherzt und lacht, man ſtreut</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d080f65e" >
+        <Coords points="69,406 69,363 1431,378 1433,421 1429,439 65,421"/>
+        <Baseline points="69,406 1433,421"/>
+        <TextEquiv>
+          <Unicode>Marien⸗ und anderen Heiligenbildern Blumen, man lauſcht willig den Klängen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4793a70" >
+        <Coords points="67,456 67,406 1429,432 1431,476 1427,489 63,469"/>
+        <Baseline points="67,456 1431,476"/>
+        <TextEquiv>
+          <Unicode>der, oft in den weltlichſten Weiſen erklingenden, ſelbſt den Straußſchen Walzer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d75520d0" >
+        <Coords points="67,511 67,467 1433,485 1433,528 1429,550 63,526"/>
+        <Baseline points="67,511 1433,528"/>
+        <TextEquiv>
+          <Unicode>nicht verſchmähenden, Muſik. Aber wo ſind unter den gebildeten Ständen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bef4df4d" >
+        <Coords points="67,565 67,522 1429,539 1431,582 1427,602 65,576"/>
+        <Baseline points="67,565 1431,582"/>
+        <TextEquiv>
+          <Unicode>von Paris oder Rom die religiös geſalbten Charaktere, die tief gläubigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac77d524" >
+        <Coords points="67,617 67,574 1424,593 1427,637 1422,656 63,632"/>
+        <Baseline points="67,617 1427,637"/>
+        <TextEquiv>
+          <Unicode>Geiſter, denen die Kirche mehr als ein kunſtvoller Apparat zur Beherrſchung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02a959d5" >
+        <Coords points="65,672 65,626 1185,637 1187,687 1183,704 60,682"/>
+        <Baseline points="65,672 1187,687"/>
+        <TextEquiv>
+          <Unicode>der Seelen, denen ſie wirklich das Reich Gottes auf Erden iſt?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_283c5c5b" >
+        <Coords points="150,726 150,680 1429,698 1429,743 1424,756 145,739"/>
+        <Baseline points="150,726 1429,743"/>
+        <TextEquiv>
+          <Unicode>In dieſem Augenblicke ſind weder die ſlaviſchen noch die romaniſchen Völker</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_711bb09f" >
+        <Coords points="63,778 63,730 1424,748 1424,802 1420,813 60,787"/>
+        <Baseline points="63,778 1424,802"/>
+        <TextEquiv>
+          <Unicode>die Träger einer lebens⸗ und zukunftsvollen kirchlichen Bewegung,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bcc8cf50" >
+        <Coords points="63,830 63,787 1429,809 1429,852 1424,874 58,843"/>
+        <Baseline points="63,830 1429,852"/>
+        <TextEquiv>
+          <Unicode>einer neuen die Menſchheit erfriſchenden Auffaſſung und Geſtaltung der ewigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c48a39c" >
+        <Coords points="63,885 63,843 1427,859 1429,902 1424,917 58,900"/>
+        <Baseline points="63,885 1429,902"/>
+        <TextEquiv>
+          <Unicode>chriſtlichen Gedanken. Zwar regt ſich&#39;s in den Schneefeldern Rußlands, wie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01f26b73" >
+        <Coords points="63,939 63,891 1422,913 1424,959 1420,972 58,952"/>
+        <Baseline points="63,939 1424,959"/>
+        <TextEquiv>
+          <Unicode>unter den Orangebäumen Italiens und in mancher ſtillen Hütte Frankreichs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d3fcef3a" >
+        <Coords points="63,991 63,948 1422,965 1424,1011 1420,1028 58,1004"/>
+        <Baseline points="63,991 1424,1011"/>
+        <TextEquiv>
+          <Unicode>Eine große chriſtliche Idee geht gegenwärtig in Rußland der Verwirklichung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f7e6870" >
+        <Coords points="63,1046 63,998 1420,1017 1422,1061 1418,1085 58,1061"/>
+        <Baseline points="63,1046 1422,1061"/>
+        <TextEquiv>
+          <Unicode>entgegen. „Hier iſt kein Jude noch Grieche, hier iſt kein Knecht noch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29c75b2e" >
+        <Coords points="60,1100 60,1057 1422,1074 1424,1117 1420,1135 56,1115"/>
+        <Baseline points="60,1100 1424,1117"/>
+        <TextEquiv>
+          <Unicode>Freier, hier iſt kein Mann noch Weib; denn ihr ſeid allzumal Einer in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_479137ad" >
+        <Coords points="60,1152 60,1111 1420,1126 1422,1170 1418,1194 56,1174"/>
+        <Baseline points="60,1152 1422,1170"/>
+        <TextEquiv>
+          <Unicode>Chriſto Jeſu.“ Der Weg der evangeliſchen Freiheit iſt ein langſamer, aber</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea626cf0" >
+        <Coords points="58,1204 58,1161 1420,1181 1422,1220 1418,1244 54,1226"/>
+        <Baseline points="58,1204 1422,1220"/>
+        <TextEquiv>
+          <Unicode>ſicherer. Daß endlich unter dem milden Scepter eines von edlen Humanitäts⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e23699e1" >
+        <Coords points="58,1261 58,1213 1424,1233 1424,1276 1420,1298 56,1274"/>
+        <Baseline points="58,1261 1424,1276"/>
+        <TextEquiv>
+          <Unicode>Ideen erfüllten Kaiſers das Joch der Leibeigenſchaft fällt, daß die perſönliche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7523a17f" >
+        <Coords points="56,1311 56,1270 1416,1285 1418,1326 1413,1350 52,1326"/>
+        <Baseline points="56,1311 1418,1326"/>
+        <TextEquiv>
+          <Unicode>Freiheit, die Wurzel aller Sittlichkeit, in Rußland Gemeingut werden ſoll:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d86b711" >
+        <Coords points="56,1363 56,1313 1416,1339 1418,1383 1413,1398 526,1396 526,1396 365,1383 358,1383 354,1383 213,1392 211,1392 211,1392 211,1392 208,1392 208,1392 206,1392 206,1392 193,1381 145,1389 145,1389 145,1389 143,1389 143,1389 52,1376"/>
+        <Baseline points="56,1363 1418,1383"/>
+        <TextEquiv>
+          <Unicode>das iſt nicht nur eine Thatſache von unberechenbarer politiſcher Tragweite,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_edd1c6a7" >
+        <Coords points="56,1415 56,1368 1422,1394 1422,1433 1418,1459 52,1433"/>
+        <Baseline points="56,1415 1422,1433"/>
+        <TextEquiv>
+          <Unicode>das iſt auch ein Vorgang von außerordentlicher religiöſer Bedeutung. Die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8221d1dc" >
+        <Coords points="56,1470 56,1431 1418,1448 1420,1487 1416,1513 52,1485"/>
+        <Baseline points="56,1470 1420,1487"/>
+        <TextEquiv>
+          <Unicode>Erſtarrung der griechiſchen Kirche iſt nur eine Folge der gefeſſelten Volkskraft.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_760bd5a2" >
+        <Coords points="56,1522 56,1481 1422,1502 1422,1542 1418,1559 52,1546"/>
+        <Baseline points="56,1522 1422,1542"/>
+        <TextEquiv>
+          <Unicode>Kommt einmal geiſtige Bewegung in die dumpfen Maſſen, zünden die Funken</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9eb2913a" >
+        <Coords points="56,1574 56,1531 1420,1555 1422,1594 1418,1618 52,1592"/>
+        <Baseline points="56,1574 1422,1594"/>
+        <TextEquiv>
+          <Unicode>der Bildung in den verdüſterten Köpfen, dann wird es auch lichter in den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_403b3f16" >
+        <Coords points="56,1626 56,1579 1416,1600 1418,1648 1413,1672 52,1652"/>
+        <Baseline points="56,1626 1418,1648"/>
+        <TextEquiv>
+          <Unicode>Tempeln werden, und das Feuer einer höheren chriſtlichen Erkenntniß wird auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2cd82b25" >
+        <Coords points="56,1681 56,1642 1416,1666 1416,1705 1411,1726 52,1694"/>
+        <Baseline points="56,1681 1416,1705"/>
+        <TextEquiv>
+          <Unicode>auf den Altären der Kirche erglühen. Aber wie lange wird es noch dauern,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31c3e95d" >
+        <Coords points="54,1735 54,1685 1411,1713 1413,1757 1409,1779 50,1748"/>
+        <Baseline points="54,1735 1413,1757"/>
+        <TextEquiv>
+          <Unicode>bis es hell wird? Und welche Wolken können ſich noch vor den Sonnenaufgang</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1cb867c7" >
+        <Coords points="54,1787 54,1746 970,1755 972,1796 968,1818 50,1805"/>
+        <Baseline points="54,1787 972,1796"/>
+        <TextEquiv>
+          <Unicode>thürmen, welche Stürme das junge Licht ausblaſen?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_68fe6085" >
+        <Coords points="141,1844 141,1800 1418,1818 1418,1861 1413,1883 137,1859"/>
+        <Baseline points="141,1844 1418,1861"/>
+        <TextEquiv>
+          <Unicode>Auch in Italien regt ſich&#39;s. Die Glockentöne der neuerbauten prote⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f816a2c" >
+        <Coords points="54,1896 54,1850 1420,1874 1420,1916 1416,1933 50,1911"/>
+        <Baseline points="54,1896 1420,1916"/>
+        <TextEquiv>
+          <Unicode>ſtantiſchen Kirche zu Turin ſind Morgenlkänge einer beſſern Zukunft. Ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b91f2a0" >
+        <Coords points="54,1950 54,1900 1418,1927 1418,1970 1413,1992 50,1964"/>
+        <Baseline points="54,1950 1418,1970"/>
+        <TextEquiv>
+          <Unicode>Mann wie Dr. de Sanktis iſt zwar für einmal noch ein einſamer Prophet,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1761b173" >
+        <Coords points="54,2005 54,1955 1418,1981 1420,2022 1416,2037 50,2020"/>
+        <Baseline points="54,2005 1420,2022"/>
+        <TextEquiv>
+          <Unicode>der uns aber künftige Entwicklungen des evangeliſchen Geiſtes in Italien ahnen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e1183a79" >
+        <Coords points="54,2059 54,2018 1418,2033 1420,2074 1416,2096 50,2081"/>
+        <Baseline points="54,2059 1420,2074"/>
+        <TextEquiv>
+          <Unicode>und hoffen läßt, wie ſie ſchon vor dreihundert Jahren ſich angekündigt hatten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ec12194" >
+        <Coords points="52,2114 52,2070 1418,2085 1420,2133 1416,2148 47,2129"/>
+        <Baseline points="52,2114 959,2120 1420,2133"/>
+        <TextEquiv>
+          <Unicode>und dann mit eiſernem Fuße wieder zertreten worden waren. Ein Augenzeuge</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ccfc450" >
+        <Coords points="52,2166 52,2118 1416,2144 1416,2185 1411,2209 47,2181"/>
+        <Baseline points="52,2166 1416,2185"/>
+        <TextEquiv>
+          <Unicode>hat mir erzählt, wie an dem Tage, an welchem in Florenz die neue Regierung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5ae9e95" >
+        <Coords points="52,2222 52,2170 1418,2194 1420,2238 1416,2255 47,2240"/>
+        <Baseline points="52,2222 1420,2238"/>
+        <TextEquiv>
+          <Unicode>ſich conſtituirte, die Kerker der wegen religiöſer Ueberzeugungen Verfolgten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8374648a" >
+        <Coords points="52,2275 52,2233 1418,2244 1418,2292 1413,2312 47,2292"/>
+        <Baseline points="52,2275 1418,2292"/>
+        <TextEquiv>
+          <Unicode>ſich öffneten, wie Gatten und Gattinnen ſich vor Freude zitternd auf offener</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_57623a94" >
+        <Coords points="52,2327 50,2288 348,2279 350,2279 350,2279 352,2279 352,2279 380,2290 950,2288 952,2288 1416,2307 1416,2346 1411,2370 47,2351"/>
+        <Baseline points="52,2327 1416,2346"/>
+        <TextEquiv>
+          <Unicode>Straße in die Arme ſanken, wie verlaſſene Kinder ihren Eltern entgegen⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ef38ca1" >
+        <Coords points="50,2383 50,2342 1418,2359 1420,2401 1416,2444 1218,2433 1122,2440 1078,2442 1076,2442 1076,2442 1076,2442 1074,2442 1074,2442 1074,2442 1068,2438 1046,2427 1026,2438 1026,2438 1026,2438 1026,2438 1024,2438 1024,2438 1022,2438 1022,2438 1022,2438 1020,2438 1020,2438 1020,2438 1020,2438 1018,2438 1018,2436 1000,2422 944,2436 924,2440 924,2440 924,2440 922,2440 922,2440 922,2440 920,2440 907,2436 885,2429 846,2433 817,2438 817,2438 815,2438 815,2438 815,2438 813,2438 813,2438 811,2438 811,2438 807,2433 787,2420 713,2429 713,2429 711,2429 711,2429 617,2418 585,2429 585,2429 585,2429 582,2429 582,2429 580,2429 580,2429 580,2429 578,2429 578,2429 578,2429 578,2429 576,2429 556,2416 495,2416 452,2427 428,2433 426,2433 426,2433 424,2433 424,2433 424,2433 422,2433 422,2433 402,2427 371,2414 47,2418"/>
+        <Baseline points="50,2383 1420,2401"/>
+        <TextEquiv>
+          <Unicode>jauchzten. Daß hin und wieder in Italien einzelne Seelen nach dem Worte</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

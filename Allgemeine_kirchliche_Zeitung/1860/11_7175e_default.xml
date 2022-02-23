@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00012.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.059180+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.059195+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="11_7175e_default.jpg" imageWidth="1501" imageHeight="2610">
+    <TextRegion id="eSc_textblock_cbf5fb5a"  >
+      <Coords points="696,102 739,43 787,43 815,87 900,102 696,102"/>
+      <TextLine id="eSc_line_5b3cd62e" >
+        <Coords points="739,84 739,34 789,41 789,84 789,102 739,102"/>
+        <Baseline points="739,84 789,84"/>
+        <TextEquiv>
+          <Unicode>10</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d314e3b2"  >
+      <Coords points="87,156 1440,165 1440,641 87,685 87,156"/>
+      <TextLine id="eSc_line_fb042929" >
+        <Coords points="78,193 78,145 1442,154 1442,202 1437,215 76,204"/>
+        <Baseline points="78,193 1442,202"/>
+        <TextEquiv>
+          <Unicode>wicklung es fordert. Die Zeichen der Zeit deuten auf einen allgemeinen Rück⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3a0ae02" >
+        <Coords points="78,247 78,200 1431,208 1440,256 1435,267 76,261"/>
+        <Baseline points="78,247 1440,256"/>
+        <TextEquiv>
+          <Unicode>gang in religiöſe Veräußerlichung und geſetzliches Formenweſen. Und doch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dba88c39" >
+        <Coords points="76,300 76,243 1437,261 1437,308 1433,324 73,308"/>
+        <Baseline points="76,300 1437,308"/>
+        <TextEquiv>
+          <Unicode>bedürfen wir ſo dringend größerer religiöſer Verinnerlichung, kräf⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80749626" >
+        <Coords points="76,352 76,306 1437,308 1437,363 1433,378 71,369"/>
+        <Baseline points="76,352 1437,363"/>
+        <TextEquiv>
+          <Unicode>tigerer geiſtiger Befreiung zur Erfüllung unſeres Chriſtenberufes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d876929" >
+        <Coords points="76,406 76,361 1433,374 1440,417 1435,432 73,415"/>
+        <Baseline points="76,406 1440,417"/>
+        <TextEquiv>
+          <Unicode>als ächte Proteſtanten. Daß die Aufgabe der deutſchen evangeliſchen Kirche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_93caf40f" >
+        <Coords points="76,461 76,413 1431,424 1435,471 1431,478 73,474"/>
+        <Baseline points="76,461 1435,471"/>
+        <TextEquiv>
+          <Unicode>gegenwärtig vor Allem nach innen geht, das werden uns die folgenden Be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71e87498" >
+        <Coords points="76,511 76,463 1431,476 1435,524 1431,539 73,524"/>
+        <Baseline points="76,511 1435,524"/>
+        <TextEquiv>
+          <Unicode>trachtungen lehren. Wir werfen aber zu dieſem Zweck vorerſt einen Blick nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f246b9c" >
+        <Coords points="73,565 73,519 1437,530 1437,576 1433,587 71,574"/>
+        <Baseline points="73,565 1437,576"/>
+        <TextEquiv>
+          <Unicode>Oſten und nach Weſten, wo der griechiſche und der römiſche Katholicismus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f13c6c47" >
+        <Coords points="76,615 76,569 1431,582 1435,628 1431,641 71,630"/>
+        <Baseline points="76,615 1435,628"/>
+        <TextEquiv>
+          <Unicode>ſich ſcharf und beſtimmt gegen den deutſchen Proteſtantismus abgrenzt und die⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8ee96c6d" >
+        <Coords points="76,669 76,622 343,622 343,622 343,622 345,622 345,622 345,622 363,630 411,654 735,643 743,674 739,693 71,689"/>
+        <Baseline points="76,669 743,674"/>
+        <TextEquiv>
+          <Unicode>ſem dadurch ſeine Aufgabe vorzeichnet.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ef38434b"  >
+      <Coords points="1440,869 1413,2416 60,2390 69,896 147,867 174,782 728,782 739,730 807,791 1335,800 1372,852 1440,869"/>
+      <TextLine id="eSc_line_4fbae37a" >
+        <Coords points="730,765 730,737 774,741 774,765 774,778 730,778"/>
+        <Baseline points="730,765 774,765"/>
+        <TextEquiv>
+          <Unicode>2.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd65589e" >
+        <Coords points="167,824 167,776 1331,791 1337,839 1333,859 163,841"/>
+        <Baseline points="167,824 1337,839"/>
+        <TextEquiv>
+          <Unicode>Zur Charakteriſtik des griechiſchen und romaniſchen Kirchenthums.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b5fac62" >
+        <Coords points="154,885 154,833 1429,850 1435,904 1431,911 150,893"/>
+        <Baseline points="154,885 1435,904"/>
+        <TextEquiv>
+          <Unicode>Die drei großen europäiſchen Völkergruppen, die Romanen, Slaven</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62e9e6ea" >
+        <Coords points="69,939 69,889 1431,904 1433,956 1429,967 67,948"/>
+        <Baseline points="69,939 1433,956"/>
+        <TextEquiv>
+          <Unicode>und Germanen, unterſcheiden ſich insbeſondere auch durch ihre eigenthümliche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cca770ef" >
+        <Coords points="69,991 69,935 1431,959 1433,1009 1429,1022 65,1007"/>
+        <Baseline points="69,991 1433,1009"/>
+        <TextEquiv>
+          <Unicode>religiöſe Beſtimmtheit. Unter den romaniſchen Völkern hat ſich vorzugsweiſe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c9a1dd3" >
+        <Coords points="69,1046 69,996 1427,1011 1429,1063 1424,1074 67,1052"/>
+        <Baseline points="69,1046 1429,1063"/>
+        <TextEquiv>
+          <Unicode>der Katholicismus in ſeiner Machtſtellung und ſeinem Glanze behauptet;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dac9e2fe" >
+        <Coords points="69,1098 69,1050 1429,1059 1431,1115 1427,1124 67,1107"/>
+        <Baseline points="69,1098 1431,1115"/>
+        <TextEquiv>
+          <Unicode>unter den Slaven hat ſich das griechiſche Kirchenthum überwiegend</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29a2813f" >
+        <Coords points="67,1157 67,1107 1427,1120 1427,1170 1422,1181 65,1163"/>
+        <Baseline points="67,1157 1427,1170"/>
+        <TextEquiv>
+          <Unicode>feſtgeſetzt; die Deutſchen haben die Fahne des Proteſtantismus erhoben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08566fdd" >
+        <Coords points="67,1207 67,1159 1255,1165 1255,1165 1255,1165 1257,1165 1259,1165 1298,1176 1427,1167 1431,1226 1427,1241 65,1213"/>
+        <Baseline points="67,1207 1431,1226"/>
+        <TextEquiv>
+          <Unicode>Wer möchte beſtreiten, daß dieſe eigenthümliche verſchiedenartige Stellung der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fe961c4e" >
+        <Coords points="65,1259 65,1204 1431,1228 1431,1278 1427,1289 60,1272"/>
+        <Baseline points="65,1259 1431,1278"/>
+        <TextEquiv>
+          <Unicode>drei Stämme zu dem Chriſtenthume auf einer tieferen Verſchiedenheit ihres</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_281ea0eb" >
+        <Coords points="65,1311 65,1263 1429,1283 1429,1331 1424,1346 63,1320"/>
+        <Baseline points="65,1311 1429,1331"/>
+        <TextEquiv>
+          <Unicode>nationalen Grundcharacters beruht? Innerhalb der ſlaviſchen Völkerſchaften</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_473568c9" >
+        <Coords points="65,1363 65,1315 1429,1328 1431,1383 1427,1392 60,1381"/>
+        <Baseline points="65,1363 1431,1383"/>
+        <TextEquiv>
+          <Unicode>hat der Proteſtantismus nur geringe Fortſchritte gemacht, obwohl die natürliche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31bce643" >
+        <Coords points="65,1415 65,1368 1427,1387 1427,1437 1422,1455 63,1424"/>
+        <Baseline points="65,1415 1427,1437"/>
+        <TextEquiv>
+          <Unicode>Lebhaftigkeit ihrer geiſtigen Befähigung ſie für die reformatoriſche Bewegung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34875bb4" >
+        <Coords points="65,1470 65,1418 1427,1444 1429,1492 1424,1500 60,1485"/>
+        <Baseline points="65,1470 1429,1492"/>
+        <TextEquiv>
+          <Unicode>urſprünglich günſtig geſtimmt hatte. Aber im Ganzen ſind ſie doch auf einer unent⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_923ff084" >
+        <Coords points="63,1522 63,1470 1424,1498 1427,1546 1422,1563 58,1539"/>
+        <Baseline points="63,1522 1427,1546"/>
+        <TextEquiv>
+          <Unicode>wickelten religiöſen Stufe ſtehen geblieben; die Religion iſt ihnen ein äußeres Zucht⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42d9af02" >
+        <Coords points="65,1576 65,1526 1429,1550 1429,1600 1424,1607 63,1583"/>
+        <Baseline points="65,1576 1429,1600"/>
+        <TextEquiv>
+          <Unicode>mittel, mit höchſtens erzieheriſcher Wirkung auf Chriſtum hin. Von religiöſer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45dee787" >
+        <Coords points="65,1629 65,1570 1424,1602 1427,1652 1422,1663 63,1637"/>
+        <Baseline points="65,1629 1427,1652"/>
+        <TextEquiv>
+          <Unicode>Innerlichkeit und wiſſenſchaftlicher Vertiefung iſt wenig bei ihnen zu finden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_38917a58" >
+        <Coords points="63,1681 63,1635 1424,1652 1424,1707 1420,1720 60,1687"/>
+        <Baseline points="63,1681 1424,1707"/>
+        <TextEquiv>
+          <Unicode>Der ſtark ſinnliche Grundzug, welcher der ſlaviſchen Nationalität eigen iſt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c9789ef" >
+        <Coords points="63,1735 63,1687 830,1698 835,1698 878,1689 878,1689 878,1689 881,1689 881,1689 881,1689 928,1700 935,1703 1424,1709 1427,1757 1422,1766 60,1744"/>
+        <Baseline points="63,1735 1427,1757"/>
+        <TextEquiv>
+          <Unicode>offenbart ſich beſonders auch auf religiöſem Gebiete. Der griechiſche Gottes⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dee9537a" >
+        <Coords points="63,1790 63,1742 1427,1761 1427,1809 1422,1818 60,1796"/>
+        <Baseline points="63,1790 1427,1809"/>
+        <TextEquiv>
+          <Unicode>dienſt hat eine faſt materialiſtiſche Färbung. Bilder, Ceremonien, dramatiſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_81608099" >
+        <Coords points="65,1844 65,1794 1422,1816 1424,1863 1420,1879 63,1850"/>
+        <Baseline points="65,1844 1424,1863"/>
+        <TextEquiv>
+          <Unicode>Aufführungen, ſinnbildliche Darſtellungen verſchiedenſter Art wechſeln in dem⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45f4ef66" >
+        <Coords points="63,1896 63,1844 1427,1868 1427,1918 1422,1929 58,1909"/>
+        <Baseline points="63,1896 1427,1918"/>
+        <TextEquiv>
+          <Unicode>ſelben; das lebendige, aus dem Gewiſſen und Herzen quellende Wort, fehlt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b6cefe28" >
+        <Coords points="65,1950 65,1900 1422,1916 1424,1972 1420,1979 60,1961"/>
+        <Baseline points="65,1950 1424,1972"/>
+        <TextEquiv>
+          <Unicode>faſt gänzlich; von religiöſem Volksunterrichte kaum die Rede; dumpfer Still⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_646c9865" >
+        <Coords points="63,2003 63,1955 693,1955 693,1955 693,1955 696,1955 696,1955 696,1955 698,1955 698,1955 698,1957 700,1957 706,1966 706,1966 737,1966 937,1959 939,1959 1427,1979 1427,2029 1422,2033 58,2016"/>
+        <Baseline points="63,2003 841,2011 1427,2029"/>
+        <TextEquiv>
+          <Unicode>ſtand in Lehre, Cultus, Verfaſſung; eine Geiſtlichkeit, welcher es an allen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9979ce0c" >
+        <Coords points="60,2057 60,2007 1424,2029 1427,2079 1422,2092 58,2064"/>
+        <Baseline points="60,2057 1427,2079"/>
+        <TextEquiv>
+          <Unicode>Bedingungen geiſtlicher Würde und geiſtiger Strebſamkeit mangelt. Man kann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_23930856" >
+        <Coords points="63,2111 63,2061 1422,2083 1424,2133 1420,2151 58,2122"/>
+        <Baseline points="63,2111 1424,2133"/>
+        <TextEquiv>
+          <Unicode>ſagen, das Chriſtenthum iſt unter den ſlaviſchen Völkerſchaften größtentheils</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2358750d" >
+        <Coords points="60,2164 60,2116 345,2122 345,2168 341,2179 56,2177"/>
+        <Baseline points="60,2164 345,2168"/>
+        <TextEquiv>
+          <Unicode>kryſtalliſirt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1bb69562" >
+        <Coords points="147,2220 147,2168 872,2168 872,2168 872,2168 874,2168 874,2168 874,2168 896,2179 898,2179 909,2179 1000,2170 1002,2170 1427,2188 1427,2240 1422,2255 143,2231"/>
+        <Baseline points="147,2220 1427,2240"/>
+        <TextEquiv>
+          <Unicode>Innerhalb des romaniſchen Völkergebietes hat die chriſtliche Kirche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a776cb16" >
+        <Coords points="63,2272 63,2225 746,2225 746,2225 1427,2246 1427,2294 1422,2301 60,2279"/>
+        <Baseline points="63,2272 1427,2294"/>
+        <TextEquiv>
+          <Unicode>niemals alle Bewegungskraft verloren. Aber zur vollen Anerkennung der per⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c20cf059" >
+        <Coords points="63,2329 63,2277 1427,2305 1427,2349 1422,2355 58,2344"/>
+        <Baseline points="63,2329 1427,2349"/>
+        <TextEquiv>
+          <Unicode>ſönlichen Freiheit und ſittlichen Selbſtverantwortlichkeit ihrer Mitglieder iſt ſie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4dd89bbf" >
+        <Coords points="63,2381 63,2335 1011,2338 1011,2338 1424,2357 1424,2403 1420,2438 1289,2427 1196,2433 1155,2436 1152,2436 1152,2436 1152,2436 1150,2436 1150,2436 1150,2436 1148,2436 1144,2431 1120,2416 1007,2416 950,2427 928,2431 928,2431 928,2431 926,2431 926,2431 926,2431 924,2431 909,2427 872,2414 654,2420 504,2425 502,2425 58,2405"/>
+        <Baseline points="63,2381 1424,2403"/>
+        <TextEquiv>
+          <Unicode>auch hier nicht hindurchgedrungen. Er iſt ein wunderbarer Bau — dieſer</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_63470763"  >
+      <Coords points="643,95 667,95 667,102 643,102 643,95"/>
+    </TextRegion>
+  </Page>
+</PcGts>

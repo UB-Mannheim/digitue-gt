@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00026.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.226230+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.226245+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="25_c368f_default.jpg" imageWidth="1502" imageHeight="2610">
+    <TextRegion id="eSc_textblock_2cfb2f0d"  >
+      <Coords points="748,93 781,34 840,34 857,93"/>
+      <TextLine id="eSc_line_a5d0eb47" >
+        <Coords points="777,78 770,30 833,26 840,73 840,87 777,91"/>
+        <Baseline points="777,78 840,73"/>
+        <TextEquiv>
+          <Unicode>24</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fbdd63aa"  >
+      <Coords points="139,139 1484,156 1475,1067 1336,1111 113,1085"/>
+      <TextLine id="eSc_line_bd5f2497" >
+        <Coords points="124,180 124,130 1484,147 1484,195 1480,210 119,197"/>
+        <Baseline points="124,180 1484,195"/>
+        <TextEquiv>
+          <Unicode>feſter und männlicher Hand, ſo haben wir weder den Romanismus noch den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c5dfe3a" >
+        <Coords points="124,232 124,182 1480,202 1482,245 1478,263 119,250"/>
+        <Baseline points="124,232 1482,245"/>
+        <TextEquiv>
+          <Unicode>Materialismus, weder den Aberglauben noch den Unglauben, weder die Ueber⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c81761e" >
+        <Coords points="124,287 124,234 1482,250 1482,300 1478,317 121,297"/>
+        <Baseline points="124,287 1482,300"/>
+        <TextEquiv>
+          <Unicode>ſtürzungen der „Freien“ noch die Rückläufe der „Unfreien“ zu fürchten. Aus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5cb3db95" >
+        <Coords points="121,339 121,291 1480,308 1482,356 1478,367 119,348"/>
+        <Baseline points="121,339 1482,356"/>
+        <TextEquiv>
+          <Unicode>ihr ſchöpfen wir insbeſondere in immer neuen und friſchen Zügen das heilige</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0e8d639e" >
+        <Coords points="121,389 121,345 1478,363 1480,406 1475,424 117,404"/>
+        <Baseline points="121,389 1480,406"/>
+        <TextEquiv>
+          <Unicode>Lebensbild deſſen, den die Reformation aus dem Helldunkel der Magie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_acb699c2" >
+        <Coords points="121,443 121,398 1478,411 1478,461 1473,478 119,452"/>
+        <Baseline points="121,443 1478,461"/>
+        <TextEquiv>
+          <Unicode>und dem Gewirre des Lehrſtreites an&#39;s volle Licht der geſchichtlichen Erkenntniß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97dcdaf8" >
+        <Coords points="119,500 119,454 1482,467 1482,513 1478,524 117,511"/>
+        <Baseline points="119,500 1482,513"/>
+        <TextEquiv>
+          <Unicode>gebracht hat — den Heiland der Welt, Jeſum Chriſtum. Einen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a910ce20" >
+        <Coords points="119,548 119,502 1480,524 1482,569 1478,587 115,563"/>
+        <Baseline points="119,548 1482,569"/>
+        <TextEquiv>
+          <Unicode>andern Grund kann Niemand legen, als Ihn, den Eckſtein; und wer auf Ihn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a5fb4dca" >
+        <Coords points="119,609 119,558 1475,574 1478,624 1473,637 117,615"/>
+        <Baseline points="119,609 785,609 1478,624"/>
+        <TextEquiv>
+          <Unicode>gegründet iſt, der hat gewißlich nicht auf Sand gebaut. Der große Kampf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf68dd98" >
+        <Coords points="119,652 119,609 1475,628 1478,674 1473,693 115,663"/>
+        <Baseline points="119,652 1478,674"/>
+        <TextEquiv>
+          <Unicode>von drei Jahrhunderten, der noch lange nicht ausgekämpft iſt, hat ſich eigentlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a001779a" >
+        <Coords points="117,704 117,659 1475,682 1478,726 1473,746 113,715"/>
+        <Baseline points="117,704 1478,726"/>
+        <TextEquiv>
+          <Unicode>doch nur um die Stellung der Chriſten zu Chriſtus gedreht: es hat ſich dabei</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d584cd89" >
+        <Coords points="117,759 117,713 1475,737 1478,782 1473,800 115,767"/>
+        <Baseline points="117,759 1478,782"/>
+        <TextEquiv>
+          <Unicode>immer darum gehandelt, ob dieſelbe eine freie, innerliche oder das Gegentheil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e105db58" >
+        <Coords points="117,813 117,767 1478,787 1478,835 1473,852 115,822"/>
+        <Baseline points="117,813 1478,835"/>
+        <TextEquiv>
+          <Unicode>geweſen iſt, ob eine Stellung zu dem Chriſtus der Bibel, wie er geſchichtlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5e85c8f" >
+        <Coords points="115,863 115,817 1475,846 1478,889 1473,906 111,874"/>
+        <Baseline points="115,863 1478,889"/>
+        <TextEquiv>
+          <Unicode>war, oder zu dem Chriſtus der mit Irrthum verſetzten Ueberliefernng. Den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71086f90" >
+        <Coords points="115,915 115,872 1475,896 1475,941 1471,961 111,928"/>
+        <Baseline points="115,915 1475,941"/>
+        <TextEquiv>
+          <Unicode>lebendigen Glauben an den lebendigen und geſchichtlichen Chri⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e4ae9e8" >
+        <Coords points="115,970 115,926 1475,952 1478,998 1473,1011 111,985"/>
+        <Baseline points="115,970 1478,998"/>
+        <TextEquiv>
+          <Unicode>ſtus der Bibel dem deutſchen Volke zu erhalten: das iſt die erſte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f22061d" >
+        <Coords points="115,1022 115,970 1473,1007 1473,1052 1469,1063 111,1033"/>
+        <Baseline points="115,1022 1473,1052"/>
+        <TextEquiv>
+          <Unicode>Aufgabe, welche deutſchen Theologen und Geiſtlichen obliegt, zu deren Löſung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c3df6310" >
+        <Coords points="115,1078 115,1033 1343,1050 1345,1100 1340,1122 111,1091"/>
+        <Baseline points="115,1078 1345,1100"/>
+        <TextEquiv>
+          <Unicode>aber auch jedes theilnehmende Mitglied der Gemeinde mitberufen iſt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3598457e"  >
+      <Coords points="1458,2390 95,2355 113,1296 217,1244 555,1244 600,1191 761,1191 781,1131 825,1191 979,1200 1033,1261 1475,1278"/>
+      <TextLine id="eSc_line_e06944f4" >
+        <Coords points="764,1172 764,1135 805,1137 805,1172 805,1207 764,1209"/>
+        <Baseline points="764,1172 805,1172"/>
+        <TextEquiv>
+          <Unicode>5.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0d144d1" >
+        <Coords points="600,1231 598,1189 922,1185 925,1185 925,1185 925,1185 979,1198 981,1237 981,1252 940,1268 938,1268 938,1268 938,1268 936,1268 936,1268 933,1268 881,1254 881,1254 881,1254 862,1268 859,1268 859,1268 859,1268 857,1268 857,1268 855,1268 796,1265 796,1265 796,1265 794,1265 794,1265 794,1265 792,1265 792,1265 792,1263 783,1254 779,1252 768,1257 737,1263 735,1263 735,1263 733,1263 596,1257"/>
+        <Baseline points="600,1231 981,1237"/>
+        <TextEquiv>
+          <Unicode>Die Gemeinde.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46a58320" >
+        <Coords points="195,1283 195,1235 1473,1270 1473,1313 1469,1328 191,1300"/>
+        <Baseline points="195,1283 1473,1313"/>
+        <TextEquiv>
+          <Unicode>Damit werden wir von ſelbſt zur Beleuchtung der zweiten Aufgabe geführt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01d4a7e7" >
+        <Coords points="111,1335 111,1289 1475,1324 1475,1368 1471,1383 106,1350"/>
+        <Baseline points="111,1335 509,1339 1475,1368"/>
+        <TextEquiv>
+          <Unicode>welche die deutſche evangeliſche Kirche gegenwärtig von Gott empfangen hat. Die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2833117e" >
+        <Coords points="111,1387 111,1344 1475,1374 1475,1418 1471,1437 106,1398"/>
+        <Baseline points="111,1387 1475,1418"/>
+        <TextEquiv>
+          <Unicode>mittelalterliche Kirche hat den tiefen Gegenſatz zwiſchen Prieſtern und Laien</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1096ace" >
+        <Coords points="108,1446 108,1398 1471,1428 1471,1472 1467,1485 104,1457"/>
+        <Baseline points="108,1446 505,1446 1471,1472"/>
+        <TextEquiv>
+          <Unicode>ausgebildet, und iſt dadurch unevangeliſch geworden. Der Prieſter allein iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d351d85" >
+        <Coords points="108,1496 108,1452 1473,1481 1473,1524 1469,1544 104,1509"/>
+        <Baseline points="108,1496 1473,1524"/>
+        <TextEquiv>
+          <Unicode>nach der Vorſtellung jener Kirche Träger der göttlichen Heilsgnaden; ohne ſeine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1e3b066" >
+        <Coords points="106,1548 106,1507 1471,1537 1471,1579 1467,1600 102,1561"/>
+        <Baseline points="106,1548 1471,1579"/>
+        <TextEquiv>
+          <Unicode>Vermittlung giebt es keinen Antheil an dem Heil. Ein äußerer Vorgang, die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8ba2507c" >
+        <Coords points="108,1602 108,1557 1469,1585 1471,1631 1467,1650 104,1616"/>
+        <Baseline points="108,1602 1471,1631"/>
+        <TextEquiv>
+          <Unicode>Prieſter⸗Weihe, macht denſelben zum Mittler zwiſchen dem heiligen und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e8ee2c3" >
+        <Coords points="106,1655 106,1605 1471,1642 1471,1683 1467,1705 102,1670"/>
+        <Baseline points="106,1655 1471,1683"/>
+        <TextEquiv>
+          <Unicode>barmherzigen Gott und der hülfsbedürftigen Menſchheit. Die Laien ſind hier⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_18234beb" >
+        <Coords points="108,1707 108,1663 1469,1694 1471,1737 1467,1755 104,1726"/>
+        <Baseline points="108,1707 1471,1737"/>
+        <TextEquiv>
+          <Unicode>nach religiös und ſittlich von den Wirkungen des prieſterlichen Amtes durchaus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9cf7ea6d" >
+        <Coords points="106,1766 106,1713 1473,1746 1473,1790 1469,1807 104,1776"/>
+        <Baseline points="106,1766 487,1766 1473,1790"/>
+        <TextEquiv>
+          <Unicode>abhängig. Sie ſind kirchlich unmündig; außer dem Zuſammenhange mit dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c530b6f" >
+        <Coords points="108,1818 108,1768 1471,1792 1473,1842 1469,1866 733,1855 733,1855 733,1855 731,1855 731,1855 711,1848 700,1844 679,1846 635,1853 635,1853 633,1853 633,1853 633,1853 631,1853 631,1853 611,1844 602,1842 518,1842 272,1846 269,1846 269,1846 269,1846 215,1835 213,1835 213,1835 154,1844 154,1844 152,1844 152,1844 152,1844 150,1844 102,1831"/>
+        <Baseline points="108,1818 1473,1842"/>
+        <TextEquiv>
+          <Unicode>Prieſterthum ſind ſie von den Lebenswurzeln der göttlichen Wahrheit und Gnade</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82b1df4c" >
+        <Coords points="104,1870 104,1829 1471,1855 1471,1896 1467,1920 102,1887"/>
+        <Baseline points="104,1870 1471,1896"/>
+        <TextEquiv>
+          <Unicode>abgeſchnitten. Daß dieſe Vorſtellung eine unevangeliſche iſt, das bedarf für</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_909a13bf" >
+        <Coords points="106,1922 106,1874 1469,1909 1471,1950 1467,1966 102,1937"/>
+        <Baseline points="106,1922 1471,1950"/>
+        <TextEquiv>
+          <Unicode>einen bibelkundigen Leſer keines beſonderen Beweiſes. Jeſus Chriſtus allein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_670f4faf" >
+        <Coords points="104,1983 104,1933 1469,1961 1471,2005 1467,2018 102,1994"/>
+        <Baseline points="104,1983 570,1983 1471,2005"/>
+        <TextEquiv>
+          <Unicode>iſt nach der Schrift Mittler zwiſchen Gott und den Menſchen. Wer an ihn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9aca1796" >
+        <Coords points="104,2033 104,1992 1469,2016 1471,2059 1467,2074 102,2053"/>
+        <Baseline points="104,2033 1471,2059"/>
+        <TextEquiv>
+          <Unicode>glaubt, der hat das ewige Leben. Und der Glaube an ihn kommt aus der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c0a874d" >
+        <Coords points="106,2088 106,2035 163,2046 222,2037 226,2037 226,2037 228,2037 228,2037 228,2037 230,2037 230,2037 230,2037 232,2037 232,2037 248,2048 450,2042 505,2042 507,2042 1467,2068 1469,2109 1464,2131 352,2107 346,2107 278,2118 278,2118 276,2118 276,2118 102,2101"/>
+        <Baseline points="106,2088 1469,2109"/>
+        <TextEquiv>
+          <Unicode>Predigt des göttlichen Wortes, er kommt nicht aus amtlichen Kräften</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_050fa4f0" >
+        <Coords points="104,2138 104,2096 602,2103 605,2144 600,2166 100,2155"/>
+        <Baseline points="104,2138 605,2144"/>
+        <TextEquiv>
+          <Unicode>und prieſterlichen Geſchäften.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e089adb3" >
+        <Coords points="193,2196 193,2148 1471,2177 1471,2218 1467,2233 189,2211"/>
+        <Baseline points="193,2196 1471,2218"/>
+        <TextEquiv>
+          <Unicode>Welchen frohen Widerhall mag es doch in den gedrückten Herzen gefunden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b4e762a" >
+        <Coords points="102,2244 102,2203 1469,2231 1469,2272 1464,2290 97,2262"/>
+        <Baseline points="102,2244 1469,2272"/>
+        <TextEquiv>
+          <Unicode>haben, als Luther in ſeiner Schrift: „an den chriſtlichen Adel deutſcher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_828a701e" >
+        <Coords points="102,2301 102,2251 1464,2283 1467,2327 1462,2344 97,2316"/>
+        <Baseline points="102,2301 1467,2327"/>
+        <TextEquiv>
+          <Unicode>Nation von des chriſtlichen Standes Beſſerung“, der chriſtlichen Gemeinde zu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e66f3e3" >
+        <Coords points="102,2355 100,2307 596,2305 598,2305 598,2305 685,2320 722,2325 764,2320 838,2314 840,2314 840,2314 929,2325 968,2331 1460,2338 1462,2379 1460,2407 1094,2416 1092,2416 1092,2416 992,2403 846,2412 844,2412 844,2412 844,2412 842,2412 842,2412 816,2399 814,2399 811,2399 781,2409 779,2409 779,2409 779,2409 777,2409 777,2409 777,2409 774,2409 774,2409 772,2409 772,2409 759,2399 757,2399 744,2399 509,2405 507,2405 507,2405 505,2405 505,2405 474,2394 465,2392 441,2394 350,2403 350,2403 348,2403 348,2403 346,2403 346,2403 346,2403 343,2403 343,2403 330,2392 328,2390 317,2392 276,2401 276,2401 276,2401 274,2401 97,2388"/>
+        <Baseline points="102,2355 1462,2379"/>
+        <TextEquiv>
+          <Unicode>rief: „Man hat erfunden, daß Papſt, Biſchöfe, Prieſter, Kloſtervolk, wird</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
