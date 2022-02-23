@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1871_01/stml_1871_01_00019.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:01:32.278746+00:00</Created>
+        <LastChange>2022-02-23T19:01:32.278762+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="18_1a39b_default.jpg" imageWidth="1420" imageHeight="2339">
+    <TextRegion id="eSc_textblock_80baf5b0"  >
+      <Coords points="686,7 739,23 731,60 670,60 686,7"/>
+      <TextLine id="eSc_line_96f94bab" >
+        <Coords points="670,54 665,17 719,0 729,50 729,68 670,81"/>
+        <Baseline points="670,54 729,50"/>
+        <TextEquiv>
+          <Unicode>13</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_af0db600"  >
+      <Coords points="1332,1580 864,1590 1324,1598 1332,2032 54,2040 46,124 710,109 1332,124 1332,1580"/>
+      <TextLine id="eSc_line_809e9e86" >
+        <Coords points="50,153 46,105 1320,103 1326,146 1324,157 1006,169 1004,169 48,165"/>
+        <Baseline points="50,153 1326,146"/>
+        <TextEquiv>
+          <Unicode>dienſtes, c. der geiſtlichen Amtsführung, d. des religiöſen Volksunter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5bf5de6a" >
+        <Coords points="50,210 48,161 1322,165 1326,204 1324,222 50,222"/>
+        <Baseline points="50,210 1326,204"/>
+        <TextEquiv>
+          <Unicode>richts, e. der Kirchendisciplin u. ſ. w.“ Das Concordat zwiſchen dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef8d6f12" >
+        <Coords points="52,265 50,224 651,224 657,222 725,212 725,212 727,212 1322,222 1326,261 1324,272 692,272 682,278 678,282 678,282 676,282 676,282 676,282 674,282 674,282 672,282 528,280 226,274 52,284"/>
+        <Baseline points="52,265 1326,261"/>
+        <TextEquiv>
+          <Unicode>hl. Stuhle und Bayern (5. Juni 1817), ebenfalls ein integrirender</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a6bf5c6" >
+        <Coords points="52,323 50,278 897,278 899,276 922,267 922,267 924,267 924,267 926,267 1322,276 1326,317 1324,329 52,335"/>
+        <Baseline points="52,323 1326,317"/>
+        <TextEquiv>
+          <Unicode>Theil der Verfaſſung, beſtimmt gleich im erſten Artikel, daß die katho⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4aabe762" >
+        <Coords points="52,378 48,335 134,327 136,327 136,327 136,327 138,327 138,327 138,327 140,327 140,327 148,333 154,341 195,341 204,333 210,329 212,329 212,329 212,329 214,329 214,329 214,329 341,327 343,327 343,327 345,327 345,327 345,327 347,327 356,333 366,339 399,333 429,329 429,329 431,329 431,329 431,329 433,329 444,333 460,339 466,333 475,325 475,325 477,325 477,325 477,325 479,325 479,325 481,325 669,325 669,325 669,325 670,325 670,325 670,325 672,325 682,333 688,337 711,333 745,327 745,327 745,327 747,327 747,327 749,327 749,327 749,327 750,327 758,333 768,339 885,339 916,333 975,323 975,323 977,323 977,323 1035,333 1055,335 1072,333 1121,323 1121,323 1121,323 1123,323 1123,323 1125,323 1158,333 1172,335 1320,333 1326,372 1324,385 1035,397 1033,397 1033,397 1033,397 1031,397 1031,397 1029,397 1029,397 1018,387 1016,387 930,387 924,387 885,399 883,399 883,399 883,399 881,399 719,389 708,389 706,389 682,399 682,399 680,399 680,399 680,399 678,399 532,391 433,401 433,401 431,401 431,401 431,401 429,401 429,401 405,391 405,391 52,391"/>
+        <Baseline points="52,378 1326,372"/>
+        <TextEquiv>
+          <Unicode>liſche, apoſtoliſche, römiſche Religion im ganzen Königreiche unver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_24fc026f" >
+        <Coords points="52,436 50,387 415,395 440,387 450,385 452,385 452,385 454,385 577,389 723,393 749,389 789,383 789,383 791,383 791,383 858,389 891,393 903,391 930,382 932,382 932,382 932,382 934,382 934,382 934,382 936,382 963,391 965,391 967,391 981,382 983,382 983,382 985,382 985,382 985,382 986,382 986,382 1049,391 1057,391 1074,391 1258,382 1260,382 1260,382 1322,393 1326,430 1324,442 52,448"/>
+        <Baseline points="52,436 1326,430"/>
+        <TextEquiv>
+          <Unicode>ſehrt wird bewahrt werden mit jenen Rechten und Vor⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eaa3c9e5" >
+        <Coords points="52,493 48,456 105,442 105,442 105,442 107,442 214,452 278,442 278,442 280,442 472,452 548,440 548,440 550,440 1012,448 1055,438 1057,438 1057,438 1059,438 1059,438 1059,438 1061,438 1098,450 1324,450 1328,487 1326,500 52,506"/>
+        <Baseline points="52,493 1328,487"/>
+        <TextEquiv>
+          <Unicode>rechten, welcher ſie nach Gottes Anordnung und den kano⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a8efc29" >
+        <Coords points="50,549 46,510 95,498 95,498 97,498 1324,506 1328,545 1324,565 48,561"/>
+        <Baseline points="50,549 1328,545"/>
+        <TextEquiv>
+          <Unicode>niſchen Satzungen genießen muß.“ — Eine Nationalkirche nun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_caa4a214" >
+        <Coords points="50,608 46,567 1320,561 1326,602 1322,623 48,619"/>
+        <Baseline points="50,608 1326,602"/>
+        <TextEquiv>
+          <Unicode>widerſpricht dem Fundamentaldogma der katholiſchen Kirche, wodurch ſie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_988c58cb" >
+        <Coords points="50,662 44,623 79,612 81,612 81,612 83,612 1320,612 1324,658 1322,678 50,680"/>
+        <Baseline points="50,662 1324,658"/>
+        <TextEquiv>
+          <Unicode>eben die katholiſche wird. Katholiſch iſt ſie nur durch ihre bereits</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e6f77df" >
+        <Coords points="52,721 50,676 1320,676 1324,715 1322,736 52,742"/>
+        <Baseline points="52,721 1324,715"/>
+        <TextEquiv>
+          <Unicode>geſchehene oder künftig noch anzuſtrebende geographiſche Ausbrei⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f552eead" >
+        <Coords points="50,779 46,740 1016,723 1018,723 1324,732 1328,771 1328,791 50,793"/>
+        <Baseline points="50,779 1328,771"/>
+        <TextEquiv>
+          <Unicode>tung über den ganzen Erdball, und durch ihre Einheit, welch&#39; letztere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a299bcb5" >
+        <Coords points="50,834 44,797 74,785 74,785 76,785 76,785 78,785 1322,787 1326,826 1324,838 1006,849 1004,849 48,845"/>
+        <Baseline points="50,834 1326,826"/>
+        <TextEquiv>
+          <Unicode>einzig durch ihre Unterordnung unter den römiſchen Mittelpunkt, den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_acb65212" >
+        <Coords points="52,890 42,853 52,842 54,842 54,840 54,840 56,840 56,840 56,840 58,840 58,840 60,840 60,840 60,840 105,849 136,840 138,840 138,840 140,840 228,840 228,840 228,840 230,840 230,840 230,840 232,840 232,840 232,842 241,849 440,840 442,840 442,840 444,840 444,840 472,849 505,838 505,838 507,838 507,838 509,838 509,838 509,838 511,838 542,847 612,838 612,838 614,838 614,838 735,847 764,838 764,838 766,838 766,838 768,838 949,845 969,836 969,836 969,836 971,836 971,836 971,836 973,836 973,836 975,836 975,836 975,836 977,836 992,845 1143,836 1144,836 1322,847 1326,884 1324,902 52,910"/>
+        <Baseline points="52,890 1326,884"/>
+        <TextEquiv>
+          <Unicode>hl. Stuhl, ermöglicht wird. Das Nationalkirchenthum greift alſo den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2eda6bd" >
+        <Coords points="52,945 48,906 95,894 95,894 95,894 97,894 614,902 686,892 686,892 688,892 1320,902 1324,941 1320,964 50,960"/>
+        <Baseline points="52,945 1324,941"/>
+        <TextEquiv>
+          <Unicode>Glauben, das Gewiſſen des Katholiken an; die Verwirklichung des⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fbaa6ec4" >
+        <Coords points="50,1005 46,964 1320,957 1326,997 1324,1009 50,1017"/>
+        <Baseline points="50,1005 1326,997"/>
+        <TextEquiv>
+          <Unicode>ſelben wäre ein Attentat auf die Gewiſſen ſelbſt, und könnte ohne blu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ccc0861" >
+        <Coords points="50,1060 44,1023 74,1009 74,1009 76,1009 76,1009 76,1009 78,1009 265,1019 631,1009 633,1009 633,1009 633,1009 635,1009 665,1019 676,1009 676,1009 678,1009 678,1009 678,1009 680,1009 680,1009 682,1009 1242,1017 1285,1007 1287,1007 1287,1007 1289,1007 1289,1007 1289,1007 1291,1007 1324,1019 1326,1056 1324,1073 50,1073"/>
+        <Baseline points="50,1060 1326,1056"/>
+        <TextEquiv>
+          <Unicode>tige Verfolgungen wie zur Zeit der engliſchen Eliſabeth, und ohne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_09911c1b" >
+        <Coords points="50,1118 46,1077 1320,1070 1326,1112 1324,1136 50,1136"/>
+        <Baseline points="50,1118 1326,1112"/>
+        <TextEquiv>
+          <Unicode>Scenen wie in Ruſſiſch⸗Polen oder bei den unirten Ruthenen niemehr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc115124" >
+        <Coords points="50,1175 46,1132 1318,1122 1324,1169 1322,1187 50,1187"/>
+        <Baseline points="50,1175 1324,1169"/>
+        <TextEquiv>
+          <Unicode>durchgeführt werden. Die katholiſche Kirche Deutſchlauds hat kein pre⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7211163e" >
+        <Coords points="48,1229 48,1190 1322,1190 1324,1229 1322,1243 48,1243"/>
+        <Baseline points="48,1229 1324,1229"/>
+        <TextEquiv>
+          <Unicode>cäres Daſein, ſie iſt die älteſte, iſt vielfach in älteren und neueren</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b884a507" >
+        <Coords points="50,1294 42,1253 56,1241 56,1241 58,1241 58,1241 58,1241 60,1241 60,1241 60,1241 62,1241 243,1249 253,1241 253,1239 253,1239 255,1239 255,1239 255,1239 257,1239 257,1239 257,1239 259,1239 413,1249 413,1249 413,1249 481,1237 481,1237 481,1237 483,1237 483,1237 483,1237 530,1247 622,1237 622,1237 624,1237 624,1237 676,1247 678,1247 680,1247 713,1235 713,1235 715,1235 715,1235 717,1235 717,1235 717,1235 772,1245 862,1235 862,1235 864,1235 864,1235 938,1243 953,1233 955,1233 955,1233 955,1233 957,1233 957,1233 959,1233 959,1233 959,1233 1010,1243 1012,1243 1115,1243 1129,1243 1144,1231 1146,1231 1146,1231 1146,1231 1148,1231 1148,1231 1150,1231 1150,1231 1150,1231 1152,1231 1152,1231 1178,1241 1178,1241 1178,1241 1226,1231 1226,1231 1226,1231 1228,1231 1320,1241 1324,1282 1320,1302 263,1302 50,1313"/>
+        <Baseline points="50,1294 1324,1282"/>
+        <TextEquiv>
+          <Unicode>Zeiten feierlich ſichergeſtellt worden. Die proteſtantiſchen Fürſten haben</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1bfe7325" >
+        <Coords points="50,1344 46,1302 1320,1294 1326,1341 1324,1354 50,1356"/>
+        <Baseline points="50,1344 1326,1341"/>
+        <TextEquiv>
+          <Unicode>bei der Säkulariſation die ausdrückliche Verpflichtung zum Schutze der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2860aa95" >
+        <Coords points="50,1395 48,1356 1318,1354 1322,1399 1320,1415 60,1420 58,1420 58,1420 56,1420 56,1420 56,1420 54,1420 54,1420 54,1418 52,1418 42,1407"/>
+        <Baseline points="50,1395 1322,1399"/>
+        <TextEquiv>
+          <Unicode>katholiſchen Religion übernommen, ebenſo Preußen im Beſitzergreifungs⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b7bc67a2" >
+        <Coords points="50,1456 46,1418 89,1407 91,1407 91,1407 93,1407 93,1407 173,1418 241,1418 251,1409 251,1407 251,1407 253,1407 253,1407 253,1407 255,1407 255,1407 257,1407 257,1407 358,1418 552,1418 565,1407 565,1407 567,1407 567,1407 569,1407 569,1407 569,1407 571,1407 571,1407 573,1407 573,1407 600,1417 733,1407 735,1407 735,1407 737,1407 778,1417 801,1407 801,1407 803,1407 803,1407 803,1407 805,1407 805,1407 805,1407 854,1417 920,1407 920,1407 922,1407 1324,1418 1324,1456 1322,1471 48,1469"/>
+        <Baseline points="50,1456 1324,1456"/>
+        <TextEquiv>
+          <Unicode>patente der Rheinprovinz. Eine deutſche Nationalkirche, mag ſie nun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba30e603" >
+        <Coords points="52,1516 48,1475 136,1463 136,1463 138,1463 138,1463 220,1473 224,1473 224,1473 237,1463 239,1463 239,1463 239,1463 241,1463 241,1463 243,1463 243,1463 243,1463 245,1463 276,1473 278,1473 284,1473 360,1463 360,1463 362,1463 630,1471 649,1471 651,1471 696,1459 698,1459 698,1459 700,1459 924,1469 926,1469 926,1469 1002,1457 1002,1457 1004,1457 1320,1469 1324,1508 1320,1532 1238,1522 1222,1532 1221,1532 1221,1532 1219,1532 1219,1532 1219,1532 1217,1532 1035,1524 1002,1533 1002,1533 1000,1533 1000,1533 1000,1533 542,1535 540,1535 540,1535 538,1535 538,1535 538,1535 538,1535 536,1535 536,1535 522,1526 403,1526 374,1537 370,1537 370,1537 368,1537 368,1537 366,1537 337,1537 157,1528 115,1537 111,1537 111,1537 111,1537 109,1537 109,1537 109,1537 107,1537 107,1537 107,1537 81,1528 54,1537"/>
+        <Baseline points="52,1516 1324,1508"/>
+        <TextEquiv>
+          <Unicode>ſogenannt katholiſch oder allgemein⸗chriſtlich ſein, ſchließt in ſich den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b74de3aa" >
+        <Coords points="52,1574 50,1528 1322,1528 1326,1569 1322,1592 959,1582 903,1594 901,1594 901,1594 901,1594 899,1594 891,1594 762,1584 684,1594 684,1594 684,1594 682,1594 682,1594 682,1594 680,1594 680,1594 651,1584 591,1594 591,1594 589,1594 138,1586 52,1596"/>
+        <Baseline points="52,1574 1326,1569"/>
+        <TextEquiv>
+          <Unicode>furchtbarſten Rechtsbruch, welchem nur durch eine Revolution von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2a05999" >
+        <Coords points="50,1629 46,1586 698,1586 702,1625 700,1641 50,1647"/>
+        <Baseline points="50,1629 702,1625"/>
+        <TextEquiv>
+          <Unicode>oben Bahn gebrochen werden kann.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cac2e320" >
+        <Coords points="138,1687 136,1637 216,1645 263,1637 276,1635 276,1635 278,1635 278,1635 278,1635 280,1635 280,1635 286,1637 312,1648 394,1637 433,1633 433,1633 434,1633 434,1633 436,1633 456,1639 485,1647 501,1639 511,1633 511,1633 511,1633 512,1633 512,1633 512,1633 514,1633 589,1639 680,1647 696,1639 708,1635 708,1635 710,1635 710,1635 710,1635 711,1635 711,1635 711,1635 713,1635 729,1641 745,1645 786,1641 864,1631 864,1631 866,1631 866,1631 866,1631 908,1641 928,1645 971,1641 1068,1633 1070,1633 1070,1633 1070,1633 1072,1633 1105,1643 1109,1645 1322,1645 1326,1680 1324,1699 138,1701"/>
+        <Baseline points="138,1687 1326,1680"/>
+        <TextEquiv>
+          <Unicode>Die Idee von einer deutſchen Nationalkirche iſt zweitens unver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04cbfda3" >
+        <Coords points="50,1746 44,1707 83,1693 85,1693 85,1693 85,1693 87,1693 232,1705 239,1705 241,1705 267,1693 267,1693 269,1693 269,1693 269,1693 364,1691 366,1691 454,1691 454,1691 454,1691 456,1691 456,1691 456,1691 458,1691 475,1703 546,1691 546,1691 548,1691 548,1691 667,1703 682,1703 686,1703 719,1689 719,1689 721,1689 721,1689 723,1689 723,1689 723,1689 725,1689 725,1689 725,1689 727,1689 727,1689 741,1701 920,1689 922,1689 922,1689 1053,1699 1070,1687 1072,1687 1072,1687 1072,1687 1074,1687 1074,1687 1074,1687 1076,1687 1076,1687 1078,1687 1078,1687 1078,1687 1104,1699 1104,1699 1104,1699 1152,1689 1152,1689 1152,1689 1154,1689 1322,1699 1326,1738 1324,1756 50,1760"/>
+        <Baseline points="50,1746 1326,1738"/>
+        <TextEquiv>
+          <Unicode>nünftig. Die Religion iſt ihrer Natur nach Eine für die ganze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62297c4f" >
+        <Coords points="52,1802 50,1750 230,1750 230,1750 230,1750 232,1750 232,1750 232,1750 232,1750 234,1750 234,1750 234,1752 243,1760 337,1750 362,1748 364,1748 460,1748 460,1748 460,1748 462,1748 462,1748 462,1748 464,1748 464,1748 466,1750 475,1758 487,1750 489,1748 491,1748 491,1748 493,1748 493,1748 493,1748 495,1748 546,1750 667,1758 706,1752 737,1746 737,1746 737,1746 739,1746 739,1746 741,1746 741,1746 754,1752 768,1758 944,1758 957,1752 973,1746 975,1746 975,1746 975,1746 977,1746 1063,1752 1096,1754 1104,1752 1131,1744 1133,1744 1133,1744 1133,1744 1135,1744 1322,1754 1326,1795 1324,1810 52,1814"/>
+        <Baseline points="52,1802 1326,1795"/>
+        <TextEquiv>
+          <Unicode>Menſchheit. Wer dies läugnet, widerſtrebt den erſten Principien der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a27c6573" >
+        <Coords points="50,1859 46,1810 1320,1806 1326,1851 1322,1875 48,1873"/>
+        <Baseline points="50,1859 1326,1851"/>
+        <TextEquiv>
+          <Unicode>Vernunft. Gott, Wahrheit, Sittengeſetz ſind nicht nach Staaten oder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c2d6857" >
+        <Coords points="50,1916 48,1873 263,1875 296,1871 360,1863 360,1863 362,1863 362,1863 364,1863 364,1863 364,1863 366,1863 366,1863 366,1865 374,1871 376,1875 438,1875 464,1871 528,1863 528,1863 530,1863 530,1863 530,1863 532,1863 532,1863 550,1871 553,1873 557,1871 571,1861 573,1861 573,1861 573,1861 575,1861 575,1861 577,1861 768,1869 811,1871 842,1869 981,1859 983,1859 983,1859 1061,1869 1068,1869 1082,1869 1232,1857 1234,1857 1234,1857 1322,1869 1326,1906 1324,1919 1205,1931 1203,1931 1203,1931 1203,1931 1154,1921 1150,1921 1148,1921 1129,1931 1129,1931 1129,1931 1127,1931 1127,1931 1125,1931 1125,1931 1123,1931 1123,1931 1123,1931 1104,1921 1102,1921 1100,1921 1072,1933 1072,1933 1070,1933 1070,1933 1070,1935 932,1935 930,1933 930,1933 928,1933 928,1933 928,1933 926,1933 912,1923 912,1923 905,1923 807,1935 807,1935 805,1935 805,1935 747,1925 745,1925 739,1925 546,1937 544,1937 544,1937 542,1937 501,1927 499,1927 323,1927 321,1927 302,1937 302,1937 302,1937 300,1937 300,1937 298,1937 298,1937 212,1929 206,1929 202,1929 157,1939 157,1939 157,1939 156,1939 48,1929"/>
+        <Baseline points="50,1916 1326,1906"/>
+        <TextEquiv>
+          <Unicode>Nationen verſchieden. Auch verſchiedene deutſche Philoſophen, insbeſon⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_970edddb" >
+        <Coords points="50,1974 46,1929 1320,1925 1326,1964 1324,1980 50,1988"/>
+        <Baseline points="50,1974 1326,1964"/>
+        <TextEquiv>
+          <Unicode>dere Kant ¹, haben es hervorgehoben; es bildet gerade den weſentlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48481b52" >
+        <Coords points="52,2029 52,1978 91,1988 159,1978 161,1978 161,1978 163,1978 163,1978 165,1978 261,1988 308,1978 308,1978 308,1978 310,1978 1322,1978 1326,2023 1326,2044 538,2052 536,2052 536,2052 489,2044 475,2042 460,2044 388,2054 388,2054 388,2056 152,2056 150,2054 150,2054 148,2054 148,2054 148,2054 146,2054 146,2054 146,2052 136,2044 136,2044 52,2044"/>
+        <Baseline points="52,2029 1326,2023"/>
+        <TextEquiv>
+          <Unicode>Unterſchied zwiſchen dem religiöſen und politiſchen Gebiete. Sodann</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dd947858"  >
+      <Coords points="591,2259 46,2259 54,2151 124,2128 1022,2120 1324,2128 1332,2204 647,2220 591,2259"/>
+      <TextLine id="eSc_line_753c1313" >
+        <Coords points="150,2163 146,2128 337,2126 358,2114 358,2114 358,2114 360,2114 360,2114 360,2114 362,2114 511,2124 532,2124 536,2124 550,2112 552,2112 552,2112 552,2112 553,2112 553,2112 555,2112 555,2112 555,2112 557,2112 589,2122 612,2112 612,2112 614,2112 614,2112 616,2112 717,2112 717,2112 717,2112 719,2112 719,2112 719,2112 721,2112 721,2112 733,2122 735,2124 830,2124 836,2120 848,2112 850,2112 850,2112 852,2112 852,2112 852,2112 854,2112 854,2112 901,2120 920,2122 934,2118 959,2112 961,2112 961,2112 963,2112 1320,2116 1324,2157 1322,2173 150,2177"/>
+        <Baseline points="150,2163 1324,2157"/>
+        <TextEquiv>
+          <Unicode>Zum ewigen Frieden. Geſammtausg. 5. B. S. 443, in der Anm.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b76247e" >
+        <Coords points="48,2208 44,2169 378,2163 380,2163 380,2163 382,2163 403,2169 419,2175 434,2169 470,2157 470,2157 472,2157 472,2157 473,2157 618,2157 618,2157 618,2157 620,2157 620,2157 620,2157 622,2157 622,2159 635,2171 637,2173 639,2171 663,2159 663,2159 663,2159 665,2159 665,2159 665,2159 667,2159 805,2171 827,2173 832,2171 893,2155 895,2155 895,2155 897,2155 897,2155 897,2155 899,2155 942,2167 953,2157 953,2157 955,2157 955,2157 957,2157 957,2157 957,2157 1086,2155 1088,2155 1088,2155 1160,2167 1211,2159 1211,2159 1213,2159 1213,2159 1213,2159 1215,2159 1215,2159 1215,2159 1217,2159 1217,2159 1232,2173 1322,2202 1318,2223 46,2220"/>
+        <Baseline points="48,2208 1322,2202"/>
+        <TextEquiv>
+          <Unicode>Religion innerhalb der Gränzen der bl. Vern. Geſammtausg. 6. B. S. 337</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69566141" >
+        <Coords points="50,2255 48,2210 152,2218 175,2208 181,2206 181,2206 183,2206 183,2206 185,2206 587,2206 591,2245 592,2262 546,2276 544,2276 544,2276 544,2276 413,2278 411,2278 411,2278 409,2278 409,2278 384,2268 372,2280 372,2280 370,2280 370,2280 370,2280 368,2280 368,2280 368,2282 314,2282 312,2280 312,2280 265,2270 157,2284 157,2284 156,2284 156,2284 48,2272"/>
+        <Baseline points="50,2255 591,2245"/>
+        <TextEquiv>
+          <Unicode>(Leipz. 1838, Modes u. Baumann.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

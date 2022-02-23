@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1871_01/stml_1871_01_00006.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:01:32.102715+00:00</Created>
+        <LastChange>2022-02-23T19:01:32.102738+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="5_14061_default.jpg" imageWidth="1420" imageHeight="2339">
+    <TextRegion id="eSc_textblock_0c664408"  >
+      <Coords points="747,68 717,76 717,38 739,38 747,68"/>
+      <TextLine id="eSc_line_a9406b71" >
+        <Coords points="708,68 698,-1 735,-3 745,64 743,74 708,77"/>
+        <Baseline points="708,68 745,64"/>
+        <TextEquiv>
+          <Unicode>IV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_98f04637"  >
+      <Coords points="1246,592 1263,748 1363,764 1355,801 1254,810 1254,1058 1363,1075 1371,1120 1263,1128 1254,1190 1371,1224 1371,1331 1262,1348 1271,1426 1371,1434 1371,1479 1262,1496 1262,1549 1371,1574 1371,1611 202,1611 202,1528 101,1510 101,1465 195,1456 195,1380 93,1362 93,1263 195,1245 195,1169 93,1144 117,1107 195,1105 195,849 93,832 101,795 195,793 195,639 93,629 93,584 286,569 358,530 608,522 218,520 177,481 101,481 93,163 1137,155 1277,148 1287,124 1363,124 1371,497 1121,536 1246,592"/>
+      <TextLine id="eSc_line_b0897230" >
+        <Coords points="1283,148 1283,116 1365,116 1365,148 1365,175 1283,177"/>
+        <Baseline points="1283,148 1365,148"/>
+        <TextEquiv>
+          <Unicode>Seite</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4fd5d769" >
+        <Coords points="89,192 85,152 1248,150 1254,181 1254,196 89,202"/>
+        <Baseline points="89,192 1254,181"/>
+        <TextEquiv>
+          <Unicode>Dr. J. Feßler, das Vaticaniſche Concilium, deſſen äußere Bedeutung und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa6be62c" >
+        <Coords points="202,220 206,181 218,191 1226,191 1230,222 1228,230 200,231"/>
+        <Baseline points="204,222 1232,224"/>
+        <TextEquiv>
+          <Unicode>innerer Verlauf. (G. Schneemann, S. J.) . . . .</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ee22ca89" >
+        <Coords points="1293,220 1289,173 1355,173 1359,216 1357,235 1291,233"/>
+        <Baseline points="1293,220 1359,216"/>
+        <TextEquiv>
+          <Unicode>261</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a5574f01" >
+        <Coords points="91,261 89,220 1234,222 1238,253 1236,268 91,276"/>
+        <Baseline points="91,261 1238,253"/>
+        <TextEquiv>
+          <Unicode>R. Baumſtark, Don Francisco de Quevedo. Ein ſpaniſches Lebensbild aus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5eda8810" >
+        <Coords points="200,290 200,257 1164,263 1166,292 1164,300 198,302"/>
+        <Baseline points="202,292 1167,294"/>
+        <TextEquiv>
+          <Unicode>dem 17. Jahrhundert. (Pachtler, S. J.) . . . . .</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98da56f6" >
+        <Coords points="1295,290 1289,245 1355,237 1361,286 1363,296 1328,311 1328,311 1326,311 1326,311 1326,311 1324,311 1324,311 1322,311 1322,311 1291,300"/>
+        <Baseline points="1295,290 1361,286"/>
+        <TextEquiv>
+          <Unicode>345</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2089f305" >
+        <Coords points="91,329 89,288 1234,292 1238,323 1236,346 1018,346 1016,345 1016,345 1014,345 1012,345 977,335 887,345 854,346 854,346 852,346 852,346 850,346 850,346 850,346 844,343 832,337 823,343 819,346 817,346 817,346 817,346 815,346 815,346 813,346 89,339"/>
+        <Baseline points="91,329 1238,323"/>
+        <TextEquiv>
+          <Unicode>Dr. H. Contzen, die ſociale Frage, ihre Geſchichte und ihre Bedeutung in der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_141aab18" >
+        <Coords points="206,362 206,327 356,327 356,327 356,327 358,327 358,327 358,327 358,327 378,337 395,327 395,327 395,327 395,327 397,327 397,327 397,327 399,327 399,327 403,327 458,337 470,327 470,327 472,327 472,327 472,327 472,327 473,327 473,327 475,327 672,327 672,327 672,327 674,327 674,327 678,327 704,337 1238,331 1240,362 1240,372 206,376"/>
+        <Baseline points="208,364 1241,364"/>
+        <TextEquiv>
+          <Unicode>Gegenwart. (Th. Mever, S. J.) . . . . . . .</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ebc2a876" >
+        <Coords points="1295,360 1289,309 1355,307 1361,356 1361,378 1295,382"/>
+        <Baseline points="1295,360 1361,356"/>
+        <TextEquiv>
+          <Unicode>424</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1674c53a" >
+        <Coords points="91,403 89,362 1232,362 1236,393 1236,411 1057,413 1055,413 1055,413 1053,413 1053,413 1049,411 1027,403 1014,411 1010,415 1008,415 1008,415 1008,415 1006,415 1006,415 1006,415 1004,415 949,411 858,405 723,411 589,417 587,417 587,417 585,417 585,417 567,411 555,407 544,411 514,419 512,419 512,419 512,419 511,419 372,411 343,409 339,411 323,421 321,421 321,421 321,421 319,421 319,421 317,421 317,421 317,421 315,421 315,421 315,421 314,421 314,421 302,411 302,411 230,411 191,411 134,421 134,421 134,421 132,421 132,421 130,421 87,409"/>
+        <Baseline points="91,403 1236,393"/>
+        <TextEquiv>
+          <Unicode>(F. J. Holzwarth, der Abfall der Niederlande. Bd. I. und II. 1. Abth.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34c9fcb4" >
+        <Coords points="198,432 198,399 1238,409 1238,432 1238,440 198,448"/>
+        <Baseline points="200,434 1240,434"/>
+        <TextEquiv>
+          <Unicode>(Fr. X. Kurte, S. J.) . . . . . . . . .</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c93e8332" >
+        <Coords points="1295,430 1295,393 1363,393 1363,430 1363,442 1295,446"/>
+        <Baseline points="1295,430 1363,430"/>
+        <TextEquiv>
+          <Unicode>428</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8df910c2" >
+        <Coords points="95,471 93,432 1234,434 1238,465 1236,481 95,489"/>
+        <Baseline points="95,471 1238,465"/>
+        <TextEquiv>
+          <Unicode>Dr. P. Hinſchius, die Stellung der deutſchen Staatsregierungen gegenüber</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44debbea" >
+        <Coords points="198,508 195,475 1234,467 1240,504 1238,520 198,520"/>
+        <Baseline points="198,508 1240,504"/>
+        <TextEquiv>
+          <Unicode>den Beſchlüſſen des Vaticaniſchen Concils. (L. v. Hammerſtein, S. J.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5384ae7e" >
+        <Coords points="1297,502 1289,471 1308,461 1308,461 1308,461 1310,461 1310,461 1312,461 1312,461 1312,461 1314,461 1363,479 1363,497 1361,516 1295,510"/>
+        <Baseline points="1297,502 1363,497"/>
+        <TextEquiv>
+          <Unicode>522</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e17783f" >
+        <Coords points="325,571 317,536 337,524 339,524 339,524 341,524 341,524 341,524 343,524 520,532 723,520 725,520 1125,528 1129,563 1127,578 325,584"/>
+        <Baseline points="325,571 1129,563"/>
+        <TextEquiv>
+          <Unicode>Rundſchau zur kirchlichen Lage. (A. Schmitz, S. J.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c258ba7" >
+        <Coords points="91,617 89,573 355,580 370,573 376,571 376,571 376,571 378,571 378,571 380,571 380,571 382,571 382,571 390,573 409,580 421,573 425,571 427,571 427,571 429,571 429,571 429,571 431,571 431,571 433,571 444,573 470,580 497,575 518,569 520,569 520,569 522,569 522,569 567,575 606,578 688,575 809,569 811,569 811,569 811,569 813,569 832,575 844,578 862,576 910,567 910,567 912,567 912,567 912,567 961,576 969,576 986,576 1144,567 1146,567 1146,567 1146,567 1148,567 1148,567 1148,567 1150,567 1150,567 1150,569 1160,576 1160,578 1234,578 1238,612 1236,627 89,625"/>
+        <Baseline points="91,617 1238,612"/>
+        <TextEquiv>
+          <Unicode>Juli: Rom: Zuſtände. Deutſchland: Die kirchenfeindliche Preſſe. Bayern:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4272ecb8" >
+        <Coords points="202,652 200,613 1234,617 1238,649 1234,664 200,660"/>
+        <Baseline points="202,652 1238,649"/>
+        <TextEquiv>
+          <Unicode>Die antikirchliche Strömung. Baden: Mildere Verhältniſſe. Öſterreich:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf52d793" >
+        <Coords points="200,688 197,656 1234,652 1240,684 1238,693 200,701"/>
+        <Baseline points="200,688 1240,684"/>
+        <TextEquiv>
+          <Unicode>Die Petition der Biſchöfe; das Princip der Nicht⸗Intervention.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_783b3c23" >
+        <Coords points="204,725 200,688 1234,686 1240,717 1238,727 204,734"/>
+        <Baseline points="204,725 1240,717"/>
+        <TextEquiv>
+          <Unicode>Spanien: Agitation der Liberalen gegen die Kirche. Vereinigte Staaten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0183a60f" >
+        <Coords points="204,758 200,728 1232,719 1238,754 1236,769 204,773"/>
+        <Baseline points="204,758 1238,754"/>
+        <TextEquiv>
+          <Unicode>Nordamerikas: 16. Generalverſammlung des kathol. Central⸗Vereins;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1862ae92" >
+        <Coords points="206,797 204,762 1193,767 1197,795 1195,801 206,803"/>
+        <Baseline points="206,797 1197,795"/>
+        <TextEquiv>
+          <Unicode>Entchriſtlichung der Jugend . . . . . . .</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b2599641" >
+        <Coords points="1252,793 1248,746 1351,756 1359,789 1359,799 1252,803"/>
+        <Baseline points="1252,793 1359,789"/>
+        <TextEquiv>
+          <Unicode>86—91</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b9fe5960" >
+        <Coords points="97,830 89,801 105,789 105,789 107,789 107,789 107,789 109,789 109,789 111,789 1236,795 1240,824 1240,832 97,840"/>
+        <Baseline points="97,830 1240,824"/>
+        <TextEquiv>
+          <Unicode>Auguſt: Preußen: Dr. Wollmann; Dr. Hanne; Aufhebung der katholiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1998d4e4" >
+        <Coords points="202,867 198,834 1232,830 1238,859 1236,875 202,877"/>
+        <Baseline points="202,867 1238,859"/>
+        <TextEquiv>
+          <Unicode>Abtheilung im Cultusminiſterium. Bayern: Die Janus⸗Gläubigen;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7779749" >
+        <Coords points="202,902 200,863 1236,865 1240,896 1238,914 202,914"/>
+        <Baseline points="202,902 1240,896"/>
+        <TextEquiv>
+          <Unicode>Proteſt Münchener Theologen; Rectorwahl der Univerſität München;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6743adcc" >
+        <Coords points="200,935 198,898 1234,902 1238,931 1236,943 200,951"/>
+        <Baseline points="200,935 1238,931"/>
+        <TextEquiv>
+          <Unicode>die Meringer Sache. Schweiz: Knechtung der katholiſchen Kirche.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_621d4d0d" >
+        <Coords points="202,972 198,937 1234,929 1240,968 1238,976 202,980"/>
+        <Baseline points="202,972 1240,968"/>
+        <TextEquiv>
+          <Unicode>Frankreich: Petitionen der Biſchöfe wegen Unabhängigkeit des römiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa976b84" >
+        <Coords points="202,1007 198,976 1234,964 1240,1003 1238,1011 202,1015"/>
+        <Baseline points="202,1007 1240,1003"/>
+        <TextEquiv>
+          <Unicode>Stuhles. Öſterreich: Petition des Volksvereins in Bozen; Rectorwahl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ca2a10d" >
+        <Coords points="202,1042 200,1005 1238,1007 1242,1036 1238,1052 200,1050"/>
+        <Baseline points="202,1042 1242,1036"/>
+        <TextEquiv>
+          <Unicode>der Wiener Univerſität; aus dem Abgeordnetenhaus; die katholiſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a6edda1" >
+        <Coords points="202,1077 198,1044 1234,1042 1240,1072 1238,1083 202,1089"/>
+        <Baseline points="202,1077 1240,1072"/>
+        <TextEquiv>
+          <Unicode>Partei; die „Unita Italia“: Kundgebungen zu Gunſten des heiligen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3fb5b9a4" >
+        <Coords points="208,1112 206,1077 585,1085 643,1073 651,1073 651,1073 653,1073 690,1073 965,1083 986,1072 988,1072 988,1072 988,1072 990,1072 990,1072 990,1072 992,1072 992,1072 994,1072 994,1072 994,1072 996,1072 996,1072 996,1072 1010,1081 1351,1072 1357,1107 1353,1120 698,1114 208,1126"/>
+        <Baseline points="208,1112 1357,1107"/>
+        <TextEquiv>
+          <Unicode>Vaters . . . . . . . . . . . 151—162</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eaf42c44" >
+        <Coords points="97,1148 95,1105 1242,1109 1246,1144 1244,1155 97,1159"/>
+        <Baseline points="97,1148 1246,1144"/>
+        <TextEquiv>
+          <Unicode>September: Die Neuproteſtanten. Militär⸗ Kirchenordnung. Religiöſer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a57e7466" >
+        <Coords points="202,1183 198,1151 1234,1148 1240,1177 1236,1192 200,1190"/>
+        <Baseline points="202,1183 1240,1177"/>
+        <TextEquiv>
+          <Unicode>Charakter der Schulen. Das Placetum in Bayern. Katholiſche Be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4901e12" >
+        <Coords points="202,1218 200,1179 1242,1185 1246,1214 1244,1227 202,1231"/>
+        <Baseline points="202,1218 1246,1214"/>
+        <TextEquiv>
+          <Unicode>wegung in Öſterreich. Sieg der Proteſtanten im Aargau. Nachrichten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01f37049" >
+        <Coords points="206,1255 204,1216 758,1227 789,1214 789,1214 789,1214 791,1214 791,1214 793,1214 793,1214 793,1214 795,1214 836,1227 928,1227 957,1214 957,1214 959,1214 959,1214 959,1214 961,1214 961,1214 961,1214 963,1214 963,1214 965,1214 986,1227 1201,1227 1219,1212 1219,1212 1221,1212 1221,1212 1221,1212 1221,1212 1222,1212 1222,1212 1224,1212 1357,1212 1361,1251 1359,1265 206,1268"/>
+        <Baseline points="206,1255 1361,1251"/>
+        <TextEquiv>
+          <Unicode>aus Rom . . . . . . . . . . 263—271</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ccb2e81" >
+        <Coords points="95,1288 87,1261 99,1249 99,1247 99,1247 101,1247 101,1247 101,1247 103,1247 103,1247 105,1247 1238,1255 1242,1284 1240,1298 95,1300"/>
+        <Baseline points="95,1288 1242,1284"/>
+        <TextEquiv>
+          <Unicode>[October: Katholiſche Verſammlungen. Congreß der Neuproteſtanten. Wei⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2b1a2b0" >
+        <Coords points="222,1325 220,1288 1363,1288 1367,1319 1365,1331 222,1335"/>
+        <Baseline points="222,1325 1367,1319"/>
+        <TextEquiv>
+          <Unicode>tere Schritte der Biſchöfe . . . . . . . 347—352</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b25b1b6c" >
+        <Coords points="97,1358 95,1319 1242,1325 1246,1354 1244,1366 97,1368"/>
+        <Baseline points="97,1358 1246,1354"/>
+        <TextEquiv>
+          <Unicode>November: Die Interpellation Herz und deren Beantwortung. Verfahren</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c1491bc5" >
+        <Coords points="202,1395 198,1362 1240,1360 1246,1389 1244,1399 202,1411"/>
+        <Baseline points="202,1395 1246,1389"/>
+        <TextEquiv>
+          <Unicode>deutſcher Magiſtrate in kirchlichen Angelegenheiten. Katholiſche De⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_467ad75d" >
+        <Coords points="204,1430 200,1397 1238,1395 1244,1424 1242,1434 204,1448"/>
+        <Baseline points="204,1430 1244,1424"/>
+        <TextEquiv>
+          <Unicode>monſtrationen. Katholiſche Antwort auf den Darmſtädter Prote⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8c9db55" >
+        <Coords points="212,1465 210,1430 1215,1436 1275,1426 1277,1426 1277,1426 1279,1426 1279,1426 1279,1426 1281,1426 1281,1426 1281,1426 1281,1426 1302,1436 1359,1426 1365,1461 1361,1469 413,1469 212,1479"/>
+        <Baseline points="212,1465 1365,1461"/>
+        <TextEquiv>
+          <Unicode>ſtantentag . . . . . . . . . . 437—447</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_daf775b4" >
+        <Coords points="99,1502 97,1459 1240,1463 1244,1496 1244,1514 99,1514"/>
+        <Baseline points="99,1502 1244,1496"/>
+        <TextEquiv>
+          <Unicode>December: Die Adreſſe der Biſchöfe Preußens und die Adreſſe des elſäſſi⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01d1bd0b" >
+        <Coords points="206,1537 204,1500 1242,1504 1246,1533 1244,1549 206,1549"/>
+        <Baseline points="206,1537 1246,1533"/>
+        <TextEquiv>
+          <Unicode>ſchen Geſammt⸗Klerus. Das neue Strafgeſetz wider die Geiſtlichen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd439129" >
+        <Coords points="206,1572 206,1535 1248,1537 1248,1572 1248,1584 206,1584"/>
+        <Baseline points="206,1572 1248,1572"/>
+        <TextEquiv>
+          <Unicode>Ruſſiſche Bekehrungsverſuche. Die Miſſion Franchi&#39;s. Die katholiſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_17894ad2" >
+        <Coords points="204,1606 204,1571 1361,1590 1363,1610 1361,1619 1211,1627 1209,1627 1209,1627 1209,1627 1207,1627 1207,1627 1191,1621 1176,1615 1084,1615 1066,1621 1051,1627 1051,1627 1049,1627 1049,1627 1047,1627 1047,1627 1047,1627 1045,1627 1045,1627 1045,1627 1043,1627 1043,1627 1037,1621 1031,1615 1014,1621 1002,1625 1000,1625 1000,1625 1000,1625 998,1625 998,1625 957,1621 893,1615 879,1621 869,1627 869,1627 869,1627 867,1627 867,1627 867,1627 866,1627 866,1627 830,1621 776,1613 608,1613 585,1623 579,1625 579,1625 577,1625 577,1625 577,1627 425,1627 423,1625 423,1625 421,1625 421,1625 421,1625 419,1625 419,1625 419,1623 417,1623 411,1615 392,1623 388,1625 388,1625 386,1625 386,1625 384,1625 200,1623"/>
+        <Baseline points="206,1608 1365,1611"/>
+        <TextEquiv>
+          <Unicode>Bewegung in Deutſchland . . . . . . . 533–541</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b093b4d8"  >
+      <Coords points="1379,2220 280,2227 109,2259 93,1730 179,1684 520,1684 647,1645 825,1645 920,1684 1371,1691 1379,2220"/>
+      <TextLine id="eSc_line_a35efda9" >
+        <Coords points="647,1674 645,1637 815,1639 819,1668 819,1682 647,1686"/>
+        <Baseline points="647,1674 819,1668"/>
+        <TextEquiv>
+          <Unicode>Miscellen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34a21d47" >
+        <Coords points="169,1717 167,1680 1367,1682 1371,1713 1367,1730 167,1726"/>
+        <Baseline points="169,1717 1371,1713"/>
+        <TextEquiv>
+          <Unicode>Die päpſtlichen Zuaven S. 92. Fürſorge für katholiſche deutſche Auswanderer in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11bb2cbd" >
+        <Coords points="99,1756 97,1719 1367,1721 1371,1752 1369,1767 99,1771"/>
+        <Baseline points="99,1756 1371,1752"/>
+        <TextEquiv>
+          <Unicode>Nordamerika S. 93. Die deutſchen Katholiken in Braſilien S. 94. Berufung von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b995196c" >
+        <Coords points="99,1791 95,1758 1363,1756 1369,1785 1367,1797 99,1801"/>
+        <Baseline points="99,1791 1369,1785"/>
+        <TextEquiv>
+          <Unicode>[Profeſſoren nach Ecuador S. 94. Einladung zur 21. Generalverſammlung der ka⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e4a91e1a" >
+        <Coords points="99,1826 95,1789 1363,1783 1369,1822 1367,1838 99,1840"/>
+        <Baseline points="99,1826 1369,1822"/>
+        <TextEquiv>
+          <Unicode>tholiſchen Vereine Deutſchlands S. 172. Aus Rom: Drohungen. Zwei Todesfälle S. 172.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_64b8f46a" >
+        <Coords points="101,1863 99,1826 1365,1826 1369,1857 1367,1871 101,1873"/>
+        <Baseline points="101,1863 1369,1857"/>
+        <TextEquiv>
+          <Unicode>Proteſtkatholiſche Stilproben S. 173. „Wo ſoll das hinaus?“ von Cramer S. 272.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba179e80" >
+        <Coords points="101,1896 101,1859 1371,1863 1371,1896 1369,1908 99,1906"/>
+        <Baseline points="101,1896 1371,1896"/>
+        <TextEquiv>
+          <Unicode>Döllinger und das Quemadmodum etiam S. 272. Eine wunderbare Gebetserhörung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c6d17c7a" >
+        <Coords points="99,1935 95,1902 245,1890 247,1890 403,1898 415,1888 415,1888 417,1888 417,1888 417,1888 419,1888 419,1888 421,1888 1367,1894 1371,1927 1369,1939 99,1941"/>
+        <Baseline points="99,1935 1371,1927"/>
+        <TextEquiv>
+          <Unicode>am Jubelfeſte Pius&#39; IX. S. 353. Chronolegiſches Curioſum S. 354. Verhältniſſe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc75265e" >
+        <Coords points="99,1966 97,1935 1367,1933 1369,1966 1369,1982 99,1982"/>
+        <Baseline points="99,1966 1369,1966"/>
+        <TextEquiv>
+          <Unicode>der Katholiken in Melbourne S. 354. Katholicismus in Südamerika S. 355.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e7676399" >
+        <Coords points="99,2003 95,1968 1365,1964 1371,1997 1367,2013 97,2011"/>
+        <Baseline points="99,2003 1371,1997"/>
+        <TextEquiv>
+          <Unicode>Literariſches: Die Verfaſſung der Kirche, von Grundkötter S. 355. Todtenzettel eines</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eacae921" >
+        <Coords points="101,2036 99,1997 1367,2001 1371,2032 1369,2048 101,2050"/>
+        <Baseline points="101,2036 1371,2032"/>
+        <TextEquiv>
+          <Unicode>Proteſtkatholiken S. 355. Wiesbadener Komödie vom 31. October S. 447. Zur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f9844c8" >
+        <Coords points="99,2073 95,2042 1361,2034 1367,2068 1365,2077 99,2087"/>
+        <Baseline points="99,2073 1367,2068"/>
+        <TextEquiv>
+          <Unicode>Beachtung für den Proteſtantenverein S. 449. Die „Alte und Neue Welt“ S. 450.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5082127e" >
+        <Coords points="99,2108 95,2071 1365,2066 1371,2103 1369,2112 99,2118"/>
+        <Baseline points="99,2108 1371,2103"/>
+        <TextEquiv>
+          <Unicode>Die Schulfrage in Irland S. 451. Die Internationale S. 452. Zur liberalen Bil⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2b04a1e0" >
+        <Coords points="97,2146 93,2112 1365,2107 1371,2140 1369,2153 97,2159"/>
+        <Baseline points="97,2146 1371,2140"/>
+        <TextEquiv>
+          <Unicode>dung S. 542. „Eine Miniſterantwort im Lichte der Wahrheit“ S. 545. Trau,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48f90f34" >
+        <Coords points="105,2177 103,2142 1363,2144 1367,2175 1365,2190 105,2192"/>
+        <Baseline points="105,2177 1367,2175"/>
+        <TextEquiv>
+          <Unicode>ſchau, wem? S. 545. „Unſere liebe Frau von Lourdes“ S. 546. Der Brand von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d28dd09a" >
+        <Coords points="99,2214 97,2179 1371,2173 1375,2214 1371,2233 1316,2225 1297,2235 1293,2237 1293,2237 1293,2237 1291,2237 1291,2237 1289,2237 1289,2237 1289,2237 1287,2237 1287,2237 1287,2237 1285,2237 1285,2237 1283,2235 1275,2227 1265,2235 1262,2237 1262,2239 1262,2239 1260,2239 1260,2239 1258,2239 1258,2239 1258,2239 1256,2239 1256,2239 1256,2239 1254,2239 1254,2239 1252,2239 1252,2239 1248,2235 1232,2225 1189,2225 1154,2237 1141,2241 1139,2241 1139,2241 1139,2241 1137,2241 1094,2237 967,2225 922,2239 922,2239 920,2239 920,2239 920,2239 918,2239 918,2239 918,2239 916,2239 916,2239 879,2227 823,2239 823,2239 823,2239 821,2239 821,2239 821,2239 819,2239 819,2239 788,2225 750,2241 750,2241 749,2241 749,2241 749,2241 749,2241 747,2241 747,2241 747,2241 745,2241 745,2241 702,2225 669,2243 657,2249 657,2249 657,2249 655,2249 655,2249 655,2251 583,2251 581,2249 581,2249 579,2249 579,2249 579,2249 569,2245 542,2231 479,2239 479,2239 477,2239 477,2239 475,2239 475,2239 475,2239 473,2239 473,2239 460,2227 376,2247 360,2249 360,2249 360,2251 99,2251"/>
+        <Baseline points="99,2214 1375,2214"/>
+        <TextEquiv>
+          <Unicode>Chicago und die Internationale S. 547. Dr. Weber und der Gehorſam der Jeſuiten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_002adfb4" >
+        <Coords points="99,2251 97,2214 220,2214 224,2245 226,2257 183,2268 181,2268 181,2268 179,2268 179,2268 97,2261"/>
+        <Baseline points="99,2251 224,2245"/>
+        <TextEquiv>
+          <Unicode>S. 548.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

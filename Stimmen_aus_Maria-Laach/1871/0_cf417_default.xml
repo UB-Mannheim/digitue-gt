@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1871_01/stml_1871_01_00001.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:01:32.040831+00:00</Created>
+        <LastChange>2022-02-23T19:01:32.040860+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="0_cf417_default.jpg" imageWidth="1992" imageHeight="2935">
+    <TextRegion id="eSc_textblock_18375e33"  >
+      <Coords points="127,518 173,567 163,594 117,574 127,518"/>
+    </TextRegion>
+  </Page>
+</PcGts>

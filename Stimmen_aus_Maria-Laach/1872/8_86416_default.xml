@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00009.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.173361+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.173376+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="8_86416_default.jpg" imageWidth="1522" imageHeight="2481">
+    <TextRegion id="eSc_textblock_d1da8b65"  >
+      <Coords points="725,105 686,113 686,66 725,66 725,105"/>
+      <TextLine id="eSc_line_3f1e5964" >
+        <Coords points="686,99 686,62 715,62 715,99 715,109 686,113"/>
+        <Baseline points="688,100 717,101"/>
+        <TextEquiv>
+          <Unicode>3</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_af323cbc"  >
+      <Coords points="1346,1180 1321,1190 1346,1257 1337,2313 1141,2321 1083,2354 1073,2321 57,2296 74,157 1346,173 1346,1180"/>
+      <TextLine id="eSc_line_e838115e" >
+        <Coords points="64,198 64,148 138,159 523,152 698,150 701,150 701,150 725,155 758,163 1335,163 1337,202 1335,210 740,221 738,221 738,221 736,221 692,210 128,219 126,219 126,219 62,206"/>
+        <Baseline points="64,198 1337,202"/>
+        <TextEquiv>
+          <Unicode>Antwort genommen, und daß ſie als die größte Beleidigung Gottes aufge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de6c3084" >
+        <Coords points="64,256 64,204 138,215 519,208 686,206 688,206 688,206 715,210 752,219 1335,219 1337,260 1335,268 703,279 701,279 62,268"/>
+        <Baseline points="64,256 1337,260"/>
+        <TextEquiv>
+          <Unicode>faßt wird. Er hört, wie man Ihn für den verworfenſten Menſchen erklärt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_589246f2" >
+        <Coords points="62,312 62,268 1333,272 1335,316 1331,334 59,322"/>
+        <Baseline points="62,312 1335,316"/>
+        <TextEquiv>
+          <Unicode>und zum Tode verurtheilt: und Er ſetzt ſeiner Erklärung Nichts hinzu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_85be8e79" >
+        <Coords points="62,370 62,316 124,326 514,320 690,318 692,318 692,318 694,318 713,322 738,330 1329,330 1331,374 1327,390 558,380 457,382 113,388 111,388 111,388 111,388 59,376"/>
+        <Baseline points="62,370 1331,374"/>
+        <TextEquiv>
+          <Unicode>Er fühlt, wie man Ihn als Gottesläſterer mißhandelt, zum Tode führt;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a75984d" >
+        <Coords points="62,421 62,376 1333,388 1335,430 1333,442 59,442"/>
+        <Baseline points="62,421 1335,430"/>
+        <TextEquiv>
+          <Unicode>und Er widerruft nicht, Er deutelt an ſeiner Ausſage nicht herum. Im</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_601dea15" >
+        <Coords points="62,481 62,440 535,444 541,442 560,434 560,434 562,434 562,434 562,434 564,434 564,434 564,434 610,442 618,444 626,442 667,434 667,434 667,434 670,434 670,434 672,434 672,434 672,434 674,434 686,444 688,444 690,444 719,434 721,434 721,434 721,434 723,434 723,434 723,434 725,434 758,444 763,444 771,444 854,434 854,434 856,434 1141,446 1153,446 1155,446 1168,436 1168,436 1170,436 1170,436 1170,436 1172,436 1172,436 1174,436 1296,436 1296,436 1296,436 1298,436 1298,436 1331,448 1331,487 1329,500 1002,506 1000,506 1000,506 1000,506 998,506 998,506 980,498 973,496 967,498 945,506 945,506 942,506 942,506 940,506 940,506 860,498 825,494 777,496 661,504 659,504 659,504 659,504 657,504 628,496 620,494 605,496 535,504 535,504 533,504 533,504 533,504 531,504 531,504 529,504 529,504 516,494 514,494 502,494 407,502 405,502 405,502 299,492 285,492 283,492 275,500 275,502 275,502 272,502 272,502 272,502 270,502 270,502 270,504 113,504 111,502 111,502 59,489"/>
+        <Baseline points="62,481 1331,487"/>
+        <TextEquiv>
+          <Unicode>Gegentheile, von nun an antwortet Er auf keine Frage mehr, als Einer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_024099cc" >
+        <Coords points="59,537 59,494 1331,502 1331,541 1329,549 893,560 891,560 57,547"/>
+        <Baseline points="59,537 1331,541"/>
+        <TextEquiv>
+          <Unicode>der Alles und klar genug geſagt hat. Wie ein Lamm, das, zur Schlacht⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ec2811c5" >
+        <Coords points="59,593 59,547 1337,558 1337,599 1335,611 130,614 128,614 128,614 57,601"/>
+        <Baseline points="59,593 1337,599"/>
+        <TextEquiv>
+          <Unicode>bank geführt, ſeinen Mund nicht öffnet, geht Chriſtus, nachdem Er die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fae77540" >
+        <Coords points="62,655 55,618 80,605 80,605 80,605 82,605 82,605 84,605 1329,614 1333,651 1329,671 59,667"/>
+        <Baseline points="62,655 1333,651"/>
+        <TextEquiv>
+          <Unicode>grauſamſten, ſchmachvollſten Mißhandlungen erduldet, zum ſchmählich⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87acb578" >
+        <Coords points="62,707 64,657 103,667 467,661 601,659 603,659 1335,671 1337,711 1335,719 727,729 725,729 725,729 659,719 653,719 62,719"/>
+        <Baseline points="62,707 1337,711"/>
+        <TextEquiv>
+          <Unicode>ſten Tod, und öffnet auf dem Kreuze ſeinen Mund erſt, um ſeinen Vater</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_731c8f0c" >
+        <Coords points="62,769 62,719 1335,729 1335,769 1335,777 62,779"/>
+        <Baseline points="62,769 1335,769"/>
+        <TextEquiv>
+          <Unicode>für ſeine Feinde um Vergebung zu bitten. Dem armen Schächer ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd5d0886" >
+        <Coords points="59,822 59,769 208,779 382,773 428,771 430,771 1335,785 1337,829 1335,835 914,845 911,845 911,845 909,845 872,835 870,835 854,835 512,843 510,843 510,843 510,843 508,843 508,843 485,833 483,833 59,833"/>
+        <Baseline points="59,822 1337,829"/>
+        <TextEquiv>
+          <Unicode>heißt Er noch die ewige Seligkeit, und übergibt ſeine Seele in die Hände</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7fb0343f" >
+        <Coords points="59,876 59,831 1331,843 1333,884 1329,897 55,895"/>
+        <Baseline points="59,876 1333,884"/>
+        <TextEquiv>
+          <Unicode>des Vaters. So berichten die Proceßacten, ſo glauben die Chriſten ſelber.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44d6d3a1" >
+        <Coords points="148,940 140,901 159,886 159,886 161,886 161,886 161,886 163,886 163,886 165,886 165,886 165,886 223,897 239,886 241,886 241,886 241,886 244,886 244,886 246,886 343,886 343,886 343,886 345,886 345,886 345,886 347,886 347,886 357,895 370,886 372,886 372,886 372,886 374,886 374,886 376,886 376,886 376,886 378,886 378,886 378,886 380,886 392,897 405,886 405,886 407,886 407,886 409,886 409,886 409,886 411,886 411,886 413,886 457,897 516,886 516,886 516,886 519,886 519,886 521,886 572,899 591,886 593,886 593,886 593,886 595,886 595,886 597,886 905,897 992,884 992,884 994,884 994,884 994,884 996,884 996,884 998,884 1019,897 1127,884 1127,884 1129,884 1129,884 1131,884 1131,884 1131,884 1133,884 1149,897 1327,899 1331,936 1329,953 148,953"/>
+        <Baseline points="148,940 1331,936"/>
+        <TextEquiv>
+          <Unicode>Hat Chriſtus die Wahrheit geſagt, oder nicht? — Das iſt nun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_14eb460c" >
+        <Coords points="57,990 57,944 1329,957 1331,996 1329,1004 994,1015 992,1015 992,1015 909,1004 903,1004 880,1004 483,1013 481,1013 55,1000"/>
+        <Baseline points="57,990 1331,996"/>
+        <TextEquiv>
+          <Unicode>die Alles entſcheidende Frage. Wenn ja! dann müſſen wir Alle vor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4b3c61a" >
+        <Coords points="59,1052 59,1006 1333,1011 1333,1052 1333,1062 59,1066"/>
+        <Baseline points="59,1052 1333,1052"/>
+        <TextEquiv>
+          <Unicode>dem Gekreuzigten anbetend niederfallen; dann iſt das Chriſtenthum gött⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_477c7c08" >
+        <Coords points="59,1108 59,1066 1333,1070 1333,1108 1333,1122 59,1122"/>
+        <Baseline points="59,1108 1333,1108"/>
+        <TextEquiv>
+          <Unicode>liche Wahrheit, dann ſind die Hoffnungen der Chriſten auf felſenfeſtem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_58aae302" >
+        <Coords points="62,1164 62,1118 1333,1126 1335,1168 1333,1178 1075,1178 1075,1178 1064,1186 1064,1188 1064,1188 1062,1188 1062,1188 1062,1188 1060,1188 1060,1188 1060,1188 1058,1188 1058,1188 986,1178 984,1178 982,1178 924,1188 924,1188 924,1188 922,1188 752,1178 740,1178 738,1178 703,1188 701,1188 701,1188 701,1188 698,1188 698,1188 696,1188 696,1188 670,1178 663,1176 653,1178 614,1186 614,1186 614,1186 612,1186 59,1178"/>
+        <Baseline points="62,1164 1335,1168"/>
+        <TextEquiv>
+          <Unicode>Grunde gebaut, und wir müſſen Den ohne Maß lieben, der uns ohne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a3a69d7" >
+        <Coords points="62,1219 62,1166 155,1178 221,1172 254,1168 254,1168 256,1168 256,1168 258,1168 258,1168 258,1168 260,1168 266,1172 279,1180 324,1174 374,1170 374,1170 376,1170 488,1182 490,1223 488,1232 285,1244 283,1244 283,1244 283,1244 281,1244 281,1244 279,1244 279,1244 279,1244 266,1232 252,1242 250,1242 250,1242 250,1242 248,1242 248,1242 246,1242 246,1242 246,1242 244,1242 208,1232 117,1242 117,1242 115,1242 115,1242 115,1242 57,1228"/>
+        <Baseline points="62,1219 490,1223"/>
+        <TextEquiv>
+          <Unicode>Maß zuerſt geliebt hat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_afa4528e" >
+        <Coords points="146,1279 146,1232 1333,1240 1333,1279 1333,1290 146,1298"/>
+        <Baseline points="146,1279 1333,1279"/>
+        <TextEquiv>
+          <Unicode>Wenn aber Chriſtus die Wahrheit nicht geſagt hat, dann iſt nur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a97a6a5" >
+        <Coords points="59,1333 59,1292 1329,1298 1331,1339 1329,1352 698,1356 696,1356 696,1356 630,1345 624,1345 620,1345 548,1356 548,1356 545,1356 306,1343 159,1354 157,1354 157,1354 157,1354 155,1354 155,1354 128,1343 99,1354 99,1354 97,1354 97,1354 95,1354 95,1354 93,1354 93,1354 55,1339"/>
+        <Baseline points="59,1333 1331,1339"/>
+        <TextEquiv>
+          <Unicode>eine doppelte Annahme denkbar. Entweder hat Er wiſſentlich die Un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a7b39a4" >
+        <Coords points="59,1389 59,1350 1331,1354 1333,1393 1331,1405 119,1412 117,1412 117,1412 57,1399"/>
+        <Baseline points="59,1389 1333,1393"/>
+        <TextEquiv>
+          <Unicode>wahrheit geſagt, nicht nur oft in ſeinen Reden an das Volk, ſondern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6758a612" >
+        <Coords points="59,1445 59,1399 1331,1412 1333,1451 1331,1459 914,1469 911,1469 911,1469 909,1469 866,1459 541,1467 539,1467 57,1453"/>
+        <Baseline points="59,1445 1333,1451"/>
+        <TextEquiv>
+          <Unicode>vor Gericht, unter einem Eide; Er hat dann wiſſentlich ſich alle Rechte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4cd9d0be" >
+        <Coords points="62,1503 62,1459 667,1465 676,1463 703,1455 705,1455 705,1455 705,1455 707,1455 707,1455 781,1465 794,1465 800,1465 837,1455 839,1455 839,1455 841,1455 841,1455 841,1455 843,1455 843,1455 843,1455 845,1455 845,1455 856,1465 858,1465 872,1465 1005,1457 1007,1457 1007,1457 1007,1457 1009,1457 1009,1457 1009,1457 1011,1457 1023,1467 1025,1467 1025,1467 1038,1457 1040,1457 1040,1457 1040,1457 1042,1457 1042,1457 1042,1457 1044,1457 1044,1457 1046,1457 1085,1467 1089,1467 1093,1467 1141,1457 1141,1457 1141,1457 1143,1457 1143,1457 1145,1457 1145,1457 1172,1467 1172,1467 1176,1467 1302,1457 1304,1457 1304,1457 1304,1457 1306,1457 1306,1457 1333,1469 1333,1509 1331,1517 911,1527 909,1527 909,1527 907,1527 864,1517 124,1523 122,1523 122,1523 59,1511"/>
+        <Baseline points="62,1503 1333,1509"/>
+        <TextEquiv>
+          <Unicode>Gottes angemaßt, von allen Menſchen verlangt, daß ſie Ihm glauben</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8268daa6" >
+        <Coords points="62,1558 62,1517 1337,1521 1337,1565 1333,1585 59,1571"/>
+        <Baseline points="62,1558 1337,1565"/>
+        <TextEquiv>
+          <Unicode>und gehorſamen, auf Ihn hoffen und Ihn über Alles, ſelbſt mehr als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e620d014" >
+        <Coords points="59,1614 59,1565 146,1567 146,1567 146,1567 148,1567 148,1567 148,1567 150,1567 150,1567 150,1569 161,1579 258,1579 272,1567 272,1567 275,1567 275,1567 277,1567 277,1567 277,1567 279,1567 434,1577 450,1567 452,1567 452,1567 454,1567 454,1567 454,1567 457,1567 457,1567 457,1567 459,1567 459,1567 488,1581 667,1581 682,1569 682,1569 684,1569 684,1569 686,1569 686,1569 686,1569 688,1569 870,1579 905,1569 907,1569 907,1569 907,1569 907,1569 909,1569 909,1569 909,1569 911,1569 911,1569 911,1569 914,1569 914,1569 928,1579 1139,1571 1141,1571 1141,1571 1203,1581 1240,1571 1242,1571 1242,1571 1242,1571 1244,1571 1244,1571 1246,1571 1246,1571 1246,1571 1267,1581 1333,1571 1335,1620 1333,1633 165,1635 163,1635 57,1622"/>
+        <Baseline points="59,1614 1335,1620"/>
+        <TextEquiv>
+          <Unicode>Vater und Mutter, Bruder und Schweſter, Weib und Kind und ſich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0847cb83" >
+        <Coords points="59,1670 59,1622 159,1633 285,1625 339,1622 341,1622 341,1622 341,1622 343,1622 355,1627 382,1635 531,1629 659,1625 661,1625 661,1625 663,1625 663,1625 682,1631 696,1637 727,1633 767,1627 767,1627 769,1627 1079,1639 1124,1639 1139,1639 1275,1631 1277,1631 1277,1631 1277,1631 1333,1643 1333,1678 1329,1699 57,1687"/>
+        <Baseline points="59,1670 1333,1678"/>
+        <TextEquiv>
+          <Unicode>ſelber lieben ſollen, und um dieſen Weltbetrug glaubhaft zu machen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d4501a09" >
+        <Coords points="62,1730 62,1691 1337,1691 1337,1736 1333,1753 57,1749"/>
+        <Baseline points="62,1730 1337,1736"/>
+        <TextEquiv>
+          <Unicode>geht Er in den Tod als der ſanftmüthigſte aller Menſchen, fleht zu Gott</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8f5b3f4" >
+        <Coords points="64,1782 64,1738 1335,1753 1337,1792 1335,1804 1195,1815 1193,1815 1193,1815 1091,1804 1056,1802 62,1802"/>
+        <Baseline points="64,1782 1337,1792"/>
+        <TextEquiv>
+          <Unicode>um Verzeihung für ſeine Feinde, verheißt ſterbend einem Verbrecher ſein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_552edcf5" >
+        <Coords points="64,1840 62,1800 1079,1798 1081,1798 1081,1798 1083,1798 1083,1798 1104,1809 1108,1811 1333,1811 1335,1850 1333,1864 322,1864 320,1862 206,1852 124,1860 124,1860 122,1860 122,1860 62,1848"/>
+        <Baseline points="64,1840 1335,1850"/>
+        <TextEquiv>
+          <Unicode>ewiges Reich und heuchelt Gottes Freundſchaft noch mit dem letzten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eadc1dcd" >
+        <Coords points="64,1895 64,1848 374,1862 496,1852 496,1852 498,1852 498,1852 572,1864 593,1854 593,1854 593,1854 595,1854 595,1854 597,1854 597,1854 597,1854 653,1864 802,1854 804,1854 804,1854 804,1854 806,1854 854,1866 909,1856 909,1856 909,1856 911,1856 911,1856 914,1856 914,1856 914,1856 916,1856 930,1866 961,1856 963,1856 963,1856 963,1856 965,1856 965,1856 1056,1866 1077,1856 1077,1856 1077,1856 1079,1856 1079,1856 1079,1856 1079,1856 1081,1856 1081,1856 1081,1856 1160,1869 1331,1858 1335,1906 1331,1922 988,1914 909,1920 870,1924 870,1924 868,1924 868,1924 839,1920 775,1912 715,1920 696,1922 696,1922 696,1924 591,1924 589,1922 589,1922 587,1922 587,1922 587,1922 585,1922 585,1922 585,1920 583,1920 574,1912 386,1918 324,1920 322,1920 322,1920 322,1920 310,1918 262,1908 62,1916"/>
+        <Baseline points="64,1895 1335,1906"/>
+        <TextEquiv>
+          <Unicode>Seufzer!! Welchen Namen ſoll man ihm geben? — Oder, Er hat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7126060b" >
+        <Coords points="62,1951 62,1908 188,1908 188,1908 188,1908 190,1908 190,1908 190,1908 192,1908 192,1908 192,1908 192,1910 202,1920 409,1920 417,1910 419,1910 419,1908 419,1908 421,1908 421,1908 421,1908 423,1908 423,1908 425,1908 425,1908 425,1908 428,1908 436,1910 461,1918 504,1912 529,1908 529,1908 531,1908 531,1908 566,1912 616,1918 628,1912 638,1908 638,1908 638,1908 641,1908 641,1908 643,1908 643,1908 643,1908 667,1912 694,1918 750,1914 818,1908 820,1908 820,1908 820,1908 823,1908 845,1914 860,1920 1193,1920 1199,1918 1259,1908 1259,1908 1259,1908 1261,1908 1261,1908 1333,1920 1337,1957 1333,1970 59,1966"/>
+        <Baseline points="62,1951 448,1962 1337,1957"/>
+        <TextEquiv>
+          <Unicode>ſich eingebildet, Gott, Welterlöſer, zu ſein? Und von dieſem Wahn⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c51966dd" >
+        <Coords points="62,2009 62,1959 113,1970 295,1962 295,1962 297,1962 297,1962 297,1962 299,1962 299,1962 328,1972 560,1964 560,1964 562,1964 562,1964 562,1964 564,1964 564,1964 564,1964 566,1964 566,1964 566,1966 568,1966 574,1974 1329,1970 1333,2019 1329,2038 57,2022"/>
+        <Baseline points="62,2009 1333,2019"/>
+        <TextEquiv>
+          <Unicode>ſinn konnte Ihn kein Widerſpruch, ſelbſt nicht die furchtbarſte Qual, auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a34469c" >
+        <Coords points="62,2061 62,2019 181,2030 610,2026 860,2024 862,2024 1329,2036 1331,2075 1329,2094 634,2094 632,2092 562,2084 531,2081 452,2084 194,2090 192,2090 57,2077"/>
+        <Baseline points="62,2061 351,2073 1331,2075"/>
+        <TextEquiv>
+          <Unicode>nicht der ſchmerzvollſte Tod abbringen? Was kann dann die Welt anders,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_825e7037" >
+        <Coords points="62,2117 62,2073 250,2088 566,2088 585,2081 595,2077 595,2077 597,2077 597,2077 599,2077 599,2077 636,2081 703,2090 802,2084 858,2081 860,2081 860,2081 905,2086 963,2092 978,2088 992,2081 992,2081 994,2081 994,2081 996,2081 996,2081 996,2081 998,2081 1019,2088 1033,2092 1054,2088 1096,2081 1096,2081 1098,2081 1335,2094 1335,2133 1333,2141 626,2148 624,2148 624,2148 570,2137 405,2146 403,2146 57,2131"/>
+        <Baseline points="62,2117 483,2131 1335,2133"/>
+        <TextEquiv>
+          <Unicode>als Ihn herzlich bedauern? Schließen wir: da es eine weltkundige, un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1c33942" >
+        <Coords points="62,2175 62,2127 357,2141 570,2131 570,2131 572,2131 572,2131 572,2131 572,2131 574,2131 574,2131 576,2131 576,2131 591,2141 858,2135 860,2135 860,2135 862,2135 907,2146 998,2135 998,2135 1000,2135 1000,2135 1098,2148 1333,2137 1335,2189 1333,2199 1160,2212 1158,2212 1158,2212 1158,2212 1091,2199 1087,2199 1079,2199 940,2210 938,2210 938,2210 854,2197 841,2197 812,2197 603,2208 601,2208 57,2193"/>
+        <Baseline points="62,2175 558,2189 1335,2189"/>
+        <TextEquiv>
+          <Unicode>läugbare Thatſache iſt, daß Chriſtus für den Gottesſohn, einer Weſenheit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_73234cd3" >
+        <Coords points="62,2230 62,2195 1327,2203 1331,2241 1333,2251 1315,2265 1315,2265 1313,2265 1313,2265 1313,2265 1311,2265 1311,2265 1309,2265 1309,2265 1215,2255 1203,2265 1203,2265 1201,2265 1201,2265 1201,2265 1199,2265 1199,2265 1199,2265 1197,2265 1197,2265 1122,2255 1048,2265 1048,2265 1046,2265 1046,2265 1046,2265 1044,2265 1044,2265 1044,2265 1023,2255 951,2265 951,2265 949,2265 949,2265 947,2265 899,2253 883,2265 880,2265 880,2265 880,2265 878,2265 878,2265 878,2268 794,2268 792,2265 792,2265 715,2255 539,2261 537,2261 537,2261 535,2261 535,2261 535,2261 516,2253 512,2251 504,2253 461,2263 459,2263 459,2263 457,2263 457,2263 454,2263 454,2263 454,2263 432,2253 430,2251 425,2253 409,2263 407,2263 407,2263 405,2263 405,2263 405,2263 403,2263 403,2263 401,2263 363,2253 353,2251 62,2253"/>
+        <Baseline points="62,2230 490,2245 1331,2241"/>
+        <TextEquiv>
+          <Unicode>mit dem Vater, für den verheißenen Meſſias, Welterlöſer, ſich ausge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0c5e8d94" >
+        <Coords points="59,2290 57,2253 119,2245 119,2245 122,2245 122,2245 124,2245 155,2253 163,2255 167,2253 186,2245 186,2245 186,2245 188,2245 188,2245 190,2245 190,2245 314,2255 343,2257 347,2255 363,2247 363,2247 363,2247 366,2247 366,2247 368,2247 368,2247 368,2247 370,2247 370,2247 370,2247 372,2247 372,2247 382,2257 384,2259 512,2259 516,2257 529,2249 531,2249 531,2249 531,2249 533,2249 533,2249 535,2249 535,2249 535,2249 585,2259 587,2259 589,2259 599,2249 599,2249 601,2249 601,2249 601,2249 603,2249 603,2249 603,2249 605,2249 605,2249 607,2249 607,2249 607,2249 610,2249 624,2259 630,2263 719,2263 723,2261 758,2251 761,2251 761,2251 761,2251 763,2251 763,2251 765,2251 765,2251 765,2251 787,2261 792,2263 816,2261 926,2253 928,2253 928,2253 928,2253 930,2253 930,2253 932,2253 949,2263 949,2263 953,2263 1040,2255 1040,2255 1042,2255 1042,2255 1044,2255 1044,2255 1044,2255 1046,2255 1046,2255 1046,2257 1054,2265 1056,2265 1064,2265 1143,2257 1143,2257 1145,2257 1145,2257 1147,2257 1147,2257 1147,2257 1149,2257 1149,2257 1160,2265 1162,2268 1176,2268 1280,2257 1282,2257 1282,2257 1282,2257 1335,2270 1335,2305 1333,2321 1218,2332 1218,2332 1215,2332 1038,2321 1011,2336 1011,2336 1011,2336 1009,2336 1009,2336 1009,2336 1007,2336 1007,2336 1005,2336 1005,2336 1005,2336 1002,2336 1002,2336 1002,2334 990,2323 849,2334 847,2334 847,2334 847,2334 845,2334 845,2334 845,2334 843,2334 843,2334 831,2323 558,2330 556,2330 556,2330 556,2330 554,2330 554,2330 554,2330 552,2330 535,2317 440,2330 440,2330 438,2330 438,2330 438,2330 436,2330 436,2330 434,2330 434,2330 434,2328 415,2313 376,2313 347,2328 347,2328 347,2328 345,2328 345,2328 345,2330 244,2330 241,2328 241,2328 161,2311 88,2325 88,2325 88,2325 86,2325 86,2325 84,2325 84,2325 84,2325 82,2325 51,2307"/>
+        <Baseline points="59,2290 1335,2305"/>
+        <TextEquiv>
+          <Unicode>geben hat, und darum gekreuzigt worden iſt; ſo muß man entweder</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_5f2b07b2" >
+        <Coords points="1077,2352 1071,2309 1114,2305 1120,2350 1120,2363 1077,2365"/>
+        <Baseline points="1079,2353 1121,2352"/>
+        <TextEquiv>
+          <Unicode>1*</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

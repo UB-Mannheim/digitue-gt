@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00032.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.457412+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.457427+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="31_8ddb3_default.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_56d170b9"  >
+      <Coords points="802,99 849,99 858,146 794,146 802,99"/>
+      <TextLine id="eSc_line_14955b18" >
+        <Coords points="792,142 787,105 847,97 854,138 854,150 792,155"/>
+        <Baseline points="792,142 854,138"/>
+        <TextEquiv>
+          <Unicode>26</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_33bd7821"  >
+      <Coords points="181,2123 181,215 529,198 1470,215 1470,2115 1445,2131 181,2123"/>
+      <TextLine id="eSc_line_215fe99e" >
+        <Coords points="186,241 181,196 1455,190 1462,235 1460,246 186,252"/>
+        <Baseline points="186,241 1462,235"/>
+        <TextEquiv>
+          <Unicode>verſammlungen aus, deren keine gehalten werden dürfe, ohne daß man</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c4c8913" >
+        <Coords points="186,297 184,256 262,243 262,243 264,243 264,243 359,256 471,256 485,243 485,243 488,243 488,243 490,243 490,243 490,243 492,243 492,243 492,243 494,243 494,243 519,256 583,256 593,246 593,243 593,243 595,243 595,243 595,243 597,243 597,243 599,243 599,243 599,243 601,243 601,243 601,243 622,254 738,243 740,243 740,243 740,243 742,243 775,254 796,243 796,243 796,243 798,243 798,243 800,243 934,243 934,243 934,243 936,243 936,243 936,243 938,243 938,243 938,246 949,256 1158,256 1189,243 1189,243 1191,243 1191,243 1193,243 1193,243 1193,243 1253,254 1292,243 1294,243 1294,243 1294,243 1296,243 1296,243 1373,256 1373,297 1371,310 184,308"/>
+        <Baseline points="186,297 1373,297"/>
+        <TextEquiv>
+          <Unicode>vorher die zu verhandelnden Gegenſtände den Parlamenten zeige¹.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7830a9e" >
+        <Coords points="275,353 275,308 1462,312 1462,353 1462,365 275,368"/>
+        <Baseline points="275,353 1462,353"/>
+        <TextEquiv>
+          <Unicode>Endlich wagte man unter Ludwig XIV. das Placet auf die Er⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_853e8907" >
+        <Coords points="186,413 177,376 192,361 192,359 192,359 194,359 194,359 194,359 196,359 196,359 196,359 198,359 198,359 279,370 308,359 308,359 310,359 310,359 312,359 312,359 312,359 363,370 388,359 388,359 390,359 390,359 390,359 392,359 392,359 457,370 560,359 560,359 562,359 736,368 810,370 816,365 825,357 825,357 827,357 827,357 827,357 829,357 829,357 831,357 831,357 831,357 870,365 887,368 893,365 903,357 905,357 905,357 907,357 907,357 907,357 909,357 909,357 909,357 912,357 912,357 914,357 924,363 932,368 1453,357 1460,409 1457,417 186,421"/>
+        <Baseline points="186,413 1460,409"/>
+        <TextEquiv>
+          <Unicode>laſſe einzelner Biſchöfe auszudehnen. Der Anfang wurde bei</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b9f180c" >
+        <Coords points="186,467 186,415 1457,425 1457,467 1457,479 186,481"/>
+        <Baseline points="186,467 1457,467"/>
+        <TextEquiv>
+          <Unicode>Boſſuet gemacht, wohl deßhalb, weil man ihn für den einflußreichſten und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63220914" >
+        <Coords points="188,527 184,483 589,471 591,471 775,479 789,479 794,479 852,469 852,469 854,469 1455,477 1460,518 1457,537 188,545"/>
+        <Baseline points="188,527 1460,518"/>
+        <TextEquiv>
+          <Unicode>zugleich ſervilſten der Oberhirten hielt. Der Großkanzler de Pontchar⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_065db945" >
+        <Coords points="188,580 186,539 1457,529 1460,580 1460,593 188,593"/>
+        <Baseline points="188,580 1460,580"/>
+        <TextEquiv>
+          <Unicode>train verbot den Druck ſeiner Schrift, bevor ſie der ſtaatlichen Cenſur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5baed265" >
+        <Coords points="188,638 184,599 339,585 341,585 341,585 341,585 403,595 463,585 463,585 463,585 465,585 738,595 781,585 783,585 783,585 785,585 785,585 785,585 787,585 787,585 789,585 804,595 823,583 825,583 825,583 825,583 827,583 827,583 829,583 1038,593 1054,583 1056,583 1056,583 1056,583 1058,583 1058,583 1058,583 1060,583 1060,583 1062,583 1106,593 1168,583 1168,583 1170,583 1170,583 1170,583 1172,583 1172,583 1174,583 1191,593 1342,583 1344,583 1344,583 1344,583 1346,583 1383,593 1418,583 1420,583 1420,583 1420,583 1422,583 1422,583 1424,583 1424,583 1457,595 1460,634 1457,642 188,651"/>
+        <Baseline points="188,638 1460,634"/>
+        <TextEquiv>
+          <Unicode>unterworfen worden. Das wollte ſich Boſſuet allenfalls noch gefallen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a9da346" >
+        <Coords points="186,690 186,640 845,640 845,640 845,640 847,640 866,647 883,651 897,647 916,640 918,640 918,640 918,640 920,640 920,640 971,647 1002,653 1213,653 1216,649 1226,640 1226,640 1228,640 1228,640 1228,640 1230,640 1230,640 1232,640 1232,640 1340,651 1348,651 1352,651 1391,640 1393,640 1393,640 1395,640 1395,640 1395,640 1455,653 1457,694 1453,702 184,698"/>
+        <Baseline points="186,690 1457,694"/>
+        <TextEquiv>
+          <Unicode>laſſen; aber die Veröffentlichung der Cenſur an der Spitze ſeiner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cba115b0" >
+        <Coords points="188,750 184,709 839,696 841,696 1451,707 1455,746 1451,764 186,758"/>
+        <Baseline points="188,750 1455,746"/>
+        <TextEquiv>
+          <Unicode>Schrift ſchien ihm eine unerträgliche Schande zu ſein. Um dieſe Schmach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f076e3a5" >
+        <Coords points="186,808 186,764 1462,764 1462,808 1462,818 186,818"/>
+        <Baseline points="186,808 1462,808"/>
+        <TextEquiv>
+          <Unicode>von ſich abzuwenden, ſetzte er Alles in Bewegung: er ſchrieb an den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d608a9be" >
+        <Coords points="186,866 186,824 272,824 272,822 283,814 283,812 283,812 285,812 285,812 285,812 287,812 287,812 287,812 289,812 289,812 291,812 291,812 318,822 320,822 324,822 370,812 370,812 370,812 372,812 372,812 372,812 374,812 401,820 407,822 417,820 469,812 469,812 471,812 471,812 471,812 514,820 531,822 548,820 595,812 595,812 597,812 597,812 657,818 690,822 723,818 771,812 771,812 773,812 773,812 773,812 775,812 775,812 777,812 777,812 783,818 789,822 802,818 818,812 818,812 821,812 821,812 823,812 1025,816 1404,822 1457,812 1460,866 1457,878 184,876"/>
+        <Baseline points="186,866 1460,866"/>
+        <TextEquiv>
+          <Unicode>Kanzler und an den König und bat dieſen „kniefällig“; er forderte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e91dd9f4" >
+        <Coords points="186,922 184,880 589,870 591,870 696,880 707,880 717,880 802,870 802,870 804,870 804,870 883,880 887,880 891,880 932,870 934,870 934,870 936,870 936,870 1052,880 1056,880 1060,880 1122,870 1122,870 1125,870 1125,870 1125,870 1127,870 1127,870 1127,870 1129,870 1129,870 1129,872 1139,880 1139,882 1263,882 1263,880 1300,870 1302,870 1302,870 1302,870 1304,870 1304,870 1306,870 1306,870 1306,870 1309,870 1325,880 1327,882 1462,882 1462,922 1460,932 184,930"/>
+        <Baseline points="186,922 1462,922"/>
+        <TextEquiv>
+          <Unicode>den Cardinal Noailles von Paris auf, er wollte ſogar Frau von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_590a1540" >
+        <Coords points="188,977 186,928 667,936 696,930 719,926 719,926 719,926 721,926 721,926 723,926 723,926 723,926 725,926 725,926 725,928 730,930 736,938 816,938 841,932 876,924 876,924 876,924 878,924 878,924 878,924 880,924 880,924 899,932 907,934 1015,932 1406,924 1408,924 1408,924 1410,924 1457,936 1460,973 1457,988 254,988 188,998"/>
+        <Baseline points="188,977 1460,973"/>
+        <TextEquiv>
+          <Unicode>Maintenon „um Hülfe anflehen.“ Die ganze Tragweite des Anſin⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a082530c" >
+        <Coords points="186,1033 181,996 206,984 206,984 206,984 208,984 208,984 208,984 210,984 347,996 595,996 608,984 608,984 610,984 610,984 610,984 612,984 612,984 612,984 614,984 614,984 694,994 748,984 748,984 748,984 750,984 1317,994 1379,984 1379,984 1379,984 1381,984 1381,984 1457,996 1457,1033 1455,1054 184,1044"/>
+        <Baseline points="186,1033 1457,1033"/>
+        <TextEquiv>
+          <Unicode>nens ſah er voraus. „Man will,“ ſagte er, „den Biſchöfen das Recht,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e6b76e56" >
+        <Coords points="188,1089 188,1046 1457,1048 1460,1093 1455,1108 186,1101"/>
+        <Baseline points="188,1089 1460,1093"/>
+        <TextEquiv>
+          <Unicode>ihr Volk ſchriftlich zu belehren, rauben und mit mir den Anfang zur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d9f9811" >
+        <Coords points="188,1145 186,1104 727,1093 730,1093 730,1093 765,1099 794,1104 808,1099 821,1093 821,1093 823,1093 823,1093 823,1093 825,1093 825,1093 827,1093 827,1093 827,1093 837,1097 854,1108 955,1108 965,1097 967,1095 967,1095 969,1095 969,1095 969,1095 971,1095 971,1095 971,1095 974,1095 974,1095 976,1095 986,1097 1017,1106 1040,1097 1046,1095 1046,1095 1048,1095 1048,1095 1050,1095 1050,1095 1052,1095 1060,1097 1098,1106 1174,1095 1189,1095 1189,1095 1191,1095 1213,1095 1358,1106 1460,1095 1464,1149 1462,1157 188,1161"/>
+        <Baseline points="188,1145 1464,1149"/>
+        <TextEquiv>
+          <Unicode>Begründung dieſer Knechtſchaft machen.“ „Es iſt das eine ſonderbare</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a464628" >
+        <Coords points="186,1199 186,1151 1460,1161 1462,1205 1457,1221 940,1211 730,1219 694,1219 692,1219 692,1219 682,1219 610,1209 186,1215"/>
+        <Baseline points="186,1199 1462,1205"/>
+        <TextEquiv>
+          <Unicode>Tyrannei: unter dem Vorwande, daß möglicher Weiſe Einige ihrer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06c2cdd2" >
+        <Coords points="190,1259 190,1209 1457,1217 1457,1259 1455,1271 188,1269"/>
+        <Baseline points="190,1259 1457,1259"/>
+        <TextEquiv>
+          <Unicode>Pflicht für den Staat nicht genügen, alle Andern zu knechten und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8533fe81" >
+        <Coords points="188,1312 188,1259 1457,1267 1460,1319 1455,1333 186,1319"/>
+        <Baseline points="188,1312 1460,1319"/>
+        <TextEquiv>
+          <Unicode>ihre Hände in dem, was den Glauben, den weſentlichſten Punkt ihres</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9520f71d" >
+        <Coords points="186,1368 186,1321 388,1329 403,1323 419,1314 419,1314 419,1314 421,1314 421,1314 423,1314 423,1314 481,1323 521,1329 552,1325 595,1316 595,1316 597,1316 597,1316 597,1316 599,1316 599,1316 599,1316 601,1316 612,1325 620,1331 730,1331 738,1327 748,1316 748,1316 750,1316 750,1316 750,1316 752,1316 752,1316 754,1316 1002,1316 1002,1316 1002,1316 1091,1329 1118,1319 1118,1319 1120,1319 1120,1319 1120,1319 1122,1319 1122,1319 1125,1319 1168,1331 1178,1333 1209,1331 1321,1323 1323,1323 1323,1323 1457,1335 1460,1374 1457,1381 1048,1391 1046,1391 1046,1391 994,1381 984,1381 186,1381"/>
+        <Baseline points="186,1368 1460,1374"/>
+        <TextEquiv>
+          <Unicode>Amtes, betrifft, zu binden.“² Doch Boſſuet ſelbſt hatte durch ſein ſer⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_13ccc349" >
+        <Coords points="188,1424 188,1381 1462,1387 1462,1432 1457,1438 186,1436"/>
+        <Baseline points="188,1424 1462,1432"/>
+        <TextEquiv>
+          <Unicode>viles Benehmen 1682 den Einfluß des Papſtes, des mächtigſten Be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c935bd9a" >
+        <Coords points="186,1484 186,1430 295,1441 463,1432 531,1430 533,1430 533,1430 533,1430 535,1430 548,1434 570,1441 761,1436 971,1432 974,1432 974,1432 976,1432 976,1432 976,1432 978,1432 988,1441 994,1443 1000,1441 1019,1432 1019,1432 1021,1432 1021,1432 1021,1432 1023,1432 1023,1432 1023,1432 1025,1432 1025,1432 1044,1441 1054,1447 1460,1447 1462,1490 1460,1498 186,1498"/>
+        <Baseline points="186,1484 1462,1490"/>
+        <TextEquiv>
+          <Unicode>ſchützers der kirchlichen Freiheit, auf Frankreich paralyſirt, und eine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f8c4e1bb" >
+        <Coords points="188,1540 188,1488 304,1498 504,1492 603,1488 605,1488 605,1488 608,1488 608,1488 622,1492 645,1501 667,1494 680,1490 682,1490 682,1490 682,1490 684,1490 684,1490 684,1490 686,1490 686,1490 694,1494 711,1501 856,1496 1025,1490 1027,1490 1027,1490 1077,1498 1104,1505 1242,1505 1247,1501 1259,1492 1261,1492 1261,1492 1261,1492 1263,1492 1263,1492 1263,1492 1265,1492 1460,1505 1462,1546 1457,1554 186,1552"/>
+        <Baseline points="188,1540 1462,1546"/>
+        <TextEquiv>
+          <Unicode>Maintenon konnte nicht wehren, daß die franzöſiſche Bureaukratie das⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f85a9f31" >
+        <Coords points="186,1600 186,1552 374,1556 401,1552 448,1546 448,1546 450,1546 450,1546 450,1546 452,1546 452,1546 454,1546 465,1554 469,1554 471,1554 477,1548 477,1546 477,1546 479,1546 479,1546 479,1546 481,1546 481,1546 483,1546 483,1546 483,1546 485,1546 485,1546 485,1546 488,1546 488,1546 496,1554 500,1556 527,1554 585,1548 585,1548 587,1548 587,1548 587,1548 589,1548 589,1548 603,1554 614,1560 756,1560 800,1556 918,1548 920,1548 920,1548 920,1548 974,1558 982,1558 984,1558 996,1548 998,1548 998,1548 998,1548 1000,1548 1000,1548 1000,1548 1002,1548 1002,1548 1069,1558 1087,1563 1460,1563 1462,1606 1460,1614 186,1614"/>
+        <Baseline points="186,1600 1462,1606"/>
+        <TextEquiv>
+          <Unicode>jenige, was ſie dem Papſte gegenüber für erlaubt hielt, nun auch den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7989976" >
+        <Coords points="186,1656 186,1610 1464,1616 1464,1664 1462,1668 184,1670"/>
+        <Baseline points="186,1656 1464,1664"/>
+        <TextEquiv>
+          <Unicode>Biſchöfen anthat, mochte man auch noch einmal aus Rückſicht auf die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d966e64" >
+        <Coords points="188,1711 190,1658 223,1668 483,1662 550,1660 552,1660 1460,1674 1462,1718 1457,1734 184,1730"/>
+        <Baseline points="188,1711 1462,1718"/>
+        <TextEquiv>
+          <Unicode>Perſon Boſſuet&#39;s ſeinen flehenden Bitten um Nichtveröffentlichung der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e1a5013" >
+        <Coords points="186,1769 186,1728 852,1728 852,1769 849,1788 184,1786"/>
+        <Baseline points="186,1769 852,1769"/>
+        <TextEquiv>
+          <Unicode>bereits geſchehenen Cenſur nachgeben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_84b1edc7" >
+        <Coords points="275,1823 272,1778 475,1769 477,1769 477,1769 477,1769 479,1769 479,1769 479,1769 481,1769 481,1769 492,1778 494,1782 674,1782 682,1780 709,1771 711,1771 711,1771 711,1771 713,1771 713,1771 771,1782 781,1782 792,1782 866,1771 866,1771 868,1771 994,1784 1013,1784 1019,1784 1062,1773 1062,1773 1062,1773 1065,1773 1065,1773 1065,1773 1067,1773 1067,1773 1069,1773 1085,1784 1089,1786 1100,1784 1139,1775 1139,1775 1139,1775 1141,1775 1141,1775 1141,1775 1143,1775 1143,1775 1164,1784 1166,1786 1170,1784 1187,1775 1187,1775 1187,1775 1189,1775 1189,1775 1189,1775 1191,1775 1191,1775 1244,1786 1261,1788 1265,1786 1273,1778 1273,1778 1275,1778 1275,1778 1275,1778 1278,1778 1278,1778 1278,1778 1280,1778 1280,1778 1280,1778 1282,1778 1282,1778 1284,1778 1296,1786 1302,1788 1457,1788 1462,1835 1457,1850 270,1829"/>
+        <Baseline points="275,1823 1462,1835"/>
+        <TextEquiv>
+          <Unicode>Das iſt die Entwickelung des Placet in Frankreich; aus einer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb2796e1" >
+        <Coords points="181,1881 181,1829 1460,1838 1462,1891 1457,1902 179,1897"/>
+        <Baseline points="181,1881 1462,1891"/>
+        <TextEquiv>
+          <Unicode>durch die kirchenfeindliche pragmatiſche Sanction erheiſchten Maßregel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f3817f4" >
+        <Coords points="186,1941 186,1897 1460,1902 1462,1945 1460,1955 186,1957"/>
+        <Baseline points="186,1941 1462,1945"/>
+        <TextEquiv>
+          <Unicode>wurde es allmählich bei dem Umſichgreifen proteſtantiſcher, die Kirche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae5b6de7" >
+        <Coords points="184,1999 184,1957 1457,1962 1460,2003 1455,2015 181,2013"/>
+        <Baseline points="184,1999 1460,2003"/>
+        <TextEquiv>
+          <Unicode>dem Staate unterwerfender Anſchauungen, bei dem zunehmenden Ab⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5952281" >
+        <Coords points="184,2055 184,2005 963,2005 963,2005 963,2005 971,2005 1038,2015 1457,2007 1462,2061 1460,2071 184,2071"/>
+        <Baseline points="184,2055 1462,2061"/>
+        <TextEquiv>
+          <Unicode>ſolutismus des Polizeiſtaates deſſen Mittel zur Knechtung der ganzen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5de59366" >
+        <Coords points="184,2110 181,2069 605,2061 608,2061 608,2061 680,2071 692,2071 723,2071 907,2063 909,2063 1453,2075 1460,2117 1457,2129 1346,2141 1346,2141 1344,2141 1344,2141 1342,2141 1342,2141 1342,2141 1321,2131 1166,2141 1164,2141 1164,2141 1164,2141 1114,2131 1079,2141 1077,2141 1077,2141 1077,2141 1075,2141 1075,2141 1073,2141 1073,2141 1073,2141 1071,2141 1056,2131 1042,2141 1040,2141 1040,2141 1040,2141 1038,2141 1038,2141 1036,2141 1036,2141 1036,2141 1034,2141 990,2129 612,2139 610,2139 405,2127 246,2137 244,2137 244,2137 244,2137 181,2123"/>
+        <Baseline points="184,2110 1460,2117"/>
+        <TextEquiv>
+          <Unicode>kirchlichen Auctorität. Wir dürfen uns darum nicht wundern, daß ſeine</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_22a1f8ae"  >
+      <Coords points="992,2265 1445,2265 1462,2305 372,2313 295,2354 181,2346 190,2299 248,2296 256,2224 949,2224 992,2265"/>
+      <TextLine id="eSc_line_e6091003" >
+        <Coords points="262,2253 262,2218 949,2224 951,2257 949,2265 624,2276 622,2276 258,2263"/>
+        <Baseline points="262,2253 951,2257"/>
+        <TextEquiv>
+          <Unicode>¹ D&#39;Argentré, Collectio judiciorum II, 209.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a82cb7a" >
+        <Coords points="256,2294 256,2253 382,2265 502,2257 554,2253 556,2253 556,2253 556,2253 558,2253 558,2253 570,2257 597,2268 738,2261 843,2255 845,2255 845,2255 845,2255 847,2255 847,2255 847,2255 862,2263 876,2270 893,2263 909,2257 909,2257 912,2257 912,2257 914,2257 988,2257 988,2257 988,2257 990,2257 990,2257 990,2257 992,2257 1002,2265 1011,2270 1056,2265 1153,2257 1153,2257 1156,2257 1156,2257 1158,2257 1158,2257 1189,2268 1201,2272 1220,2270 1269,2259 1269,2259 1269,2259 1271,2259 1271,2259 1273,2259 1315,2270 1323,2274 1457,2274 1460,2303 1457,2315 1162,2328 1160,2328 1160,2328 1160,2328 1158,2328 1116,2315 1114,2315 965,2315 963,2315 943,2325 943,2325 943,2325 940,2325 940,2325 940,2325 938,2325 938,2325 864,2315 852,2313 816,2313 614,2323 612,2323 252,2311"/>
+        <Baseline points="256,2294 1460,2303"/>
+        <TextEquiv>
+          <Unicode>² Rohrbacher, Histoire universelle de l&#39;église cath. Paris. 1852. XXVI.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_26c1b203" >
+        <Coords points="184,2338 184,2305 316,2313 316,2344 312,2367 179,2356"/>
+        <Baseline points="184,2338 316,2344"/>
+        <TextEquiv>
+          <Unicode>276. ss.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

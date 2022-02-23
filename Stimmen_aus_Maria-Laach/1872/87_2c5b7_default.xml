@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00088.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:11.287007+00:00</Created>
+        <LastChange>2022-02-23T19:09:11.287022+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="87_2c5b7_default.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_c41e0e69"  >
+      <Coords points="816,155 761,163 752,115 816,115 816,155"/>
+      <TextLine id="eSc_line_a13aafde" >
+        <Coords points="752,148 754,107 810,111 810,152 808,161 750,163"/>
+        <Baseline points="752,148 810,152"/>
+        <TextEquiv>
+          <Unicode>82</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_56ecef2a"  >
+      <Coords points="1445,1850 1338,1869 1379,1910 1362,1941 1017,1941 992,1900 1015,1858 843,1858 701,1900 165,1891 148,215 909,206 1429,215 1445,1850"/>
+      <TextLine id="eSc_line_9edfa37e" >
+        <Coords points="150,246 146,204 1418,200 1424,237 1422,256 148,254"/>
+        <Baseline points="150,246 1424,237"/>
+        <TextEquiv>
+          <Unicode>Dr. Weber die in der Vorrede gerühmte Unparteilichkeit und Objectivität beobachtet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5286c666" >
+        <Coords points="153,291 150,246 1418,248 1422,287 1420,297 153,305"/>
+        <Baseline points="153,291 1422,287"/>
+        <TextEquiv>
+          <Unicode>hat, oder nicht. Er wird mit uns dafür halten, daß Herr Dr. Weber ſich entweder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e8c6041" >
+        <Coords points="150,334 148,295 1418,295 1422,330 1420,347 150,347"/>
+        <Baseline points="150,334 1422,330"/>
+        <TextEquiv>
+          <Unicode>eines unverantwortlichen Leichtſinns ſchuldig gemacht, da er, ohne die allernothwendigſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_37ff2c53" >
+        <Coords points="153,380 148,337 1416,334 1422,372 1420,388 153,390"/>
+        <Baseline points="153,380 1422,372"/>
+        <TextEquiv>
+          <Unicode>Vorſtudien zu machen, über einen Gegenſtand ſchrieb, von dem er geradezu nichts</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21522cbc" >
+        <Coords points="153,423 148,384 1418,376 1424,419 1422,432 153,440"/>
+        <Baseline points="153,423 1424,419"/>
+        <TextEquiv>
+          <Unicode>verſtand, oder aber (was ſich kaum annehmen läßt) des unqualificirbaren Verfahrens</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9f6f1132" >
+        <Coords points="153,469 148,432 1416,427 1422,465 1420,479 153,479"/>
+        <Baseline points="153,469 1422,465"/>
+        <TextEquiv>
+          <Unicode>eines Parteiſchriftſtellers, da er mit Wiſſen und Willen eine falſche Anklage und Ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_37a41ec3" >
+        <Coords points="153,514 150,471 1141,471 1145,508 1143,518 153,525"/>
+        <Baseline points="153,514 1145,508"/>
+        <TextEquiv>
+          <Unicode>leumdung durch rabuliſtiſche Scheingründe zu ſtützen ſich bemühte.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f72e1ff2" >
+        <Coords points="223,556 219,510 1422,506 1429,552 1426,564 223,568"/>
+        <Baseline points="223,556 1429,552"/>
+        <TextEquiv>
+          <Unicode>Aber wie es ſo geht, mentita est iniquitas sibi. Nachdem der Verfaſſer mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c247f11" >
+        <Coords points="153,603 148,564 1420,558 1426,597 1424,611 153,614"/>
+        <Baseline points="153,603 1426,597"/>
+        <TextEquiv>
+          <Unicode>großer Mühe durch unrichtige Ueberſetzungen und noch unrichtigere Deutungen ſein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be71c2c8" >
+        <Coords points="155,647 150,609 1420,603 1426,640 1422,657 153,655"/>
+        <Baseline points="155,647 1426,640"/>
+        <TextEquiv>
+          <Unicode>Gebäude aufgerichtet hat, muß er es ſelbſt mit eigener Hand zertrümmern. Auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f80086b" >
+        <Coords points="155,690 150,653 1422,647 1429,686 1426,694 155,698"/>
+        <Baseline points="155,690 1429,686"/>
+        <TextEquiv>
+          <Unicode>S. 35 kömmt er zu dem erſehnten Schluß, daß das Denken und Wollen aller Mit⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_447589ba" >
+        <Coords points="155,733 155,696 1429,696 1429,733 1426,750 153,748"/>
+        <Baseline points="155,733 1429,733"/>
+        <TextEquiv>
+          <Unicode>glieder der Geſellſchaft Jeſu „in dem Denken und Wollen des Generals eingeſchloſſen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f89b2c4e" >
+        <Coords points="157,777 155,733 1422,740 1426,773 1422,793 155,791"/>
+        <Baseline points="157,777 1426,773"/>
+        <TextEquiv>
+          <Unicode>und begraben ſei“, daß „die einzelnen Jeſuiten nur Canäle ſeien, welche in reiner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9812b2f2" >
+        <Coords points="157,824 155,783 1422,785 1426,820 1424,831 157,837"/>
+        <Baseline points="157,824 1426,820"/>
+        <TextEquiv>
+          <Unicode>Paſſivität die Intentionen des Generals in ſich aufzunehmen haben und dann, ohne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_573fc378" >
+        <Coords points="155,868 153,824 1424,829 1429,864 1426,874 155,880"/>
+        <Baseline points="155,868 1429,864"/>
+        <TextEquiv>
+          <Unicode>über deren Nützlichkeit und ſittliche Erlaubtheit irgendwie nachzudenken, alle ihre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a881bb14" >
+        <Coords points="157,913 155,874 1424,874 1429,909 1426,926 157,930"/>
+        <Baseline points="157,913 1429,909"/>
+        <TextEquiv>
+          <Unicode>Kräfte zur Ausführung derſelben in Bewegung zu ſetzen.“ Aber ſiehe da! nur vier</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b47a7344" >
+        <Coords points="159,953 157,913 1422,909 1426,957 1422,965 157,961"/>
+        <Baseline points="159,953 1426,957"/>
+        <TextEquiv>
+          <Unicode>Seiten weiter (S. 39) macht er die Entdeckung, „daß innerhalb der Jeſuiten⸗Societät zwei</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6160b585" >
+        <Coords points="157,1000 150,967 196,955 198,955 198,955 200,955 1426,963 1431,996 1426,1017 907,1008 794,1017 771,1019 769,1019 155,1017"/>
+        <Baseline points="157,1000 1431,996"/>
+        <TextEquiv>
+          <Unicode>verſchiedene Richtungen vorhanden ſeien“, daß „die italieniſchen und deutſchen Jeſuiten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_91e80c04" >
+        <Coords points="159,1042 159,1004 1429,1006 1431,1046 1429,1054 159,1056"/>
+        <Baseline points="159,1042 1431,1046"/>
+        <TextEquiv>
+          <Unicode>mit der Civiltà cattolica nnd den Stimmen aus M.⸗Laach die eigentliche Garde des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_075c66a8" >
+        <Coords points="159,1089 159,1044 1433,1054 1433,1089 1431,1106 157,1099"/>
+        <Baseline points="159,1089 1433,1089"/>
+        <TextEquiv>
+          <Unicode>Syllabus bilden, während die belgiſchen und franzöſiſchen mit den in Paris erſcheinenden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_38b7e7d2" >
+        <Coords points="159,1128 159,1085 1431,1093 1433,1132 1431,1143 159,1145"/>
+        <Baseline points="159,1128 1433,1132"/>
+        <TextEquiv>
+          <Unicode>Études religieuses eine gemäßigtere Richtung vertreten“; ja ſogar, daß „der General</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f99463bc" >
+        <Coords points="157,1172 155,1135 1426,1132 1431,1178 1426,1192 155,1188"/>
+        <Baseline points="157,1172 1431,1178"/>
+        <TextEquiv>
+          <Unicode>des Ordens, ein kluger und welterfahrener Mann, zu manchen Dingen den Kopf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_645c1d31" >
+        <Coords points="161,1219 161,1178 1429,1182 1431,1223 1426,1234 159,1228"/>
+        <Baseline points="161,1219 1431,1223"/>
+        <TextEquiv>
+          <Unicode>geſchüttelt habe, die er in ſeinem Kloſter einfädeln ſah, ohne ſie verhindern zu können,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f37cacd" >
+        <Coords points="161,1263 161,1226 1431,1228 1431,1263 1431,1275 161,1275"/>
+        <Baseline points="161,1263 1431,1263"/>
+        <TextEquiv>
+          <Unicode>weil lahm gelegt durch eine höhere Macht.“ Es entſteht jetzt offenbar die Frage, ob</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0625e7b2" >
+        <Coords points="161,1306 161,1267 1431,1271 1433,1310 1429,1319 159,1312"/>
+        <Baseline points="161,1306 1433,1310"/>
+        <TextEquiv>
+          <Unicode>das Denken und Wollen der deutſchen und italieniſchen, oder aber das der franzöſiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_89b3ef6e" >
+        <Coords points="161,1350 161,1302 1429,1306 1431,1354 1426,1370 159,1366"/>
+        <Baseline points="161,1350 1431,1354"/>
+        <TextEquiv>
+          <Unicode>und belgiſchen Jeſuiten „im Denken und Wollen des Generals eingeſchloſſen“ ſei,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5dd6b9e2" >
+        <Coords points="161,1393 161,1352 1433,1362 1435,1399 1431,1407 159,1399"/>
+        <Baseline points="161,1393 1435,1399"/>
+        <TextEquiv>
+          <Unicode>oder ob gar der General beide entgegengeſetzte Richtungen in ſich vereinige? Ferner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1eceba65" >
+        <Coords points="161,1438 161,1399 1429,1407 1431,1445 1426,1457 159,1447"/>
+        <Baseline points="161,1438 1431,1445"/>
+        <TextEquiv>
+          <Unicode>welches wohl „die höhere Macht“ ſein mag, die den General „lahm legt“? Seine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c895c83" >
+        <Coords points="163,1484 163,1436 1431,1449 1433,1488 1429,1496 161,1492"/>
+        <Baseline points="163,1484 1433,1488"/>
+        <TextEquiv>
+          <Unicode>Untergebenen, mit Einſchluß von P. Piccirillo, können es nicht ſein, denn ſie ſind ja</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd2d5340" >
+        <Coords points="163,1527 165,1480 210,1490 589,1484 740,1482 742,1482 742,1482 765,1486 802,1494 1433,1494 1435,1532 1433,1542 163,1544"/>
+        <Baseline points="163,1527 1435,1532"/>
+        <TextEquiv>
+          <Unicode>ſeine rein paſſiven Inſtrumente (S. 35); der Papſt kann es nicht ſein, denn dieſer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e131f4f9" >
+        <Coords points="163,1571 163,1529 1433,1540 1435,1577 1431,1594 159,1587"/>
+        <Baseline points="163,1571 1435,1577"/>
+        <TextEquiv>
+          <Unicode>ſteht ganz unter der Botmäßigkeit des Generals (S. 37); ebenſowenig die „römiſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_248e839b" >
+        <Coords points="163,1616 163,1577 1433,1579 1435,1620 1433,1631 163,1633"/>
+        <Baseline points="163,1616 1435,1620"/>
+        <TextEquiv>
+          <Unicode>Curie“, oder „die neuliche vaticaniſche Biſchofsverſammlung“, da ſie ja auch nur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d9095713" >
+        <Coords points="163,1660 163,1622 1433,1627 1435,1664 1431,1674 161,1672"/>
+        <Baseline points="163,1660 1435,1664"/>
+        <TextEquiv>
+          <Unicode>Werkzeuge der Jeſuiten (S. 38), alſo Werkzeuge der Werkzeuge des Generals ſind.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97efdb7f" >
+        <Coords points="163,1707 163,1670 1435,1674 1435,1707 1435,1718 372,1728 370,1728 161,1718"/>
+        <Baseline points="163,1707 1435,1707"/>
+        <TextEquiv>
+          <Unicode>Kurz, wie bringt Dr. Weber dieſe, nach ſeiner eigenen Behauptung „ſachkundige</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f54ccaa9" >
+        <Coords points="165,1753 157,1718 173,1705 173,1705 175,1705 175,1705 175,1705 177,1705 177,1705 179,1705 1429,1705 1433,1749 1431,1759 165,1765"/>
+        <Baseline points="165,1753 1433,1749"/>
+        <TextEquiv>
+          <Unicode>Enthüllung Heinr. v. Sybel&#39;s“ über die entgegengeſetzten Richtungen in der Geſell⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b36574bb" >
+        <Coords points="165,1796 165,1751 1437,1761 1437,1796 1437,1809 165,1809"/>
+        <Baseline points="165,1796 1437,1796"/>
+        <TextEquiv>
+          <Unicode>ſchaft Jeſu und über die Machtloſigkeit des Jeſuitengenerals in Einklang mit dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_172dedf1" >
+        <Coords points="165,1838 163,1800 1431,1796 1435,1842 1431,1856 163,1850"/>
+        <Baseline points="165,1838 1435,1842"/>
+        <TextEquiv>
+          <Unicode>von ihm urkundlich dargeſtellten Gehorſam der Jeſuiten? Auf die Löſung dieſes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_56325f96" >
+        <Coords points="165,1885 163,1842 754,1848 773,1881 775,1897 732,1910 730,1910 730,1910 727,1910 727,1910 727,1910 725,1910 698,1900 690,1897 680,1902 651,1914 651,1914 649,1914 649,1914 649,1914 647,1914 647,1914 645,1914 610,1904 603,1902 597,1904 570,1914 570,1914 568,1914 568,1914 566,1914 566,1914 566,1914 564,1914 564,1914 543,1906 529,1900 343,1900 304,1912 293,1916 293,1916 291,1916 291,1916 291,1918 165,1918"/>
+        <Baseline points="165,1885 773,1881"/>
+        <TextEquiv>
+          <Unicode>Räthſels dürfte ein Preis geſetzt werden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2f364ee" >
+        <Coords points="1005,1931 1002,1889 1158,1881 1160,1881 1160,1881 1216,1891 1222,1891 1224,1891 1238,1881 1240,1881 1240,1881 1240,1881 1242,1881 1242,1881 1244,1881 1244,1881 1366,1893 1366,1931 1366,1947 1234,1957 1232,1957 1232,1957 1232,1957 1230,1957 1230,1957 1230,1957 1207,1947 1205,1945 1205,1947 1193,1957 1193,1959 1193,1959 1191,1959 1191,1959 1191,1959 1189,1959 1189,1959 1189,1962 1114,1962 1112,1959 1112,1959 1110,1959 1110,1959 1075,1945 1073,1945 1005,1945"/>
+        <Baseline points="1005,1931 1366,1931"/>
+        <TextEquiv>
+          <Unicode>Rudolf Cornely, S. J.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

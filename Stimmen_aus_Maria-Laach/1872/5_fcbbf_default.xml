@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00006.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.130452+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.130485+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="5_fcbbf_default.jpg" imageWidth="1528" imageHeight="2481">
+    <TextRegion id="eSc_textblock_7dd2f9c5"  >
+      <Coords points="1395,297 1430,330 1511,322 1511,378 1403,388 1422,430 1511,421 1519,485 1494,502 1447,494 1445,444 1412,446 1428,477 1395,502 239,502 239,239 1428,248 1439,206 1511,206 1503,287 1414,262 1395,297"/>
+      <TextLine id="eSc_line_f1b05f41" >
+        <Coords points="1434,231 1430,204 1507,198 1511,225 1511,241 1434,243"/>
+        <Baseline points="1434,231 1511,225"/>
+        <TextEquiv>
+          <Unicode>Seite</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de36b860" >
+        <Coords points="233,268 231,235 1501,229 1505,270 1501,281 231,279"/>
+        <Baseline points="235,270 1385,270 1449,272 1507,272"/>
+        <TextEquiv>
+          <Unicode>Dr. L. Brentano, Die Arbeitergilden der Gegenwart. I. Bd. (R. Bauer S. J.) 442</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c7dcbfe" >
+        <Coords points="237,316 237,270 1387,270 1387,316 1387,324 237,332"/>
+        <Baseline points="237,316 1387,316"/>
+        <TextEquiv>
+          <Unicode>Dr. J. Langen, Das Vaticaniſche Dogma von dem Univerſal⸗Epiſcopat und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_919a03db" >
+        <Coords points="349,361 349,316 713,324 738,312 742,312 742,312 744,312 744,312 744,312 746,312 746,312 746,312 748,312 752,312 791,324 930,312 940,312 942,312 942,312 942,312 944,312 944,312 944,312 944,312 946,312 946,312 957,322 982,312 988,310 988,310 990,310 990,310 992,310 992,310 992,310 994,310 994,310 996,310 996,310 998,312 1015,324 1042,312 1042,312 1042,312 1044,312 1044,312 1044,312 1046,312 1046,312 1046,312 1048,312 1048,312 1048,312 1073,322 1217,314 1219,314 1219,314 1364,324 1381,312 1381,310 1383,310 1383,310 1383,310 1383,310 1385,310 1385,310 1387,310 1509,310 1509,361 1509,372 349,372"/>
+        <Baseline points="349,361 1509,361"/>
+        <TextEquiv>
+          <Unicode>der Unfehlbarkeit des Papſtes. II. Theil. (R. Cornely S. J.) . 452. 551</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b56e8cd4" >
+        <Coords points="237,407 233,368 1011,353 1013,353 1385,363 1389,401 1387,419 235,415"/>
+        <Baseline points="237,407 1389,401"/>
+        <TextEquiv>
+          <Unicode>Dr. J. Fehr, Staat und Kirche im fränkiſchen Reiche bis auf Karl den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c6c26c30" >
+        <Coords points="351,446 351,405 1348,415 1408,401 1505,444 1503,456 349,456"/>
+        <Baseline points="353,448 1248,450 1445,446 1507,446"/>
+        <TextEquiv>
+          <Unicode>Großen. (Fl. Rieß S. J.) . . . . . . . . 547</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a68bd901" >
+        <Coords points="235,487 233,454 322,442 322,442 324,442 324,442 324,442 326,442 326,442 351,452 353,454 355,452 368,444 370,444 370,444 370,444 372,444 372,444 372,444 374,444 374,444 376,444 407,452 415,456 643,456 655,452 684,444 686,444 686,444 688,444 1064,446 1064,446 1064,446 1066,446 1081,450 1099,456 1120,450 1135,446 1137,446 1137,446 1139,446 1139,446 1182,450 1242,456 1499,450 1505,487 1503,506 233,510"/>
+        <Baseline points="237,489 1304,494 1449,494 1507,489"/>
+        <TextEquiv>
+          <Unicode>Dr. J. Jungmann, S. J., Gefahren belletriſtiſcher Lectüre. (J. D.) . . 550</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b5473c87"  >
+      <Coords points="793,545 957,545 973,585 785,585 793,545"/>
+      <TextLine id="eSc_line_f0cde354" >
+        <Coords points="787,580 792,549 959,553 965,580 963,599 785,593"/>
+        <Baseline points="787,580 965,580"/>
+        <TextEquiv>
+          <Unicode>Miscellen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_19f589df"  >
+      <Coords points="808,1147 248,1147 231,686 314,620 1503,620 1519,1089 876,1114 808,1147"/>
+      <TextLine id="eSc_line_757b875c" >
+        <Coords points="310,655 308,618 1509,616 1511,655 1511,663 310,669"/>
+        <Baseline points="310,655 1511,655"/>
+        <TextEquiv>
+          <Unicode>Ein philoſophiſcher Handlanger der Proteſtkatholiken S. 83. Dr. Friedrich und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46c7f39f" >
+        <Coords points="237,698 231,665 260,653 260,653 262,653 262,653 264,653 1505,657 1509,696 1505,715 235,709"/>
+        <Baseline points="237,698 1509,696"/>
+        <TextEquiv>
+          <Unicode>das Secretum pontificium S. 85. Dr. Friedrichs Tagebuch S. 86. Die Geſellſchaft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ae31b83" >
+        <Coords points="239,744 239,705 1511,707 1511,744 1509,760 237,754"/>
+        <Baseline points="239,744 1511,744"/>
+        <TextEquiv>
+          <Unicode>Jeſu in China S. 89. Der Kindermord in Indien S. 179. Dr. Frohſchammer&#39;s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2ddf23b" >
+        <Coords points="241,785 241,744 1509,750 1511,789 1507,795 239,791"/>
+        <Baseline points="241,785 1511,789"/>
+        <TextEquiv>
+          <Unicode>Excommunicationsbulle S. 182. „Der Abfall der Niederlande“, von Dr. Holzwarth</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e6108aa" >
+        <Coords points="241,833 239,791 1507,793 1511,829 1509,839 241,843"/>
+        <Baseline points="241,833 1511,829"/>
+        <TextEquiv>
+          <Unicode>S. 183. Literariſches S. 185, 460. Prof. v. Holtzendorff, Ritter v. Schulte und Prediger</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e0d4c6f" >
+        <Coords points="239,876 239,839 1513,839 1513,876 1513,895 239,895"/>
+        <Baseline points="239,876 1513,876"/>
+        <TextEquiv>
+          <Unicode>Lisco S. 271. Ein überflüſſiger Vertheidiger des Papſtes Innocenz III. S. 273.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7900baa0" >
+        <Coords points="241,917 239,880 1505,878 1509,922 1505,932 239,930"/>
+        <Baseline points="241,917 1509,922"/>
+        <TextEquiv>
+          <Unicode>Schweizer Proteſtkatholicismus S. 274. Zur häuslichen Einrichtung der Neuprote⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82f684e2" >
+        <Coords points="241,965 241,926 1511,928 1511,965 1511,982 241,982"/>
+        <Baseline points="241,965 1511,965"/>
+        <TextEquiv>
+          <Unicode>ſtanten S. 275. Zur Chriſtianiſirung der Bühne S. 277. Deutſche Zeit⸗ und Streit⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f9ffc90" >
+        <Coords points="241,1011 239,967 1507,971 1511,1006 1509,1025 241,1027"/>
+        <Baseline points="241,1011 1511,1006"/>
+        <TextEquiv>
+          <Unicode>fragen S. 366. Curioſa aus dem amerikaniſchen Sectenleben der Gegenwart S. 367, 557.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_752b9fec" >
+        <Coords points="246,1052 246,1011 1509,1017 1509,1052 1507,1068 243,1064"/>
+        <Baseline points="246,1052 1509,1052"/>
+        <TextEquiv>
+          <Unicode>Unſere liebe Frau vom Siege S. 371. Urtheile über den Proteſtkatholicismus S. 371.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_84570f8a" >
+        <Coords points="243,1093 246,1048 279,1060 334,1050 334,1050 334,1050 334,1050 337,1050 337,1050 337,1050 337,1050 339,1050 372,1060 409,1050 411,1050 413,1050 413,1050 415,1050 500,1050 500,1050 500,1050 502,1050 502,1050 502,1050 504,1050 504,1050 506,1052 514,1060 543,1052 554,1050 556,1050 556,1050 558,1050 558,1050 558,1050 576,1052 618,1060 715,1054 812,1050 814,1050 814,1050 816,1050 816,1050 816,1050 831,1056 839,1060 845,1058 862,1050 862,1050 864,1050 864,1050 864,1050 866,1050 866,1050 868,1050 897,1058 907,1060 955,1058 1126,1052 1128,1052 1128,1052 1228,1064 1509,1097 1505,1122 1292,1112 1273,1120 1267,1122 1267,1122 1265,1122 1265,1122 1265,1124 1056,1124 1054,1122 1054,1122 1052,1122 1031,1116 1009,1112 971,1116 918,1122 918,1122 915,1122 915,1122 839,1114 773,1108 533,1108 529,1110 518,1118 518,1118 516,1118 516,1118 516,1118 514,1118 514,1118 512,1118 512,1118 512,1118 510,1118 510,1118 510,1118 508,1118 508,1118 508,1116 500,1110 498,1108 430,1108 425,1108 407,1120 405,1120 405,1120 403,1120 403,1120 403,1120 401,1120 401,1120 401,1120 399,1120 399,1120 396,1120 396,1120 396,1120 384,1108 382,1108 308,1108 306,1108 287,1120 285,1120 285,1120 285,1120 283,1120 283,1120 281,1120 281,1120 281,1120 279,1120 239,1106"/>
+        <Baseline points="243,1093 1509,1097"/>
+        <TextEquiv>
+          <Unicode>Jesuitica S. 373. Die amerikaniſchen Staatsſchulen S. 455. Die römiſchen Kata⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ff5d9b97" >
+        <Coords points="243,1139 241,1093 800,1099 804,1135 804,1168 767,1174 767,1174 765,1174 765,1174 762,1174 762,1174 762,1174 748,1168 738,1161 731,1168 725,1174 725,1174 723,1174 723,1174 723,1174 721,1174 721,1174 721,1176 612,1176 609,1174 609,1174 607,1174 576,1164 562,1159 539,1161 490,1170 490,1170 487,1170 487,1170 487,1170 485,1170 485,1170 485,1170 467,1161 461,1157 452,1159 411,1176 411,1176 409,1176 409,1176 407,1176 407,1176 405,1176 405,1176 405,1176 370,1157 365,1157 353,1157 266,1168 266,1168 264,1168 264,1168 262,1168 262,1168 262,1168 239,1155"/>
+        <Baseline points="243,1139 804,1135"/>
+        <TextEquiv>
+          <Unicode>komben S. 459. Ruſſiſches S. 555.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1ffb2be5"  >
+      <Coords points="876,115 899,138 860,146 860,124 876,115"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_9a3fad8b" >
+        <Coords points="866,144 866,101 893,107 893,144 893,165 866,165"/>
+        <Baseline points="866,144 893,144"/>
+        <TextEquiv>
+          <Unicode>IV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

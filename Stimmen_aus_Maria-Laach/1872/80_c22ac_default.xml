@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00081.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:11.193983+00:00</Created>
+        <LastChange>2022-02-23T19:09:11.193999+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="80_c22ac_default.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_f6883871"  >
+      <Coords points="767,146 719,155 719,99 767,107 767,146"/>
+      <TextLine id="eSc_line_138aa1e9" >
+        <Coords points="709,146 703,82 748,93 758,142 756,155 709,161"/>
+        <Baseline points="709,146 758,142"/>
+        <TextEquiv>
+          <Unicode>75</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cca981dd"  >
+      <Coords points="107,198 1371,206 1395,1304 115,1312 107,198"/>
+      <TextLine id="eSc_line_ea683f88" >
+        <Coords points="99,229 99,184 161,194 330,186 351,186 353,186 1362,200 1364,235 1362,250 97,250"/>
+        <Baseline points="99,229 1364,235"/>
+        <TextEquiv>
+          <Unicode>folgert der Verfaſſer, ſie wären zu „einem rückhaltsloſen und unbedingten Gehorſam“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a8bba669" >
+        <Coords points="103,277 103,233 1369,246 1371,281 1366,293 101,287"/>
+        <Baseline points="103,277 1371,281"/>
+        <TextEquiv>
+          <Unicode>verpflichtet (S. 4). Ueber die Unrichtigkeit dieſes Schluſſes brauche ich wohl, da die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2818c20b" >
+        <Coords points="103,322 103,277 167,289 1364,289 1366,326 1362,334 101,330"/>
+        <Baseline points="103,322 1366,326"/>
+        <TextEquiv>
+          <Unicode>Prämiſſe nicht nur nicht bewieſen, ſondern abſolut falſch iſt, kein Wort zu verlieren.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77a62bd1" >
+        <Coords points="169,370 169,324 1369,334 1369,370 1369,382 169,386"/>
+        <Baseline points="169,370 1369,370"/>
+        <TextEquiv>
+          <Unicode>Dr. Weber hat aber den Gehorſam der Jeſuiten nicht bloß urkundlich darſtellen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2b3cd2e" >
+        <Coords points="103,409 103,365 175,376 430,370 502,368 504,368 504,368 506,368 506,368 506,368 510,370 527,378 754,374 926,370 928,370 928,370 963,376 988,382 1366,382 1369,415 1364,423 101,421"/>
+        <Baseline points="103,409 1369,415"/>
+        <TextEquiv>
+          <Unicode>ſondern ihn auch im Gegenſatz zum Gehorſam der andern Orden zeichnen wollen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0560e999" >
+        <Coords points="103,452 103,413 1364,425 1366,461 1362,479 101,463"/>
+        <Baseline points="103,452 1366,461"/>
+        <TextEquiv>
+          <Unicode>Dazu war natürlich die Bekanntſchaft mit den Regeln der übrigen Orden erforderlich.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_57dab0b2" >
+        <Coords points="99,504 99,465 1375,465 1375,504 1373,523 97,514"/>
+        <Baseline points="99,504 1375,504"/>
+        <TextEquiv>
+          <Unicode>In Bezug auf dieſe jedoch verräth er eine ſo großartige Unkenntniß, daß er ohne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0612c080" >
+        <Coords points="103,543 103,498 157,508 1369,506 1373,547 1369,558 101,554"/>
+        <Baseline points="103,543 1373,547"/>
+        <TextEquiv>
+          <Unicode>es nur zu ahnen alle hl. Ordensſtiſter ohne Ausnahme trifft, wo er den hl. Igna⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_81dcc85b" >
+        <Coords points="103,587 103,547 1373,562 1375,595 1371,614 938,603 849,607 742,611 740,611 740,611 740,611 701,605 680,601 545,603 138,607 136,607 136,607 136,607 134,607 99,595"/>
+        <Baseline points="103,587 1375,595"/>
+        <TextEquiv>
+          <Unicode>tius allein zu treffen wähnt. Einige Beiſpiele werden wiederum meine Behauptung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ad73aee" >
+        <Coords points="103,632 103,585 283,601 285,636 281,647 99,642"/>
+        <Baseline points="103,632 285,636"/>
+        <TextEquiv>
+          <Unicode>rechtfertigen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f17acf1" >
+        <Coords points="173,684 169,638 1366,632 1373,678 1371,692 173,694"/>
+        <Baseline points="173,684 1373,678"/>
+        <TextEquiv>
+          <Unicode>Der gelehrte Herr macht es dem hl. Ignatius zum Vorwurf, daß er „die Stell⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b670a66f" >
+        <Coords points="105,719 105,680 1371,688 1373,727 1371,736 1058,746 1056,746 930,736 922,736 916,736 794,744 792,744 101,731"/>
+        <Baseline points="105,719 1373,727"/>
+        <TextEquiv>
+          <Unicode>vertretung Gottes und Chriſti durch die Obern ganz bedeutungsvoll in den Vorder⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ffb0af7b" >
+        <Coords points="105,771 103,729 1369,729 1373,767 1371,789 105,789"/>
+        <Baseline points="105,771 1373,767"/>
+        <TextEquiv>
+          <Unicode>grund ſchiebe“, daß die Vorgeſetzten in Beziehung auf die Untergebenen Gottes Stelle</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_90837e7c" >
+        <Coords points="105,810 105,771 1373,781 1375,814 1373,829 184,833 181,833 181,833 103,820"/>
+        <Baseline points="105,810 1375,814"/>
+        <TextEquiv>
+          <Unicode>vertreten“, „die Interpreten des göttlichen Willens ſeien“ u. ſ. w. (S. 5 ff.). Nun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d4734959" >
+        <Coords points="107,853 107,810 188,820 448,812 506,812 508,812 508,812 510,812 510,812 510,812 514,814 533,824 1377,824 1379,860 1375,872 105,864"/>
+        <Baseline points="107,853 1379,860"/>
+        <TextEquiv>
+          <Unicode>hören wir den großen hl. Baſilius von Cappadocien, den die Mönche der griechiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5a0e30d" >
+        <Coords points="107,899 107,860 1375,862 1377,903 1373,913 105,909"/>
+        <Baseline points="107,899 1377,903"/>
+        <TextEquiv>
+          <Unicode>Kirche als ihren Vater verehren: „Der Abt, ſagt er, iſt nichts Anderes, als der Stell⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_35217cf2" >
+        <Coords points="107,942 109,899 155,909 1375,907 1379,948 1377,957 533,965 531,965 157,963 157,963 157,963 105,951"/>
+        <Baseline points="107,942 1379,948"/>
+        <TextEquiv>
+          <Unicode>vertreter des Erlöſers, ein Mittler zwiſchen Gott und dem Menſchen“¹. Hat der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_820cba30" >
+        <Coords points="107,992 107,948 1377,959 1377,992 1377,1004 107,1004"/>
+        <Baseline points="107,992 1377,992"/>
+        <TextEquiv>
+          <Unicode>hl. Ignatius einen ſtärkeren, oder auch nur ſo ſtarken Ausdruck? Weiter heißt es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_26ba17ec" >
+        <Coords points="107,1033 107,988 196,998 568,992 738,990 740,990 740,990 742,990 742,990 742,990 752,994 765,1000 777,994 783,992 783,992 785,992 785,992 785,992 787,992 1373,1002 1375,1037 1373,1046 186,1054 184,1054 184,1054 105,1042"/>
+        <Baseline points="107,1033 1375,1037"/>
+        <TextEquiv>
+          <Unicode>bei ihm in der kürzeren Regel: „Er (der Ordensmann) ſei vollkommen überzeugt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af4f84bc" >
+        <Coords points="109,1079 109,1039 1377,1044 1379,1083 1377,1091 109,1093"/>
+        <Baseline points="109,1079 1379,1083"/>
+        <TextEquiv>
+          <Unicode>(πληροφορεισϑω), daß er nicht einem Menſchen widerſpricht oder gehorcht, ſondern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_006f7c56" >
+        <Coords points="109,1126 105,1085 1369,1081 1375,1122 1373,1137 109,1141"/>
+        <Baseline points="109,1126 1375,1122"/>
+        <TextEquiv>
+          <Unicode>Gott ſelbſt, welcher geſagt hat: Wer euch höret, der höret mich“². Tritt die Stell⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c5ec87c5" >
+        <Coords points="111,1170 111,1128 1379,1137 1379,1170 1379,1184 111,1184"/>
+        <Baseline points="111,1170 1379,1170"/>
+        <TextEquiv>
+          <Unicode>vertretung Gottes durch den Obern hier weniger in den Vordergrund als beim hei⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_956c4944" >
+        <Coords points="109,1215 109,1174 1381,1180 1381,1215 1381,1230 109,1230"/>
+        <Baseline points="109,1215 1381,1215"/>
+        <TextEquiv>
+          <Unicode>ligen Stifter der Geſellſchaft Jeſu? Neben den hl. Baſilius tritt billig der Patriarch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ff9fe7b" >
+        <Coords points="111,1257 113,1213 155,1223 1381,1223 1383,1261 1379,1271 109,1267"/>
+        <Baseline points="111,1257 1383,1261"/>
+        <TextEquiv>
+          <Unicode>der Mönche des Abendlandes, der hl. Benedict. „Der Gehorſam, ſo leſen wir in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c2860de" >
+        <Coords points="115,1300 115,1261 301,1277 326,1263 328,1263 328,1263 328,1263 330,1263 330,1263 330,1263 332,1263 332,1263 332,1263 335,1263 335,1263 335,1263 337,1263 337,1263 351,1273 359,1267 359,1265 359,1265 361,1265 361,1265 361,1265 361,1265 363,1265 363,1265 363,1265 494,1263 496,1263 496,1263 527,1267 581,1275 705,1271 841,1265 843,1265 843,1265 909,1273 965,1283 1381,1283 1383,1306 1383,1321 1348,1335 1348,1335 1346,1335 1346,1335 1344,1335 1344,1335 1344,1335 1342,1335 1342,1335 1342,1335 1340,1335 1340,1335 1325,1323 1191,1323 1168,1335 1166,1335 1166,1335 1164,1335 1164,1335 1164,1337 1011,1337 1009,1335 1009,1335 1007,1335 963,1321 961,1321 959,1321 934,1333 934,1333 934,1333 932,1333 932,1333 930,1333 930,1333 930,1333 874,1321 868,1321 864,1321 827,1333 825,1333 825,1333 825,1333 823,1333 823,1333 823,1333 821,1333 821,1333 818,1333 800,1321 798,1321 794,1321 742,1333 742,1333 742,1335 566,1335 564,1333 564,1333 562,1333 562,1333 562,1333 541,1321 535,1319 521,1321 477,1331 477,1331 477,1331 475,1331 475,1331 475,1331 473,1331 473,1331 452,1321 446,1319 442,1321 428,1331 426,1331 426,1331 426,1331 423,1331 423,1331 421,1331 111,1321"/>
+        <Baseline points="115,1300 1383,1306"/>
+        <TextEquiv>
+          <Unicode>ſeiner Regel, iſt dann Gott angenehm und den Menſchen wohlgefällig, wenn das Be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ba135a0f"  >
+      <Coords points="1404,2321 1304,2363 1106,2371 132,2354 115,1463 163,1455 181,1397 413,1389 1048,1389 1158,1430 1387,1438 1404,2321"/>
+      <TextLine id="eSc_line_52e8f843" >
+        <Coords points="184,1420 184,1381 1091,1381 1091,1424 1087,1445 579,1434 490,1436 246,1443 244,1443 244,1443 179,1430"/>
+        <Baseline points="184,1420 1091,1424"/>
+        <TextEquiv>
+          <Unicode>¹ Constit. monast. c. 22. n. 4. (Opp. ed. Maur. II. 573.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a9594b1d" >
+        <Coords points="181,1469 179,1426 1377,1432 1381,1465 1377,1480 179,1478"/>
+        <Baseline points="181,1469 1381,1465"/>
+        <TextEquiv>
+          <Unicode>² Reg. brev. tract. 38. (Opp. II. 427.) Aus der citirten Stelle iſt auch er⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b6c5dd8" >
+        <Coords points="113,1511 113,1467 235,1467 235,1467 235,1467 237,1467 237,1467 237,1467 237,1467 258,1478 293,1467 295,1467 297,1467 297,1467 299,1467 299,1467 299,1467 301,1467 301,1467 301,1467 304,1467 322,1478 361,1467 370,1467 370,1467 372,1467 517,1467 517,1467 517,1467 519,1467 519,1467 519,1467 521,1467 521,1467 523,1469 533,1480 750,1480 761,1472 765,1467 765,1467 767,1467 767,1467 767,1467 769,1467 769,1467 771,1467 1383,1478 1383,1511 1383,1529 113,1529"/>
+        <Baseline points="113,1511 1383,1511"/>
+        <TextEquiv>
+          <Unicode>ſichtlich, daß der hl. Ignatius einen guten Gewährsmann hatte, wenn er die Worte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11af9ecd" >
+        <Coords points="115,1552 115,1509 198,1519 1377,1519 1381,1558 1379,1567 539,1575 537,1575 113,1560"/>
+        <Baseline points="115,1552 1381,1558"/>
+        <TextEquiv>
+          <Unicode>des Herrn: „Wer euch höret u. ſ. w.“ (Luk. 10, 16) vom Ordensgehorſam verſteht,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_abf53715" >
+        <Coords points="115,1596 115,1560 326,1563 341,1560 392,1552 392,1552 394,1552 394,1552 394,1552 397,1552 397,1552 397,1552 415,1560 417,1563 436,1563 514,1554 517,1554 517,1554 589,1563 612,1565 616,1563 628,1554 630,1554 630,1554 630,1554 632,1554 632,1554 634,1554 634,1554 723,1563 740,1565 750,1565 802,1554 802,1554 804,1554 804,1554 804,1554 806,1554 839,1565 843,1565 854,1565 951,1554 951,1554 953,1554 1131,1567 1149,1567 1149,1567 1166,1556 1168,1556 1168,1556 1168,1556 1170,1556 1170,1556 1172,1556 1331,1556 1331,1556 1331,1556 1383,1569 1385,1602 1383,1612 541,1620 539,1620 163,1618 163,1618 163,1618 113,1606"/>
+        <Baseline points="115,1596 1385,1602"/>
+        <TextEquiv>
+          <Unicode>trotz der gegentheiligen Anſicht des Herrn Gymnaſial⸗Religionslehrers (S. 6). Wenn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55b8c62b" >
+        <Coords points="115,1639 115,1602 1385,1608 1389,1643 1387,1651 115,1656"/>
+        <Baseline points="115,1639 471,1649 1389,1643"/>
+        <TextEquiv>
+          <Unicode>dieſer einmal das eben citirte 22. Capitel der Constit. monast. des hl. Baſilius leſen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7270621" >
+        <Coords points="115,1685 115,1639 194,1651 409,1643 459,1641 461,1641 461,1641 479,1643 539,1654 593,1645 612,1643 612,1643 614,1643 698,1647 843,1654 864,1649 893,1643 893,1643 893,1643 895,1643 895,1643 897,1643 897,1643 897,1643 899,1643 899,1643 899,1645 905,1649 909,1654 1011,1651 1244,1645 1247,1645 1247,1645 1249,1645 1249,1645 1249,1645 1251,1645 1251,1645 1263,1656 1265,1656 1269,1656 1331,1645 1331,1645 1333,1645 1333,1645 1333,1645 1385,1658 1387,1691 1383,1705 113,1695"/>
+        <Baseline points="115,1685 1387,1691"/>
+        <TextEquiv>
+          <Unicode>will, wird er auch wohl nicht mehr dem hl. Ignatius einen Vorwurf deßhalb machen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_589a89fa" >
+        <Coords points="115,1728 113,1693 1381,1699 1385,1732 1383,1742 115,1747"/>
+        <Baseline points="115,1728 399,1738 1385,1732"/>
+        <TextEquiv>
+          <Unicode>weil er das Beiſpiel Abrahams, welcher bereit war auf Beſehl Gottes ſeinen Sohn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a6ca574f" >
+        <Coords points="115,1778 115,1734 1385,1744 1385,1778 1383,1794 113,1788"/>
+        <Baseline points="115,1778 1385,1778"/>
+        <TextEquiv>
+          <Unicode>Iſaak zu ſchlachten, als Muſter des Gehorſams aufgeſtellt habe (S. 32 Anm. 2).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4a49e1ed" >
+        <Coords points="117,1817 115,1778 283,1788 1379,1778 1385,1821 1383,1829 117,1835"/>
+        <Baseline points="117,1817 339,1827 1385,1821"/>
+        <TextEquiv>
+          <Unicode>Da es aber dem Herrn Religionslehrer beliebt hat, dem hl. Ignatius in Bezug auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2daaebf" >
+        <Coords points="119,1862 119,1823 1387,1833 1389,1869 1387,1879 171,1883 169,1883 169,1883 117,1871"/>
+        <Baseline points="119,1862 1389,1869"/>
+        <TextEquiv>
+          <Unicode>Exegeſe das Penſum zu corrigiren, wird er geſtatten müſſen, daß ich mir ihm gegen⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3252aeff" >
+        <Coords points="122,1906 119,1866 227,1866 227,1866 227,1866 227,1866 229,1866 229,1866 229,1866 231,1866 246,1877 277,1866 279,1866 279,1866 279,1866 279,1866 281,1866 281,1866 281,1866 283,1866 283,1866 310,1877 335,1866 335,1866 335,1866 337,1866 337,1866 337,1866 339,1866 339,1866 339,1866 341,1866 341,1866 372,1877 401,1866 401,1866 401,1866 403,1866 403,1866 405,1866 405,1866 405,1866 407,1866 407,1866 407,1866 436,1877 1383,1869 1389,1910 1387,1920 122,1922"/>
+        <Baseline points="122,1906 394,1916 1389,1910"/>
+        <TextEquiv>
+          <Unicode>über die nämliche Freiheit nehme. S. 27 citirt und erklärt Dr. Weber zwei Texte;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_577bdbcc" >
+        <Coords points="122,1949 119,1910 626,1920 641,1912 645,1910 647,1910 647,1910 649,1910 649,1910 649,1910 651,1910 725,1914 831,1918 849,1914 874,1908 876,1908 876,1908 878,1908 878,1908 880,1908 907,1914 926,1918 988,1914 1108,1908 1110,1908 1110,1908 1110,1908 1112,1908 1112,1908 1133,1916 1139,1918 1143,1916 1156,1908 1158,1908 1158,1908 1160,1908 1160,1908 1160,1908 1162,1908 1309,1916 1352,1906 1354,1906 1354,1906 1356,1906 1356,1906 1356,1906 1358,1906 1358,1906 1387,1918 1389,1953 1387,1962 1133,1974 1131,1974 119,1968"/>
+        <Baseline points="122,1949 304,1959 1389,1953"/>
+        <TextEquiv>
+          <Unicode>ich möchte nun gerne wiſſen, erſtens ſeit wann Röm. 12, 1 „rationabile obsequium</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e194c137" >
+        <Coords points="122,1993 122,1959 1385,1964 1389,1999 1387,2013 122,2013"/>
+        <Baseline points="122,1993 490,2005 1389,1999"/>
+        <TextEquiv>
+          <Unicode>vestrum“ überſetzt werden kann: „Euer Gehorſam ſei vernünftig,“ da doch obsequium,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29781fdc" >
+        <Coords points="122,2036 119,2003 421,2011 444,2001 444,2001 444,2001 444,2001 446,2001 446,2001 448,2001 473,2001 727,2009 800,1999 812,1999 814,1999 1381,1999 1385,2038 1383,2053 730,2065 727,2065 727,2065 725,2065 725,2065 703,2057 701,2055 698,2057 686,2065 684,2065 684,2065 684,2065 682,2065 682,2065 682,2065 680,2065 496,2057 481,2057 477,2057 423,2067 423,2067 421,2067 119,2057"/>
+        <Baseline points="122,2036 372,2048 1385,2038"/>
+        <TextEquiv>
+          <Unicode>weil hier dem λατρεία (Gottesdienſt) entſprechend, unmöglich den Sinn „Gehorſam“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d66cccb2" >
+        <Coords points="122,2081 119,2044 423,2055 440,2044 440,2044 442,2044 442,2044 442,2044 444,2044 444,2044 446,2044 636,2046 1067,2050 1075,2048 1100,2038 1100,2038 1102,2038 1102,2038 1104,2038 1104,2038 1104,2038 1151,2048 1156,2048 1164,2048 1255,2038 1255,2038 1257,2038 1257,2038 1259,2038 1259,2038 1259,2038 1261,2038 1261,2038 1273,2048 1273,2050 1389,2050 1393,2084 1389,2104 1338,2094 1145,2104 1093,2106 1091,2106 119,2100"/>
+        <Baseline points="122,2081 403,2094 1393,2084"/>
+        <TextEquiv>
+          <Unicode>hat. Ferner wäre ich ſehr begierig zu erfahren, mit welchem Rechte die Worte des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48a26266" >
+        <Coords points="124,2125 122,2088 411,2088 411,2088 411,2088 413,2088 413,2088 413,2088 442,2100 806,2100 843,2090 858,2086 860,2086 860,2086 862,2086 862,2086 862,2086 864,2086 864,2086 864,2086 872,2090 885,2096 932,2090 963,2086 963,2086 965,2086 965,2086 965,2086 988,2090 1023,2096 1387,2092 1393,2131 1391,2141 124,2143"/>
+        <Baseline points="124,2125 368,2137 1393,2131"/>
+        <TextEquiv>
+          <Unicode>Apoſtels „Prüfet Alles u. ſ. w.“ (1. Theſſ. 5, 21), welche dem Contexte gemäß bloß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0e57d03e" >
+        <Coords points="124,2168 122,2135 1391,2139 1395,2175 1391,2193 122,2189"/>
+        <Baseline points="124,2168 380,2183 1395,2175"/>
+        <TextEquiv>
+          <Unicode>auf die Vorträge der neuteſtamentlichen Propheten bezogen werden können, in ganz</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b1d79ed" >
+        <Coords points="124,2212 122,2177 523,2189 634,2181 709,2175 711,2175 711,2175 711,2175 713,2175 713,2175 713,2175 715,2175 715,2175 723,2181 732,2189 841,2189 849,2183 860,2175 862,2175 862,2175 862,2175 864,2175 864,2175 864,2175 866,2175 1007,2183 1069,2187 1079,2185 1114,2172 1116,2172 1116,2172 1116,2172 1118,2172 1118,2172 1120,2172 1166,2185 1168,2185 1168,2185 1191,2175 1191,2175 1191,2175 1193,2175 1193,2175 1195,2175 1195,2175 1195,2175 1197,2175 1197,2175 1197,2175 1199,2175 1199,2175 1209,2183 1222,2172 1222,2172 1224,2172 1224,2172 1224,2172 1226,2172 1226,2172 1228,2172 1228,2172 1228,2172 1230,2172 1230,2172 1257,2183 1362,2172 1362,2172 1364,2172 1364,2172 1364,2172 1366,2172 1366,2172 1369,2172 1393,2187 1393,2218 1391,2228 1089,2241 1087,2241 122,2234"/>
+        <Baseline points="124,2212 388,2226 1393,2218"/>
+        <TextEquiv>
+          <Unicode>allgemeiner Bedeutung von den Befehlen der (geiſtlichen und weltlichen) Vorgeſetzten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_17ca6ace" >
+        <Coords points="124,2255 124,2222 1391,2230 1395,2261 1393,2278 124,2278"/>
+        <Baseline points="124,2255 541,2272 1395,2261"/>
+        <TextEquiv>
+          <Unicode>verſtanden werden? Andere exegetiſche Kunſtſtücke Dr. Webers werden wir noch unten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7371edb" >
+        <Coords points="126,2299 126,2265 256,2265 256,2265 256,2265 258,2265 258,2265 258,2265 258,2265 260,2265 260,2265 260,2268 270,2276 363,2265 374,2265 376,2265 519,2265 519,2265 519,2265 521,2265 521,2265 521,2265 523,2265 523,2265 537,2276 558,2268 562,2265 562,2265 564,2265 564,2265 564,2265 566,2265 566,2265 568,2265 568,2265 568,2265 570,2265 570,2265 570,2268 585,2276 1389,2272 1395,2309 1393,2319 126,2321"/>
+        <Baseline points="126,2299 399,2315 1395,2309"/>
+        <TextEquiv>
+          <Unicode>kennen lernen; und Alles zuſammengenommen, will es mir ſcheinen, daß ein Repe⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cece6c9f" >
+        <Coords points="128,2342 128,2309 229,2313 229,2313 229,2313 231,2313 231,2313 233,2313 254,2325 531,2315 616,2313 618,2313 618,2313 620,2313 620,2313 620,2313 628,2317 643,2325 651,2317 659,2311 659,2311 661,2311 661,2311 661,2311 663,2311 663,2311 665,2311 665,2311 723,2319 785,2328 796,2319 806,2313 808,2313 808,2313 808,2313 810,2313 810,2313 810,2313 812,2313 812,2313 814,2313 845,2321 858,2323 883,2321 963,2315 965,2315 965,2315 965,2315 967,2315 967,2315 967,2315 969,2315 969,2315 969,2317 978,2323 980,2328 990,2323 1019,2313 1019,2313 1021,2313 1021,2313 1023,2313 1023,2313 1023,2313 1025,2313 1056,2323 1067,2313 1067,2313 1069,2313 1069,2313 1069,2313 1071,2313 1071,2313 1073,2313 1265,2313 1265,2313 1265,2313 1267,2313 1267,2313 1267,2313 1298,2330 1298,2359 1298,2369 1251,2385 1249,2385 1249,2385 1249,2385 1247,2385 1247,2385 1247,2385 1170,2371 1141,2383 1141,2383 1139,2383 1139,2383 1139,2383 843,2385 841,2385 841,2385 839,2385 839,2385 798,2371 754,2385 752,2385 752,2385 752,2385 750,2385 423,2371 308,2381 308,2381 306,2381 306,2381 304,2381 304,2381 272,2367 124,2365"/>
+        <Baseline points="128,2342 343,2359 1298,2359"/>
+        <TextEquiv>
+          <Unicode>titorium der Exegeſe dem Herrn Doctor (der Theologie?) nicht ſchaden könnte.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

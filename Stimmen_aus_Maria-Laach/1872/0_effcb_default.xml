@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00001.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.055561+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.055601+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="0_effcb_default.jpg" imageWidth="2191" imageHeight="2618">
+    <TextRegion id="eSc_textblock_274573e9"  >
+      <Coords points="403,641 403,697 157,695 165,628"/>
+      <TextLine id="eSc_line_e12ad687" >
+        <Coords points="159,682 157,641 244,623 246,623 399,650 401,689 399,700 242,709 240,709 237,709 235,709 235,706 233,706 226,698 170,706 168,706 165,706 163,706 163,704 150,691"/>
+        <Baseline points="159,682 401,689"/>
+        <TextEquiv>
+          <Unicode>Stimmen</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6e9b3848"  >
+      <Coords points="69,715 165,706 477,715 495,774 52,774"/>
+      <TextLine id="eSc_line_a0241d68" >
+        <Coords points="54,763 54,700 493,704 491,776 486,822 346,820 344,820 312,802 274,783 139,778 130,783 117,789 115,789 113,789 111,789 48,772"/>
+        <Baseline points="54,763 491,776"/>
+        <TextEquiv>
+          <Unicode>aus Maria-Laach</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_21f07449"  >
+      <Coords points="332,1642 332,1725 183,1708 183,1649"/>
+      <TextLine id="eSc_line_e1b37b70" >
+        <Coords points="183,1699 187,1607 242,1629 274,1625 294,1623 296,1623 298,1623 327,1636 322,1706 318,1719 178,1712"/>
+        <Baseline points="183,1699 322,1706"/>
+        <TextEquiv>
+          <Unicode>1872</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_057e6820"  >
+      <Coords points="312,2347 312,2388 192,2388 200,2338"/>
+      <TextLine id="eSc_line_580d18f5" >
+        <Coords points="194,2378 192,2340 312,2327 314,2378 314,2399 194,2399"/>
+        <Baseline points="194,2378 314,2378"/>
+        <TextEquiv>
+          <Unicode>Misc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cb6066eb"  >
+      <Coords points="294,2426 294,2484 218,2484 218,2426"/>
+      <TextLine id="eSc_line_c3d75bef" >
+        <Coords points="213,2447 211,2419 285,2421 290,2445 285,2467 211,2463"/>
+        <Baseline points="216,2450 292,2447"/>
+        <TextEquiv>
+          <Unicode>oct</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b054bdc5"  >
+      <Coords points="378,2469 362,2570 129,2573 140,2460"/>
+      <TextLine id="eSc_line_676fb144" >
+        <Coords points="135,2556 135,2478 155,2460 174,2471 196,2454 196,2452 198,2452 200,2452 202,2452 259,2463 261,2463 266,2463 298,2452 301,2452 303,2452 305,2452 307,2452 307,2454 312,2456 320,2465 364,2452 370,2559 366,2613 130,2604"/>
+        <Baseline points="137,2559 372,2561"/>
+        <TextEquiv>
+          <Unicode>2705</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_44059d8d"  >
+      <Coords points="271,700 271,704 281,704 281,700"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_d794c1a3" >
+        <Coords points="229,1616 229,1544 264,1553 264,1616 261,1627 226,1623"/>
+        <Baseline points="230,1618 265,1618"/>
+        <TextEquiv>
+          <Unicode>2</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

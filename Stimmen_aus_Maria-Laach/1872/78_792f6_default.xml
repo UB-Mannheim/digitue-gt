@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00079.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:11.169112+00:00</Created>
+        <LastChange>2022-02-23T19:09:11.169127+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="78_792f6_default.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_68062a26"  >
+      <Coords points="758,130 703,130 711,82 758,90 758,130"/>
+      <TextLine id="eSc_line_ff5cd18e" >
+        <Coords points="701,121 701,78 756,78 754,126 748,146 694,132"/>
+        <Baseline points="701,121 754,126"/>
+        <TextEquiv>
+          <Unicode>73</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d9aabb92"  >
+      <Coords points="1371,2197 444,2216 653,2257 1338,2257 1371,2296 1050,2305 982,2346 90,2330 124,2247 90,2189 99,190 1371,198 1371,2197"/>
+      <TextLine id="eSc_line_23269540" >
+        <Coords points="97,215 97,181 1360,192 1366,227 1362,246 95,233"/>
+        <Baseline points="97,215 357,227 1366,227"/>
+        <TextEquiv>
+          <Unicode>winnen will.“ (S. 1.) In der That citirt der Verfaſſer auch im Verlaufe ſeiner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c200d19" >
+        <Coords points="101,264 101,223 163,233 1360,233 1364,270 1362,281 523,289 521,289 99,274"/>
+        <Baseline points="101,264 1364,270"/>
+        <TextEquiv>
+          <Unicode>Abhandlung bloß dieſe beiden Schriftchen, das ſogen. Summarium (und zwar aus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf2eec54" >
+        <Coords points="103,308 103,270 1360,270 1364,314 1362,324 103,324"/>
+        <Baseline points="103,308 467,318 1364,314"/>
+        <TextEquiv>
+          <Unicode>demſelben nur fünf Regeln) und den Brief des hl. Ignatius. Wie er aber aus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3202b108" >
+        <Coords points="97,353 97,310 167,324 1362,324 1366,359 1364,370 529,378 527,378 527,378 525,378 479,368 208,376 206,376 206,376 95,363"/>
+        <Baseline points="97,353 1366,359"/>
+        <TextEquiv>
+          <Unicode>dieſen fünf Regeln und einem Briefe, der geſchrieben wurde, als die Geſellſchaft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f03d5448" >
+        <Coords points="97,401 97,357 1364,372 1366,407 1364,415 1000,425 998,425 998,425 940,415 936,415 916,415 550,423 548,423 95,411"/>
+        <Baseline points="97,401 1366,407"/>
+        <TextEquiv>
+          <Unicode>Jeſu ſchon längſt beſtand, „ein ebenſo klares als richtiges Urtheil über die innere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0a82b59" >
+        <Coords points="95,444 95,401 157,411 1360,409 1364,448 1362,458 736,469 734,469 734,469 659,458 148,467 146,467 146,467 146,467 93,454"/>
+        <Baseline points="95,444 1364,448"/>
+        <TextEquiv>
+          <Unicode>Einrichtung des Ordens gewinnen will“, iſt mir abſolut unfaßbar. Das Summa⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5098fd5f" >
+        <Coords points="97,487 97,446 1366,461 1366,494 1362,506 95,500"/>
+        <Baseline points="97,487 1366,494"/>
+        <TextEquiv>
+          <Unicode>rium iſt der Überſchrift gemäß nur eine kurze Zuſammenſtellung der hauptſächlichſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a60e2139" >
+        <Coords points="97,535 97,492 179,502 639,494 641,494 641,494 734,504 1362,496 1364,539 1360,549 95,545"/>
+        <Baseline points="97,535 1364,539"/>
+        <TextEquiv>
+          <Unicode>Pflichten der Mitglieder¹, handelt aber gar nicht von der Einrichtung der Ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_adb109af" >
+        <Coords points="99,578 99,535 171,545 525,539 661,537 663,537 663,537 690,541 732,549 1360,549 1362,583 1360,595 163,601 161,601 161,601 97,589"/>
+        <Baseline points="99,578 1362,583"/>
+        <TextEquiv>
+          <Unicode>ſellſchaft, nicht von den verſchiedenen Stufen, Graden, Aemtern, Beſchäftigungen u. ſ. w.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ee53e63" >
+        <Coords points="101,626 101,587 1364,587 1364,626 1364,640 101,640"/>
+        <Baseline points="101,626 1364,626"/>
+        <TextEquiv>
+          <Unicode>und der Brief des hl. Ignatius iſt ein Gelegenheitsſchreiben, das mit der Einrich⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d55fa679" >
+        <Coords points="101,671 101,630 1366,638 1366,671 1366,686 101,686"/>
+        <Baseline points="101,671 1366,671"/>
+        <TextEquiv>
+          <Unicode>tung der Geſellſchaft, die ſchon vor ſeiner Abfaſſung beſtand, nichts zu thun hat, ſon⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80e53fd4" >
+        <Coords points="101,713 101,669 177,680 1362,680 1366,717 1364,727 736,738 734,738 734,738 732,738 690,727 165,736 163,736 163,736 99,723"/>
+        <Baseline points="101,713 1366,717"/>
+        <TextEquiv>
+          <Unicode>dern eine Pflicht des Ordenslebens im Allgemeinen erläutert. Es iſt doch wohl nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2cc53881" >
+        <Coords points="97,760 97,727 1366,727 1366,760 1364,777 95,773"/>
+        <Baseline points="97,760 1366,760"/>
+        <TextEquiv>
+          <Unicode>zu viel verlangt von einem Gymnaſial⸗Religionslehrex, der über den Jeſuitenorden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_507009b1" >
+        <Coords points="95,802 95,760 1366,773 1366,806 1364,818 140,827 138,827 138,827 136,827 90,814"/>
+        <Baseline points="95,802 1366,806"/>
+        <TextEquiv>
+          <Unicode>ſchreiben will, daß er wiſſe, die innere und äußere Einrichtung der Geſellſchaft Jeſu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_76675e1c" >
+        <Coords points="93,847 95,804 142,818 560,818 614,808 632,806 632,806 634,806 634,806 634,806 636,806 647,808 678,816 1362,816 1364,851 1360,862 90,858"/>
+        <Baseline points="93,847 1364,851"/>
+        <TextEquiv>
+          <Unicode>ſei nur zu erlernen aus dem vollſtändigen Inſtitute derſelben. Wäre nicht wohl auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ccfcd59" >
+        <Coords points="93,891 93,849 531,860 698,855 934,851 936,851 936,851 938,851 938,851 938,851 940,851 940,851 949,860 953,862 1023,862 1333,853 1335,853 1335,853 1338,853 1338,853 1369,866 1366,897 1364,907 1079,917 1077,917 90,903"/>
+        <Baseline points="93,891 1366,897"/>
+        <TextEquiv>
+          <Unicode>in einer der öffentlichen Bibliotheken Breslau&#39;s, die ſich ja aus den Bücherſchätzen der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc682cbb" >
+        <Coords points="95,936 93,899 1360,897 1364,940 1360,951 93,946"/>
+        <Baseline points="95,936 1364,940"/>
+        <TextEquiv>
+          <Unicode>aufgehobenen Klöſter bereichert haben, ein Exemplar desſelben mit leichter Mühe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50cfe917" >
+        <Coords points="95,984 95,951 1366,951 1366,984 1366,994 138,1004 136,1004 136,1004 93,994"/>
+        <Baseline points="95,984 1366,984"/>
+        <TextEquiv>
+          <Unicode>aufzutreiben geweſen? Wenn Dr. Weber ſich der Mühe unterziehen will, dasſelbe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5190c98d" >
+        <Coords points="95,1025 95,984 721,984 721,984 721,984 723,984 723,984 723,984 723,984 725,984 742,994 1360,986 1364,1029 1358,1050 1327,1039 1048,1046 889,1050 887,1050 887,1050 885,1050 862,1044 841,1039 802,1044 736,1050 736,1050 734,1050 734,1050 732,1050 732,1050 732,1050 730,1050 730,1050 721,1042 715,1037 707,1042 692,1048 692,1048 690,1048 690,1048 690,1050 465,1050 463,1048 463,1048 461,1048 428,1037 421,1037 415,1037 370,1048 370,1048 370,1048 368,1048 368,1048 366,1048 366,1048 366,1048 363,1048 363,1048 351,1037 332,1048 332,1048 332,1048 330,1048 330,1048 330,1050 155,1050 153,1048 153,1048 93,1033"/>
+        <Baseline points="95,1025 1364,1029"/>
+        <TextEquiv>
+          <Unicode>durch⸗zuſtudiren (es beſteht allerdings in zwei anſtändigen Folianten und nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e7b3ec71" >
+        <Coords points="95,1075 93,1033 1360,1039 1364,1070 1362,1083 95,1087"/>
+        <Baseline points="95,1075 1364,1070"/>
+        <TextEquiv>
+          <Unicode>in einem kleinen Duodezbändchen, wie die beiden von ihm benutzten Quellen), dann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d4e8ed8e" >
+        <Coords points="95,1118 95,1077 1364,1083 1364,1118 1364,1130 95,1130"/>
+        <Baseline points="95,1118 1364,1118"/>
+        <TextEquiv>
+          <Unicode>wird er zunächſt bekannt werden mit den vom hl. Ignatius herrührenden Conſtitu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_df0af5ec" >
+        <Coords points="99,1159 99,1118 1360,1130 1362,1164 1358,1176 97,1172"/>
+        <Baseline points="99,1159 1362,1164"/>
+        <TextEquiv>
+          <Unicode>tionen und den vom nämlichen Heiligen hinzugefügten Declarationen, welche zuſam⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb66a1e8" >
+        <Coords points="95,1207 95,1166 1364,1166 1364,1207 1362,1221 93,1219"/>
+        <Baseline points="95,1207 1364,1207"/>
+        <TextEquiv>
+          <Unicode>men die Grundlage der Einrichtung der Geſellſchaft Jeſu bilden; ferner mit den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ec9f3e9" >
+        <Coords points="97,1248 97,1207 1362,1211 1364,1252 1362,1263 734,1273 732,1273 732,1273 730,1273 686,1263 198,1271 196,1271 95,1259"/>
+        <Baseline points="97,1248 1364,1252"/>
+        <TextEquiv>
+          <Unicode>Decreten der Generalcongregationen, welche auch Geſetzeskraft haben, mit den voll⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e80f7612" >
+        <Coords points="101,1292 101,1248 523,1261 1360,1254 1364,1298 1362,1308 523,1316 521,1316 99,1302"/>
+        <Baseline points="101,1292 1364,1298"/>
+        <TextEquiv>
+          <Unicode>ſtändigen Regeln der Obern, Untergebenen, und endlich mit den Ordinationen und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0761b175" >
+        <Coords points="97,1337 97,1296 1360,1308 1362,1341 1358,1362 95,1350"/>
+        <Baseline points="97,1337 1362,1341"/>
+        <TextEquiv>
+          <Unicode>Inſtructionen der Generäle, welche theils die Regeln erklären, theils ihre Praxis er⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62b51199" >
+        <Coords points="97,1379 97,1339 1362,1356 1364,1387 1360,1403 93,1395"/>
+        <Baseline points="97,1379 1364,1387"/>
+        <TextEquiv>
+          <Unicode>läutern. Aus dieſen Quellen wird er dann auch ein vollſtändiges Bild der innern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_28dea1de" >
+        <Coords points="97,1424 97,1383 1360,1397 1362,1432 1360,1443 415,1449 413,1449 95,1434"/>
+        <Baseline points="97,1424 1362,1432"/>
+        <TextEquiv>
+          <Unicode>und äußern Einrichtung des Ordens gewinnen. Aus den beiden von ihm benutzten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd19550e" >
+        <Coords points="97,1469 99,1426 138,1436 523,1432 674,1430 676,1430 676,1430 709,1434 758,1441 883,1436 1021,1432 1023,1432 1023,1432 1023,1432 1025,1432 1048,1438 1060,1445 1362,1445 1364,1478 1362,1488 415,1494 413,1494 95,1480"/>
+        <Baseline points="97,1469 1364,1478"/>
+        <TextEquiv>
+          <Unicode>Quellen aber dieſelbe kennen lernen wollen, heißt ebenſoviel, als aus den Schulgeſetzen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b29d8ee9" >
+        <Coords points="95,1513 95,1472 237,1482 440,1476 502,1474 504,1474 504,1474 506,1474 506,1474 506,1474 508,1474 508,1474 510,1476 523,1484 727,1480 868,1476 870,1476 1362,1488 1364,1519 1360,1532 93,1525"/>
+        <Baseline points="95,1513 1364,1519"/>
+        <TextEquiv>
+          <Unicode>die jährlich den Gymnaſiaſten verleſen werden, und aus der einen einzelnen Punct</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7c123e3" >
+        <Coords points="95,1558 95,1517 1364,1532 1366,1565 1362,1577 93,1571"/>
+        <Baseline points="95,1558 1366,1565"/>
+        <TextEquiv>
+          <Unicode>derſelben erläuternden Rede des Directors die innere Einrichtung eines preußiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a6827815" >
+        <Coords points="95,1604 95,1558 543,1577 545,1612 541,1620 90,1612"/>
+        <Baseline points="95,1604 545,1612"/>
+        <TextEquiv>
+          <Unicode>Gymnaſiums erkennen wollen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b0afc1b" >
+        <Coords points="159,1656 159,1608 1364,1618 1364,1656 1362,1670 157,1666"/>
+        <Baseline points="159,1656 1364,1656"/>
+        <TextEquiv>
+          <Unicode>Die erſte Pflicht alſo des unparteiiſchen Hiſtorikers, die vollſtändigen Quellen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1446388" >
+        <Coords points="95,1689 95,1651 380,1662 1358,1656 1362,1699 1360,1707 390,1716 388,1716 93,1703"/>
+        <Baseline points="95,1689 324,1699 1362,1699"/>
+        <TextEquiv>
+          <Unicode>und nur wirkliche Quellen zu benutzen, hat der Verfaſſer nicht beobachtet. Dieſe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_208e4283" >
+        <Coords points="95,1736 95,1699 1362,1709 1366,1744 1362,1755 93,1747"/>
+        <Baseline points="95,1736 1366,1744"/>
+        <TextEquiv>
+          <Unicode>grobe Unkenntniß der Quellen hat ihn deshalb auch zu groben Mißgriffen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fdeea397" >
+        <Coords points="99,1780 99,1742 1358,1753 1362,1786 1358,1798 97,1796"/>
+        <Baseline points="99,1780 376,1790 1362,1786"/>
+        <TextEquiv>
+          <Unicode>und Irrthümern verleitet. Ein Beiſpiel wird genügen, dieſes darzuthun. „Von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ce0c131c" >
+        <Coords points="99,1819 99,1786 1362,1796 1364,1835 1362,1842 955,1852 953,1852 95,1838"/>
+        <Baseline points="99,1819 316,1833 1364,1835"/>
+        <TextEquiv>
+          <Unicode>Rechten der Untergebenen gegenüber ihren Vorgeſetzten iſt in der Geſellſchaft ſo gut</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b8b6a04f" >
+        <Coords points="95,1864 95,1829 1362,1842 1364,1879 1362,1885 849,1895 847,1895 93,1881"/>
+        <Baseline points="95,1864 378,1879 1364,1879"/>
+        <TextEquiv>
+          <Unicode>wie gar nicht die Rede“, behauptet er (S. 3.), und auf der folgenden Seite leſen wir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bcde6939" >
+        <Coords points="97,1912 97,1873 1358,1887 1362,1920 1358,1933 93,1928"/>
+        <Baseline points="97,1912 620,1924 1362,1920"/>
+        <TextEquiv>
+          <Unicode>ſogar: „Der Untergebene hat ſeinen Vorgeſetzten gegenüber ſchließlich kein Recht, ſon⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3ad1896" >
+        <Coords points="97,1955 97,1918 1362,1931 1364,1968 1362,1974 756,1986 754,1986 754,1986 752,1986 717,1976 667,1984 667,1984 667,1984 665,1984 665,1984 663,1984 663,1984 663,1984 661,1984 661,1984 661,1982 651,1974 610,1984 608,1984 608,1984 608,1986 272,1986 270,1984 95,1972"/>
+        <Baseline points="97,1955 374,1968 1364,1968"/>
+        <TextEquiv>
+          <Unicode>dern nur die Pflicht zu ſchweigen“ (S. 4.). Wenn dieſes wirklich der Fall wäre,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cb640b6a" >
+        <Coords points="97,1999 97,1964 1362,1974 1364,2011 1360,2026 95,2015"/>
+        <Baseline points="97,1999 332,2011 1364,2011"/>
+        <TextEquiv>
+          <Unicode>was dann? Wenn es dem Herrn. Dr. Weber geſtattet war, durch ſeinen Eintritt in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef25ff4e" >
+        <Coords points="97,2042 97,2005 494,2017 694,2013 909,2007 912,2007 912,2007 912,2007 914,2007 914,2007 916,2007 916,2007 916,2007 924,2015 930,2022 1197,2022 1199,2019 1222,2009 1222,2009 1224,2009 1224,2009 1224,2009 1226,2009 1226,2009 1284,2019 1340,2009 1340,2009 1340,2009 1342,2009 1342,2009 1344,2009 1344,2009 1344,2009 1346,2009 1364,2022 1362,2057 1358,2067 93,2061"/>
+        <Baseline points="97,2042 421,2057 1362,2057"/>
+        <TextEquiv>
+          <Unicode>den Prieſterſtand und noch mehr durch ſeinen Eintritt in den Staatsdienſt auf manche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd54c0e0" >
+        <Coords points="97,2086 97,2053 196,2065 413,2065 428,2053 428,2053 428,2053 430,2053 430,2053 430,2053 432,2053 432,2053 434,2053 434,2053 452,2053 564,2065 730,2065 754,2055 761,2053 761,2053 763,2053 763,2053 765,2053 765,2053 767,2053 767,2053 767,2053 773,2055 789,2065 899,2065 914,2055 918,2053 920,2053 920,2053 922,2053 922,2053 922,2053 924,2053 924,2053 926,2053 926,2053 926,2053 932,2055 949,2063 1358,2059 1364,2096 1362,2110 97,2110"/>
+        <Baseline points="97,2086 285,2100 1364,2096"/>
+        <TextEquiv>
+          <Unicode>Rechte zu verzichten, ſteht es dann mir nicht frei, auf dieſe und meinetwegen auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_675bf91a" >
+        <Coords points="95,2131 95,2096 407,2096 407,2096 407,2096 413,2096 465,2106 1360,2102 1364,2146 1362,2152 984,2162 982,2162 982,2162 889,2152 885,2152 868,2152 490,2160 488,2160 93,2148"/>
+        <Baseline points="95,2131 413,2146 1364,2146"/>
+        <TextEquiv>
+          <Unicode>alle Rechte zu verzichten, ſo lange nur die Rechte Gottes nicht dadurch beeinträchtigt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e78361c7" >
+        <Coords points="95,2175 95,2137 219,2150 353,2141 355,2141 591,2152 614,2143 618,2141 618,2141 620,2141 620,2141 620,2141 622,2141 622,2141 624,2141 624,2141 630,2143 653,2154 1360,2154 1364,2187 1362,2199 982,2212 980,2212 980,2212 854,2197 849,2197 847,2197 806,2210 804,2210 804,2210 804,2212 663,2212 661,2210 661,2210 659,2210 608,2197 560,2210 558,2210 558,2210 556,2210 428,2208 428,2208 428,2208 426,2208 426,2208 426,2208 423,2208 423,2208 407,2195 268,2208 268,2208 266,2208 266,2208 264,2208 264,2208 264,2208 237,2193 90,2191"/>
+        <Baseline points="95,2175 560,2191 1364,2187"/>
+        <TextEquiv>
+          <Unicode>werden? Aber ſeine Behauptung iſt nicht wahr, ſondern grundfalſch. Wir wollen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_670de980" >
+        <Coords points="177,2284 177,2245 473,2257 589,2251 655,2247 657,2247 657,2247 709,2253 773,2259 891,2255 1062,2249 1065,2249 1065,2249 1065,2249 1118,2259 1135,2263 1259,2263 1261,2261 1271,2251 1271,2251 1273,2251 1273,2251 1273,2251 1275,2251 1275,2251 1275,2251 1278,2251 1278,2251 1280,2251 1280,2251 1280,2251 1302,2261 1325,2251 1325,2251 1327,2251 1327,2251 1327,2251 1329,2251 1329,2251 1331,2251 1331,2251 1364,2263 1364,2292 1360,2313 349,2301 347,2301 277,2309 277,2309 275,2309 275,2309 173,2296"/>
+        <Baseline points="177,2284 1364,2292"/>
+        <TextEquiv>
+          <Unicode>¹ Summarium earum constitutionum, quae ad spiritualem Nostrorum insti-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cde5fc03" >
+        <Coords points="93,2321 93,2286 550,2303 659,2294 659,2294 661,2294 661,2294 663,2294 663,2294 694,2305 978,2299 980,2338 978,2369 837,2375 835,2375 835,2375 835,2375 833,2375 833,2375 831,2375 814,2365 794,2352 692,2352 682,2361 674,2369 674,2371 674,2371 672,2371 672,2371 672,2371 670,2371 670,2371 670,2373 550,2373 548,2371 548,2371 545,2371 545,2371 545,2371 512,2356 500,2350 444,2354 262,2367 260,2367 260,2367 88,2342"/>
+        <Baseline points="93,2321 448,2338 980,2338"/>
+        <TextEquiv>
+          <Unicode>tutionem pertinent et ab omnibus observandae sunt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

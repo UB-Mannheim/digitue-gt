@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00086.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:11.258248+00:00</Created>
+        <LastChange>2022-02-23T19:09:11.258263+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="85_cae5b_default.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_abb3a10d"  >
+      <Coords points="794,115 849,124 849,146 794,163 794,115"/>
+      <TextLine id="eSc_line_5cef1a38" >
+        <Coords points="783,150 790,116 845,120 845,152 841,161 779,157"/>
+        <Baseline points="784,151 846,153"/>
+        <TextEquiv>
+          <Unicode>80</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4638895f"  >
+      <Coords points="1453,2032 173,2032 181,215 1453,223 1453,2032"/>
+      <TextLine id="eSc_line_a7c0246e" >
+        <Coords points="179,248 179,206 1447,206 1447,248 1447,260 179,260"/>
+        <Baseline points="179,248 1447,248"/>
+        <TextEquiv>
+          <Unicode>wird hier wieder ſo recht klar, wie nachtheilig es iſt, daß der Verfaſſer nicht die voll⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79b274cc" >
+        <Coords points="177,291 177,248 1449,256 1449,291 1449,301 177,305"/>
+        <Baseline points="177,291 1449,291"/>
+        <TextEquiv>
+          <Unicode>ſtändigen Conſtitutionen gekannt hat; das von ihm übergangene Wörtchen quâdam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c294216" >
+        <Coords points="177,337 175,301 806,301 812,299 880,289 880,289 883,289 1445,299 1449,332 1447,343 177,347"/>
+        <Baseline points="177,337 1449,332"/>
+        <TextEquiv>
+          <Unicode>erinnert nämlich jeden Jeſuiten an den in den Conſtitutionen folgenden einſchränken⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c4f5fc8" >
+        <Coords points="175,380 173,343 1443,343 1447,376 1445,386 175,396"/>
+        <Baseline points="175,380 1447,376"/>
+        <TextEquiv>
+          <Unicode>den Satz. Denn die 35. Regel des Summarium iſt entnommen aus dem erſten Ca⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_49459928" >
+        <Coords points="175,425 173,380 657,388 667,382 674,378 676,378 676,378 676,378 678,378 678,378 680,378 938,384 1058,386 1067,384 1102,376 1104,376 1104,376 1106,376 1106,376 1106,376 1158,386 1164,386 1172,386 1220,376 1220,376 1220,376 1222,376 1443,388 1447,421 1445,438 175,438"/>
+        <Baseline points="175,425 1447,421"/>
+        <TextEquiv>
+          <Unicode>pitel des ſechsten Theiles, und es folgt dort unmittelbar nachher wörtlich: dieſer ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0785e0ad" >
+        <Coords points="175,471 169,436 206,423 208,423 208,423 210,423 608,430 744,432 767,427 808,421 808,421 810,421 1443,421 1447,467 1443,483 173,479"/>
+        <Baseline points="175,471 1447,467"/>
+        <TextEquiv>
+          <Unicode>wiſſermaßen blinde Gehorſam ſolle geübt werden „in allen vom Obern vorgeſchrie⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ca060b8" >
+        <Coords points="175,514 175,479 1449,479 1449,514 1449,531 175,531"/>
+        <Baseline points="175,514 1449,514"/>
+        <TextEquiv>
+          <Unicode>benen Dingen, „in welchen nicht beſtimmt werden könne (wie ſchon geſagt wurde),</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a5e8a5b5" >
+        <Coords points="177,558 177,521 1449,525 1449,558 1449,572 177,572"/>
+        <Baseline points="177,558 1449,558"/>
+        <TextEquiv>
+          <Unicode>daß irgend eine Art von Sünde vorhanden ſei“ (et id quidem in omnibus rebus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_13729f95" >
+        <Coords points="175,603 175,568 1449,568 1449,603 1449,622 175,622"/>
+        <Baseline points="175,603 1449,603"/>
+        <TextEquiv>
+          <Unicode>quae a Superiore disponuntur, ubi definiri non possit [quemadmodum dictum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d74b631e" >
+        <Coords points="175,645 175,607 1451,611 1451,649 1447,657 173,653"/>
+        <Baseline points="175,645 1451,649"/>
+        <TextEquiv>
+          <Unicode>est] aliquod peccati genus intercedere). Die Blindheit ſoll alſo ſelbſtverſtändlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_30140c00" >
+        <Coords points="175,688 175,647 1445,657 1447,694 1443,705 173,696"/>
+        <Baseline points="175,688 1447,694"/>
+        <TextEquiv>
+          <Unicode>keine ſolche ſein, die auch die ſittliche Erlaubtheit der Handlung unberückſichtigt läßt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc2c85a1" >
+        <Coords points="175,736 173,698 1449,696 1451,736 1449,752 173,746"/>
+        <Baseline points="175,736 1451,736"/>
+        <TextEquiv>
+          <Unicode>Hätte Dr. Weber dieſe Einſchränkung gekannt, ſo würde ſeine Ehrlichkeit ihm wohl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31654b6e" >
+        <Coords points="175,777 175,740 1443,744 1449,781 1445,800 173,787"/>
+        <Baseline points="175,777 1449,781"/>
+        <TextEquiv>
+          <Unicode>nicht geſtattet haben, ein hier ſo wichtiges Wörtchen zu unterſchlagen, und er hätte ſich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f7d9d52c" >
+        <Coords points="175,827 175,781 1451,785 1451,827 1451,841 175,841"/>
+        <Baseline points="175,827 1451,827"/>
+        <TextEquiv>
+          <Unicode>ſeine Exclamationen erſpart. Der Epitomator ließ den Satz weg und deutete ihn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_193c2a87" >
+        <Coords points="175,870 169,837 210,822 213,822 213,822 215,822 492,822 492,822 492,822 494,822 494,822 494,822 496,822 496,822 496,824 506,833 682,822 684,822 684,822 684,822 746,833 761,822 763,822 763,822 763,822 765,822 765,822 765,822 767,822 767,822 769,822 769,822 796,833 810,820 810,820 812,820 812,820 812,820 814,820 814,820 816,820 816,820 816,820 818,820 818,820 821,820 837,831 887,820 887,820 887,820 889,820 889,820 959,831 1391,820 1393,820 1393,820 1393,820 1447,833 1451,866 1449,876 175,884"/>
+        <Baseline points="175,870 1451,866"/>
+        <TextEquiv>
+          <Unicode>bloß durch Beibehaltung des einſchränkenden Pronomen an, weil er zunächſt für</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_753ee147" >
+        <Coords points="175,913 175,870 1449,878 1449,913 1449,924 175,928"/>
+        <Baseline points="175,913 1449,913"/>
+        <TextEquiv>
+          <Unicode>Chriſten, zu denen doch auch die Jeſuiten noch gehören, ſelbſtverſtändlich iſt, und weil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fc6edcb1" >
+        <Coords points="175,959 173,924 1449,913 1451,959 1451,971 175,975"/>
+        <Baseline points="175,959 1451,959"/>
+        <TextEquiv>
+          <Unicode>er ſeinen Leſern zutraute, daß ſie bei der 35. Regel noch wüßten, was ſie auf der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a32ace5" >
+        <Coords points="175,1000 175,961 1449,967 1449,1004 1445,1021 173,1011"/>
+        <Baseline points="175,1000 1449,1004"/>
+        <TextEquiv>
+          <Unicode>Seite vorher in der 31. Regel geleſen haben, wo ſich eine ganz entſprechende Stelle</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_09d35680" >
+        <Coords points="175,1048 173,1013 264,1000 264,1000 266,1000 266,1000 266,1000 268,1000 268,1000 293,1011 316,1000 316,1000 316,1000 318,1000 318,1000 320,1000 461,1000 461,1000 461,1000 463,1000 463,1000 463,1000 465,1000 465,1000 465,1002 475,1011 533,1000 533,1000 533,1000 535,1000 535,1000 616,1011 736,1000 738,1000 738,1000 738,1000 740,1000 740,1000 765,1011 825,1000 825,1000 825,1000 827,1000 827,1000 827,1000 874,1011 895,1000 895,1000 895,1000 897,1000 897,1000 897,1000 899,1000 899,1000 901,1000 901,1000 901,1000 903,1000 920,1011 1153,1000 1156,1000 1156,1000 1158,1000 1199,1011 1255,1000 1255,1000 1255,1000 1257,1000 1257,1000 1259,1000 1259,1000 1286,1011 1315,1000 1315,1000 1317,1000 1317,1000 1319,1000 1319,1000 1319,1000 1321,1000 1321,1000 1321,1000 1323,1000 1340,1013 1451,1013 1451,1048 1449,1064 173,1058"/>
+        <Baseline points="175,1048 1451,1048"/>
+        <TextEquiv>
+          <Unicode>mit der Einſchränkung findet. — Weiter heißt es auf Seite 36: „Doch hören wir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9faf7182" >
+        <Coords points="175,1089 177,1042 210,1052 601,1046 767,1044 769,1044 769,1044 796,1048 831,1056 1445,1056 1447,1093 1443,1108 173,1097"/>
+        <Baseline points="175,1089 1447,1093"/>
+        <TextEquiv>
+          <Unicode>des Ignatius eigene Worte: Durch die vorher gezeichnete abſolute Verfaſſung,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b45c17ae" >
+        <Coords points="175,1132 175,1087 235,1099 471,1099 488,1089 494,1087 494,1087 494,1087 496,1087 496,1087 496,1087 498,1087 587,1091 719,1097 758,1093 808,1087 808,1087 810,1087 810,1087 812,1087 812,1087 812,1087 814,1087 825,1093 833,1099 895,1095 963,1089 963,1089 965,1089 965,1089 967,1089 967,1089 967,1089 982,1095 990,1099 1000,1095 1021,1089 1023,1089 1023,1089 1023,1089 1025,1089 1025,1089 1025,1089 1027,1089 1052,1097 1062,1099 1067,1097 1077,1089 1079,1089 1079,1089 1079,1089 1081,1089 1081,1089 1083,1089 1083,1089 1083,1089 1085,1089 1085,1089 1085,1089 1100,1097 1106,1099 1110,1097 1129,1089 1129,1089 1131,1089 1131,1089 1131,1089 1133,1089 1362,1099 1371,1099 1371,1099 1408,1089 1410,1089 1410,1089 1410,1089 1412,1089 1412,1089 1414,1089 1414,1089 1447,1101 1449,1137 1445,1147 173,1143"/>
+        <Baseline points="175,1132 1449,1137"/>
+        <TextEquiv>
+          <Unicode>ſchreibt er, wird ſowohl der Unterſchied . . . . . bewahrt.“ Jedenfalls wird jeder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bebd4741" >
+        <Coords points="175,1176 175,1137 1445,1141 1447,1180 1443,1186 173,1182"/>
+        <Baseline points="175,1176 1447,1180"/>
+        <TextEquiv>
+          <Unicode>Leſer mit mir der Anſicht ſein, Dr. Weber wolle die Worte „durch die vorhergezeich⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f231d42b" >
+        <Coords points="175,1219 181,1174 188,1182 535,1176 767,1174 769,1174 769,1174 771,1174 792,1180 812,1186 1443,1186 1449,1223 1445,1238 173,1230"/>
+        <Baseline points="175,1219 1449,1223"/>
+        <TextEquiv>
+          <Unicode>nete abſolute Verfaſſung“ als wörtlich dem hl. Ignatius entnommen bezeichnen. In</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_18502ea4" >
+        <Coords points="175,1265 179,1215 196,1226 587,1219 794,1217 796,1217 796,1217 798,1217 798,1217 798,1217 800,1217 800,1217 806,1221 814,1230 1443,1230 1449,1269 1445,1283 173,1279"/>
+        <Baseline points="175,1265 1449,1269"/>
+        <TextEquiv>
+          <Unicode>der zum Belege citirten lateiniſchen Stelle, die er ſelbſt unter dem Text anführt, ſteht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2ef91ff" >
+        <Coords points="175,1308 175,1271 1449,1275 1449,1312 1445,1327 173,1321"/>
+        <Baseline points="175,1308 1449,1312"/>
+        <TextEquiv>
+          <Unicode>aber auch nicht ein Buchſtaben davon, ſondern es heißt: „Was wir vom Gehorſam ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97c4e743" >
+        <Coords points="175,1354 177,1306 208,1316 272,1306 281,1306 281,1306 283,1306 283,1306 285,1306 285,1306 285,1306 287,1306 308,1316 384,1308 407,1306 407,1306 409,1306 409,1306 409,1306 421,1308 461,1316 570,1310 641,1306 643,1306 643,1306 698,1312 750,1316 758,1312 767,1306 769,1306 769,1306 769,1306 771,1306 771,1306 771,1306 773,1306 773,1306 818,1312 858,1319 883,1312 907,1308 907,1308 907,1308 909,1308 1451,1321 1451,1358 1447,1372 173,1368"/>
+        <Baseline points="175,1354 1451,1358"/>
+        <TextEquiv>
+          <Unicode>ſagt haben, müſſen gleichmäßig die einzelnen Mitglieder ihren nächſten Obern, die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d29b811c" >
+        <Coords points="177,1395 177,1358 1445,1364 1449,1401 1447,1410 175,1412"/>
+        <Baseline points="177,1395 1449,1401"/>
+        <TextEquiv>
+          <Unicode>Rectoren und Vorgeſetzten gegen den Provincial u. ſ. w. beobachten, ſo daß der Unter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03831628" >
+        <Coords points="175,1445 175,1403 506,1407 512,1403 521,1397 521,1397 523,1397 523,1397 525,1397 525,1397 525,1397 527,1397 527,1397 581,1403 608,1407 639,1405 709,1397 709,1397 711,1397 711,1397 713,1397 713,1397 713,1397 715,1397 725,1405 732,1410 843,1410 856,1405 899,1397 899,1397 899,1397 901,1397 1011,1405 1031,1407 1042,1407 1089,1397 1089,1397 1091,1397 1091,1397 1091,1397 1139,1407 1143,1407 1149,1407 1187,1397 1189,1397 1189,1397 1191,1397 1191,1397 1191,1397 1193,1397 1226,1407 1228,1410 1449,1410 1449,1445 1449,1459 175,1461"/>
+        <Baseline points="175,1445 1449,1445"/>
+        <TextEquiv>
+          <Unicode>ſchied . . . . bewahrt wird.“ Wie iſt nun der Verfaſſer zu ſeiner Überſetzung gekom⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c5b888a" >
+        <Coords points="173,1488 171,1449 328,1438 330,1438 330,1438 330,1438 332,1438 366,1449 368,1449 370,1449 409,1438 411,1438 411,1438 413,1438 413,1438 413,1438 415,1438 450,1449 452,1449 454,1449 514,1438 514,1438 514,1438 517,1438 517,1438 589,1449 599,1451 605,1451 634,1441 636,1441 636,1441 636,1441 639,1441 639,1441 639,1441 682,1451 686,1451 690,1451 715,1441 715,1441 717,1441 717,1441 719,1441 719,1441 719,1441 721,1441 754,1451 758,1451 761,1451 800,1441 802,1441 802,1441 804,1441 986,1451 988,1451 988,1451 1013,1441 1013,1441 1015,1441 1015,1441 1015,1441 1017,1441 1017,1441 1019,1441 1019,1441 1019,1441 1021,1441 1021,1441 1021,1443 1023,1443 1029,1453 1031,1453 1031,1453 1050,1443 1050,1443 1050,1443 1052,1443 1052,1443 1054,1443 1451,1455 1451,1494 1447,1501 171,1494"/>
+        <Baseline points="173,1488 1451,1494"/>
+        <TextEquiv>
+          <Unicode>men? Nun, ſehr einfach; er denkt ſich, was hätte geſagt werden müſſen, damit er es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d98c598" >
+        <Coords points="175,1534 173,1498 1408,1490 1410,1490 1410,1490 1412,1490 1451,1503 1449,1538 1445,1548 173,1542"/>
+        <Baseline points="175,1534 1449,1538"/>
+        <TextEquiv>
+          <Unicode>angreifen könne, ſetzt dieſes in den Text, unten aber in die Anmerkung lateiniſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b4ed08d" >
+        <Coords points="173,1577 171,1538 1364,1534 1366,1534 1366,1534 1447,1546 1447,1581 1443,1594 171,1589"/>
+        <Baseline points="173,1577 1447,1581"/>
+        <TextEquiv>
+          <Unicode>Worte, die Niemand anſieht, und die Überſetzung iſt fertig! Ein ſranzöſiſcher Polizei⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2b3f5b86" >
+        <Coords points="173,1622 173,1581 1451,1589 1451,1627 1447,1639 171,1629"/>
+        <Baseline points="173,1622 1451,1627"/>
+        <TextEquiv>
+          <Unicode>miniſter ſoll geſagt haben: Gebt mir von einem beliebigen Menſchen drei geſchriebene</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d8e9244" >
+        <Coords points="173,1666 173,1620 810,1631 980,1629 1414,1622 1416,1622 1416,1622 1418,1622 1418,1622 1451,1635 1449,1670 1445,1676 171,1674"/>
+        <Baseline points="173,1666 1449,1670"/>
+        <TextEquiv>
+          <Unicode>Worte, und ich will ihn an den Galgen bringen. Wenn er noch lebte, könnte er in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d88d920" >
+        <Coords points="173,1711 173,1666 1406,1676 1406,1716 1402,1726 169,1720"/>
+        <Baseline points="173,1711 1406,1716"/>
+        <TextEquiv>
+          <Unicode>Dr. Weber einen geſchickten Überſetzer finden, der ihm große Dienſte leiſten würde.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f33309b5" >
+        <Coords points="244,1755 244,1709 847,1709 847,1709 847,1709 854,1709 928,1720 1447,1711 1451,1759 1447,1765 239,1761"/>
+        <Baseline points="244,1755 1451,1759"/>
+        <TextEquiv>
+          <Unicode>3. Das wären einige Specimina der Überſetzungskunſt, mit Hülfe derer der Herr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f054203" >
+        <Coords points="173,1800 173,1765 1449,1765 1449,1800 1447,1817 171,1811"/>
+        <Baseline points="173,1800 1449,1800"/>
+        <TextEquiv>
+          <Unicode>Gymnaſiallehrer eine „urkundliche“ Darſtellung des Gehorſams in der Geſellſchaft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4905b523" >
+        <Coords points="173,1846 173,1800 1449,1811 1449,1846 1449,1862 173,1862"/>
+        <Baseline points="173,1846 1449,1846"/>
+        <TextEquiv>
+          <Unicode>Jeſu liefern will. Fügen wir ein paar Beiſpiele der Deutungskunſt des Privat⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fc78482d" >
+        <Coords points="173,1891 173,1846 1453,1854 1453,1891 1451,1908 171,1902"/>
+        <Baseline points="173,1891 1453,1891"/>
+        <TextEquiv>
+          <Unicode>docenten der Philoſophie hinzu. „Der wahre und vollkommene Gehorſam, ſo leſen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44b291c9" >
+        <Coords points="173,1931 171,1895 1449,1893 1451,1937 1449,1943 601,1951 599,1951 171,1937"/>
+        <Baseline points="173,1931 1451,1937"/>
+        <TextEquiv>
+          <Unicode>wir S. 20, wird von Ignatius allenthalben mit einer Verläugnung nicht nur des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_652a00e1" >
+        <Coords points="173,1980 173,1933 1451,1933 1451,1980 1449,1995 171,1991"/>
+        <Baseline points="173,1980 1451,1980"/>
+        <TextEquiv>
+          <Unicode>eigenen Willens, ſondern auch des eigenen Urtheiles ohne jede Einſchränkung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08d64d7e" >
+        <Coords points="175,2022 175,1974 1449,1986 1451,2026 1449,2044 1125,2048 1122,2048 1122,2048 1077,2042 1046,2038 1025,2042 994,2048 994,2048 994,2048 992,2048 992,2048 936,2040 912,2038 893,2040 849,2048 849,2048 849,2048 847,2048 847,2048 845,2048 814,2040 796,2036 517,2036 508,2038 475,2046 473,2046 473,2046 471,2046 471,2046 471,2046 430,2036 423,2036 421,2036 409,2046 407,2046 407,2046 407,2046 405,2046 405,2046 405,2048 285,2048 283,2046 173,2034"/>
+        <Baseline points="175,2022 1451,2026"/>
+        <TextEquiv>
+          <Unicode>identiſch geſetzt.“ Die Worte „ohne jede Einſchränkung“ hat der Verfaſſer ſelbſt durch</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5e0d36bb"  >
+      <Coords points="436,2371 173,2371 181,2108 1453,2117 1453,2321 545,2330 436,2371"/>
+      <TextLine id="eSc_line_a6150224" >
+        <Coords points="173,2143 171,2100 1441,2106 1445,2139 1443,2150 173,2160"/>
+        <Baseline points="173,2143 1445,2139"/>
+        <TextEquiv>
+          <Unicode>überſieht; S. 20 macht er aus „einer Art von Brandopfer“ einfachhin „ein Brand⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cb1ceb73" >
+        <Coords points="173,2189 171,2148 1443,2150 1447,2185 1445,2197 173,2199"/>
+        <Baseline points="173,2189 1447,2185"/>
+        <TextEquiv>
+          <Unicode>opfer“; ebendaſelbſt aus „einer gewiſſermaſſen vollſtändigen Entſagung“ ſchlechthin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e5e88c2" >
+        <Coords points="173,2234 167,2201 204,2189 206,2189 206,2189 208,2189 1447,2195 1451,2230 1449,2239 173,2251"/>
+        <Baseline points="173,2234 1451,2230"/>
+        <TextEquiv>
+          <Unicode>„eine vollſtändige Entſagung“; S. 31 aus „einer Art von blindem Drang des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea99e7c0" >
+        <Coords points="173,2276 171,2237 1443,2239 1447,2272 1445,2282 173,2286"/>
+        <Baseline points="173,2276 1447,2272"/>
+        <TextEquiv>
+          <Unicode>Willens“ ſtreng „den blinden Drang des Willens“. Wenn der Privatdocent der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47ced27d" >
+        <Coords points="173,2321 171,2278 1443,2282 1447,2317 1445,2350 1232,2350 1230,2348 1220,2346 1149,2332 1089,2346 1073,2348 1071,2348 1069,2348 1054,2344 1011,2334 961,2344 936,2348 934,2348 932,2348 920,2344 889,2332 818,2332 802,2342 796,2346 794,2346 792,2346 789,2346 787,2346 779,2342 763,2334 736,2342 703,2350 701,2350 698,2350 696,2350 672,2340 663,2338 634,2340 525,2350 523,2350 521,2350 473,2338 454,2334 436,2338 413,2344 411,2344 409,2344 407,2344 390,2338 380,2334 173,2334"/>
+        <Baseline points="173,2321 1447,2317"/>
+        <TextEquiv>
+          <Unicode>Philoſophie ſo bei der Erklärung des Ariſtoteles verfährt, wird er merkwürdige Sachen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f51f8e0" >
+        <Coords points="169,2367 172,2335 435,2333 436,2367 436,2381 169,2387"/>
+        <Baseline points="169,2367 436,2367"/>
+        <TextEquiv>
+          <Unicode>zu Tage fördern.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

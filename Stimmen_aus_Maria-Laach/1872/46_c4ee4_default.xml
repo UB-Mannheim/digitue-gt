@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00047.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.762857+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.762872+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="46_c4ee4_default.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_4f00cefe"  >
+      <Coords points="742,97 686,105 686,66 734,66 742,97"/>
+      <TextLine id="eSc_line_a1986b51" >
+        <Coords points="682,101 682,39 736,45 736,101 738,121 684,140"/>
+        <Baseline points="682,101 736,101"/>
+        <TextEquiv>
+          <Unicode>41</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_64f7a9d9"  >
+      <Coords points="1362,2189 612,2197 527,2232 570,2265 949,2265 1007,2290 990,2313 173,2305 157,2249 99,2230 74,1792 82,148 1354,165 1362,2189"/>
+      <TextLine id="eSc_line_1d9eab2a" >
+        <Coords points="78,177 78,142 1346,157 1348,190 1346,200 502,206 500,206 500,206 498,206 498,206 496,206 475,194 332,204 330,204 330,204 330,204 328,204 328,204 326,204 312,194 295,204 293,204 293,204 291,204 291,204 291,204 289,204 74,188"/>
+        <Baseline points="78,177 1348,190"/>
+        <TextEquiv>
+          <Unicode>Kriege mit dem Arbeiter. Die heutigen Capitaliſten ſind die Nachfolger der Sklaven⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b3f2666f" >
+        <Coords points="78,223 78,186 1346,198 1348,233 1344,239 76,237"/>
+        <Baseline points="78,223 353,233 1348,233"/>
+        <TextEquiv>
+          <Unicode>beſitzer des Alterthums und der Lehensherren des Mittelalters. Nachdem ſie uns zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3e0a7db" >
+        <Coords points="80,268 80,229 1342,235 1346,272 1344,283 80,285"/>
+        <Baseline points="80,268 539,279 1346,272"/>
+        <TextEquiv>
+          <Unicode>verführen geſucht durch den Lug und Trug ihrer vorgeblichen ökonomiſchen Wiſſen⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_804d99df" >
+        <Coords points="78,312 78,272 186,283 223,272 225,272 225,272 225,272 225,272 227,272 227,272 227,272 227,272 229,272 229,272 254,285 498,285 531,272 533,272 533,272 533,272 533,272 535,272 535,272 535,272 535,272 537,272 537,272 537,272 558,283 608,272 608,272 608,272 608,272 610,272 610,272 610,272 610,272 612,272 612,272 612,272 614,272 614,272 626,283 696,272 696,272 696,272 698,272 707,272 1296,283 1338,272 1346,318 1344,330 78,332"/>
+        <Baseline points="78,312 318,322 1346,318"/>
+        <TextEquiv>
+          <Unicode>ſchaft, welche ganz zu ihren Gunſten angelegt iſt, ſehen ſie ſich zum Rückzuge genö⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ceb804a" >
+        <Coords points="78,355 78,320 1344,328 1348,361 1344,378 76,376"/>
+        <Baseline points="78,355 295,365 1348,361"/>
+        <TextEquiv>
+          <Unicode>thigt vor dem geſunden Sinne der Arbeiterclaſſe, welche hinter ſich das wahre ökono⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_013900cd" >
+        <Coords points="80,399 80,363 1348,374 1350,409 1348,419 80,419"/>
+        <Baseline points="80,399 258,409 1350,409"/>
+        <TextEquiv>
+          <Unicode>miſche Geſetz der Arbeit hat. Ein einziges Actionsmittel blieb ihnen noch, die brutale</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43e86ef7" >
+        <Coords points="78,446 78,407 1348,415 1348,452 1344,463 76,456"/>
+        <Baseline points="78,446 1348,452"/>
+        <TextEquiv>
+          <Unicode>Gewalt. So ſehen ſich dieſe Herren mit allen ihren Vortheilen des Wohlſtandes, der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16b5a4a7" >
+        <Coords points="80,489 80,444 173,454 529,450 684,448 686,448 1350,463 1350,498 1348,514 155,514 153,512 153,512 78,500"/>
+        <Baseline points="80,489 1350,498"/>
+        <TextEquiv>
+          <Unicode>Erziehung, einer Jahrhunderte zählenden Civiliſation, darauf beſchränkt, mit der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_217b210e" >
+        <Coords points="78,533 78,496 1346,506 1350,539 1348,552 78,554"/>
+        <Baseline points="78,533 347,543 1350,539"/>
+        <TextEquiv>
+          <Unicode>offenen Gewalt und dem Elende den vernünftigen Gedankengang armer un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba8f638e" >
+        <Coords points="78,578 78,537 161,547 622,543 887,541 889,541 889,541 918,547 943,554 1350,554 1350,585 1346,597 76,591"/>
+        <Baseline points="78,578 1350,585"/>
+        <TextEquiv>
+          <Unicode>gelehrter Arbeiter, welche noch kein klares Bewußtſein ihrer Menſchenrechte haben, zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1cbe05ff" >
+        <Coords points="82,622 82,585 1346,595 1350,626 1348,640 82,640"/>
+        <Baseline points="82,622 469,632 1350,626"/>
+        <TextEquiv>
+          <Unicode>bekämpfen. — Aber die Erfahrung iſt längſt gemacht; allenthalben bilden die Arbeiter</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c054c9e" >
+        <Coords points="80,665 80,626 171,636 192,626 192,626 192,626 194,626 194,626 194,626 196,626 196,626 281,636 361,626 361,626 363,626 363,626 363,626 366,626 401,636 461,626 461,626 461,626 463,626 463,626 465,626 465,626 496,636 967,626 969,626 969,626 971,626 971,626 971,626 974,626 974,626 974,628 984,638 1048,638 1073,626 1073,626 1075,626 1075,626 1075,626 1077,626 1178,634 1342,624 1348,671 1344,688 78,684"/>
+        <Baseline points="80,665 285,676 1348,671"/>
+        <TextEquiv>
+          <Unicode>Vereine, ſie organiſiren ſich, um ſich über ihre traurige Lage und über die Mittel,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8ec83353" >
+        <Coords points="80,707 80,671 1346,680 1350,715 1346,736 78,727"/>
+        <Baseline points="80,707 517,721 1350,715"/>
+        <TextEquiv>
+          <Unicode>wie ſie ſich von der modernen Sklaverei befreien können, zu verſtändigen. Mögen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_588411c9" >
+        <Coords points="80,752 80,719 1346,723 1350,758 1346,777 78,775"/>
+        <Baseline points="80,752 355,764 1350,758"/>
+        <TextEquiv>
+          <Unicode>die gegenwärtigen Regierungen den Arbeiter mehr oder weniger unterdrücken, ſo ſind</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11254500" >
+        <Coords points="80,800 80,758 200,769 626,764 868,762 870,762 870,762 901,769 930,775 1350,775 1352,806 1348,816 78,810"/>
+        <Baseline points="80,800 1352,806"/>
+        <TextEquiv>
+          <Unicode>ſie ſelbſt doch immer unter dem Drucke der bewegenden und herrſchenden Macht der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a86ebe6c" >
+        <Coords points="78,843 78,804 1348,804 1352,849 1350,858 167,868 165,868 76,858"/>
+        <Baseline points="78,843 490,853 1352,849"/>
+        <TextEquiv>
+          <Unicode>privilegirten Minderheit in der heutigen Geſellſchaft, d. h. des Capitals. Die jetzigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_802d7abf" >
+        <Coords points="82,884 82,847 1348,851 1352,893 1350,903 82,905"/>
+        <Baseline points="82,884 359,897 1352,893"/>
+        <TextEquiv>
+          <Unicode>Regierungen finden immer Mittel und Wege, ſich zu Gunſten des letzteren gegen die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e76b596f" >
+        <Coords points="80,930 80,893 1350,901 1354,938 1352,953 80,953"/>
+        <Baseline points="80,930 469,942 1354,938"/>
+        <TextEquiv>
+          <Unicode>Arbeit und den Arbeiter auszuſprechen, und vermittelſt der beſtehenden und für die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1227037b" >
+        <Coords points="80,975 80,938 1350,946 1354,982 1350,994 78,992"/>
+        <Baseline points="80,975 312,986 1354,982"/>
+        <TextEquiv>
+          <Unicode>Bourgeoiſie gemachten Geſetze laſſen ſie verhaften, einkerkern, verbannen, wie in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_398da8eb" >
+        <Coords points="80,1019 80,982 223,992 283,982 291,982 291,982 293,982 293,982 293,982 295,982 295,982 295,982 297,982 316,992 355,984 366,982 366,982 366,982 368,982 368,982 368,982 370,982 370,982 374,984 394,992 483,984 517,982 519,982 519,982 519,982 521,982 521,982 521,982 527,984 541,992 599,986 630,982 630,982 632,982 632,982 659,986 703,992 814,986 920,982 922,982 922,982 922,982 924,982 924,982 938,988 949,992 976,988 1017,982 1017,982 1019,982 1019,982 1108,990 1147,992 1178,990 1280,979 1280,979 1282,979 1282,979 1348,992 1352,1025 1348,1039 78,1035"/>
+        <Baseline points="80,1019 297,1029 1352,1025"/>
+        <TextEquiv>
+          <Unicode>Frankreich, niederſchießen, wie in Belgien. — Aber eitle Anſtrengungen! Nutzloſer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_496efa8f" >
+        <Coords points="80,1062 80,1023 194,1023 194,1023 194,1023 196,1023 196,1023 196,1023 196,1023 198,1023 198,1023 198,1025 208,1033 235,1023 237,1023 239,1023 239,1023 239,1023 241,1023 241,1023 252,1023 353,1033 446,1025 467,1023 467,1023 469,1023 469,1023 471,1023 471,1023 471,1023 473,1023 475,1025 490,1033 574,1025 603,1023 605,1023 605,1023 605,1023 608,1023 616,1025 643,1033 676,1025 692,1023 692,1023 692,1023 694,1023 734,1027 808,1033 825,1027 835,1023 835,1023 837,1023 837,1023 837,1023 839,1023 839,1023 839,1023 860,1027 891,1033 965,1027 1029,1023 1029,1023 1031,1023 1114,1029 1156,1031 1158,1029 1166,1023 1166,1021 1166,1021 1168,1021 1168,1021 1168,1021 1170,1021 1170,1021 1170,1021 1172,1021 1350,1031 1354,1068 1350,1083 78,1081"/>
+        <Baseline points="80,1062 244,1073 1354,1068"/>
+        <TextEquiv>
+          <Unicode>Widerſtand! Niemals hat die Verblendung der Regierungen und der begünſtigten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_421c3b99" >
+        <Coords points="80,1106 80,1070 1346,1073 1350,1112 1346,1132 78,1126"/>
+        <Baseline points="80,1106 384,1118 1350,1112"/>
+        <TextEquiv>
+          <Unicode>Claſſen die Menſchheit am Voranſchreiten hindern können. Was liegt an ihren bru⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a48bddac" >
+        <Coords points="80,1149 80,1116 1350,1120 1354,1157 1350,1178 78,1172"/>
+        <Baseline points="80,1149 287,1161 1354,1157"/>
+        <TextEquiv>
+          <Unicode>talen und grimmigen Mitteln, womit ſie uns aus der Geſellſchaft bannen wollen!</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_51b89f09" >
+        <Coords points="82,1192 82,1159 250,1170 281,1159 281,1159 281,1159 283,1159 283,1159 285,1159 285,1159 285,1159 287,1159 337,1170 413,1159 419,1159 419,1159 421,1159 421,1159 428,1159 490,1170 508,1159 510,1159 510,1159 510,1159 512,1159 512,1159 514,1159 514,1159 525,1159 608,1170 1350,1164 1356,1201 1354,1209 1133,1221 1131,1221 80,1213"/>
+        <Baseline points="82,1192 366,1207 1356,1201"/>
+        <TextEquiv>
+          <Unicode>Gar nichts. Die Herrſchaft dieſer uns ausbeutenden Halunken (de ces tripoteurs et</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6879c629" >
+        <Coords points="80,1238 80,1203 1348,1211 1352,1246 1348,1263 78,1257"/>
+        <Baseline points="80,1238 351,1250 1352,1246"/>
+        <TextEquiv>
+          <Unicode>exploiteurs) wird bald zu Ende ſein, denn wir nähern uns einem ſocialen Zuſtande,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_00418a9c" >
+        <Coords points="82,1281 82,1244 1350,1254 1354,1290 1350,1302 80,1300"/>
+        <Baseline points="82,1281 465,1296 1354,1290"/>
+        <TextEquiv>
+          <Unicode>wo Platz für Alle ſein wird, Platz für alle Arbeiter, welche ehrlich von der Frucht ihrer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8e395a9" >
+        <Coords points="82,1325 82,1290 1350,1300 1354,1333 1352,1350 82,1350"/>
+        <Baseline points="82,1325 454,1339 1354,1333"/>
+        <TextEquiv>
+          <Unicode>Arbeit leben wollen; aber keiner für Jene, die es auf fremde Koſten thun möchten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a0047c5" >
+        <Coords points="86,1370 86,1337 1354,1343 1358,1379 1354,1397 84,1389"/>
+        <Baseline points="86,1370 310,1383 1358,1379"/>
+        <TextEquiv>
+          <Unicode>— Muth, Brüder! — Die Unbilden, Verleumdungen, Verfolgungen, Niederlagen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42e38123" >
+        <Coords points="82,1412 82,1379 179,1389 217,1379 219,1379 221,1379 221,1379 223,1379 223,1379 223,1379 227,1379 279,1389 310,1379 312,1379 314,1379 314,1379 314,1379 316,1379 316,1379 316,1379 318,1379 318,1379 318,1379 320,1379 339,1389 394,1381 407,1379 407,1379 409,1379 409,1379 409,1379 411,1379 411,1379 411,1379 413,1379 413,1379 413,1381 413,1381 423,1389 496,1381 500,1381 500,1381 502,1381 502,1381 506,1381 591,1391 610,1381 612,1381 612,1381 612,1381 614,1381 614,1381 614,1381 616,1381 616,1381 616,1381 622,1381 665,1393 752,1393 765,1383 765,1381 765,1381 767,1381 767,1381 767,1381 769,1381 769,1381 769,1381 771,1381 771,1381 773,1381 773,1381 777,1383 804,1393 945,1393 953,1383 955,1383 955,1381 955,1381 957,1381 957,1381 957,1381 959,1381 959,1381 961,1381 1352,1387 1354,1426 1350,1443 80,1430"/>
+        <Baseline points="82,1412 299,1426 1354,1426"/>
+        <TextEquiv>
+          <Unicode>können uns nicht fehlen; aber die Arbeitermacht, die vereinigten Männer, die ſich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d0e3521" >
+        <Coords points="82,1457 82,1420 198,1420 198,1420 198,1420 200,1420 200,1420 200,1420 202,1420 202,1420 219,1432 856,1432 866,1426 878,1420 878,1420 878,1420 880,1420 880,1420 883,1420 1209,1430 1244,1430 1249,1430 1288,1420 1290,1420 1290,1420 1292,1420 1292,1420 1292,1420 1352,1432 1356,1467 1354,1476 82,1478"/>
+        <Baseline points="82,1457 308,1472 1356,1467"/>
+        <TextEquiv>
+          <Unicode>für Wiedereroberung ihrer Menſchen⸗ und bürgerlichen Rechte mit Bewußtſein erheben,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2dc9696b" >
+        <Coords points="82,1501 82,1467 1354,1469 1358,1511 1354,1525 80,1523"/>
+        <Baseline points="82,1501 492,1517 1358,1511"/>
+        <TextEquiv>
+          <Unicode>werden alle Hinderniſſe, beſonders durch die unbeſiegbare Kraft einer neuſchaffenden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f7e5304" >
+        <Coords points="82,1546 82,1511 175,1511 175,1511 175,1511 177,1511 177,1511 177,1511 177,1511 179,1511 179,1511 192,1521 430,1511 452,1511 454,1511 454,1511 454,1511 457,1511 459,1511 492,1521 558,1511 566,1511 566,1511 568,1511 568,1511 570,1511 574,1511 616,1521 1350,1515 1356,1556 1354,1569 717,1579 715,1579 715,1579 715,1579 672,1569 663,1569 643,1569 527,1579 525,1579 525,1579 525,1579 523,1579 523,1579 498,1569 494,1569 463,1569 304,1579 301,1579 301,1579 301,1579 254,1569 248,1569 239,1569 198,1579 198,1579 198,1579 196,1579 80,1569"/>
+        <Baseline points="82,1546 318,1560 1356,1556"/>
+        <TextEquiv>
+          <Unicode>Idee gegen die capitaliſtiſche Coalition, niederzuwerfen wiſſen. — Dann werden wir,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79ee3773" >
+        <Coords points="90,1589 90,1560 1352,1560 1356,1602 1352,1618 88,1610"/>
+        <Baseline points="90,1589 407,1606 1356,1602"/>
+        <TextEquiv>
+          <Unicode>die armen und von der Menſchheit enterbten Arbeiter, ſagen, daß es für ſie keine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d45b9fd0" >
+        <Coords points="86,1633 86,1596 266,1610 312,1600 314,1600 314,1600 316,1600 316,1600 316,1600 318,1600 318,1600 320,1600 320,1600 335,1612 645,1612 659,1600 659,1600 661,1600 661,1600 663,1600 663,1600 663,1600 665,1600 665,1600 752,1610 798,1600 798,1600 800,1600 800,1600 802,1600 802,1600 804,1600 804,1600 804,1600 804,1600 831,1614 957,1614 974,1600 974,1600 974,1600 976,1600 976,1600 976,1600 978,1600 978,1600 980,1600 980,1600 980,1600 982,1600 982,1600 984,1600 1013,1612 1056,1602 1058,1602 1058,1602 1058,1602 1060,1602 1060,1602 1060,1602 1060,1602 1062,1602 1062,1602 1087,1612 1112,1602 1112,1602 1112,1602 1114,1602 1114,1602 1116,1602 1356,1604 1358,1649 1356,1656 816,1666 814,1666 814,1666 758,1656 758,1656 754,1656 301,1664 299,1664 84,1651"/>
+        <Baseline points="86,1633 339,1649 1358,1649"/>
+        <TextEquiv>
+          <Unicode>Amneſtie mehr geben kann, weil ſie ihrerſeits nie ein Zugeſtändniß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_25f8a822" >
+        <Coords points="86,1678 86,1641 223,1651 1352,1651 1358,1691 1354,1703 84,1697"/>
+        <Baseline points="86,1678 450,1695 1358,1691"/>
+        <TextEquiv>
+          <Unicode>für uns machen wollten. Wir wollen alſo die Geſellſchaft auf die Grundſätze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8c1879eb" >
+        <Coords points="86,1722 86,1689 1354,1697 1358,1734 1356,1747 86,1747"/>
+        <Baseline points="86,1722 353,1738 1358,1734"/>
+        <TextEquiv>
+          <Unicode>der Gerechtigkeit, der Menſchlichkeit, der gleichen Rechte und Pflichten für Alle gründen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06c852c4" >
+        <Coords points="82,1767 82,1734 1354,1744 1358,1778 1356,1790 82,1790"/>
+        <Baseline points="82,1767 330,1782 1358,1778"/>
+        <TextEquiv>
+          <Unicode>Jene Empfindungen ſind nicht nur die unſrigen, ſondern auch die aller Genfer Inter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e418fd17" >
+        <Coords points="84,1811 80,1780 210,1778 213,1778 213,1778 215,1778 215,1778 215,1778 217,1778 217,1778 219,1780 233,1792 256,1780 262,1778 262,1778 262,1778 264,1778 264,1778 266,1778 266,1778 266,1778 268,1778 268,1778 270,1778 275,1780 293,1792 332,1782 339,1780 341,1780 341,1780 341,1780 343,1780 343,1780 345,1780 345,1780 345,1780 347,1780 349,1782 366,1792 417,1782 423,1782 423,1782 423,1782 426,1782 426,1782 428,1782 428,1782 428,1782 430,1782 446,1792 457,1782 459,1780 459,1780 459,1780 461,1780 461,1780 463,1780 463,1780 463,1780 465,1780 465,1780 465,1780 467,1780 467,1780 469,1780 473,1782 492,1794 628,1794 641,1784 645,1780 645,1780 647,1780 647,1780 647,1780 649,1780 649,1780 649,1780 651,1780 723,1786 816,1792 827,1786 833,1780 833,1780 835,1780 835,1780 835,1780 837,1780 837,1780 839,1780 839,1780 839,1780 841,1780 841,1780 858,1786 874,1792 924,1786 1011,1778 1011,1778 1013,1778 1013,1778 1081,1788 1096,1790 1100,1788 1127,1775 1127,1775 1127,1775 1129,1775 1129,1775 1131,1775 1131,1775 1131,1775 1207,1790 1209,1790 1211,1790 1226,1778 1226,1778 1228,1778 1228,1778 1228,1778 1230,1778 1230,1778 1232,1778 1232,1778 1354,1792 1358,1821 1358,1833 332,1844 330,1844 330,1844 328,1844 328,1844 328,1844 306,1833 306,1833 84,1833"/>
+        <Baseline points="84,1811 374,1829 1358,1821"/>
+        <TextEquiv>
+          <Unicode>nationalen, die aller Tauſende unſerer Brüder in der ganzen Welt. Die Regierungen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f4d0593" >
+        <Coords points="86,1854 86,1819 217,1819 217,1819 217,1819 219,1819 219,1819 219,1819 221,1819 221,1819 221,1819 233,1829 277,1821 277,1821 277,1821 277,1821 279,1821 279,1821 279,1821 281,1821 281,1821 281,1821 283,1821 299,1833 678,1833 721,1825 765,1819 765,1819 767,1819 767,1819 767,1819 812,1827 843,1831 854,1827 870,1819 870,1819 870,1819 872,1819 872,1819 874,1819 874,1819 876,1819 912,1827 930,1831 953,1827 996,1821 996,1821 998,1821 1356,1833 1360,1869 1358,1877 326,1887 324,1887 84,1877"/>
+        <Baseline points="86,1854 355,1873 1360,1869"/>
+        <TextEquiv>
+          <Unicode>ſollen nur mit ihren Brutalitäten und ungeſetzlichen Mitteln fortfahren; wir hingegen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_647fa171" >
+        <Coords points="88,1897 88,1866 272,1879 763,1879 775,1873 787,1866 787,1866 789,1866 789,1866 789,1866 792,1866 792,1866 792,1866 794,1866 812,1873 827,1879 922,1879 928,1873 938,1866 940,1866 940,1866 940,1866 943,1866 943,1866 943,1866 945,1866 945,1866 947,1866 978,1875 990,1879 1352,1879 1356,1910 1354,1922 1304,1935 1304,1935 1304,1937 887,1937 885,1935 885,1935 883,1935 849,1924 812,1935 810,1935 810,1935 808,1935 808,1935 808,1935 754,1924 738,1935 736,1935 736,1935 736,1935 734,1935 734,1935 734,1937 583,1937 581,1935 581,1935 579,1935 579,1935 550,1922 548,1922 548,1922 539,1931 539,1933 539,1933 537,1933 537,1933 537,1933 535,1933 535,1933 535,1933 409,1935 407,1935 86,1922"/>
+        <Baseline points="88,1897 401,1918 1356,1910"/>
+        <TextEquiv>
+          <Unicode>werden immerfort die geſammte Arbeitermacht weiter organiſiren, und an irgend einem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dbdd7c4d" >
+        <Coords points="88,1943 88,1910 237,1910 237,1910 237,1910 237,1910 239,1910 239,1910 270,1924 823,1924 860,1912 862,1912 862,1912 862,1912 864,1912 864,1912 866,1912 866,1912 866,1912 887,1922 961,1912 961,1912 963,1912 1300,1920 1352,1910 1358,1955 1354,1976 1296,1968 1286,1976 1282,1980 1282,1980 1280,1980 1280,1980 1280,1980 1278,1980 1278,1980 1278,1982 1189,1982 1187,1980 1187,1980 1162,1976 1122,1968 1056,1976 1007,1980 1007,1980 1005,1980 1005,1980 1005,1980 1002,1980 1002,1980 1000,1980 1000,1980 1000,1980 994,1974 988,1968 971,1974 957,1980 957,1980 955,1980 955,1980 953,1980 953,1980 953,1980 951,1980 951,1980 951,1980 949,1980 940,1974 930,1968 827,1968 754,1974 665,1980 663,1980 663,1980 663,1980 661,1980 661,1980 661,1980 645,1972 634,1968 624,1972 603,1980 603,1980 601,1980 601,1980 601,1982 382,1982 380,1980 380,1980 378,1980 349,1970 341,1968 332,1970 308,1980 308,1980 306,1980 306,1980 304,1980 304,1980 304,1980 301,1980 266,1970 258,1968 252,1970 233,1978 233,1978 231,1978 231,1978 231,1978 229,1978 229,1978 229,1978 227,1978 227,1978 225,1978 225,1978 215,1970 210,1968 88,1968"/>
+        <Baseline points="88,1943 392,1962 1358,1955"/>
+        <TextEquiv>
+          <Unicode>Tage werden wir unſere Rechnungen ausgleichen, indem wir die neue Geſellſchaft auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_30bde5d3" >
+        <Coords points="95,1984 95,1953 217,1953 219,1953 248,1968 281,1957 283,1957 285,1957 287,1957 289,1957 308,1968 1350,1964 1356,2003 1354,2009 858,2022 856,2022 854,2022 818,2011 796,2022 794,2022 792,2022 789,2022 752,2009 719,2019 717,2019 717,2022 283,2022 281,2019 279,2019 277,2019 264,2007 90,2005"/>
+        <Baseline points="95,1984 376,2005 1356,2003"/>
+        <TextEquiv>
+          <Unicode>Grund der Gerechtigkeit und Gleichheit für Alle aufrichten. — Unterdeſſen glaubten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ef6d3e0" >
+        <Coords points="88,2028 88,1997 148,2007 206,1999 206,1999 208,1999 208,1999 208,1999 210,1999 210,1999 210,1999 213,1999 213,1999 213,2001 223,2009 272,1999 272,1999 272,1999 275,1999 275,1999 275,1999 277,1999 277,1999 310,2015 692,2015 732,2001 734,2001 736,2001 736,2001 736,2001 738,2001 754,2001 905,2013 918,2003 922,2001 922,1999 922,1999 924,1999 924,1999 926,1999 926,1999 926,1999 928,1999 928,1999 928,1999 930,1999 930,1999 940,2003 961,2011 984,2003 992,2001 994,2001 994,2001 994,2001 996,2001 996,2001 1013,2003 1069,2013 1348,2007 1354,2044 1348,2065 1321,2055 1249,2065 1236,2065 1236,2065 1234,2065 1234,2065 1234,2065 1232,2065 1232,2065 1230,2065 1230,2065 1230,2065 1230,2063 1216,2053 1137,2063 1129,2063 1129,2063 1127,2063 1127,2063 1127,2063 1120,2063 1071,2053 1007,2061 971,2065 971,2065 969,2065 969,2065 969,2065 943,2061 905,2053 872,2059 845,2065 845,2065 845,2067 378,2067 376,2065 376,2065 318,2053 316,2053 314,2053 281,2065 281,2065 279,2065 279,2065 277,2065 277,2065 277,2065 275,2065 235,2050 86,2048"/>
+        <Baseline points="88,2028 415,2050 1354,2044"/>
+        <TextEquiv>
+          <Unicode>wir euch dieſe wenigen Zeilen ſenden zu ſollen zum Danke für eure feſte Haltung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7261bad3" >
+        <Coords points="88,2067 90,2040 246,2040 246,2040 246,2040 248,2040 252,2040 289,2053 701,2046 914,2042 916,2042 988,2048 1040,2053 1050,2048 1075,2040 1075,2040 1077,2040 1077,2040 1079,2040 1079,2040 1079,2040 1081,2040 1081,2040 1081,2040 1083,2040 1083,2040 1083,2042 1091,2050 1096,2053 1143,2050 1321,2038 1323,2038 1323,2038 1323,2038 1325,2038 1325,2038 1358,2053 1360,2088 1358,2096 1300,2108 1300,2108 1300,2108 1298,2108 1298,2108 1222,2098 1211,2096 1207,2098 1191,2110 1191,2110 1189,2110 1189,2110 1187,2110 1187,2110 1187,2110 1184,2110 1184,2110 1127,2100 1114,2110 1114,2110 1112,2110 1112,2110 1112,2110 1110,2110 1110,2110 1110,2112 961,2112 959,2110 959,2110 957,2110 957,2110 930,2100 694,2110 692,2110 692,2110 624,2100 593,2110 593,2110 591,2110 591,2110 591,2112 380,2112 378,2110 86,2098"/>
+        <Baseline points="88,2067 231,2088 411,2094 1360,2088"/>
+        <TextEquiv>
+          <Unicode>vor unſern gemeinſamen Gegnern. Empfanget unſeren Brudergruß nebſt der Hoff⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04a20d54" >
+        <Coords points="88,2112 90,2088 304,2088 304,2088 304,2088 306,2088 306,2088 308,2088 335,2100 454,2100 465,2090 465,2088 465,2088 465,2088 467,2088 467,2088 467,2088 469,2088 469,2088 469,2088 471,2088 471,2088 481,2088 535,2098 1354,2094 1360,2131 1358,2150 955,2156 953,2156 953,2156 953,2156 920,2148 897,2143 883,2148 864,2156 864,2156 862,2156 862,2156 862,2158 361,2158 359,2156 86,2143"/>
+        <Baseline points="88,2112 231,2131 415,2137 1360,2131"/>
+        <TextEquiv>
+          <Unicode>nung auf den Erfolg der heiligen Arbeiterverbindung. — Es lebe die Internationale!</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aecf06bb" >
+        <Coords points="132,2166 132,2133 368,2143 690,2133 690,2133 690,2133 692,2133 692,2133 769,2143 885,2133 887,2133 1236,2143 1247,2135 1247,2133 1247,2133 1249,2133 1249,2133 1249,2133 1251,2133 1251,2133 1251,2133 1253,2133 1354,2133 1358,2175 1356,2193 1294,2193 1236,2220 1236,2220 1236,2220 1234,2220 1234,2220 1234,2222 1077,2222 1075,2220 1075,2220 1073,2220 1073,2220 1073,2220 1071,2220 1046,2201 992,2220 990,2220 990,2220 990,2222 866,2222 864,2220 864,2220 862,2220 818,2208 792,2220 792,2220 792,2220 789,2220 789,2220 789,2222 676,2222 674,2220 674,2220 672,2220 672,2220 643,2208 632,2218 632,2218 630,2218 630,2218 630,2218 628,2218 628,2218 628,2218 626,2218 512,2212 512,2212 510,2212 510,2212 510,2212 508,2212 508,2212 508,2210 490,2193 428,2206 428,2206 426,2206 426,2206 314,2193 283,2208 283,2208 283,2208 281,2208 281,2208 279,2208 279,2208 279,2208 277,2208 277,2208 277,2208 275,2208 275,2208 256,2193 130,2193"/>
+        <Baseline points="132,2166 552,2183 1358,2175"/>
+        <TextEquiv>
+          <Unicode>Im Namen der verſammelten italieniſchen Centralſection zu Genf, gez Präſid.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cda2f3e1" >
+        <Coords points="88,2197 90,2158 293,2183 316,2175 316,2175 318,2175 318,2175 318,2175 320,2175 320,2175 322,2175 322,2175 351,2185 372,2172 376,2168 378,2168 378,2168 378,2168 380,2168 380,2168 380,2168 382,2168 382,2168 384,2168 384,2168 384,2168 397,2175 423,2187 506,2181 508,2222 506,2232 409,2243 409,2243 407,2243 84,2218"/>
+        <Baseline points="90,2199 221,2220 510,2224"/>
+        <TextEquiv>
+          <Unicode>Roſetti, Sekr. G. Galino.“¹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06c61d4c" >
+        <Coords points="167,2290 167,2241 411,2245 607,2255 634,2253 990,2268 992,2303 992,2325 959,2338 957,2338 955,2338 758,2325 690,2348 688,2348 688,2350 519,2350 517,2348 514,2348 467,2336 322,2321 318,2319 312,2321 275,2334 272,2334 270,2334 268,2334 266,2334 248,2321 246,2319 239,2321 210,2330 208,2330 206,2330 163,2319"/>
+        <Baseline points="167,2290 541,2307 992,2303"/>
+        <TextEquiv>
+          <Unicode>¹ Mirabeau vom 17. April 1870. O. Testut, p. 260.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

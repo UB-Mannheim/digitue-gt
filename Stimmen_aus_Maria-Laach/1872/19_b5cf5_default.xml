@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00020.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.308422+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.308437+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="19_b5cf5_default.jpg" imageWidth="1521" imageHeight="2481">
+    <TextRegion id="eSc_textblock_c22a2ed4"  >
+      <Coords points="850,121 802,121 819,66 867,82 850,121"/>
+      <TextLine id="eSc_line_fc8e1f3e" >
+        <Coords points="798,113 788,0 846,-4 858,109 856,119 798,124"/>
+        <Baseline points="798,113 858,109"/>
+        <TextEquiv>
+          <Unicode>14</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_629cff97"  >
+      <Coords points="1471,2321 190,2305 182,256 198,223 262,215 273,173 1471,181 1471,2321"/>
+      <TextLine id="eSc_line_e7088268" >
+        <Coords points="277,210 275,167 1458,169 1463,206 1458,225 275,221"/>
+        <Baseline points="277,210 1463,206"/>
+        <TextEquiv>
+          <Unicode>Wer dieſes Gemälde anſieht, und die Lebensgeſchichte Chriſti, wie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_60b2b0ab" >
+        <Coords points="188,270 180,229 194,217 194,217 196,217 196,217 196,217 198,217 198,217 200,217 604,225 610,217 612,217 612,215 612,215 614,215 614,215 614,215 616,215 616,215 618,215 1458,223 1463,264 1460,283 188,283"/>
+        <Baseline points="188,270 1463,264"/>
+        <TextEquiv>
+          <Unicode>ſie im Bewußtſein der Menſchheit aufbewahrt und in den Büchern des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_957a10d6" >
+        <Coords points="188,324 188,272 1463,283 1463,324 1463,337 188,339"/>
+        <Baseline points="188,324 1463,324"/>
+        <TextEquiv>
+          <Unicode>Neuen Bundes aufgeſchrieben iſt, kennt, muß der ſich nicht ſagen: Das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0697dac8" >
+        <Coords points="188,382 186,330 776,339 782,332 786,330 786,328 786,328 788,328 788,328 788,328 790,328 790,328 790,328 792,328 860,334 900,337 931,334 1007,326 1007,326 1009,326 1009,326 1011,326 1011,326 1011,326 1014,326 1026,334 1030,337 1032,334 1045,326 1047,326 1047,326 1047,326 1049,326 1049,326 1051,326 1179,326 1179,326 1179,326 1181,326 1218,337 1225,339 1458,339 1463,378 1460,388 188,392"/>
+        <Baseline points="188,382 1463,378"/>
+        <TextEquiv>
+          <Unicode>von den Propheten ſo lange vorher ausgeführte Bild iſt offenbar das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_abd0a7fe" >
+        <Coords points="188,438 188,386 1463,396 1463,438 1463,450 188,450"/>
+        <Baseline points="188,438 1463,438"/>
+        <TextEquiv>
+          <Unicode>Bild Chriſti? Chriſtus iſt alſo der von Gott als Erlöſer der Welt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d696396a" >
+        <Coords points="186,496 180,454 581,442 587,489 587,500 186,506"/>
+        <Baseline points="186,496 587,489"/>
+        <TextEquiv>
+          <Unicode>verheißene Gottmenſch.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_40a2c88c" >
+        <Coords points="275,552 273,500 1460,504 1465,547 1460,564 273,562"/>
+        <Baseline points="275,552 1465,547"/>
+        <TextEquiv>
+          <Unicode>Der Verfaſſer dieſer Zeilen weiß recht wohl, was die Rationaliſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa6ee21e" >
+        <Coords points="188,614 182,568 221,554 221,554 223,554 223,554 225,554 366,554 366,554 366,554 368,554 368,554 368,554 370,554 370,554 382,564 438,554 438,554 440,554 440,554 440,554 442,554 478,564 521,554 523,554 523,554 525,554 691,564 730,554 732,554 732,554 734,554 734,554 734,554 790,564 825,554 827,554 827,554 827,554 829,554 829,554 829,554 885,566 970,566 982,554 982,554 985,554 985,554 985,554 987,554 987,554 987,554 989,554 1113,564 1345,554 1347,554 1347,554 1347,554 1349,554 1349,554 1349,554 1369,564 1427,554 1427,554 1427,554 1429,554 1429,554 1432,554 1432,554 1463,566 1463,609 1458,626 186,624"/>
+        <Baseline points="188,614 709,605 1463,609"/>
+        <TextEquiv>
+          <Unicode>gegen dieſen Beweis einzuwenden pflegen. Er bedauert die viele Zeit,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_927aa480" >
+        <Coords points="188,665 182,628 229,614 231,614 231,614 233,614 560,624 608,611 610,611 610,611 612,611 612,611 713,624 842,624 865,611 865,611 867,611 867,611 867,611 869,611 1032,622 1065,609 1065,609 1067,609 1067,609 1069,609 1458,622 1463,659 1460,671 188,682"/>
+        <Baseline points="188,665 1463,659"/>
+        <TextEquiv>
+          <Unicode>welche er auf ihre Schriften verwendet hat. Seit langer Zeit be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ee36787" >
+        <Coords points="190,721 186,676 457,667 459,667 459,667 513,676 533,678 540,676 554,667 554,667 554,667 556,667 556,667 556,667 558,667 649,676 682,678 689,676 707,667 707,667 709,667 709,667 709,667 711,667 711,667 755,676 767,678 771,676 780,667 780,667 782,667 782,667 782,667 784,667 784,667 784,667 883,665 885,665 885,665 887,665 929,676 931,676 933,676 964,665 966,665 966,665 966,665 968,665 968,665 970,665 970,665 970,665 972,665 972,665 972,667 980,674 989,665 989,665 991,665 991,665 991,665 993,665 993,665 995,665 1078,665 1078,665 1078,665 1125,676 1127,678 1460,678 1465,717 1465,725 190,738"/>
+        <Baseline points="190,721 1465,717"/>
+        <TextEquiv>
+          <Unicode>ſchäftigen ſich jene Herrn größtentheils mit Kritik und Hyperkritik der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_78b23851" >
+        <Coords points="188,777 182,738 231,723 233,723 233,723 235,723 235,723 235,723 300,736 415,736 428,723 428,723 430,723 430,723 430,723 432,723 432,723 434,723 544,723 544,723 544,723 546,723 546,723 546,723 548,723 548,723 548,725 558,733 862,721 865,721 865,721 933,731 935,731 939,731 1001,721 1001,721 1003,721 1003,721 1003,721 1005,721 1005,721 1007,721 1007,721 1020,731 1020,731 1022,731 1067,721 1067,721 1067,721 1069,721 1069,721 1069,721 1071,721 1100,731 1105,731 1111,731 1160,721 1160,721 1162,721 1458,729 1463,773 1463,783 1440,795 1440,795 1440,795 1438,795 1438,795 1438,795 1436,795 1314,785 1287,795 1287,795 1285,795 1285,795 1285,798 1125,798 1123,795 978,785 970,785 968,785 953,795 951,795 951,795 951,795 949,795 949,795 947,795 947,795 947,795 945,795 945,795 920,785 918,785 912,785 819,798 819,798 817,798 186,787"/>
+        <Baseline points="188,777 1463,773"/>
+        <TextEquiv>
+          <Unicode>Bibel. Die Echtheit, die Unverfälſchtheit, die Wahrhaftigkeit (Nichts</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aef89793" >
+        <Coords points="188,835 186,789 1458,791 1463,831 1460,843 865,843 842,849 825,853 823,853 823,853 821,853 639,851 237,845 188,855"/>
+        <Baseline points="188,835 1463,831"/>
+        <TextEquiv>
+          <Unicode>zu ſagen von der göttlichen Inſpiration) der meiſten, wenn nicht ſämmt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1eb7dedb" >
+        <Coords points="186,891 184,849 556,839 558,839 691,849 701,849 703,849 716,839 716,839 718,839 718,839 720,839 720,839 720,839 722,839 722,839 786,849 790,849 792,849 815,839 815,839 817,839 817,839 817,839 819,839 819,839 819,839 821,839 854,849 854,849 854,849 877,839 877,839 877,839 879,839 879,839 881,839 881,839 997,849 1001,849 1001,849 1028,839 1028,839 1030,839 1030,839 1032,839 1202,839 1202,839 1202,839 1204,839 1204,839 1204,839 1206,839 1206,839 1206,841 1216,849 1216,851 1303,851 1380,851 1411,839 1411,839 1413,839 1413,839 1415,839 1415,839 1417,839 1463,851 1460,891 1460,901 186,909"/>
+        <Baseline points="186,891 1460,891"/>
+        <TextEquiv>
+          <Unicode>licher, heiligen Bücher des alten und neuen Bundes iſt ihnen wenig⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_175f2a76" >
+        <Coords points="188,953 186,903 1456,903 1460,944 1456,965 1146,957 1134,967 1134,967 1131,967 1131,967 1131,967 1131,967 1129,967 1129,967 1129,967 1127,967 1109,967 910,959 821,967 804,969 804,971 188,971"/>
+        <Baseline points="188,953 1460,944"/>
+        <TextEquiv>
+          <Unicode>ſtens zweifelhaft. Nicht Wenigen von ihnen iſt die Bibel ein Fabelbuch,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ce89eae0" >
+        <Coords points="188,1006 186,957 1458,963 1463,1002 1460,1015 188,1017"/>
+        <Baseline points="188,1006 1463,1002"/>
+        <TextEquiv>
+          <Unicode>Chriſtus eine Fabel. Und dieſe Herren beſteigen dennoch Katheder und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cbf25db4" >
+        <Coords points="188,1060 180,1023 200,1011 202,1011 202,1011 202,1011 204,1011 204,1011 206,1011 1458,1017 1463,1056 1458,1079 186,1073"/>
+        <Baseline points="188,1060 1463,1056"/>
+        <TextEquiv>
+          <Unicode>Kanzel, um den großen Weltbetrug fortzuſetzen, die Religion der Bibel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4d9ff28" >
+        <Coords points="188,1118 186,1077 1460,1073 1463,1118 1463,1126 188,1132"/>
+        <Baseline points="188,1118 1463,1118"/>
+        <TextEquiv>
+          <Unicode>zu lehren! Iſt es dieſen Menſchen um Wahrheit zu thun? Was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cac89e80" >
+        <Coords points="190,1170 190,1126 1465,1128 1465,1174 1465,1180 1438,1192 1438,1192 1436,1192 1436,1192 1436,1192 1434,1192 1150,1182 980,1192 978,1192 978,1192 978,1192 931,1182 898,1192 896,1192 896,1192 896,1192 893,1192 893,1192 893,1192 823,1180 347,1190 345,1190 345,1190 281,1180 229,1190 229,1190 229,1190 227,1190 227,1190 225,1190 225,1190 186,1176"/>
+        <Baseline points="190,1170 1465,1174"/>
+        <TextEquiv>
+          <Unicode>nützt es, ſich mit ihnen in Streit einzulaſſen, ihnen ihren Irrthum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0999c85a" >
+        <Coords points="190,1230 188,1188 252,1178 252,1178 254,1178 1463,1188 1463,1230 1463,1244 190,1248"/>
+        <Baseline points="190,1230 1463,1230"/>
+        <TextEquiv>
+          <Unicode>nachzuweiſen? Wird dabei auch nur irgend ein wiſſenſchaftlicher, poſi⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_535cf524" >
+        <Coords points="188,1288 184,1246 763,1234 769,1281 773,1290 757,1302 757,1302 755,1302 755,1302 755,1302 753,1302 753,1302 751,1302 186,1300"/>
+        <Baseline points="188,1288 769,1281"/>
+        <TextEquiv>
+          <Unicode>tiver Gewinn ſich herausſtellen?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ad9cd6f7" >
+        <Coords points="279,1341 279,1300 1467,1300 1467,1341 1467,1362 279,1362"/>
+        <Baseline points="279,1341 1467,1341"/>
+        <TextEquiv>
+          <Unicode>Wohin führen denn alle ihre noch ſo gelehrt ſein ſollenden Ner⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_61edf850" >
+        <Coords points="188,1403 182,1362 237,1348 240,1348 240,1348 242,1348 242,1348 242,1348 300,1358 351,1348 351,1348 351,1348 353,1348 353,1348 353,1348 355,1348 391,1358 442,1348 442,1348 442,1348 444,1348 608,1358 674,1345 674,1345 674,1345 676,1345 676,1345 678,1345 718,1356 854,1345 856,1345 856,1345 856,1345 858,1345 858,1345 858,1345 881,1356 956,1345 956,1345 958,1345 958,1345 1032,1356 1061,1343 1061,1343 1063,1343 1063,1343 1063,1343 1065,1343 1065,1343 1067,1343 1067,1343 1096,1354 1162,1343 1162,1343 1165,1343 1460,1356 1465,1397 1463,1412 188,1418"/>
+        <Baseline points="188,1403 1465,1397"/>
+        <TextEquiv>
+          <Unicode>geleien über die Bücher des alten Bundes? Sie wollen damit jenen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29c70538" >
+        <Coords points="190,1455 190,1416 1467,1416 1467,1455 1469,1465 1438,1478 1438,1478 1436,1478 1436,1478 1436,1478 1434,1478 1434,1478 1363,1467 1187,1478 1185,1478 1185,1478 1092,1467 1090,1467 1090,1467 987,1478 987,1478 985,1478 985,1478 982,1478 943,1467 943,1467 941,1467 902,1478 900,1478 900,1478 898,1478 898,1478 898,1478 896,1478 858,1467 856,1467 850,1467 734,1478 732,1478 188,1467"/>
+        <Baseline points="190,1455 1467,1455"/>
+        <TextEquiv>
+          <Unicode>Büchern ihren prophetiſchen Charakter und ſomit die göttliche Auctorität</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_00822097" >
+        <Coords points="190,1515 188,1467 1460,1469 1465,1509 1467,1519 1446,1532 1444,1532 1444,1532 1444,1532 1442,1532 1442,1532 1442,1534 1086,1534 1084,1532 1084,1532 1082,1532 1082,1532 1082,1532 1080,1532 1080,1532 1069,1521 1067,1521 1065,1521 999,1534 999,1534 997,1534 997,1534 904,1523 889,1534 887,1534 887,1534 887,1534 885,1534 885,1534 883,1534 883,1534 883,1534 881,1534 848,1523 848,1523 848,1523 788,1534 788,1534 788,1534 786,1534 585,1525 573,1536 573,1536 571,1536 571,1536 571,1536 569,1536 569,1536 569,1536 567,1536 567,1536 567,1536 519,1525 494,1536 494,1536 492,1536 492,1536 492,1536 490,1536 188,1525"/>
+        <Baseline points="190,1515 1465,1509"/>
+        <TextEquiv>
+          <Unicode>entziehen. Vergebliche Mühe! Für die Echtheit, weſentliche Unverſehrt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42a1eb00" >
+        <Coords points="190,1573 186,1529 1458,1527 1465,1569 1463,1579 732,1591 730,1591 581,1589 215,1583 192,1594"/>
+        <Baseline points="190,1573 1465,1569"/>
+        <TextEquiv>
+          <Unicode>heit und Wahrhaftigkeit, wie für die göttliche Inſpiration jener Bücher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d54980d" >
+        <Coords points="190,1629 188,1581 1465,1585 1469,1625 1471,1633 1440,1645 1440,1645 1438,1645 1438,1645 1436,1645 188,1641"/>
+        <Baseline points="190,1629 1469,1625"/>
+        <TextEquiv>
+          <Unicode>ſteht die Auctorität der Juden ein. Dieſe Bücher waren für das Volk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4662a13b" >
+        <Coords points="190,1689 182,1647 198,1635 198,1635 200,1635 200,1635 200,1635 202,1635 202,1635 204,1635 345,1635 345,1635 345,1635 347,1635 347,1635 347,1635 372,1647 374,1647 378,1647 449,1635 449,1635 451,1635 451,1635 451,1635 453,1635 453,1635 482,1647 484,1647 484,1647 502,1633 502,1633 504,1633 504,1633 507,1633 507,1633 507,1633 509,1633 771,1645 782,1645 786,1645 883,1633 883,1633 885,1633 885,1633 947,1641 958,1633 958,1631 958,1631 960,1631 960,1631 960,1631 962,1631 962,1631 964,1631 964,1631 1100,1643 1204,1629 1204,1629 1206,1629 1206,1629 1293,1643 1415,1643 1429,1631 1429,1631 1432,1631 1432,1631 1434,1631 1434,1631 1434,1631 1436,1631 1436,1631 1438,1631 1438,1631 1438,1631 1463,1643 1467,1680 1465,1693 1069,1693 1059,1693 1001,1703 1001,1703 999,1703 999,1703 999,1703 951,1695 939,1693 910,1695 782,1705 780,1705 780,1705 674,1695 658,1695 641,1695 552,1705 552,1705 550,1705 550,1705 548,1705 517,1697 509,1695 500,1697 457,1707 455,1707 455,1707 453,1707 188,1697"/>
+        <Baseline points="190,1689 1467,1680"/>
+        <TextEquiv>
+          <Unicode>Israel zugleich religiöſes und politiſches Geſetz. Das Geſetz war ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75fbae25" >
+        <Coords points="190,1744 186,1703 397,1693 399,1693 399,1693 399,1693 401,1693 401,1693 401,1693 420,1703 420,1703 420,1703 432,1693 432,1693 434,1693 434,1693 434,1693 436,1693 436,1693 438,1693 438,1693 438,1693 440,1693 440,1693 440,1693 442,1693 442,1693 442,1695 451,1703 453,1703 455,1703 488,1693 490,1693 490,1693 490,1693 492,1693 492,1693 494,1693 494,1693 521,1703 525,1705 819,1705 823,1703 838,1691 840,1691 840,1691 840,1691 842,1691 842,1691 844,1691 1460,1703 1467,1740 1465,1761 190,1761"/>
+        <Baseline points="190,1744 1467,1740"/>
+        <TextEquiv>
+          <Unicode>hartes Joch, das nur, und zwar noch mit ſtetem Widerſtreben, als von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fcb5a61f" >
+        <Coords points="190,1800 182,1763 200,1749 200,1749 202,1749 202,1749 202,1749 204,1749 204,1749 206,1749 424,1749 424,1749 424,1749 426,1749 459,1759 459,1761 693,1761 699,1757 711,1749 713,1749 713,1749 716,1749 716,1749 716,1749 718,1749 718,1749 773,1755 804,1759 840,1755 896,1747 896,1747 898,1747 898,1747 898,1747 929,1753 945,1757 960,1753 978,1747 980,1747 980,1747 980,1747 982,1747 982,1747 1020,1753 1053,1757 1067,1751 1080,1747 1080,1747 1082,1747 1082,1747 1084,1747 1266,1747 1266,1747 1266,1747 1268,1747 1268,1747 1268,1747 1270,1747 1270,1747 1270,1749 1283,1757 1454,1747 1467,1796 1463,1817 188,1811"/>
+        <Baseline points="190,1800 1467,1796"/>
+        <TextEquiv>
+          <Unicode>Gott auferlegt getragen wurde, und für dieſe Bücher ſtand Israel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b28e8e0" >
+        <Coords points="190,1858 186,1817 1177,1802 1179,1802 1460,1813 1467,1852 1463,1873 188,1869"/>
+        <Baseline points="190,1858 1467,1852"/>
+        <TextEquiv>
+          <Unicode>immer ein, und Viele gaben lieber ihr Leben dafür, als daß ſie dieſe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d81bf01e" >
+        <Coords points="190,1910 190,1869 1463,1873 1465,1914 1463,1922 190,1928"/>
+        <Baseline points="190,1910 1465,1914"/>
+        <TextEquiv>
+          <Unicode>heiligen Bücher einem Antiochus zur Vernichtung ausgeliefert hätten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a6d39d7c" >
+        <Coords points="190,1970 188,1926 409,1918 411,1918 411,1918 411,1918 413,1918 413,1918 413,1918 415,1918 415,1918 424,1926 428,1931 600,1931 606,1926 618,1918 620,1918 620,1918 622,1918 622,1918 622,1918 624,1918 624,1918 624,1918 627,1918 653,1926 658,1928 660,1926 672,1918 674,1918 674,1918 674,1918 676,1918 676,1918 678,1918 678,1918 678,1918 718,1926 726,1928 732,1926 761,1918 763,1918 763,1918 763,1918 765,1918 765,1918 823,1926 836,1928 852,1928 947,1918 947,1918 949,1918 949,1918 951,1918 991,1928 997,1928 1003,1928 1057,1918 1057,1918 1057,1918 1059,1918 1059,1918 1061,1918 1102,1928 1105,1928 1109,1928 1144,1918 1146,1918 1146,1918 1146,1918 1148,1918 1148,1918 1150,1918 1189,1928 1191,1928 1194,1928 1254,1918 1254,1918 1254,1918 1256,1918 1467,1931 1467,1970 1467,1980 190,1982"/>
+        <Baseline points="190,1970 1467,1970"/>
+        <TextEquiv>
+          <Unicode>Was vermögen gegen ein ſo glänzendes Zeugniß alle Spinnengewebe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e25e233f" >
+        <Coords points="190,2028 188,1986 821,1986 823,1984 848,1974 848,1974 850,1974 850,1974 852,1974 1460,1984 1467,2024 1465,2038 190,2040"/>
+        <Baseline points="190,2028 1467,2024"/>
+        <TextEquiv>
+          <Unicode>moderner, inconſequenteſter Kritik? Bekanntlich berufen ſich die Chriſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ad63d33f" >
+        <Coords points="190,2084 190,2038 1467,2042 1467,2084 1467,2094 190,2102"/>
+        <Baseline points="190,2084 1467,2084"/>
+        <TextEquiv>
+          <Unicode>ſeit 18. Jahrhunderten auf jene Bücher gegen die Juden ſelbſt, und die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_52bd22ad" >
+        <Coords points="190,2139 190,2100 1467,2100 1467,2139 1467,2150 190,2152"/>
+        <Baseline points="190,2139 1467,2139"/>
+        <TextEquiv>
+          <Unicode>Juden ſtehen heute noch für ihre ungeſchmälerte Auctorität ein. Was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c0d5c76e" >
+        <Coords points="190,2195 190,2146 277,2156 302,2146 304,2146 304,2146 306,2146 306,2146 308,2146 308,2146 320,2146 415,2156 457,2148 469,2146 469,2146 471,2146 471,2146 498,2148 579,2158 765,2158 773,2150 780,2146 780,2146 782,2146 782,2146 782,2146 784,2146 784,2146 786,2146 1363,2156 1396,2156 1396,2156 1417,2146 1417,2146 1417,2146 1419,2146 1419,2146 1419,2146 1421,2146 1421,2146 1423,2146 1467,2158 1465,2195 1463,2210 188,2206"/>
+        <Baseline points="190,2195 1465,2195"/>
+        <TextEquiv>
+          <Unicode>hilft da jede Kritik und Hyperkritik? — Kein Kritiker hat es bis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_57765f6a" >
+        <Coords points="190,2249 190,2201 1469,2212 1469,2255 1467,2265 188,2268"/>
+        <Baseline points="190,2249 1469,2255"/>
+        <TextEquiv>
+          <Unicode>heute noch gewagt, die weltkundige Thatſache zu läugnen, daß jene</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5367c578" >
+        <Coords points="194,2303 194,2247 440,2249 440,2249 440,2249 442,2249 442,2249 442,2249 444,2249 446,2251 469,2265 604,2257 606,2257 606,2257 722,2268 744,2257 744,2257 744,2257 747,2257 747,2257 749,2257 749,2257 749,2257 751,2257 751,2257 753,2257 771,2270 951,2270 970,2259 987,2253 987,2253 989,2253 989,2253 989,2253 991,2253 991,2253 993,2253 993,2253 993,2253 995,2253 1005,2261 1016,2268 1028,2261 1036,2257 1036,2257 1036,2257 1038,2257 1038,2257 1038,2257 1040,2257 1040,2257 1069,2261 1117,2270 1142,2263 1156,2259 1158,2259 1158,2259 1160,2259 1160,2259 1220,2265 1278,2270 1283,2265 1291,2259 1291,2257 1291,2257 1293,2257 1293,2257 1293,2257 1295,2257 1295,2257 1295,2257 1297,2257 1297,2257 1299,2257 1299,2257 1299,2257 1318,2265 1324,2270 1388,2270 1394,2268 1417,2257 1417,2257 1419,2257 1419,2257 1419,2257 1421,2257 1421,2257 1423,2257 1467,2270 1467,2309 1460,2338 1421,2328 1245,2338 1225,2338 1223,2338 1223,2338 1223,2338 1220,2338 1220,2338 1220,2338 1218,2338 1218,2338 1202,2328 1102,2328 1055,2336 1045,2338 1045,2338 1045,2338 1042,2338 1042,2338 1040,2338 1034,2336 989,2325 972,2336 970,2336 970,2336 970,2336 968,2336 968,2336 968,2336 966,2336 966,2336 962,2336 881,2325 871,2334 871,2336 871,2336 869,2336 869,2336 869,2336 869,2336 867,2336 867,2336 867,2338 678,2338 676,2336 676,2336 666,2336 604,2323 192,2332"/>
+        <Baseline points="194,2303 1467,2309"/>
+        <TextEquiv>
+          <Unicode>Bücher, aus denen wir Chriſten die meſſianiſche Würde Jeſu von</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

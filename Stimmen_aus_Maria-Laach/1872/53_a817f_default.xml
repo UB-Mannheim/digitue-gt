@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00054.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.851000+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.851016+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="53_a817f_default.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_6f2c9e4b"  >
+      <Coords points="874,113 818,130 818,82 874,90 874,113"/>
+      <TextLine id="eSc_line_2ae82d4f" >
+        <Coords points="810,124 804,59 862,70 866,119 864,136 810,144"/>
+        <Baseline points="810,124 866,119"/>
+        <TextEquiv>
+          <Unicode>48</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9b456953"  >
+      <Coords points="1495,1924 562,1941 452,1968 603,2026 1470,2026 1495,2042 1486,2288 1108,2305 1073,2338 215,2338 206,181 1486,198 1495,1924"/>
+      <TextLine id="eSc_line_0f424181" >
+        <Coords points="204,219 202,173 1476,171 1478,219 1476,237 202,227"/>
+        <Baseline points="204,219 1478,219"/>
+        <TextEquiv>
+          <Unicode>langer Schreibebrief an Petroni, den Redacteur der Roma del popolo,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cae63312" >
+        <Coords points="204,281 200,239 264,225 264,225 264,225 266,225 266,225 268,225 312,235 335,225 335,225 335,225 337,225 337,225 339,225 339,225 339,225 388,235 411,225 411,225 411,225 413,225 413,225 415,225 415,225 508,235 517,235 519,235 545,223 545,223 548,223 548,223 548,223 550,223 550,223 552,223 552,223 552,223 574,233 614,223 616,223 616,223 618,223 618,223 698,233 707,233 709,233 730,223 730,223 730,223 732,223 732,223 734,223 734,223 734,223 736,223 767,231 773,233 781,231 821,223 821,223 821,223 823,223 1474,225 1478,272 1476,289 204,293"/>
+        <Baseline points="204,281 1478,272"/>
+        <TextEquiv>
+          <Unicode>zur Rechtfertigung der Internationale, mit vielen Schmähungen auf den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3129d645" >
+        <Coords points="204,337 202,283 1474,287 1478,330 1476,341 204,347"/>
+        <Baseline points="204,337 1478,330"/>
+        <TextEquiv>
+          <Unicode>Concurrenten, erſchien im Avvenire di Sardegna (abgedruckt im Diritto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_772e22f4" >
+        <Coords points="204,392 200,347 287,334 287,334 289,334 661,341 821,343 827,339 833,332 833,332 835,332 835,332 835,332 837,332 837,332 839,332 1472,332 1476,388 1472,405 202,403"/>
+        <Baseline points="204,392 1476,388"/>
+        <TextEquiv>
+          <Unicode>Nr. 304, 31. Oct.). Vergebens habe Mazzini verſucht, heißt es darin,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63e23ef7" >
+        <Coords points="204,448 202,394 781,405 810,399 845,390 845,390 845,390 847,390 847,390 953,399 971,401 974,401 984,390 984,390 986,390 986,390 986,390 988,390 988,390 990,390 1114,390 1114,390 1114,390 1116,390 1116,390 1116,390 1139,401 1143,403 1149,401 1182,392 1184,392 1184,392 1187,392 1187,392 1187,392 1189,392 1189,392 1189,392 1191,392 1203,401 1207,405 1342,405 1344,403 1385,390 1387,390 1387,390 1387,390 1389,390 1389,390 1472,405 1476,444 1474,454 204,461"/>
+        <Baseline points="204,448 1476,444"/>
+        <TextEquiv>
+          <Unicode>ihn (Garibaldi) in ſeine „unausführbaren Velleitäten“ zu verſtricken.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_055528c7" >
+        <Coords points="204,512 198,469 241,452 241,452 244,452 244,452 246,452 246,452 374,465 481,450 481,450 483,450 622,458 645,448 645,448 645,448 647,448 647,448 649,448 649,448 649,448 651,448 651,448 651,448 653,448 653,448 653,450 665,461 727,448 727,448 727,448 730,448 730,448 800,458 810,461 818,458 858,446 860,446 860,446 860,446 862,446 862,446 949,456 967,458 990,456 1098,444 1098,444 1100,444 1100,444 1102,444 1139,454 1147,456 1158,454 1191,444 1193,444 1193,444 1193,444 1195,444 1195,444 1197,444 1197,444 1222,452 1232,456 1255,452 1309,442 1309,442 1309,442 1311,442 1311,442 1311,442 1313,442 1313,442 1333,452 1342,454 1472,450 1478,500 1476,510 204,527"/>
+        <Baseline points="204,512 1478,500"/>
+        <TextEquiv>
+          <Unicode>„Daß ich thatſächlich Republikaner bin, brauche ich den Ausreißern vom</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a90bbf3" >
+        <Coords points="204,566 200,518 1472,508 1478,556 1476,572 204,576"/>
+        <Baseline points="204,566 1478,556"/>
+        <TextEquiv>
+          <Unicode>Jahre 1860, bei Talamone und Mantua, nicht erſt zu beweiſen. Und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7835fa31" >
+        <Coords points="202,618 198,576 295,564 297,564 1474,566 1478,614 1474,632 200,628"/>
+        <Baseline points="202,618 1478,614"/>
+        <TextEquiv>
+          <Unicode>als Republikaner von Gewiſſen that ich das Wenige in der Action,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a6529b4" >
+        <Coords points="204,678 200,638 291,636 312,622 314,622 314,622 316,622 316,622 316,622 318,622 521,634 626,620 626,620 628,620 676,620 676,620 676,620 678,620 678,620 678,620 680,620 680,620 680,622 692,632 752,622 752,622 754,622 754,622 754,622 756,622 756,622 779,632 789,622 789,620 789,620 792,620 792,620 792,620 794,620 794,620 796,620 916,620 916,620 916,620 918,620 918,620 918,620 920,620 938,632 986,620 988,620 988,620 990,620 990,620 990,620 992,620 992,620 992,620 994,620 994,620 994,622 1007,634 1046,634 1174,618 1174,618 1176,618 1476,632 1480,671 1476,690 202,686"/>
+        <Baseline points="204,678 1480,671"/>
+        <TextEquiv>
+          <Unicode>was ich that ... Mazzini und ich ſind alt; von Verſöhnung zwiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4d37dee" >
+        <Coords points="204,733 202,690 283,676 283,676 285,676 285,676 401,688 490,676 490,676 492,676 492,676 494,676 494,676 494,676 521,690 653,690 665,678 665,676 665,676 667,676 667,676 667,676 670,676 670,676 670,676 672,676 837,690 880,690 893,678 893,676 893,676 895,676 895,676 895,676 897,676 897,676 897,676 899,676 899,676 901,676 901,676 936,688 971,676 971,676 974,676 974,676 976,676 1193,688 1385,676 1387,676 1387,676 1387,676 1389,676 1416,686 1426,678 1426,676 1426,676 1429,676 1429,676 1429,676 1431,676 1431,676 1433,676 1433,676 1433,676 1435,676 1482,690 1480,733 1478,744 202,742"/>
+        <Baseline points="204,733 1480,733"/>
+        <TextEquiv>
+          <Unicode>uns Beiden ſpreche man nicht (?) ... Wenn Mazzini die große Schlacht,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b34c1b1" >
+        <Coords points="204,789 198,748 252,733 254,733 254,733 256,733 256,733 256,733 258,733 258,733 258,733 260,733 275,744 318,733 320,733 320,733 322,733 322,733 394,746 403,746 554,746 556,744 568,733 568,733 570,733 570,733 570,733 572,733 572,733 574,733 574,733 653,742 678,746 812,746 821,740 839,731 839,731 839,731 841,731 841,731 843,731 926,731 926,731 926,731 928,731 928,731 928,731 930,731 930,731 930,733 936,740 938,742 945,738 963,731 963,731 965,731 965,731 965,731 967,731 967,731 967,731 969,731 990,738 1002,742 1474,733 1480,785 1476,802 202,800"/>
+        <Baseline points="204,789 1480,785"/>
+        <TextEquiv>
+          <Unicode>auf welche er anſpielt, gewonnen haben wird, und es ſich darum han⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08bf36ac" >
+        <Coords points="204,847 200,795 1474,791 1480,843 1476,862 202,858"/>
+        <Baseline points="204,847 1480,843"/>
+        <TextEquiv>
+          <Unicode>delt, einheimiſche und auswärtige Tyranneien zu bekämpfen, werde ich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5f764ecc" >
+        <Coords points="204,905 202,853 417,862 490,853 519,849 519,849 521,849 521,849 548,853 599,860 645,853 667,849 667,849 667,849 670,849 719,853 816,860 895,853 953,847 953,847 955,847 955,847 957,847 957,847 957,847 959,847 959,847 959,849 963,853 969,858 1472,853 1478,897 1476,911 204,917"/>
+        <Baseline points="204,905 1478,897"/>
+        <TextEquiv>
+          <Unicode>dem Rathe meines Freundes Filopanti folgen und unter der Mazzini&#39;⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5d7843c4" >
+        <Coords points="206,963 200,915 1476,913 1482,959 1480,967 206,973"/>
+        <Baseline points="206,963 1482,959"/>
+        <TextEquiv>
+          <Unicode>ſchen Fahne dienen, wie ich unter der ſavoyiſchen diente, um Italien</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c88e3ec2" >
+        <Coords points="206,1019 200,975 351,965 353,965 353,965 353,965 399,973 417,977 440,973 492,965 492,965 494,965 494,965 494,965 496,965 496,965 517,973 525,979 622,979 628,973 639,965 639,963 639,963 641,963 641,963 643,963 643,963 643,963 645,963 645,963 707,973 711,973 717,973 835,963 835,963 837,963 837,963 903,973 920,975 928,973 959,963 961,963 961,963 961,963 963,963 963,963 963,963 1009,973 1021,975 1036,973 1104,961 1104,961 1104,961 1106,961 1106,961 1108,961 1108,961 1141,973 1145,973 1149,973 1211,961 1211,961 1211,961 1213,961 1213,961 1216,961 1263,973 1269,973 1288,973 1431,963 1433,963 1433,963 1433,963 1474,973 1478,1013 1476,1029 206,1035"/>
+        <Baseline points="206,1019 1478,1013"/>
+        <TextEquiv>
+          <Unicode>nützlich zu ſein ... Unſere Soldaten kämpften für die amerikaniſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b77699b1" >
+        <Coords points="206,1077 202,1023 353,1021 355,1021 355,1021 370,1023 426,1033 457,1023 465,1021 467,1021 467,1021 467,1021 469,1021 469,1021 469,1021 471,1021 471,1021 477,1023 500,1033 517,1023 517,1023 519,1023 519,1023 521,1023 521,1023 521,1023 686,1019 688,1019 688,1019 690,1019 690,1019 690,1019 692,1019 698,1025 711,1031 792,1025 893,1017 895,1017 895,1017 974,1025 1009,1029 1048,1027 1174,1015 1176,1015 1176,1015 1176,1015 1178,1015 1178,1015 1178,1015 1199,1025 1344,1017 1346,1017 1346,1017 1472,1029 1476,1068 1474,1077 1143,1089 1141,1089 992,1085 858,1081 845,1087 837,1091 837,1091 837,1091 835,1091 835,1091 833,1091 651,1089 250,1085 208,1095"/>
+        <Baseline points="206,1077 1476,1068"/>
+        <TextEquiv>
+          <Unicode>Freiheit, dienten neben dem Heer der Monarchie, nicht für dieſe —</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d7c098a" >
+        <Coords points="206,1128 202,1081 1478,1081 1482,1124 1478,1143 204,1139"/>
+        <Baseline points="206,1128 1482,1124"/>
+        <TextEquiv>
+          <Unicode>ich habe es ſchon ſo oft geſagt —, ſondern für Italien, und werden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_27f51a7b" >
+        <Coords points="210,1186 200,1147 210,1132 210,1132 213,1132 213,1130 213,1130 215,1130 215,1130 215,1130 217,1130 217,1130 219,1130 219,1130 328,1141 361,1130 363,1130 363,1130 363,1130 366,1130 605,1141 634,1128 634,1128 636,1128 636,1128 636,1128 639,1128 639,1128 641,1128 684,1139 725,1128 727,1128 727,1128 727,1128 1021,1126 1023,1126 1023,1126 1025,1126 1025,1126 1056,1137 1110,1126 1110,1126 1110,1126 1112,1126 1414,1137 1418,1180 1416,1190 1050,1190 1036,1195 1015,1201 1013,1201 1013,1201 1013,1201 1011,1201 845,1197 641,1192 614,1201 603,1203 601,1203 601,1203 599,1203 527,1201 281,1195 210,1205"/>
+        <Baseline points="210,1186 1418,1180"/>
+        <TextEquiv>
+          <Unicode>Italien dienen auch „neben euch (Mazziniſten), wenn es nöthig iſt.“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a45bbb9" >
+        <Coords points="293,1242 291,1188 862,1197 905,1192 965,1184 965,1184 967,1184 967,1184 1013,1192 1029,1195 1079,1192 1255,1184 1257,1184 1257,1184 1257,1184 1259,1184 1259,1184 1259,1184 1278,1195 1282,1197 1478,1197 1482,1238 1480,1246 293,1250"/>
+        <Baseline points="293,1242 1482,1238"/>
+        <TextEquiv>
+          <Unicode>Der Streit zwiſchen den zwei Haupthähnen ſtellte ſcheinbar dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_81a1f48a" >
+        <Coords points="206,1300 202,1257 839,1240 841,1240 841,1240 843,1240 889,1250 943,1240 943,1240 945,1240 1476,1252 1480,1296 1476,1310 204,1308"/>
+        <Baseline points="206,1300 1480,1296"/>
+        <TextEquiv>
+          <Unicode>nahenden Congreſſe nicht das günſtigſte Horoſkop, wurde auch thatſächlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_521dca2c" >
+        <Coords points="206,1356 202,1314 442,1300 444,1300 444,1300 525,1310 630,1300 630,1300 632,1300 632,1300 634,1300 670,1310 670,1310 672,1310 703,1300 705,1300 705,1300 705,1300 707,1300 891,1308 897,1308 897,1308 922,1298 922,1298 924,1298 924,1298 924,1298 926,1298 926,1298 926,1298 928,1298 961,1308 963,1308 969,1308 1069,1298 1071,1298 1472,1306 1476,1352 1474,1362 206,1364"/>
+        <Baseline points="206,1356 1476,1352"/>
+        <TextEquiv>
+          <Unicode>von der Regierung zur Vereitlung des ganzen Planes liſtig ausgebeutet!¹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b7c00c2" >
+        <Coords points="208,1412 206,1362 562,1362 601,1358 645,1352 645,1352 647,1352 647,1352 647,1352 676,1356 707,1362 732,1356 750,1352 752,1352 752,1352 754,1352 754,1352 754,1352 756,1352 756,1352 767,1356 783,1362 789,1356 794,1352 794,1352 796,1352 796,1352 796,1352 798,1352 798,1352 798,1352 800,1352 800,1352 833,1356 889,1362 909,1354 918,1352 918,1352 920,1352 920,1352 922,1352 922,1352 922,1352 924,1352 924,1352 932,1354 951,1362 971,1354 978,1352 978,1352 980,1352 980,1352 980,1352 982,1352 982,1352 998,1354 1050,1362 1114,1352 1139,1350 1139,1350 1141,1350 1213,1352 1445,1360 1474,1350 1482,1405 1480,1420 208,1426"/>
+        <Baseline points="208,1412 1482,1405"/>
+        <TextEquiv>
+          <Unicode>Während nun der Mann von der Ziegeninſel, welcher den Vorſitz nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42a455ea" >
+        <Coords points="206,1469 204,1422 1480,1422 1484,1465 1482,1474 206,1482"/>
+        <Baseline points="206,1469 1484,1465"/>
+        <TextEquiv>
+          <Unicode>perſönlich führen konnte, ſeine Stellvertreter ernannte, verweigerte der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6bc878b4" >
+        <Coords points="208,1525 208,1482 1486,1482 1486,1525 1484,1536 206,1534"/>
+        <Baseline points="208,1525 1486,1525"/>
+        <TextEquiv>
+          <Unicode>demokratiſche Arbeiterverein zu Rom die Theilnahme am Congreß; andere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36c382d0" >
+        <Coords points="210,1585 208,1536 1431,1536 1476,1525 1484,1581 1482,1589 210,1598"/>
+        <Baseline points="210,1585 1484,1581"/>
+        <TextEquiv>
+          <Unicode>Mazzini&#39;ſche Geſellſchaften, z. B. die von Turin und Neapel², folgten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b158765" >
+        <Coords points="208,1641 204,1587 463,1598 608,1587 661,1585 663,1585 663,1585 663,1585 665,1585 665,1585 667,1585 667,1585 672,1589 680,1596 705,1589 717,1585 719,1585 719,1585 721,1585 721,1585 721,1585 740,1589 769,1596 796,1589 810,1585 812,1585 812,1585 814,1585 814,1585 849,1589 897,1596 905,1589 909,1585 909,1585 912,1585 912,1585 912,1585 914,1585 914,1585 916,1585 1478,1594 1482,1635 1478,1651 206,1649"/>
+        <Baseline points="208,1641 1482,1635"/>
+        <TextEquiv>
+          <Unicode>dem Beiſpiele. Um aber einem Skandale vorzubeugen und die Ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0365511" >
+        <Coords points="210,1697 206,1656 676,1643 678,1643 829,1647 1040,1651 1062,1643 1071,1641 1071,1641 1073,1641 1073,1641 1075,1641 1145,1643 1395,1649 1476,1639 1482,1691 1480,1711 210,1716"/>
+        <Baseline points="210,1697 1482,1691"/>
+        <TextEquiv>
+          <Unicode>ſammlung möglichſt zahlreich zu machen, erklärten am Ende die Garibal⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50e73e8c" >
+        <Coords points="208,1755 204,1711 1476,1703 1482,1747 1478,1767 206,1765"/>
+        <Baseline points="208,1755 1482,1747"/>
+        <TextEquiv>
+          <Unicode>dianer, daß von allen demokratiſchen Verbindungen, wenn ſie auch nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e898adbe" >
+        <Coords points="208,1813 202,1775 239,1759 239,1759 241,1759 241,1759 241,1759 244,1759 413,1769 531,1757 531,1757 533,1757 533,1757 634,1769 653,1757 655,1757 655,1757 655,1757 657,1757 657,1757 657,1757 659,1757 659,1757 661,1757 661,1757 696,1769 730,1757 730,1757 732,1757 732,1757 734,1757 734,1757 734,1757 736,1757 779,1769 810,1757 810,1757 812,1757 812,1757 812,1757 814,1757 814,1757 814,1757 864,1767 905,1757 907,1757 907,1757 909,1757 909,1757 1009,1767 1029,1755 1031,1755 1031,1755 1034,1755 1034,1755 1034,1755 1036,1755 1036,1755 1036,1755 1038,1755 1038,1755 1040,1755 1040,1755 1040,1755 1054,1769 1102,1769 1141,1757 1143,1757 1143,1757 1143,1757 1145,1757 1145,1757 1147,1757 1147,1757 1147,1757 1149,1757 1149,1757 1162,1767 1191,1757 1191,1757 1193,1757 1193,1757 1195,1757 1371,1765 1439,1753 1439,1753 1439,1753 1441,1753 1441,1753 1443,1753 1443,1753 1482,1767 1484,1804 1480,1823 206,1821"/>
+        <Baseline points="208,1813 1484,1804"/>
+        <TextEquiv>
+          <Unicode>aus Arbeitern beſtänden (d. h. wohl, wenn ſie auch nicht zur Inter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c8f11673" >
+        <Coords points="208,1871 204,1831 266,1817 266,1817 266,1817 268,1817 268,1817 268,1817 322,1827 343,1817 343,1817 343,1817 345,1817 345,1817 345,1817 347,1817 504,1827 506,1827 506,1827 531,1815 531,1815 531,1815 533,1815 533,1815 533,1815 535,1815 535,1815 537,1815 537,1815 537,1815 560,1825 599,1815 601,1815 601,1815 603,1815 823,1825 837,1825 839,1825 883,1813 885,1813 885,1813 887,1813 887,1813 978,1823 1062,1813 1062,1813 1065,1813 1065,1813 1149,1823 1158,1823 1162,1823 1203,1811 1205,1811 1205,1811 1207,1811 1478,1821 1482,1862 1480,1871 1091,1883 1089,1883 988,1879 891,1875 864,1881 845,1885 843,1885 843,1885 841,1885 732,1883 527,1877 457,1887 446,1887 446,1887 444,1887 426,1887 275,1879 208,1889"/>
+        <Baseline points="208,1871 1482,1862"/>
+        <TextEquiv>
+          <Unicode>nationale gehörten), Abgeordnete zugelaſſen würden. So kamen unge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4bd1a07d" >
+        <Coords points="208,1928 204,1877 366,1873 368,1873 368,1873 370,1873 386,1877 419,1885 434,1877 440,1873 442,1873 442,1873 444,1873 444,1873 444,1873 446,1873 446,1873 479,1877 512,1881 537,1877 574,1871 574,1871 574,1871 576,1871 576,1871 579,1871 579,1871 579,1871 581,1871 589,1877 601,1885 709,1885 727,1877 750,1871 752,1871 752,1871 752,1871 754,1871 754,1871 756,1871 781,1877 802,1883 829,1877 868,1871 868,1871 870,1871 870,1871 945,1879 974,1881 978,1879 988,1869 988,1869 990,1869 990,1869 990,1869 992,1869 992,1869 992,1869 1195,1866 1197,1866 1197,1866 1199,1866 1199,1866 1199,1866 1224,1879 1226,1881 1480,1881 1484,1920 1482,1933 208,1949"/>
+        <Baseline points="208,1928 1484,1920"/>
+        <TextEquiv>
+          <Unicode>fähr ſechzig Vertreter von nahezu hundert demokratiſchen Vereinen zu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_efcffa5d" >
+        <Coords points="210,1982 210,1935 361,1943 361,1986 359,1993 208,2001"/>
+        <Baseline points="210,1982 361,1986"/>
+        <TextEquiv>
+          <Unicode>ſammen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d1bb942" >
+        <Coords points="281,2067 277,2034 587,2019 589,2019 1482,2026 1486,2059 1484,2075 281,2077"/>
+        <Baseline points="281,2067 1486,2059"/>
+        <TextEquiv>
+          <Unicode>¹ Wie nämlich die Dinge lagen, ſchien Garibaldi&#39;s Sieg gewiß. Da nun das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_93ccd3a5" >
+        <Coords points="213,2110 210,2065 498,2073 523,2063 523,2063 523,2063 525,2063 525,2063 525,2063 527,2063 539,2063 825,2071 856,2061 858,2061 860,2061 860,2061 860,2061 862,2061 878,2061 1071,2069 1478,2059 1484,2102 1482,2112 213,2121"/>
+        <Baseline points="213,2110 1484,2102"/>
+        <TextEquiv>
+          <Unicode>Miniſterium Lanza⸗Venoſta dem etwas gemäßigteren Mazzini ſchon längſt mehr wohl⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_40ca25d6" >
+        <Coords points="213,2154 210,2115 1151,2115 1224,2102 1230,2102 1230,2102 1232,2102 1242,2102 1379,2110 1480,2100 1486,2146 1484,2156 213,2164"/>
+        <Baseline points="213,2154 1486,2146"/>
+        <TextEquiv>
+          <Unicode>wollte, ja innerlich ihm angehört, begünſtigte es den Garibaldi, was bei dem lebhaften</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef50f5ad" >
+        <Coords points="213,2199 208,2160 1480,2152 1486,2189 1484,2201 213,2212"/>
+        <Baseline points="213,2199 1486,2189"/>
+        <TextEquiv>
+          <Unicode>Oppoſitionsgeiſte beider Parteien Mazzini&#39;s Actien in die Höhe trieb, Letzterem zum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_185ea150" >
+        <Coords points="213,2243 208,2201 421,2201 426,2239 423,2251 210,2249"/>
+        <Baseline points="213,2243 426,2239"/>
+        <TextEquiv>
+          <Unicode>Siege verhalf.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4137904b" >
+        <Coords points="289,2280 289,2241 1488,2247 1488,2280 1488,2296 289,2296"/>
+        <Baseline points="289,2280 1488,2280"/>
+        <TextEquiv>
+          <Unicode>² Man verwechſele dieſe Mazzini&#39;ſchen Vereine nicht mit der internationalen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7b17d1c" >
+        <Coords points="215,2330 204,2301 215,2286 215,2286 217,2286 217,2284 217,2284 219,2284 219,2284 219,2284 221,2284 221,2284 223,2284 386,2284 386,2284 386,2284 388,2284 388,2284 415,2294 595,2294 608,2282 608,2282 610,2282 610,2282 610,2282 612,2282 612,2282 612,2282 614,2282 614,2282 616,2282 616,2282 616,2282 618,2282 618,2282 630,2292 692,2282 692,2282 694,2282 694,2282 694,2282 696,2282 696,2282 696,2282 698,2282 698,2282 698,2284 707,2292 732,2282 732,2282 734,2282 734,2282 736,2282 736,2282 736,2282 738,2282 773,2292 984,2282 986,2282 986,2282 1073,2292 1081,2323 1081,2352 856,2354 854,2354 854,2354 852,2354 839,2350 810,2342 769,2350 736,2356 736,2356 736,2356 734,2356 734,2356 732,2356 732,2356 732,2356 730,2356 730,2356 723,2350 715,2344 579,2344 572,2348 566,2354 566,2354 564,2354 564,2354 564,2354 562,2354 562,2354 562,2354 560,2354 560,2354 560,2354 531,2348 512,2344 494,2348 459,2356 457,2356 457,2356 454,2356 328,2348 285,2359 283,2359 283,2359 281,2359 281,2359 281,2359 213,2344"/>
+        <Baseline points="215,2330 1081,2323"/>
+        <TextEquiv>
+          <Unicode>Föderation in Turin und der gleichen Section in Neapel.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
