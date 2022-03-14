@@ -306,6 +306,7 @@
       </TextLine>
     </TextRegion>
     <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
       <TextLine id="eSc_line_a51d323d" >
         <Coords points="530,1294 530,1215 855,1218 855,1294 855,1339 530,1339"/>
         <Baseline points="530,1294 855,1294"/>

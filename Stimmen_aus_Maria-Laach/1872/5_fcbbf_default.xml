@@ -159,6 +159,7 @@
       <Coords points="876,115 899,138 860,146 860,124 876,115"/>
     </TextRegion>
     <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
       <TextLine id="eSc_line_9a3fad8b" >
         <Coords points="866,144 866,101 893,107 893,144 893,165 866,165"/>
         <Baseline points="866,144 893,144"/>
