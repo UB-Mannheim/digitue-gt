@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00011.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-03-14T15:00:23.666211+00:00</Created>
+        <LastChange>2022-03-14T15:00:23.666226+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="10_d2272_default.jpg" imageWidth="1422" imageHeight="2333">
+    <TextRegion id="eSc_textblock_e8767e46"  >
+      <Coords points="46,54 1375,69 1375,1172 1180,1189 1367,1197 1383,1236 1375,2284 46,2276 46,54"/>
+      <TextLine id="eSc_line_319d8e92" >
+        <Coords points="48,91 44,52 1355,48 1361,85 1359,104 48,106"/>
+        <Baseline points="48,91 1361,85"/>
+        <TextEquiv>
+          <Unicode>werden ihr läſtige Rückſichten auferlegt werden. Neben allem andern,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd7faf99" >
+        <Coords points="48,145 44,104 1357,95 1363,139 1361,157 48,167"/>
+        <Baseline points="48,145 1363,139"/>
+        <TextEquiv>
+          <Unicode>auf das ſchon oben hingedeutet wurde, mögen in dieſer Beziehung nur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_708c6ee3" >
+        <Coords points="48,202 44,157 1357,151 1363,194 1361,221 48,221"/>
+        <Baseline points="48,202 1363,194"/>
+        <TextEquiv>
+          <Unicode>noch zwei Punkte erwähnt werden. Das Oberhaupt der römiſchen Kirche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a106f7f1" >
+        <Coords points="50,256 46,215 1357,209 1363,250 1361,276 50,276"/>
+        <Baseline points="50,256 1363,250"/>
+        <TextEquiv>
+          <Unicode>ſoll in Zukunft in einem Staat wohnen, der ſeinen Bürgern volle Re⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7eb18043" >
+        <Coords points="48,313 44,270 1359,262 1365,307 1363,326 48,330"/>
+        <Baseline points="48,313 1365,307"/>
+        <TextEquiv>
+          <Unicode>ligionsfreiheit gewährt, dieſe Kirche ſoll ſelbſt in ihrem beherrſchenden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07615d08" >
+        <Coords points="50,369 46,326 1357,318 1363,359 1361,383 50,386"/>
+        <Baseline points="50,369 1363,359"/>
+        <TextEquiv>
+          <Unicode>Mittelpunkt mit andern Bekenntniſſen unter gleichen Geſetzen zuſammen⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6086d94f" >
+        <Coords points="46,423 42,383 1359,371 1365,417 1363,439 46,447"/>
+        <Baseline points="46,423 1365,417"/>
+        <TextEquiv>
+          <Unicode>leben. Wenn dies erſt eine Zeitlang gedauert hat, muß der Glaube, als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c6e98327" >
+        <Coords points="48,480 44,433 1359,429 1365,472 1363,491 48,499"/>
+        <Baseline points="48,480 1365,472"/>
+        <TextEquiv>
+          <Unicode>ob außer ihr kein Heil zu finden ſei, dieſer für ihr bisheriges Syſtem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21da61d8" >
+        <Coords points="48,536 44,487 1359,486 1365,528 1365,542 48,552"/>
+        <Baseline points="48,536 1365,528"/>
+        <TextEquiv>
+          <Unicode>ſo unentbehrliche Grundſatz der Unduldſamkeit, nothwendig auch hier ſeine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_30639208" >
+        <Coords points="48,591 46,542 1359,542 1363,585 1361,608 48,608"/>
+        <Baseline points="48,591 1363,585"/>
+        <TextEquiv>
+          <Unicode>Geltung immer mehr verlieren. Noch unmittelbarer findet der Anſpruch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65f0da70" >
+        <Coords points="48,645 48,600 1361,600 1361,645 1361,664 48,666"/>
+        <Baseline points="48,645 1361,645"/>
+        <TextEquiv>
+          <Unicode>der Kirche auf Beherrſchung der Staaten ſeine thatſächliche Widerlegung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c99f98e6" >
+        <Coords points="48,703 44,657 1357,653 1363,697 1361,719 48,725"/>
+        <Baseline points="48,703 1363,697"/>
+        <TextEquiv>
+          <Unicode>in dem Umſtand, daß die oberſte Kirchenbehörde ſelbſt ſich genöthigt ſieht,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2b9f8f3" >
+        <Coords points="48,758 44,715 1359,709 1365,752 1361,775 46,773"/>
+        <Baseline points="48,758 1365,752"/>
+        <TextEquiv>
+          <Unicode>ſich unter den Schutz eines Staates zu ſtellen, der jenen Anſpruch in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0441e116" >
+        <Coords points="48,814 46,766 1363,766 1367,806 1365,828 48,832"/>
+        <Baseline points="48,814 1367,806"/>
+        <TextEquiv>
+          <Unicode>keiner Weiſe zugiebt, und ſich den Geſetzen deſſelben zu fügen. Wenn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8ff5024b" >
+        <Coords points="46,870 42,828 1361,820 1367,863 1365,880 46,888"/>
+        <Baseline points="46,870 1367,863"/>
+        <TextEquiv>
+          <Unicode>die Kirche nicht einmal am Sitze des Papſtthums in bürgerlichen Dingen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01322647" >
+        <Coords points="48,925 44,884 1361,878 1367,919 1365,939 48,946"/>
+        <Baseline points="48,925 1367,919"/>
+        <TextEquiv>
+          <Unicode>noch etwas zu befehlen hat, ſo mögen die Anhänger des theokratiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1fdac00" >
+        <Coords points="50,985 46,940 1363,933 1369,977 1369,999 50,1001"/>
+        <Baseline points="50,985 1369,977"/>
+        <TextEquiv>
+          <Unicode>Syſtems dieſe Thatſache noch ſo lebhaft beklagen: die geſunde Vernunft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d2581a7" >
+        <Coords points="48,1040 44,999 1361,991 1367,1032 1365,1053 48,1057"/>
+        <Baseline points="48,1040 1367,1032"/>
+        <TextEquiv>
+          <Unicode>wird doch auf die Dauer ſchwer davon zu überzeugen ſein, daß ein Zu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_676d105b" >
+        <Coords points="48,1098 44,1055 1361,1045 1367,1088 1365,1112 48,1117"/>
+        <Baseline points="48,1098 1367,1088"/>
+        <TextEquiv>
+          <Unicode>ſtand, welchen die Kirche trotz ihrer göttlichen Sendung ſich thatſächlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41acff81" >
+        <Coords points="48,1154 44,1108 1361,1104 1367,1150 1365,1166 48,1170"/>
+        <Baseline points="48,1154 1367,1150"/>
+        <TextEquiv>
+          <Unicode>gefallen läßt und gefallen laſſen muß, mit der göttlichen Weltordnung,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a038e1cc" >
+        <Coords points="48,1207 48,1162 1118,1162 1118,1207 1118,1226 48,1230"/>
+        <Baseline points="48,1207 1118,1207"/>
+        <TextEquiv>
+          <Unicode>deren Hüterin ſie ſein will, ſchlechterdings unvereinbar ſei.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d40aad8c" >
+        <Coords points="136,1263 132,1217 1363,1211 1369,1257 1367,1275 136,1285"/>
+        <Baseline points="136,1263 1369,1257"/>
+        <TextEquiv>
+          <Unicode>Es könnte nun vielleicht ſcheinen, die Kurie hätte ein einfaches Mittel,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a6bd07a" >
+        <Coords points="46,1322 42,1279 1363,1269 1369,1312 1367,1327 46,1337"/>
+        <Baseline points="46,1322 1369,1312"/>
+        <TextEquiv>
+          <Unicode>um ſich allen dieſen Verlegenheiten und Beſchränkungen zu entziehen: ſie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9ed2419" >
+        <Coords points="46,1378 42,1333 1363,1325 1369,1372 1367,1388 46,1393"/>
+        <Baseline points="46,1378 1369,1372"/>
+        <TextEquiv>
+          <Unicode>dürfte nur ihren Wohnſitz anderswohin verlegen. Allein dieſer Plan iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9499b286" >
+        <Coords points="48,1434 44,1388 1365,1376 1371,1427 1369,1444 48,1450"/>
+        <Baseline points="48,1434 1371,1427"/>
+        <TextEquiv>
+          <Unicode>weit leichter zu entwerfen als auszuführen. Man hat bekanntlich der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_013bd45f" >
+        <Coords points="46,1489 42,1448 344,1434 346,1434 815,1440 834,1430 834,1430 834,1430 836,1430 836,1430 838,1430 1365,1438 1369,1479 1367,1504 46,1506"/>
+        <Baseline points="46,1489 1369,1479"/>
+        <TextEquiv>
+          <Unicode>italieniſchen Regierung für den Fall, daß ſie ſich Roms bemächtige, wie⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2afd2fca" >
+        <Coords points="48,1545 44,1500 1365,1493 1371,1537 1369,1553 48,1561"/>
+        <Baseline points="48,1545 1371,1537"/>
+        <TextEquiv>
+          <Unicode>derholt mit Auswanderung des Papſtes gedroht. Aber ſo wenig ſich jene</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_15273ded" >
+        <Coords points="48,1601 44,1557 1365,1547 1371,1592 1369,1613 48,1615"/>
+        <Baseline points="48,1601 1371,1592"/>
+        <TextEquiv>
+          <Unicode>dadurch abſchrecken ließ, ſo wenig ſind bis jetzt zur Ausführung dieſer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98067881" >
+        <Coords points="48,1658 44,1607 1365,1603 1371,1648 1369,1662 48,1671"/>
+        <Baseline points="48,1658 1371,1648"/>
+        <TextEquiv>
+          <Unicode>Drohung Anſtalten gemacht worden, und es wird damit wohl auch in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ed0bbcf" >
+        <Coords points="48,1718 46,1660 1371,1660 1373,1706 1371,1722 48,1736"/>
+        <Baseline points="48,1718 589,1706 1373,1706"/>
+        <TextEquiv>
+          <Unicode>Zukunft ſeine guten Wege haben. Der italieniſchen Regierung wäre es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_add6434d" >
+        <Coords points="46,1773 42,1726 1367,1712 1373,1759 1371,1778 46,1792"/>
+        <Baseline points="46,1773 1373,1759"/>
+        <TextEquiv>
+          <Unicode>zwar ohne Zweifel höchſt unangenehm, wenn das Oberhaupt der Kirche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f5c2898" >
+        <Coords points="48,1827 44,1780 1367,1771 1373,1815 1371,1831 48,1843"/>
+        <Baseline points="48,1827 1373,1815"/>
+        <TextEquiv>
+          <Unicode>Rom verließe; ſie weiß zu gut, welcher Schlag dies für Ronswäre, wie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d659a86" >
+        <Coords points="48,1881 44,1835 1367,1827 1373,1872 1373,1889 48,1899"/>
+        <Baseline points="48,1881 1373,1872"/>
+        <TextEquiv>
+          <Unicode>ſehr das Zuſammenwachſen des italieniſchen Staatsweſens dadurch erſchwert</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11399fb1" >
+        <Coords points="48,1938 44,1893 1365,1883 1371,1928 1369,1949 48,1953"/>
+        <Baseline points="48,1938 1371,1928"/>
+        <TextEquiv>
+          <Unicode>würde, was für einen ungänſtigen Eindruck es beim Volk hervorbrächte,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8114d402" >
+        <Coords points="48,1994 44,1948 1363,1940 1369,1986 1367,2004 48,2010"/>
+        <Baseline points="48,1994 1369,1986"/>
+        <TextEquiv>
+          <Unicode>welchen Einfluß der Klerus trotz allem auf die italieniſche Bevölkerung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ace7f7d" >
+        <Coords points="50,2051 46,2008 1359,1996 1373,2039 1371,2064 50,2066"/>
+        <Baseline points="50,2051 1373,2039"/>
+        <TextEquiv>
+          <Unicode>noch ausübt, wie gefährlich ihr ſeine Gegnerſchaft iſt, und welchen Hebel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b8bddba0" >
+        <Coords points="46,2105 42,2062 566,2049 568,2049 925,2056 1003,2047 1003,2047 1005,2047 1369,2056 1373,2099 1371,2119 46,2121"/>
+        <Baseline points="46,2105 1373,2099"/>
+        <TextEquiv>
+          <Unicode>der politiſchen Macht ſie mit dem Papſtthum aus der Hand gäbe; und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae48b586" >
+        <Coords points="48,2163 44,2115 1369,2111 1375,2156 1373,2177 48,2179"/>
+        <Baseline points="48,2163 1375,2156"/>
+        <TextEquiv>
+          <Unicode>ſie thut deshalb alles, was ſie kann, um dem letztern den Aufenthalt in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b22040ba" >
+        <Coords points="46,2216 42,2173 1365,2169 1371,2212 1369,2233 46,2235"/>
+        <Baseline points="46,2216 1371,2212"/>
+        <TextEquiv>
+          <Unicode>der ewigen Stadt auch unter den veränderten Verhältniſſen ſo erträglich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_12ef8a9e" >
+        <Coords points="48,2272 46,2222 1371,2228 1375,2268 1373,2299 1066,2311 1064,2311 1064,2311 1064,2311 1062,2311 1030,2299 1025,2299 1009,2299 908,2311 908,2311 906,2311 906,2311 904,2311 904,2311 904,2311 902,2311 902,2311 888,2299 888,2299 885,2299 857,2309 855,2309 855,2309 855,2309 853,2309 752,2299 713,2298 704,2299 667,2313 665,2313 665,2313 665,2313 663,2313 663,2313 663,2313 661,2313 661,2313 659,2313 659,2313 643,2299 639,2299 560,2299 556,2299 531,2313 531,2313 531,2313 529,2313 529,2313 527,2313 527,2313 527,2313 525,2313 525,2313 525,2313 505,2303 342,2313 340,2313 340,2313 340,2313 338,2313 338,2313 305,2299 303,2299 301,2299 282,2313 280,2313 280,2313 280,2313 278,2313 278,2313 278,2315 206,2315 204,2313 204,2313 202,2313 202,2313 202,2313 200,2313 180,2301 48,2301"/>
+        <Baseline points="48,2272 1375,2268"/>
+        <TextEquiv>
+          <Unicode>wie möglich zu machen. Aber ſie weiß auch ohne Zweifel, daß ſie eine</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

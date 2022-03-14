@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00004.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-03-14T15:00:23.332843+00:00</Created>
+        <LastChange>2022-03-14T15:00:23.332877+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="3_9c39d_default.jpg" imageWidth="1421" imageHeight="2407">
+    <TextRegion id="eSc_textblock_973072ad"  >
+      <Coords points="1370,2084 1081,2094 1123,2126 1362,2126 1370,2348 48,2340 56,112 1370,120 1370,2084"/>
+      <TextLine id="eSc_line_920295ba" >
+        <Coords points="56,154 56,110 1366,114 1368,154 1366,166 56,166"/>
+        <Baseline points="56,154 1368,154"/>
+        <TextEquiv>
+          <Unicode>Geſetz arbeiten, bis es die Schuldigen ergriffen und zermalmt hatte. Weni⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_73feac88" >
+        <Coords points="54,212 50,172 180,158 180,158 182,158 325,168 337,158 337,158 339,158 339,158 339,158 341,158 341,158 341,158 343,158 343,158 405,168 407,168 411,168 463,158 463,158 463,158 465,158 465,158 467,158 467,158 467,158 469,158 481,166 493,156 493,156 493,156 495,156 495,156 497,156 497,156 497,156 499,156 499,156 499,156 549,166 630,156 630,156 632,156 632,156 700,166 706,166 720,166 877,156 879,156 879,156 879,156 881,156 881,156 899,164 903,166 907,164 927,156 927,156 929,156 929,156 929,156 931,156 1027,164 1041,164 1043,164 1053,154 1053,154 1055,154 1055,154 1055,154 1057,154 1057,154 1057,154 1059,154 1059,154 1059,154 1061,154 1087,164 1093,164 1101,162 1154,154 1154,154 1156,154 1156,154 1156,154 1158,154 1158,154 1158,154 1160,154 1172,162 1176,164 1362,162 1368,206 1366,220 54,222"/>
+        <Baseline points="54,212 1368,206"/>
+        <TextEquiv>
+          <Unicode>ger greifbar iſt dieſer Zuſammenhang in dem Falle des Papſtthums. Die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d52c156" >
+        <Coords points="56,266 56,224 1370,224 1370,266 1368,280 54,276"/>
+        <Baseline points="56,266 1370,266"/>
+        <TextEquiv>
+          <Unicode>Sache liegt hier, dem nächſten Anſchein nach, doch nicht ganz ſo, wie am</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a7a1e44" >
+        <Coords points="54,322 54,274 1368,276 1368,322 1368,332 54,334"/>
+        <Baseline points="54,322 1368,322"/>
+        <TextEquiv>
+          <Unicode>Anfang des 14. Jahrhunderts, wo die Anmaßungen Bonifaz&#39; VIII. ſeine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a82a9c79" >
+        <Coords points="52,373 54,320 96,330 487,324 640,322 642,322 680,326 736,334 1366,334 1368,377 1366,387 52,389"/>
+        <Baseline points="52,373 1368,377"/>
+        <TextEquiv>
+          <Unicode>Verhaftung durch Wilhelm v. Nogaret und die Ueberſiedelung der Päpſte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03ddd03e" >
+        <Coords points="52,429 50,387 708,379 710,379 710,379 712,379 712,379 712,379 732,389 736,391 1366,391 1368,433 1364,447 50,437"/>
+        <Baseline points="52,429 1368,433"/>
+        <TextEquiv>
+          <Unicode>nach Avignon unmittelbar hervorriefen; oder wie im 16ten, wo die Un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3069ad5d" >
+        <Coords points="54,489 50,437 1362,435 1368,485 1366,497 54,505"/>
+        <Baseline points="54,489 1368,485"/>
+        <TextEquiv>
+          <Unicode>ſittlichkeit des päpſtlichen Hofes und ſeiner Politik, die Mißhandlung des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cb36b3b5" >
+        <Coords points="54,543 52,501 343,491 345,491 345,491 345,491 347,491 375,501 379,503 590,503 592,501 618,491 618,491 620,491 620,491 622,491 622,491 622,491 624,491 624,491 624,491 626,491 626,491 636,501 664,491 664,491 666,491 666,491 668,491 668,491 668,491 670,491 670,491 670,491 672,491 686,501 688,503 810,503 816,501 887,491 887,491 889,491 889,491 889,491 941,501 941,501 943,501 973,491 975,491 975,491 975,491 977,491 977,491 979,491 979,491 1007,501 1017,491 1017,491 1019,491 1019,491 1019,491 1021,491 1021,491 1023,491 1023,491 1119,501 1123,501 1125,501 1256,491 1258,491 1258,491 1370,503 1370,543 1368,557 52,555"/>
+        <Baseline points="54,543 1370,543"/>
+        <TextEquiv>
+          <Unicode>religiöſen Gefühls und der geſunden Vernunft, die Unerträglichkeit der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e73bdd5" >
+        <Coords points="54,599 54,553 1368,553 1368,599 1366,623 52,615"/>
+        <Baseline points="54,599 1368,599"/>
+        <TextEquiv>
+          <Unicode>römiſchen Uebergriffe und Erpreſſungen die nächſte Veranlaſſung zur Re⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_862df4b0" >
+        <Coords points="54,657 52,605 1364,609 1368,653 1370,663 1354,675 1354,675 1352,675 1352,675 1352,675 1350,675 1350,675 1348,675 997,665 778,675 776,675 776,675 776,675 774,675 774,675 772,675 772,675 760,665 760,665 758,665 712,677 710,677 710,677 708,677 52,667"/>
+        <Baseline points="54,657 1368,653"/>
+        <TextEquiv>
+          <Unicode>formation wurde. Es erſcheint zunächſt zufällig, daß die deutſchen Waffen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d596976" >
+        <Coords points="52,714 44,675 56,663 56,661 56,661 58,661 58,661 58,661 60,661 60,661 62,661 224,661 224,661 224,661 226,661 226,661 252,671 295,661 297,661 297,661 299,661 299,661 299,661 301,661 335,671 363,661 363,661 365,661 365,661 367,661 636,671 658,661 658,661 658,661 660,661 660,661 662,661 662,661 664,661 706,671 806,659 806,659 808,659 808,659 907,669 929,659 929,659 929,659 931,659 931,659 933,659 933,659 935,659 935,659 963,669 991,659 991,659 993,659 993,659 995,659 1268,669 1292,659 1292,659 1294,659 1294,659 1294,659 1296,659 1296,659 1364,671 1370,710 1366,728 50,724"/>
+        <Baseline points="52,714 1370,710"/>
+        <TextEquiv>
+          <Unicode>dem König von Italien gerade in dem Zeitpunkt den Weg nach Rom</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_478d9e19" >
+        <Coords points="52,766 52,720 525,722 541,722 628,712 628,712 630,712 903,722 949,724 969,724 1079,714 1081,714 1081,714 1081,714 1083,714 1083,714 1083,714 1101,724 1103,724 1109,724 1188,714 1188,714 1190,714 1190,714 1190,714 1192,714 1192,714 1216,724 1216,724 1216,724 1262,714 1262,714 1262,714 1264,714 1264,714 1366,726 1366,770 1362,782 50,778"/>
+        <Baseline points="52,766 1366,770"/>
+        <TextEquiv>
+          <Unicode>öffneten, in welchem das Papſtthum durch ſeine Unfehlbarkeitserklärung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ac1908e" >
+        <Coords points="52,824 52,772 1368,780 1368,824 1368,840 52,840"/>
+        <Baseline points="52,824 1368,824"/>
+        <TextEquiv>
+          <Unicode>dem Geiſt unſeres Jahrhunderts dieſen Fauſtſchlag in&#39;s Geſicht zu ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16314781" >
+        <Coords points="56,880 54,834 1364,828 1368,880 1364,900 54,896"/>
+        <Baseline points="56,880 1368,880"/>
+        <TextEquiv>
+          <Unicode>ſetzen gewagt hatte. Eine gründlichere Geſchichtsbetrachtung wird freilich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6519cd11" >
+        <Coords points="50,932 50,890 1370,894 1370,936 1366,960 48,950"/>
+        <Baseline points="50,932 1370,936"/>
+        <TextEquiv>
+          <Unicode>die Verkettung der Urſachen und Wirkungen auch hier zu verfolgen im</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44dc047e" >
+        <Coords points="50,990 50,946 1370,952 1370,990 1370,1008 50,1014"/>
+        <Baseline points="50,990 1370,990"/>
+        <TextEquiv>
+          <Unicode>Stande ſein. Sie wird einerſeits zu bedenken geben, daß es doch nur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71151d6d" >
+        <Coords points="50,1047 50,1002 1368,1004 1368,1047 1368,1067 50,1067"/>
+        <Baseline points="50,1047 1368,1047"/>
+        <TextEquiv>
+          <Unicode>die Maßloſigkeit der päpſtlichen Anſprüche, die Unverträglichkeit der Prieſter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_155d1ba0" >
+        <Coords points="52,1101 50,1053 1364,1059 1368,1097 1366,1117 52,1121"/>
+        <Baseline points="52,1101 1368,1097"/>
+        <TextEquiv>
+          <Unicode>herrſchaft mit den Bedürfniſſen der Völker, der beharrliche, auf auslän⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc13202a" >
+        <Coords points="52,1157 52,1111 1364,1115 1370,1161 1366,1183 50,1173"/>
+        <Baseline points="52,1157 1370,1161"/>
+        <TextEquiv>
+          <Unicode>diſche Hülfe geſtützte, Widerſtand der Päpſte gegen die nationalen Wünſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6bd86d67" >
+        <Coords points="52,1217 44,1175 58,1163 58,1163 60,1163 60,1163 60,1163 62,1163 62,1163 64,1163 1362,1171 1370,1213 1368,1229 52,1235"/>
+        <Baseline points="52,1217 1370,1213"/>
+        <TextEquiv>
+          <Unicode>Italiens, die unvertilgbare Mißregierung im Kirchenſtaat war, was ſchon</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70d3d86f" >
+        <Coords points="52,1271 52,1221 1370,1227 1370,1271 1370,1285 52,1291"/>
+        <Baseline points="52,1271 1370,1271"/>
+        <TextEquiv>
+          <Unicode>längſt die Forderung ſeiner Säculariſation veranlaßt hatte; und ſie wird</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7723b6af" >
+        <Coords points="50,1325 50,1281 1368,1285 1368,1329 1364,1343 48,1339"/>
+        <Baseline points="50,1325 1368,1329"/>
+        <TextEquiv>
+          <Unicode>andererſeits wohl in nicht allzu langer Zeit den Beweis führen können,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a4e0f50a" >
+        <Coords points="50,1384 46,1341 1362,1339 1368,1380 1366,1398 50,1410"/>
+        <Baseline points="50,1384 1368,1380"/>
+        <TextEquiv>
+          <Unicode>daß der Krieg, welcher das Papſtthum um ſeinen kaiſerlichen Beſchützer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5f58045" >
+        <Coords points="50,1444 48,1398 923,1398 941,1396 1075,1386 1077,1386 1364,1396 1368,1438 1364,1462 48,1458"/>
+        <Baseline points="50,1444 1368,1438"/>
+        <TextEquiv>
+          <Unicode>gebracht hat, und das Concil, welches der ſtaunenden Welt die Unfehl⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95042b07" >
+        <Coords points="50,1492 50,1444 1370,1456 1370,1496 1366,1514 48,1510"/>
+        <Baseline points="50,1492 1370,1496"/>
+        <TextEquiv>
+          <Unicode>barkeit verkündigte, in der Wurzel zuſammenhängen, daß eine und dieſelbe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3328d219" >
+        <Coords points="52,1558 50,1508 1364,1508 1368,1550 1366,1570 52,1572"/>
+        <Baseline points="52,1558 1368,1550"/>
+        <TextEquiv>
+          <Unicode>Jeſuitenpolitik in Rom zur Unfehlbarkeitserklärung gedrängt, in Paris</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_270479e2" >
+        <Coords points="50,1610 50,1558 1368,1564 1368,1610 1368,1634 50,1634"/>
+        <Baseline points="50,1610 1368,1610"/>
+        <TextEquiv>
+          <Unicode>an dem Kriege gegen die Vormacht des deutſchen Proteſtantismus geſchürt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c08de5e" >
+        <Coords points="50,1664 50,1618 1368,1620 1368,1664 1368,1680 50,1686"/>
+        <Baseline points="50,1664 1368,1664"/>
+        <TextEquiv>
+          <Unicode>in Wien für Betheiligung an dem Streite intriguirt, in Bayern für landes⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_26cd8aa2" >
+        <Coords points="50,1721 50,1672 1368,1678 1368,1721 1366,1745 48,1739"/>
+        <Baseline points="50,1721 1368,1721"/>
+        <TextEquiv>
+          <Unicode>verrätheriſche Neutralität agitirt hat. Wenn ſich das Papſtthum zum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1fdcde27" >
+        <Coords points="50,1775 50,1731 1366,1733 1368,1779 1366,1793 50,1797"/>
+        <Baseline points="50,1775 1368,1779"/>
+        <TextEquiv>
+          <Unicode>Werkzeug für dieſe Politik hergab und darüber ſeine weltliche Herrſchaft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0668ff03" >
+        <Coords points="48,1831 48,1789 1364,1795 1364,1837 1360,1855 46,1853"/>
+        <Baseline points="48,1831 1364,1837"/>
+        <TextEquiv>
+          <Unicode>verlor, ſo hat es nur geerndtet, was es ſelbſt geſät hatte: die Niederlage,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_64126712" >
+        <Coords points="48,1887 48,1843 1360,1847 1366,1891 1364,1907 84,1915 82,1915 82,1915 80,1915 44,1903"/>
+        <Baseline points="48,1887 1366,1891"/>
+        <TextEquiv>
+          <Unicode>die es erlitten hat, iſt nicht blos eine wohlverdiente Strafe, ſondern auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_051863f6" >
+        <Coords points="48,1943 48,1899 848,1903 848,1947 844,1967 44,1963"/>
+        <Baseline points="48,1943 848,1947"/>
+        <TextEquiv>
+          <Unicode>eine geſchichtliche Folge ſeiner Verſchuldung.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0033102" >
+        <Coords points="140,1997 140,1951 1362,1959 1364,2005 1360,2029 136,2015"/>
+        <Baseline points="140,1997 1364,2005"/>
+        <TextEquiv>
+          <Unicode>Doch iſt der Verluſt des Kirchenſtaats wirkich ein ſo ſchwerer Schlag</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_66288386" >
+        <Coords points="48,2055 48,2003 491,2013 636,2009 796,2005 798,2005 883,2013 921,2015 1005,2013 1306,2007 1308,2007 1308,2007 1308,2007 1360,2019 1362,2061 1358,2080 46,2078"/>
+        <Baseline points="48,2055 1362,2061"/>
+        <TextEquiv>
+          <Unicode>für das Papſtthum, die Unfehlbarkeitserklärung wirklich ein ſo verhäng⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97c4e54f" >
+        <Coords points="48,2114 48,2066 1033,2072 1033,2114 1033,2130 48,2136"/>
+        <Baseline points="48,2114 1033,2114"/>
+        <TextEquiv>
+          <Unicode>nißvoller Schritt, wie wir bisher angenommen haben?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ab9af01a" >
+        <Coords points="138,2174 130,2130 148,2118 150,2118 150,2118 150,2118 152,2118 152,2118 154,2118 1364,2126 1368,2170 1366,2182 138,2190"/>
+        <Baseline points="138,2174 1368,2170"/>
+        <TextEquiv>
+          <Unicode>In der katholiſchen Kirche ſind bekanntlich die Meinungen über die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0c284390" >
+        <Coords points="48,2222 48,2176 1366,2184 1366,2228 1364,2244 48,2246"/>
+        <Baseline points="48,2222 1366,2228"/>
+        <TextEquiv>
+          <Unicode>Unentbehrlichkeit ihres Territorialbeſitzes getheilt. Schon vor 10 Jahren,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0bea72e" >
+        <Coords points="46,2276 44,2234 1320,2232 1322,2232 1322,2232 1324,2232 1370,2244 1368,2284 1364,2302 44,2294"/>
+        <Baseline points="46,2276 1368,2284"/>
+        <TextEquiv>
+          <Unicode>als erſt ein Theil des päpſtlichen Gebiets mit dem Königreich Italien</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92fa8e5b" >
+        <Coords points="48,2334 48,2286 1368,2290 1370,2340 1370,2366 1340,2378 1340,2378 1338,2378 1338,2378 1336,2378 1336,2378 1336,2378 1334,2378 1334,2378 1310,2368 1180,2368 1164,2380 1164,2382 1164,2382 1162,2382 1162,2382 1162,2382 1160,2382 1160,2382 1158,2382 1158,2382 1158,2382 1085,2368 1073,2368 911,2368 909,2368 850,2380 850,2380 850,2382 588,2382 586,2380 586,2380 584,2380 584,2380 553,2370 523,2380 521,2380 521,2380 521,2380 519,2380 519,2380 519,2380 517,2380 517,2380 517,2380 495,2368 487,2364 477,2368 451,2378 451,2378 449,2378 449,2378 449,2380 315,2380 313,2378 313,2378 262,2368 238,2364 218,2368 190,2376 188,2376 188,2376 186,2376 46,2368"/>
+        <Baseline points="48,2334 1370,2340"/>
+        <TextEquiv>
+          <Unicode>vereinigt war, ſprachen hervorragende und ihrer Kirche aufrichtig ergebene</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d6d72741"  >
+      <Coords points="736,70 690,70 698,24 736,24 736,70"/>
+      <TextLine id="eSc_line_b7016c14" >
+        <Coords points="690,64 690,16 730,18 730,64 730,76 690,80"/>
+        <Baseline points="692,66 731,66"/>
+        <TextEquiv>
+          <Unicode>2</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

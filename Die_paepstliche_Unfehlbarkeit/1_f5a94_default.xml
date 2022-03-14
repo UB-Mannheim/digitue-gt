@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00002.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-03-14T15:00:23.289581+00:00</Created>
+        <LastChange>2022-03-14T15:00:23.289616+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1_f5a94_default.jpg" imageWidth="1632" imageHeight="2592">
+    <TextRegion id="eSc_textblock_95d8a55a"  >
+      <Coords points="1147,1725 992,1760 570,1743 579,1693 1011,1676 1095,1676 1147,1725"/>
+      <TextLine id="eSc_line_1d85520d" >
+        <Coords points="577,1749 579,1712 715,1715 726,1706 756,1680 758,1680 760,1680 836,1678 838,1678 840,1678 843,1678 858,1691 862,1684 864,1684 864,1682 866,1682 868,1682 968,1680 970,1680 972,1680 974,1680 974,1682 994,1697 1020,1678 1022,1678 1024,1678 1098,1669 1106,1730 1102,1775 1015,1753 957,1753 903,1773 873,1784 871,1784 868,1784 866,1784 821,1773 780,1762 758,1771 754,1773 752,1773 750,1773 747,1773 743,1771 726,1764 715,1771 685,1790 683,1790 680,1790 678,1790 574,1769"/>
+        <Baseline points="579,1751 1108,1732"/>
+        <TextEquiv>
+          <Unicode>N12503980135 021</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8925f376"  >
+      <Coords points="1191,1846 959,1855 951,1814 994,1797 1182,1805 1191,1846"/>
+      <TextLine id="eSc_line_17d1de90" >
+        <Coords points="953,1844 948,1803 1182,1790 1188,1833 1188,1868 953,1870"/>
+        <Baseline points="953,1844 1188,1833"/>
+        <TextEquiv>
+          <Unicode>UB Tübingen</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

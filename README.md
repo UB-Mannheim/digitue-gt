@@ -16,7 +16,8 @@ processed to remove empty lines:
 ### List of transcriptions
 
 - [Allgemeine kirchliche Zeitschrift Band 1 (1860)](http://idb.ub.uni-tuebingen.de/opendigi/akzs_1860) (30 pages / 1166 lines)
+- [Die päpstliche Unfehlbarkeit und die Säcularisation des Kirchenstaats](http://idb.ub.uni-tuebingen.de/opendigi/zeller1871) (20 pages 731 lines)
 - [Stimmen aus Maria-Laach Band 1 (1871)](http://idb.ub.uni-tuebingen.de/opendigi/stml_1871_01) (25 pages / 945 lines)
 - [Stimmen aus Maria-Laach Band 2 (1872)](http://idb.ub.uni-tuebingen.de/opendigi/stml_1872_02) (88 pages / 3340 lines)
 
-Total 143 pages / 5451 lines.
+Total 163 pages / 6182 lines.
