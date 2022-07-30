@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/hefele1870/hefele1870_00003.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-30T08:39:15.622485+00:00</Created>
+        <LastChange>2022-07-30T08:39:15.622499+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="2_67fc6_default.jpg" imageWidth="1364" imageHeight="2325">
+    <TextRegion id="eSc_textblock_0a25b8bb"  >
+      <Coords points="273,1632 304,1622 815,1622 840,1657 828,1681 279,1681"/>
+      <TextLine id="eSc_line_8bbfdb79" >
+        <Coords points="813,1625 809,1623 753,1623 736,1623 716,1623 697,1623 678,1623 658,1623 639,1623 620,1623 600,1623 581,1623 561,1623 542,1623 540,1623 534,1627 527,1627 474,1623 465,1623 445,1623 426,1623 406,1623 387,1623 372,1623 286,1629 273,1646 273,1674 273,1685 339,1703 341,1705 393,1705 393,1703 395,1703 397,1703 416,1687 499,1701 501,1701 503,1701 538,1687 548,1683 573,1687 641,1699 643,1699 645,1699 682,1687 703,1681 728,1681 736,1687 744,1695 744,1697 745,1697 747,1697 749,1697 823,1687 823,1666 819,1635 813,1625"/>
+        <Baseline points="275,1675 825,1668"/>
+        <TextEquiv>
+          <Unicode>N12&lt;516486996 021</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_de7f337f"  >
+      <Coords points="759,1832 749,1803 764,1792 959,1803 970,1822 954,1838 795,1843"/>
+      <TextLine id="eSc_line_7a7727f8" >
+        <Coords points="946,1801 933,1800 920,1800 908,1799 895,1799 765,1799 765,1827 765,1856 825,1849 860,1858 866,1860 868,1860 869,1860 870,1860 874,1858 906,1849 951,1860 953,1827 953,1801 946,1801"/>
+        <Baseline points="765,1827 953,1827"/>
+        <TextEquiv>
+          <Unicode>ubTÜBINGEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

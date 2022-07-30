@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/hefele1870/hefele1870_00001.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-30T08:39:15.608386+00:00</Created>
+        <LastChange>2022-07-30T08:39:15.608403+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="0_eff74_default.jpg" imageWidth="1674" imageHeight="2530">
+    <TextRegion id="eSc_textblock_f5f09f5f"  >
+      <Coords points="557,2479 696,2485 707,2500 388,2494 590,2489 557,2479"/>
+      <TextLine id="eSc_line_024e2c5d" >
+        <Coords points="600,2480 586,2489 572,2489 558,2489 544,2489 530,2490 516,2490 502,2487 488,2487 474,2489 459,2489 445,2489 431,2490 417,2490 403,2490 405,2492 405,2515 618,2518 621,2490 606,2480 600,2480"/>
+        <Baseline points="405,2492 621,2490"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
