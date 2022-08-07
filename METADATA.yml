@@ -1,0 +1,46 @@
+
+schema: https://github.com/tboenig/DTGT/schema/2022-03-15/schema.json
+title: DigiTheo Ground Truth
+url: https://github.com/tboenig/DTGT
+authors:
+  - name: Faßnacht
+    surname: Martin
+    roles:
+      - project-manager
+      - digitization
+      - support
+  - name: Weil
+    surname: Stefan
+    roles:
+      - transcriber
+      - project-manager
+      - digitization
+      - support
+description: >-
+  This repository contains transcriptions for digitized books and journals of
+  the University Library of Tübingen (http://idb.ub.uni-tuebingen.de/digitue/).
+project-name: Theologie digital
+project-website: http://idb.ub.uni-tuebingen.de/digitue/theo/
+language:
+  - deu
+  - lat
+script: []
+script-type: print
+time:
+  notBefore: '1633'
+  notAfter: '1872'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC0 1.0
+    url: https://creativecommons.org/licenses/zero/1.0/
+gtTyp: data_line
+volume:
+  - metric: lines
+    count: 6182
+transcription-guidelines: >-
+  The transcriptions were done with eScriptorium, a transcription platform
+  developed as part of the Scripta and RESILIENCE projects
+  (https://gitlab.com/scripta/escriptorium/).
+format: Page-XML
