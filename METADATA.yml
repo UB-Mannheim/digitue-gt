@@ -24,7 +24,9 @@ project-website: http://idb.ub.uni-tuebingen.de/digitue/theo/
 language:
   - deu
   - lat
-script: []
+script:
+  - Latf
+  - Latn
 script-type: print
 time:
   notBefore: '1633'
@@ -38,7 +40,7 @@ license:
 gtTyp: data_line
 volume:
   - metric: lines
-    count: 6182
+    count: 7077
 transcription-guidelines: >-
   The transcriptions were done with eScriptorium, a transcription platform
   developed as part of the Scripta and RESILIENCE projects
