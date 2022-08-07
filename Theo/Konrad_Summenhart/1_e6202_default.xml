@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00002.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-08-07T20:01:23.526456+00:00</Created>
+        <LastChange>2022-08-07T20:01:23.526468+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1_e6202_default.jpg" imageWidth="2211" imageHeight="3165">
+    <TextRegion id="eSc_textblock_a6afd6b4"  >
+      <Coords points="1178,2621 1136,2663 612,2663 605,2609 647,2581 1150,2581 1178,2621"/>
+      <TextLine id="eSc_line_21151b88" >
+        <Coords points="1158,2629 1134,2587 1110,2582 1105,2582 1079,2582 1052,2582 1034,2590 1031,2590 1018,2590 897,2582 894,2582 868,2582 849,2582 839,2592 836,2595 630,2595 633,2645 633,2677 902,2661 941,2666 1007,2674 1010,2674 1013,2674 1042,2661 1047,2658 1058,2658 1131,2671 1134,2671 1137,2671 1176,2653 1176,2634 1168,2621 1158,2629"/>
+        <Baseline points="634,2646 1177,2635"/>
+        <TextEquiv>
+          <Unicode>N11&lt; 46173391 021</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3e4db5e1"  >
+      <Coords points="1194,2700 1306,2677 1292,2623 1356,2560 1438,2623 1445,2741 1187,2741 1194,2700"/>
+      <TextLine id="eSc_line_bc30a8e1" >
+        <Coords points="1197,2699 1199,2728 1199,2750 1254,2748 1269,2751 1315,2760 1317,2760 1319,2760 1320,2760 1320,2758 1331,2750 1335,2746 1340,2750 1357,2758 1359,2758 1361,2758 1437,2746 1437,2725 1431,2692 1215,2693 1215,2695"/>
+        <Baseline points="1199,2728 1437,2725"/>
+        <TextEquiv>
+          <Unicode>UB Tübingen</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_34b3eb3c"  >
+      <Coords points="2070,3064 2029,3064 2028,3085 2070,3114 1866,3156 1678,3142 1678,3017 1910,2975 2013,2982 2022,3017 2063,3017 2070,3064"/>
+    </TextRegion>
+  </Page>
+</PcGts>

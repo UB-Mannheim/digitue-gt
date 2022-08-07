@@ -15,10 +15,14 @@ processed to remove empty lines:
 
 ### List of transcriptions
 
+#### Journals
 - [Allgemeine kirchliche Zeitschrift Band 1 (1860)](http://idb.ub.uni-tuebingen.de/opendigi/akzs_1860) (30 pages / 1166 lines)
-- [Defensio episcopi Rottenburgensis (1870)](http://idb.ub.uni-tuebingen.de/opendigi/hefele1870)
+- [Defensio episcopi Rottenburgensis (1870)](http://idb.ub.uni-tuebingen.de/opendigi/hefele1870) (14 pages / 283 lines)
 - [Die päpstliche Unfehlbarkeit und die Säcularisation des Kirchenstaats](http://idb.ub.uni-tuebingen.de/opendigi/zeller1871) (20 pages 731 lines)
 - [Stimmen aus Maria-Laach Band 1 (1871)](http://idb.ub.uni-tuebingen.de/opendigi/stml_1871_01) (25 pages / 945 lines)
 - [Stimmen aus Maria-Laach Band 2 (1872)](http://idb.ub.uni-tuebingen.de/opendigi/stml_1872_02) (88 pages / 3340 lines)
 
-Total 163 pages / 6182 lines.
+#### Books
+- [Konrad Summenhart (1877)](http://idb.ub.uni-tuebingen.de/opendigi/linsenmann1877) (19 pages / 478 lines) – italic script
+
+Total 196 pages / 6943 lines.

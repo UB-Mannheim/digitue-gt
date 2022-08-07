@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00004.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-08-07T20:01:23.539077+00:00</Created>
+        <LastChange>2022-08-07T20:01:23.539088+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="3_221dc_default.jpg" imageWidth="2130" imageHeight="3057">
+    <TextRegion id="eSc_textblock_4773b769"  >
+      <Coords points="1112,2044 1205,2044 1260,2078 1253,2369 1192,2403 1221,2425 1355,2425 1375,2459 1348,2545 1185,2581 1185,2613 1260,2649 1267,2688 1178,2756 1053,2742 1058,2572 910,2566 890,2539 910,2425 985,2403 937,2342 930,2274 957,2078 1112,2044"/>
+      <TextLine id="eSc_line_865aa882" >
+        <Coords points="985,2540 986,2562 1071,2549 1071,2532 1065,2471 1034,2465 1032,2465 1031,2465 978,2484 985,2540"/>
+        <Baseline points="985,2540 1071,2532"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
