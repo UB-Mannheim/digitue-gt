@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00007.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.557816+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.557827+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.063439+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.063454+00:00</LastChange>
   </Metadata>
   <Page imageFilename="6_194b3_default.jpg" imageWidth="1356" imageHeight="2150">
     <TextRegion id="eSc_textblock_3f9662a3"  >
@@ -89,7 +89,7 @@
         <Coords points="54,830 54,844 620,849 621,849 622,849 637,843 637,842 762,842 772,842 884,849 885,849 1223,842 1266,848 1267,848 1301,839 1302,826 1301,795 1269,787 1268,787 1267,787 1224,795 1219,795 1207,795 1080,788 1078,788 1077,788 1062,795 1062,796 1010,796 1010,795 986,788 985,788 984,788 983,788 982,788 970,795 919,789 918,789 917,789 892,795 874,788 873,788 800,788 799,788 759,796 757,796 755,796 720,788 719,788 657,795 632,788 630,788 470,788 469,788 468,788 448,797 445,797 442,797 412,790 410,790 409,790 391,797 389,797 387,797 363,790 361,790 360,790 359,790 345,797 344,799 291,799 290,797 265,789 264,789 262,789 215,795 131,789 130,789 129,789 106,797 106,799 53,799 54,830"/>
         <Baseline points="54,830 1302,826"/>
         <TextEquiv>
-          <Unicode>und die literarische Thätigheit einer Gelehrtengeneration, welche</Unicode>
+          <Unicode>und die literarische Thätigkeit einer Gelehrtengeneration, welche</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_25af1a2e" >

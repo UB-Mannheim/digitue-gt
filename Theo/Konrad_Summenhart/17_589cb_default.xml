@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00018.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.724745+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.724760+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.258747+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.258763+00:00</LastChange>
   </Metadata>
   <Page imageFilename="17_589cb_default.jpg" imageWidth="1359" imageHeight="2138">
     <TextRegion id="eSc_textblock_1c08bb56"  >
@@ -89,14 +89,14 @@
         <Coords points="55,829 55,842 257,846 258,846 260,846 274,842 281,839 301,842 349,846 350,846 380,840 392,839 402,840 434,846 435,846 503,840 534,838 539,840 548,845 550,845 551,846 660,846 660,845 741,839 768,838 789,839 857,845 858,845 860,845 874,839 877,838 882,839 902,844 904,844 905,844 983,838 999,838 1001,838 1013,844 1014,844 1015,844 1071,838 1089,837 1094,838 1110,844 1111,844 1113,845 1250,845 1250,844 1304,837 1305,825 1301,796 1224,796 1221,796 1185,787 1184,787 1183,787 1181,787 1180,787 1166,796 1164,798 1130,798 1129,796 1107,787 1105,787 1033,786 1032,786 1031,786 1010,796 1000,796 793,787 792,787 791,787 765,796 762,799 669,799 668,798 648,787 647,787 605,787 604,787 603,787 583,798 582,798 578,798 525,788 523,788 522,788 508,794 494,788 492,788 491,788 490,788 471,798 469,799 460,798 416,791 415,791 414,791 386,798 381,799 377,798 357,791 356,791 355,791 354,791 330,798 326,799 323,798 302,791 301,791 300,791 299,791 276,798 274,799 272,798 248,788 247,788 245,788 182,798 163,789 162,789 80,788 79,788 78,788 54,796 55,829"/>
         <Baseline points="55,829 1305,825"/>
         <TextEquiv>
-          <Unicode>Selbstsucht auch an sich erfahren. Viele unter den begabtesten</Unicode>
+          <Unicode>Selbstzucht auch an sich erfahren. Viele unter den begabtesten</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_5cc2b953" >
         <Coords points="55,888 55,906 141,900 157,906 159,906 160,906 161,906 166,906 211,900 295,905 320,906 321,906 330,905 355,900 618,902 822,905 823,905 824,905 831,901 837,899 1303,899 1304,884 1301,856 1234,846 1233,846 1231,846 1211,855 1211,856 1126,856 1124,855 1103,846 1102,846 1101,846 932,854 879,857 761,857 754,854 741,848 740,848 738,848 691,854 665,856 650,852 628,848 627,848 552,852 531,854 515,852 472,848 471,848 470,848 469,848 463,852 453,857 371,852 320,849 247,849 245,849 244,849 238,851 225,857 54,851 55,888"/>
         <Baseline points="55,888 1304,884"/>
         <TextEquiv>
-          <Unicode>Humanisten haben solche Unterorduung unter den Zwang einer</Unicode>
+          <Unicode>Humanisten haben solche Unterordnung unter den Zwang einer</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_213b52c1" >

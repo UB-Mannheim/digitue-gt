@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00009.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.584983+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.584998+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.098646+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.098662+00:00</LastChange>
   </Metadata>
   <Page imageFilename="8_ade7a_default.jpg" imageWidth="1354" imageHeight="2056">
     <TextRegion id="eSc_textblock_494c75d5"  >
@@ -103,7 +103,7 @@
         <Coords points="53,863 53,874 1296,877 1299,860 1298,830 1267,820 1266,820 1264,820 1210,829 1192,821 1191,821 1190,821 1189,821 1159,830 1102,830 1059,820 1058,820 1056,820 1022,829 971,820 970,820 968,820 947,828 924,820 923,820 922,820 920,820 880,830 832,823 831,823 830,823 814,831 764,831 743,822 742,822 741,822 695,830 675,821 674,821 673,821 671,821 652,829 612,821 611,821 610,821 588,830 516,822 515,822 514,822 498,831 460,831 406,822 405,822 404,822 385,830 335,822 334,822 333,822 315,832 268,832 250,822 249,822 141,822 140,822 139,822 115,832 52,832 53,863"/>
         <Baseline points="53,863 1299,860"/>
         <TextEquiv>
-          <Unicode>manistischen Studien, dem Ende der alten Scholastit und dem</Unicode>
+          <Unicode>manistischen Studien, dem Ende der alten Scholastik und dem</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_987e90e7" >

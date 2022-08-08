@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00012.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.634929+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.634944+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.148629+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.148643+00:00</LastChange>
   </Metadata>
   <Page imageFilename="11_c2c43_default.jpg" imageWidth="1350" imageHeight="2145">
     <TextRegion id="eSc_textblock_3ebc7244"  >
@@ -92,7 +92,7 @@
         <Coords points="48,1308 48,1319 230,1325 231,1325 281,1319 299,1317 420,1317 425,1319 436,1323 437,1323 438,1323 462,1319 472,1317 485,1319 523,1323 524,1323 550,1319 560,1317 593,1319 669,1322 670,1322 671,1322 682,1319 689,1316 717,1319 760,1322 762,1322 791,1319 820,1315 833,1319 843,1321 844,1321 845,1321 1296,1317 1297,1302 1295,1273 1192,1273 1191,1272 1181,1266 1180,1266 1179,1266 1178,1266 1090,1271 1066,1261 1064,1261 1063,1261 1001,1271 980,1264 979,1264 977,1264 932,1269 869,1263 868,1263 867,1263 851,1270 797,1263 796,1263 739,1272 723,1275 703,1272 638,1264 636,1264 514,1265 512,1265 511,1265 499,1272 493,1276 480,1272 468,1269 467,1269 466,1269 438,1272 411,1276 404,1272 391,1265 389,1265 388,1265 387,1265 360,1272 343,1276 314,1272 280,1267 279,1267 277,1267 268,1272 257,1278 135,1278 102,1272 67,1266 66,1266 65,1266 47,1271 48,1308"/>
         <Baseline points="48,1308 1297,1302"/>
         <TextEquiv>
-          <Unicode>besserung der wissenschaftichen und kirchlichen Zustände sei-</Unicode>
+          <Unicode>besserung der wissenschaftlichen und kirchlichen Zustände sei-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b2bba5d3" >

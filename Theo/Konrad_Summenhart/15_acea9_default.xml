@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00016.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.691459+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.691471+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.223583+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.223601+00:00</LastChange>
   </Metadata>
   <Page imageFilename="15_acea9_default.jpg" imageWidth="1362" imageHeight="2130">
     <TextRegion id="eSc_textblock_5d883232"  >
@@ -187,7 +187,7 @@
         <Coords points="48,1648 48,1660 138,1660 142,1661 151,1667 152,1667 153,1667 155,1667 156,1667 168,1661 169,1661 200,1667 201,1667 290,1661 306,1661 310,1662 332,1668 333,1668 335,1668 464,1662 479,1662 491,1662 596,1670 598,1670 736,1663 753,1663 755,1663 775,1672 776,1672 778,1672 868,1664 870,1664 874,1664 943,1673 945,1673 1108,1667 1165,1674 1166,1674 1299,1666 1300,1656 1300,1628 1244,1617 1243,1617 1164,1624 1069,1616 1068,1616 1067,1616 1065,1616 1052,1624 985,1624 969,1617 968,1617 967,1617 966,1617 943,1624 934,1618 933,1618 932,1618 930,1618 814,1623 762,1614 761,1614 760,1614 740,1623 696,1623 667,1614 666,1614 665,1614 664,1614 641,1623 589,1623 474,1622 454,1612 453,1612 406,1611 303,1611 302,1611 300,1611 275,1619 254,1611 253,1611 178,1610 177,1610 176,1610 159,1619 130,1619 103,1610 101,1610 100,1610 99,1610 82,1619 48,1619 48,1648"/>
         <Baseline points="48,1648 1300,1656"/>
         <TextEquiv>
-          <Unicode>seine Aufmertsamkeit zuzuwenden. Was man von scholastischen</Unicode>
+          <Unicode>seine Aufmerksamkeit zuzuwenden. Was man von scholastischen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ae2b19b9" >

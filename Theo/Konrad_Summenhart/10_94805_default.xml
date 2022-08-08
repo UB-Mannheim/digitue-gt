@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00011.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.617662+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.617678+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.132666+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.132682+00:00</LastChange>
   </Metadata>
   <Page imageFilename="10_94805_default.jpg" imageWidth="1349" imageHeight="1966">
     <TextRegion id="eSc_textblock_5e01acf7"  >
@@ -47,7 +47,7 @@
         <Coords points="49,471 49,486 1294,486 1295,467 1293,436 1094,436 1009,428 1008,428 943,436 834,429 833,429 832,429 810,437 742,437 672,429 671,429 596,431 595,431 575,439 452,439 406,430 405,430 404,430 387,439 323,439 271,431 99,431 98,431 48,440 49,471"/>
         <Baseline points="49,471 1295,467"/>
         <TextEquiv>
-          <Unicode>schränkte Summenhart seine Thätigheit nicht auf diejenigen Lehr-</Unicode>
+          <Unicode>schränkte Summenhart seine Thätigkeit nicht auf diejenigen Lehr-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_031f3743" >
@@ -103,14 +103,14 @@
         <Coords points="48,948 48,964 76,958 151,963 152,963 154,963 166,957 239,957 251,963 252,963 253,963 254,963 278,957 335,963 341,963 342,963 344,963 345,963 361,957 409,962 420,963 421,963 431,962 479,956 560,962 574,962 575,962 581,961 606,956 734,956 747,961 752,962 753,962 754,962 1294,956 1295,944 1292,901 1220,914 1166,914 1136,902 1134,902 1133,902 1132,902 1129,902 1081,913 1037,903 1031,902 1030,902 1007,903 874,914 772,906 731,903 730,903 729,903 719,906 703,912 682,906 665,903 664,903 663,903 646,907 620,914 578,907 565,906 564,906 545,908 494,914 484,908 472,903 471,903 470,903 469,903 468,903 458,909 456,910 454,909 443,904 442,904 393,904 392,904 391,904 379,909 369,915 352,910 330,904 329,904 328,904 279,909 228,904 227,904 192,912 186,913 183,912 162,904 161,904 90,904 89,904 46,913 48,948"/>
         <Baseline points="48,948 1295,944"/>
         <TextEquiv>
-          <Unicode>bracht hat, sein Wert »über die Verträge« mit Einschluss der</Unicode>
+          <Unicode>bracht hat, sein Werk »über die Verträge« mit Einschluss der</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_5c74e6dd" >
         <Coords points="49,1003 49,1021 1297,1019 1298,1005 1298,975 1265,967 1264,967 1229,974 1224,975 1222,974 1206,966 1205,966 1128,966 1127,966 1126,966 1107,973 1102,975 1093,973 1061,966 1060,966 1059,966 1035,972 965,966 964,966 939,972 925,976 780,976 772,970 764,967 763,967 717,966 716,966 715,966 702,970 685,975 661,969 636,965 635,965 634,965 621,969 608,974 574,969 549,966 484,966 483,966 482,966 477,968 469,973 458,968 454,967 453,967 452,967 451,967 446,968 431,974 399,968 381,965 380,965 363,968 330,974 315,967 309,965 308,965 274,965 273,965 271,965 267,967 254,975 168,975 121,966 112,965 111,965 49,965 49,1003"/>
         <Baseline points="49,1003 1298,1005"/>
         <TextEquiv>
-          <Unicode>kleineren Abhandlung »über den Zehntene«, greift einestheils in</Unicode>
+          <Unicode>kleineren Abhandlung »über den Zehnten«, greift einestheils in</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_7d972638" >
@@ -187,7 +187,7 @@
         <Coords points="49,1660 49,1676 192,1668 252,1675 253,1675 308,1668 361,1675 362,1675 399,1668 422,1675 423,1675 424,1675 464,1667 562,1674 563,1674 644,1667 874,1674 876,1674 913,1667 1008,1673 1009,1673 1089,1666 1123,1673 1125,1674 1290,1674 1291,1656 1288,1626 1231,1615 1078,1615 1077,1615 1075,1615 1059,1624 966,1625 881,1615 880,1615 843,1616 842,1616 822,1626 691,1616 690,1616 689,1616 667,1627 548,1627 526,1616 525,1616 488,1616 487,1616 367,1617 324,1627 304,1621 303,1621 302,1621 275,1626 251,1617 250,1617 249,1617 247,1617 207,1627 115,1623 114,1623 48,1628 49,1660"/>
         <Baseline points="49,1660 1291,1656"/>
         <TextEquiv>
-          <Unicode>sen; er slarb an der Pest im Kloster Schuttern bei Offenburg</Unicode>
+          <Unicode>sen; er starb an der Pest im Kloster Schuttern bei Offenburg</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_94ab0b77" >
@@ -201,7 +201,7 @@
         <Coords points="46,1778 46,1794 123,1789 370,1792 438,1793 439,1793 447,1792 474,1787 700,1790 877,1792 878,1792 1294,1785 1295,1774 1292,1742 1272,1743 1267,1742 1248,1734 1247,1734 1246,1734 1204,1742 1200,1742 1196,1742 1141,1734 1140,1734 1107,1742 1101,1744 1049,1744 1044,1742 1001,1733 1000,1733 999,1733 974,1743 972,1744 914,1744 910,1743 878,1734 877,1734 876,1734 874,1734 843,1743 836,1745 774,1745 770,1743 747,1735 746,1735 744,1735 743,1735 720,1743 696,1735 695,1735 694,1735 622,1742 607,1734 606,1734 605,1734 526,1741 482,1734 481,1734 480,1734 458,1739 401,1735 400,1735 399,1735 375,1744 373,1746 338,1746 335,1745 311,1736 310,1736 309,1736 274,1744 246,1735 245,1735 140,1735 139,1735 138,1735 112,1745 112,1746 45,1746 46,1778"/>
         <Baseline points="46,1778 1295,1774"/>
         <TextEquiv>
-          <Unicode>am 20. Oetober 1502 ⁹). Der berühmte Humanist und Dichter</Unicode>
+          <Unicode>am 20. October 1502 ⁹). Der berühmte Humanist und Dichter</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_35800930" >

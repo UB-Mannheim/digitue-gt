@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00019.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.742024+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.742039+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.275388+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.275404+00:00</LastChange>
   </Metadata>
   <Page imageFilename="18_9ca89_default.jpg" imageWidth="1362" imageHeight="2127">
     <TextRegion id="eSc_textblock_0bf055be"  >
@@ -75,7 +75,7 @@
         <Coords points="54,698 54,720 108,710 189,716 190,716 191,716 206,709 326,709 349,714 351,714 352,714 353,714 378,709 399,716 404,717 405,717 406,717 419,716 472,707 533,713 567,717 568,717 569,717 582,713 593,710 641,712 715,716 716,716 741,711 768,705 819,710 879,714 880,714 881,714 899,709 909,705 923,707 939,711 941,711 942,711 943,711 949,707 955,704 963,707 980,713 981,713 982,714 1121,714 1121,713 1300,701 1301,690 1299,661 1257,651 1256,651 1119,662 1029,662 1001,652 1000,652 944,652 943,652 942,652 941,652 923,664 877,664 855,653 854,653 853,653 795,662 734,654 733,654 731,654 701,662 681,657 679,657 678,657 597,664 568,655 567,655 566,655 522,657 521,657 504,665 475,655 474,655 410,655 409,655 407,655 375,664 295,657 294,657 229,667 211,658 210,658 209,658 166,667 130,658 128,658 127,658 53,668 54,698"/>
         <Baseline points="54,698 1301,690"/>
         <TextEquiv>
-          <Unicode>und mit welcher Sicherheit au der andern Seiteer jede &#x27;-</Unicode>
+          <Unicode>und mit welcher Sicherheit auf der andern Seite für jede Er-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_36c24889" >

@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00014.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.664752+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.664766+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.186629+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.186650+00:00</LastChange>
   </Metadata>
   <Page imageFilename="13_f12ef_default.jpg" imageWidth="1352" imageHeight="2131">
     <TextRegion id="eSc_textblock_89db2b33"  >
@@ -12,7 +12,7 @@
         <Coords points="1286,136 1274,136 1263,136 1251,136 1239,136 1227,136 1215,136 1203,134 1192,134 1180,134 1168,134 1156,134 1144,134 1132,134 1120,134 1109,133 1097,133 1085,133 1073,133 1061,133 1049,133 1037,133 1026,133 1014,132 1002,132 990,132 978,132 966,132 955,132 943,132 931,132 919,131 907,131 904,131 898,132 895,131 895,131 883,131 872,131 860,131 848,131 842,131 836,132 828,130 824,130 812,130 801,130 789,130 777,130 765,130 753,130 741,130 729,129 726,129 669,132 662,129 658,129 646,129 635,127 623,127 611,127 599,127 587,127 581,127 569,134 534,134 518,126 516,126 504,126 492,126 481,126 469,126 457,126 446,126 430,133 411,125 409,125 398,125 386,125 374,125 362,125 361,125 348,134 285,125 284,125 244,134 215,125 214,125 141,125 139,125 138,125 118,136 54,136 55,164 55,181 171,176 181,181 184,182 186,182 187,183 364,183 364,182 380,178 399,175 503,178 605,181 606,181 607,181 609,181 614,177 619,174 728,174 814,176 981,179 982,179 983,179 1003,174 1010,172 1022,174 1058,178 1059,178 1218,172 1227,172 1229,172 1267,178 1269,178 1270,178 1295,171 1295,159 1292,136 1286,136"/>
         <Baseline points="55,164 1295,159"/>
         <TextEquiv>
-          <Unicode>zwei Epochen, den Lehrauſgaben entsprechend, welche ihm zu-</Unicode>
+          <Unicode>zwei Epochen, den Lehraufgaben entsprechend, welche ihm zu-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_6c1e4b98" >

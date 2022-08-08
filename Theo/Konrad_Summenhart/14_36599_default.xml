@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/linsenmann1877/linsenmann1877_00015.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-07T20:01:23.680017+00:00</Created>
-        <LastChange>2022-08-07T20:01:23.680029+00:00</LastChange>
+	<Created>2022-08-08T14:13:21.206965+00:00</Created>
+        <LastChange>2022-08-08T14:13:21.206983+00:00</LastChange>
   </Metadata>
   <Page imageFilename="14_36599_default.jpg" imageWidth="1560" imageHeight="2411">
     <TextRegion id="eSc_textblock_433f3aea"  >
@@ -89,7 +89,7 @@
         <Coords points="241,933 241,951 357,944 395,949 404,951 406,951 407,951 411,949 434,942 553,948 616,951 617,951 652,946 695,942 731,946 751,948 753,948 754,948 758,945 767,941 806,945 832,948 833,948 834,948 841,945 853,940 888,944 915,948 916,948 1396,938 1397,925 1395,894 1337,894 1322,885 1321,885 1320,885 1318,885 1317,885 1287,894 1286,894 1241,885 1239,885 1238,885 1237,885 1220,896 1202,896 1117,896 1115,896 1054,886 1053,886 888,897 840,888 838,888 837,888 836,888 820,898 793,898 784,898 781,898 678,889 676,889 675,889 656,900 617,900 609,900 607,900 466,890 465,890 463,890 430,901 399,894 398,894 329,901 277,892 276,892 274,892 239,902 241,933"/>
         <Baseline points="241,933 1397,925"/>
         <TextEquiv>
-          <Unicode>Allein in Tubingen finden wir von Anfang an durchaus</Unicode>
+          <Unicode>Allein in Tübingen finden wir von Anfang an durchaus</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_26c99165" >
@@ -159,7 +159,7 @@
         <Coords points="150,1528 150,1541 432,1547 434,1547 435,1547 451,1540 452,1539 577,1539 578,1539 596,1547 597,1547 599,1548 684,1548 684,1547 838,1537 863,1536 865,1537 876,1544 877,1544 879,1544 880,1545 958,1545 958,1544 1041,1536 1056,1535 1069,1536 1139,1543 1140,1543 1312,1541 1313,1541 1314,1541 1324,1535 1385,1541 1387,1541 1388,1541 1389,1541 1400,1533 1400,1518 1399,1488 1379,1478 1377,1478 1376,1478 1375,1478 1357,1486 1318,1481 1317,1481 1140,1488 1116,1480 1115,1480 1113,1480 1112,1480 1084,1488 1049,1478 1048,1478 1046,1478 1045,1478 1006,1489 1005,1489 950,1480 948,1480 947,1480 923,1489 806,1481 805,1481 804,1481 779,1490 779,1492 699,1492 699,1490 676,1482 675,1482 674,1482 672,1482 641,1492 637,1492 628,1492 564,1485 562,1485 510,1492 498,1493 495,1492 481,1484 479,1484 357,1484 356,1484 355,1484 333,1493 332,1493 327,1493 269,1485 268,1485 266,1485 237,1493 230,1494 148,1494 150,1528"/>
         <Baseline points="150,1528 1400,1518"/>
         <TextEquiv>
-          <Unicode>wie Joh. Mathias von Gengenbach, Urich Surgant, Joh.</Unicode>
+          <Unicode>wie Joh. Mathias von Gengenbach, Ulrich Surgant, Joh.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4f63cbd7" >
