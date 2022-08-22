@@ -29,7 +29,7 @@ script:
   - Latn
 script-type: print
 time:
-  notBefore: '1633'
+  notBefore: '1521'
   notAfter: '1872'
 hands:
   count: '1'
@@ -40,7 +40,7 @@ license:
 gtTyp: data_line
 volume:
   - metric: lines
-    count: 7077
+    count: 7153
 transcription-guidelines: >-
   The transcriptions were done with eScriptorium, a transcription platform
   developed as part of the Scripta and RESILIENCE projects
