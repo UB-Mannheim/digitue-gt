@@ -2,15 +2,15 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00084.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-02-23T19:09:11.232928+00:00</Created>
-        <LastChange>2022-02-23T19:09:11.232944+00:00</LastChange>
+	<Created>2023-05-15T05:28:58.252308+00:00</Created>
+        <LastChange>2023-05-15T05:28:58.252320+00:00</LastChange>
   </Metadata>
   <Page imageFilename="83_25f76_default.jpg" imageWidth="1520" imageHeight="2481">
     <TextRegion id="eSc_textblock_65e5280f"  >
       <Coords points="777,90 833,90 833,121 785,138 777,90"/>
       <TextLine id="eSc_line_3e81de66" >
-        <Coords points="775,128 763,-6 814,-6 825,124 825,134 775,136"/>
-        <Baseline points="775,128 825,124"/>
+        <Coords points="814,121 794,90 792,84 775,80 773,126 773,144 827,138 827,126 827,121 814,121"/>
+        <Baseline points="775,128 828,128"/>
         <TextEquiv>
           <Unicode>78</Unicode>
         </TextEquiv>

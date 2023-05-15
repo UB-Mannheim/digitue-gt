@@ -9,7 +9,7 @@
     <TextRegion id="eSc_textblock_95e84477"  >
       <Coords points="635,69 883,78 900,128 643,145 635,69"/>
       <TextLine id="eSc_line_a2cf6f30" >
-        <Coords points="628,132 628,-4 889,-4 889,132 889,150 746,160 744,160 744,160 626,145"/>
+        <Coords points="628,132 628,4 889,4 889,132 889,150 746,160 744,160 744,160 626,145"/>
         <Baseline points="628,132 889,132"/>
         <TextEquiv>
           <Unicode>Prospect.</Unicode>

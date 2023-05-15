@@ -9,7 +9,7 @@
     <TextRegion id="eSc_textblock_5a04e303"  >
       <Coords points="781,119 722,119 731,69 781,78 781,119"/>
       <TextLine id="eSc_line_cfadc385" >
-        <Coords points="718,113 707,-2 765,-4 776,108 776,117 718,126"/>
+        <Coords points="718,113 707,2 765,4 776,108 776,117 718,126"/>
         <Baseline points="718,113 776,108"/>
         <TextEquiv>
           <Unicode>15</Unicode>
