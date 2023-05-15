@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00017.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-03-14T15:00:23.864628+00:00</Created>
-        <LastChange>2022-03-14T15:00:23.864643+00:00</LastChange>
+	<Created>2023-05-15T04:54:38.928981+00:00</Created>
+        <LastChange>2023-05-15T04:54:38.928993+00:00</LastChange>
   </Metadata>
   <Page imageFilename="16_711a8_default.jpg" imageWidth="1427" imageHeight="2429">
     <TextRegion id="eSc_textblock_6de14ac7"  >
@@ -12,7 +12,7 @@
         <Coords points="48,176 44,140 66,129 66,129 66,129 67,129 67,129 68,129 68,129 68,129 70,129 70,129 91,137 132,130 132,130 132,130 133,130 252,137 268,129 268,129 268,129 270,129 270,129 270,129 271,129 271,129 329,137 363,128 364,128 364,128 364,128 365,128 365,128 367,128 367,128 391,136 433,128 433,128 433,128 434,128 434,128 436,128 469,136 538,129 538,129 540,129 540,129 540,129 541,129 541,129 557,136 581,128 583,128 583,128 583,128 584,128 584,128 648,134 681,126 683,126 683,126 684,126 684,126 685,126 685,126 685,126 687,126 699,134 731,126 733,126 733,126 734,126 886,126 886,126 886,126 888,126 888,126 888,126 889,126 900,133 977,126 977,126 978,126 978,126 980,126 980,126 1000,134 1001,134 1004,134 1047,125 1047,125 1047,125 1048,125 1048,125 1096,133 1129,125 1131,125 1131,125 1132,125 1132,125 1132,125 1171,133 1171,133 1173,133 1197,126 1198,126 1198,126 1200,126 1200,126 1200,126 1201,126 1201,126 1202,126 1213,133 1215,133 1332,133 1358,172 1356,190 707,198 706,198 706,198 706,198 704,198 688,192 683,191 668,192 615,199 615,199 614,199 452,194 418,192 399,194 311,201 310,201 47,194"/>
         <Baseline points="48,176 819,170 1358,172"/>
         <TextEquiv>
-          <Unicode>iſt, ſo unverkennbar iſt es doch, daß dieſer Beſitz bisher für dieſelbe mittel</Unicode>
+          <Unicode>iſt, ſo unverkennbar iſt es doch, daß dieſer Beſitz bisher für dieſelbe mittel⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4af0b6b9" >

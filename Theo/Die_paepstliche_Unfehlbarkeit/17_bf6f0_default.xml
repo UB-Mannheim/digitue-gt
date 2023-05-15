@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00018.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-03-14T15:00:23.882592+00:00</Created>
-        <LastChange>2022-03-14T15:00:23.882607+00:00</LastChange>
+	<Created>2023-05-15T04:54:38.941762+00:00</Created>
+        <LastChange>2023-05-15T04:54:38.941774+00:00</LastChange>
   </Metadata>
   <Page imageFilename="17_bf6f0_default.jpg" imageWidth="1427" imageHeight="2413">
     <TextRegion id="eSc_textblock_f3c99458"  >
@@ -61,7 +61,7 @@
         <Coords points="56,546 53,512 209,510 221,502 222,502 222,502 222,502 223,502 223,502 225,502 671,509 717,501 717,501 717,501 718,501 816,508 843,501 844,501 844,501 846,501 949,501 949,501 949,501 950,501 950,501 966,508 1005,501 1005,501 1007,501 1213,501 1213,501 1213,501 1215,501 1215,501 1215,501 1216,501 1227,508 1327,501 1329,501 1329,501 1329,501 1370,509 1373,544 1372,560 56,564"/>
         <Baseline points="56,546 1373,544"/>
         <TextEquiv>
-          <Unicode>werde; während andererſeits mayche, die für ihre Perſon nicht ſo ſehr</Unicode>
+          <Unicode>werde; während andererſeits manche, die für ihre Perſon nicht ſo ſehr</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a84e66ea" >
@@ -285,7 +285,7 @@
         <Coords points="46,2339 46,2295 612,2304 657,2301 729,2297 730,2297 824,2304 854,2305 878,2304 985,2299 987,2299 1170,2308 1180,2308 1185,2308 1347,2301 1349,2301 1349,2301 1349,2301 1350,2301 1350,2301 1350,2301 1367,2311 1366,2348 1363,2380 1278,2375 1217,2379 1185,2382 1184,2382 1184,2382 1157,2379 1099,2372 1083,2378 1076,2380 1076,2380 1075,2380 1075,2380 1074,2380 1074,2380 1074,2380 1072,2380 1072,2380 1067,2378 1051,2370 989,2370 878,2376 822,2379 820,2379 820,2379 819,2379 819,2379 810,2375 789,2368 637,2370 629,2374 616,2378 616,2378 615,2378 615,2378 614,2378 614,2378 614,2378 612,2378 598,2374 578,2367 536,2367 525,2372 520,2376 519,2376 519,2376 519,2376 517,2376 517,2376 516,2376 516,2376 516,2376 494,2372 468,2367 418,2371 375,2375 375,2376 284,2376 282,2375 282,2375 281,2375 281,2375 268,2370 258,2367 245,2370 225,2374 225,2374 225,2374 223,2374 223,2374 222,2374 222,2374 222,2374 221,2374 214,2370 205,2364 46,2367"/>
         <Baseline points="46,2339 1366,2348"/>
         <TextEquiv>
-          <Unicode>liken aus der neukatholiſchen Jufallibilitätskirche wurde zwar geſprochen,</Unicode>
+          <Unicode>liken aus der neukatholiſchen Infallibilitätskirche wurde zwar geſprochen,</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>

@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00005.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-03-14T15:00:23.469236+00:00</Created>
-        <LastChange>2022-03-14T15:00:23.469257+00:00</LastChange>
+	<Created>2023-05-15T04:54:38.785098+00:00</Created>
+        <LastChange>2023-05-15T04:54:38.785125+00:00</LastChange>
   </Metadata>
   <Page imageFilename="4_b74f9_default.jpg" imageWidth="1421" imageHeight="2408">
     <TextRegion id="eSc_textblock_26a9ef53"  >
@@ -305,7 +305,7 @@
         <Coords points="1103,2397 1101,2355 1156,2351 1158,2397 1156,2412 1101,2405"/>
         <Baseline points="1105,2399 1160,2398"/>
         <TextEquiv>
-          <Unicode></Unicode>
+          <Unicode>1 *</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>

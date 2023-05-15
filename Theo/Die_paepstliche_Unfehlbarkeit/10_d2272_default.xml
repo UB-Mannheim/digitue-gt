@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00011.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-03-14T15:00:23.666211+00:00</Created>
-        <LastChange>2022-03-14T15:00:23.666226+00:00</LastChange>
+	<Created>2023-05-15T04:36:31.383773+00:00</Created>
+        <LastChange>2023-05-15T04:36:31.383784+00:00</LastChange>
   </Metadata>
   <Page imageFilename="10_d2272_default.jpg" imageWidth="1422" imageHeight="2333">
     <TextRegion id="eSc_textblock_e8767e46"  >
@@ -229,7 +229,7 @@
         <Coords points="48,1827 44,1780 1367,1771 1373,1815 1371,1831 48,1843"/>
         <Baseline points="48,1827 1373,1815"/>
         <TextEquiv>
-          <Unicode>Rom verließe; ſie weiß zu gut, welcher Schlag dies für Ronswäre, wie</Unicode>
+          <Unicode>Rom verließe; ſie weiß zu gut, welcher Schlag dies für Rom wäre, wie</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_9d659a86" >
@@ -243,7 +243,7 @@
         <Coords points="48,1938 44,1893 1365,1883 1371,1928 1369,1949 48,1953"/>
         <Baseline points="48,1938 1371,1928"/>
         <TextEquiv>
-          <Unicode>würde, was für einen ungänſtigen Eindruck es beim Volk hervorbrächte,</Unicode>
+          <Unicode>würde, was für einen ungünſtigen Eindruck es beim Volk hervorbrächte,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_8114d402" >

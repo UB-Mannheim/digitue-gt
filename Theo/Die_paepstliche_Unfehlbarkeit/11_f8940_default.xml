@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00012.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-03-14T15:00:23.681460+00:00</Created>
-        <LastChange>2022-03-14T15:00:23.681475+00:00</LastChange>
+	<Created>2023-05-15T04:54:38.875223+00:00</Created>
+        <LastChange>2023-05-15T04:54:38.875234+00:00</LastChange>
   </Metadata>
   <Page imageFilename="11_f8940_default.jpg" imageWidth="1419" imageHeight="2418">
     <TextRegion id="eSc_textblock_6fe9cf0e"  >
@@ -229,7 +229,7 @@
         <Coords points="46,1908 46,1857 1370,1857 1370,1908 1370,1920 46,1920"/>
         <Baseline points="46,1908 1370,1908"/>
         <TextEquiv>
-          <Unicode>andere, ven ihrem urſprünglichen Boden ungeſtraft losreißen. Wird ihr</Unicode>
+          <Unicode>andere, von ihrem urſprünglichen Boden ungeſtraft losreißen. Wird ihr</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_9954208d" >

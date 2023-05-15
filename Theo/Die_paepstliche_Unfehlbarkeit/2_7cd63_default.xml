@@ -225,7 +225,7 @@
         <Coords points="1137,1896 1137,1857 1156,1857 1156,1896 1156,1912 1137,1912"/>
         <Baseline points="1138,1898 1158,1898"/>
         <TextEquiv>
-          <Unicode></Unicode>
+          <Unicode>1</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>
