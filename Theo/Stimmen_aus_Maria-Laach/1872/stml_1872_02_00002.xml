@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00002.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.072841+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.072874+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00002.jpg" imageWidth="1553" imageHeight="2480">
+    <TextRegion id="eSc_textblock_018fb46a"  >
+      <Coords points="209,105 72,67 88,11 210,19 213,57"/>
+      <TextLine id="eSc_line_3dfa3ad0" >
+        <Coords points="70,66 70,8 146,18 155,14 177,6 179,6 181,6 184,6 210,20 212,68 163,79 121,78"/>
+        <Baseline points="72,68 215,69"/>
+        <TextEquiv>
+          <Unicode>Miscell.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_92d447e2"  >
+      <Coords points="808,212 711,221 750,237 694,237 701,270 618,328 289,328 289,24 430,8 576,16 758,90"/>
+      <TextLine id="eSc_line_6b82a77b" >
+        <Coords points="289,138 291,4 353,6 353,6 353,6 355,6 355,6 357,6 357,6 372,18 392,35 411,26 446,10 446,10 448,10 448,10 448,10 450,10 531,18 531,18 533,18 533,18 533,18 535,18 535,18 535,20 574,57 585,68 599,62 616,57 618,57 618,57 618,57 620,57 620,57 620,57 622,57 622,57 624,57 624,57 624,59 636,70 659,90 763,95 763,157 756,183 705,169 285,161"/>
+        <Baseline points="290,139 765,159"/>
+        <TextEquiv>
+          <Unicode>8° Stimen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_90485647" >
+        <Coords points="283,295 283,223 378,227 378,227 380,227 380,227 428,243 467,229 469,229 471,229 471,229 471,229 473,229 473,229 475,229 479,229 547,248 607,235 610,305 601,345 576,326 531,343 529,343 527,343 527,343 527,343 525,343 525,343 525,343 519,343 413,320 370,338 361,343 361,343 359,343 359,343 359,343 357,343 279,336"/>
+        <Baseline points="284,297 612,307"/>
+        <TextEquiv>
+          <Unicode>2705-2</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

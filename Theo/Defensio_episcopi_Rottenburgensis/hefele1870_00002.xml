@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/hefele1870/hefele1870_00002.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-30T08:39:15.614806+00:00</Created>
+        <LastChange>2022-07-30T08:39:15.614820+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="hefele1870_00002.jpg" imageWidth="1365" imageHeight="2325">
+    <TextRegion id="eSc_textblock_5c2301e6"  >
+      <Coords points="377,1462 403,1441 955,1451 965,1458 965,1515 391,1515"/>
+      <TextLine id="eSc_line_dd9ab558" >
+        <Coords points="395,1446 395,1494 394,1522 461,1515 531,1525 532,1525 533,1525 535,1525 557,1515 579,1526 580,1526 581,1526 582,1528 717,1528 718,1497 717,1450 407,1441 395,1446"/>
+        <Baseline points="395,1494 718,1497"/>
+        <TextEquiv>
+          <Unicode>F. H. REUSCH</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_612922f0" >
+        <Coords points="822,1497 822,1563 959,1565 961,1497 961,1457 822,1457 822,1497"/>
+        <Baseline points="823,1498 962,1498"/>
+        <TextEquiv>
+          <Unicode>1900</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fb220634"  >
+      <Coords points="319,666 319,675 299,680 305,661"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5c32e38e"  >
+      <Coords points="334,754 334,768 330,768 330,754"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_87fc8141"  >
+      <Coords points="423,702 429,697 438,706 423,711"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2659339e"  >
+      <Coords points="443,661 453,680 418,680 429,656"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_20c76946"  >
+      <Coords points="846,1405 846,1419 816,1414 822,1405"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cf928b7c"  >
+      <Coords points="1101,2226 1291,2237 1306,2251 1158,2251 1158,2268 1296,2277 1127,2282 1125,2256 1090,2256"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c354cd2f"  >
+      <Coords points="1147,2294 1189,2288 1260,2294 1270,2303 1142,2313"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5ac23331"  >
+      <Coords points="435,782 435,824 514,824 514,782"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8fbee1ed"  >
+      <Coords points="294,711 299,692 308,692 308,727"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f63f4afa"  >
+      <Coords points="474,1366 474,1431 858,1431 858,1366"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_a44dbfe5" >
+        <Coords points="438,811 436,821 496,823 500,813 500,775 438,773 438,811"/>
+        <Baseline points="439,813 502,815"/>
+        <TextEquiv>
+          <Unicode>1560</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc11f555" >
+        <Coords points="478,1414 476,1431 500,1441 502,1441 504,1441 581,1433 599,1431 606,1433 725,1466 727,1466 729,1468 787,1468 787,1466 789,1466 791,1466 827,1435 849,1435 851,1420 849,1327 715,1342 655,1333 632,1329 630,1329 478,1336 478,1414"/>
+        <Baseline points="479,1415 853,1422"/>
+        <TextEquiv>
+          <Unicode>EX LIBRIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

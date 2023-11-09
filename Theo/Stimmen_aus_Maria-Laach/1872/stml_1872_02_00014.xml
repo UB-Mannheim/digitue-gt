@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00014.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.237080+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.237095+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00014.jpg" imageWidth="1521" imageHeight="2481">
+    <TextRegion id="eSc_textblock_e8b69da7"  >
+      <Coords points="875,121 844,121 852,74 883,82 875,121"/>
+      <TextLine id="eSc_line_59d90993" >
+        <Coords points="846,115 846,70 875,70 875,115 875,134 846,134"/>
+        <Baseline points="846,115 875,115"/>
+        <TextEquiv>
+          <Unicode>8</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_24460b89"  >
+      <Coords points="1512,1701 1264,1728 1390,1761 1504,1744 1504,2321 231,2313 231,173 1504,181 1512,1701"/>
+      <TextLine id="eSc_line_f454f96a" >
+        <Coords points="229,212 227,169 1498,161 1500,212 1500,231 229,231"/>
+        <Baseline points="229,212 1500,212"/>
+        <TextEquiv>
+          <Unicode>einigkeit auflöſen und aus der Vernunft allein poſitiv beweiſen zu wollen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3757db93" >
+        <Coords points="227,264 227,210 291,225 542,225 552,215 552,212 552,212 552,212 554,212 554,212 554,212 556,212 556,212 558,212 558,212 577,212 666,223 693,215 701,212 703,212 703,212 703,212 705,212 705,212 707,212 707,212 707,212 713,215 728,223 778,217 804,212 804,212 807,212 807,212 838,217 896,225 920,217 929,215 931,215 931,215 931,215 933,215 933,215 933,215 935,215 935,215 943,217 962,225 989,219 1005,215 1007,215 1007,215 1009,215 1009,215 1011,215 1011,215 1011,215 1020,219 1034,225 1063,219 1088,215 1088,215 1088,215 1090,215 1090,215 1090,215 1117,219 1144,225 1187,221 1241,215 1241,215 1243,215 1496,225 1498,268 1494,281 225,274"/>
+        <Baseline points="227,264 1498,268"/>
+        <TextEquiv>
+          <Unicode>haben doch große Theologen, wie ein hl. Auguſtinus, ein hl. Hilarius,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7dc2eba3" >
+        <Coords points="227,324 225,283 1498,277 1500,324 1500,337 227,337"/>
+        <Baseline points="227,324 1500,324"/>
+        <TextEquiv>
+          <Unicode>ein hl. Thomas von Aquin und viele Andere, dasſelbe gegen die An⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa846208" >
+        <Coords points="229,382 225,337 1494,334 1500,378 1498,392 229,396"/>
+        <Baseline points="229,382 1500,378"/>
+        <TextEquiv>
+          <Unicode>griffe verſchiedener Irrlehrer nicht nur ſiegreich vertheidigt, ſondern es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_51273813" >
+        <Coords points="227,434 225,392 862,384 865,384 865,384 933,394 945,396 1500,396 1502,438 1500,446 227,450"/>
+        <Baseline points="227,434 1502,438"/>
+        <TextEquiv>
+          <Unicode>auch aus dem Weſen und innerſten Leben der Gottheit dem menſchlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1dd95e9f" >
+        <Coords points="227,494 227,452 1502,452 1502,494 1502,506 227,506"/>
+        <Baseline points="227,494 1502,494"/>
+        <TextEquiv>
+          <Unicode>Geiſte ſehr nahe gebracht und unſerm Verſtändniſſe annehmbar gemacht.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a37763a" >
+        <Coords points="314,552 314,500 1502,508 1502,552 1500,570 312,560"/>
+        <Baseline points="314,552 1502,552"/>
+        <TextEquiv>
+          <Unicode>Es liegt dem Zwecke dieſer Schrift fern, in den Gegenſtand weiter</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3109d3c4" >
+        <Coords points="229,607 227,566 1500,560 1502,607 1502,618 229,622"/>
+        <Baseline points="229,607 1502,607"/>
+        <TextEquiv>
+          <Unicode>einzugehen. Eines aber dürfte jedem vernünftigen Menſchen genügen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f5756f3" >
+        <Coords points="229,665 227,616 1500,622 1504,661 1500,682 227,676"/>
+        <Baseline points="229,665 1504,661"/>
+        <TextEquiv>
+          <Unicode>Wir wiſſen nämlich, daß die menſchliche Seele nach dem Ebenbilde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dbb43972" >
+        <Coords points="229,721 229,674 1506,680 1506,721 1506,733 229,733"/>
+        <Baseline points="229,721 1506,721"/>
+        <TextEquiv>
+          <Unicode>Gottes geſchaffen iſt. Sie kann als Geſchöpf nur ein höchſt unvoll⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2e6ea9a1" >
+        <Coords points="227,779 223,738 324,725 326,725 1502,731 1506,775 1502,795 225,789"/>
+        <Baseline points="227,779 1506,775"/>
+        <TextEquiv>
+          <Unicode>kommenes Bild ihres Schöpfers ſein, und wir dürfen darum zwiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1aab2715" >
+        <Coords points="227,837 223,798 403,783 405,783 637,793 647,793 649,793 693,781 695,781 695,781 695,781 697,781 865,791 1084,779 1086,779 1500,789 1504,831 1502,843 227,845"/>
+        <Baseline points="227,837 1504,831"/>
+        <TextEquiv>
+          <Unicode>ihr und Gott keinen vollkommenen Vergleich anſtellen, ſondern uns</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_837a9026" >
+        <Coords points="227,895 221,855 254,843 254,843 256,843 256,843 258,843 1500,849 1504,889 1502,901 1096,901 1094,901 1082,911 1082,911 1080,911 1080,911 1080,911 1078,911 1078,911 1076,911 225,905"/>
+        <Baseline points="227,895 1504,889"/>
+        <TextEquiv>
+          <Unicode>begnügen mit einer Ähnlichkeit, höchſtens jener vergleichbar, die zwi⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cab97612" >
+        <Coords points="227,951 221,911 258,899 260,899 260,899 262,899 1502,907 1506,946 1504,961 227,963"/>
+        <Baseline points="227,951 1506,946"/>
+        <TextEquiv>
+          <Unicode>ſchen unſerm lebendigen Leib und deſſen Schatten ſtattfindet. Unſere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b93efaf" >
+        <Coords points="229,1006 221,969 240,955 240,955 242,955 242,955 242,955 244,955 244,955 246,955 246,955 329,967 434,967 449,955 449,955 451,955 451,955 451,955 453,955 453,955 455,955 809,965 862,953 865,953 865,953 867,953 1498,963 1502,1002 1498,1023 227,1019"/>
+        <Baseline points="229,1006 1502,1002"/>
+        <TextEquiv>
+          <Unicode>Seele nun iſt ihrem Weſen nach einfach, untheilbar: und dennoch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_da035c67" >
+        <Coords points="227,1058 225,1017 738,1006 740,1006 740,1006 804,1017 819,1006 821,1006 821,1006 821,1006 823,1006 823,1006 825,1006 825,1006 825,1006 827,1006 862,1019 867,1019 871,1019 891,1008 891,1008 893,1008 893,1008 893,1008 896,1008 1438,1019 1463,1008 1463,1008 1465,1008 1465,1008 1465,1008 1467,1008 1467,1008 1467,1008 1469,1008 1504,1021 1504,1062 1500,1077 225,1068"/>
+        <Baseline points="227,1058 1504,1062"/>
+        <TextEquiv>
+          <Unicode>iſt in ihr Verſtand und Wille. Der Verſtand iſt nicht der Wille; die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4090b337" >
+        <Coords points="229,1114 229,1066 1502,1075 1504,1118 1500,1135 227,1128"/>
+        <Baseline points="229,1114 1504,1118"/>
+        <TextEquiv>
+          <Unicode>Acte des Verſtandes ſind nicht die des Willens und ſo umgekehrt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1775c92b" >
+        <Coords points="229,1174 225,1128 1498,1122 1504,1170 1500,1190 227,1186"/>
+        <Baseline points="229,1174 1504,1170"/>
+        <TextEquiv>
+          <Unicode>Einander gegenübergeſtellt, ſind ſie wirklich von einander verſchieden, und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d97a59c" >
+        <Coords points="229,1232 227,1188 1500,1180 1502,1232 1502,1250 229,1250"/>
+        <Baseline points="229,1232 1502,1232"/>
+        <TextEquiv>
+          <Unicode>zuſammen machen ſie doch nur eine menſchliche Seele aus. Unendlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_30a4469b" >
+        <Coords points="227,1288 227,1234 1502,1244 1502,1288 1502,1308 227,1308"/>
+        <Baseline points="227,1288 1502,1288"/>
+        <TextEquiv>
+          <Unicode>höher ſteht wohl das Geheimniß in der ewigen, unwandelbaren Gottheit,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1894f274" >
+        <Coords points="229,1345 229,1294 1504,1304 1504,1345 1504,1358 229,1358"/>
+        <Baseline points="229,1345 1504,1345"/>
+        <TextEquiv>
+          <Unicode>wo nichts Zufälliges, nichts Vorübergehendes iſt: aber ſo viel erſehen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_da5d3c7f" >
+        <Coords points="229,1399 229,1348 1502,1360 1504,1403 1500,1414 227,1407"/>
+        <Baseline points="229,1399 1504,1403"/>
+        <TextEquiv>
+          <Unicode>wir aus ihrem unvollkommenen Nachbilde, daß in geiſtigen Weſen die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0830db22" >
+        <Coords points="229,1459 227,1412 1500,1416 1504,1455 1500,1476 227,1472"/>
+        <Baseline points="229,1459 1504,1455"/>
+        <TextEquiv>
+          <Unicode>ſtrengſte Einheit und Untheilbarkeit in einer Beziehung die Vielheit in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0247bf1" >
+        <Coords points="227,1515 225,1476 308,1463 308,1463 310,1463 310,1463 422,1474 490,1463 490,1463 492,1463 492,1463 492,1463 494,1463 494,1463 496,1463 496,1463 511,1474 577,1463 577,1463 579,1463 579,1463 579,1463 581,1463 581,1463 581,1463 583,1463 583,1463 583,1465 593,1476 674,1476 689,1463 689,1463 691,1463 691,1463 693,1463 693,1463 693,1463 695,1463 695,1463 778,1474 802,1463 802,1463 804,1463 804,1463 804,1463 807,1463 807,1463 807,1463 856,1474 910,1463 910,1463 910,1463 912,1463 912,1463 1003,1474 1040,1463 1042,1463 1042,1463 1045,1463 1504,1476 1504,1515 1502,1536 225,1527"/>
+        <Baseline points="227,1515 1504,1515"/>
+        <TextEquiv>
+          <Unicode>einer andern Beziehung nicht nothwendig ausſchließen. Die Lehre alſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_400d3830" >
+        <Coords points="227,1571 227,1527 1502,1532 1504,1575 1502,1587 227,1587"/>
+        <Baseline points="227,1571 1504,1575"/>
+        <TextEquiv>
+          <Unicode>von der heiligen Dreieinigkeit ſchließt in ſich keinen Widerſpruch, iſt nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5ce77527" >
+        <Coords points="229,1627 229,1585 1504,1587 1506,1631 1502,1641 227,1639"/>
+        <Baseline points="229,1627 1506,1631"/>
+        <TextEquiv>
+          <Unicode>unmöglich. Wenn alſo Chriſtus ſie ausſpricht, ſo hat man keinen Grund</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8ff877af" >
+        <Coords points="229,1685 229,1635 1498,1647 1500,1689 1496,1707 227,1695"/>
+        <Baseline points="229,1685 1500,1689"/>
+        <TextEquiv>
+          <Unicode>ſeine Ausſage zu verwerfen: ſie kann wahr ſein, und iſt die Gottheit,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aff16f8a" >
+        <Coords points="231,1744 231,1691 378,1691 378,1691 378,1691 380,1691 380,1691 380,1691 382,1691 382,1691 382,1691 395,1701 442,1693 457,1691 457,1691 459,1691 459,1691 459,1691 461,1691 461,1691 467,1693 486,1701 569,1695 614,1691 616,1691 1202,1703 1202,1744 1200,1765 229,1755"/>
+        <Baseline points="231,1744 1202,1744"/>
+        <TextEquiv>
+          <Unicode>Chriſti bewieſen, ſo iſt ſeine Lehre unzweifelhaft wahr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fbf9b7fa" >
+        <Coords points="316,1800 316,1755 1502,1757 1502,1800 1500,1819 314,1811"/>
+        <Baseline points="316,1800 1502,1800"/>
+        <TextEquiv>
+          <Unicode>2. Die Menſchwerdung des Sohnes Gottes. Chriſtus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42dc9238" >
+        <Coords points="227,1856 227,1809 1504,1815 1504,1856 1502,1873 225,1869"/>
+        <Baseline points="227,1856 1504,1856"/>
+        <TextEquiv>
+          <Unicode>der Eine und Derſelbe, nennt ſich Gottesſohn und Menſchenſohn, wahren</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7bfed62f" >
+        <Coords points="227,1910 225,1869 1502,1862 1506,1914 1502,1931 225,1920"/>
+        <Baseline points="227,1910 1506,1914"/>
+        <TextEquiv>
+          <Unicode>Gott und wahren Menſchen zugleich. Wie haben wir das zu verſtehen?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fe6f1836" >
+        <Coords points="229,1974 227,1922 498,1928 567,1922 616,1918 616,1918 618,1918 618,1918 620,1918 620,1918 620,1918 631,1922 643,1928 664,1922 687,1916 689,1916 689,1916 691,1916 844,1916 844,1916 844,1916 846,1916 846,1916 865,1924 873,1928 1020,1928 1034,1924 1078,1914 1078,1914 1080,1914 1150,1914 1150,1914 1150,1914 1152,1914 1152,1914 1152,1914 1154,1914 1154,1914 1154,1916 1165,1924 1165,1924 1167,1924 1227,1914 1227,1914 1229,1914 1229,1914 1229,1914 1231,1914 1231,1914 1231,1914 1233,1914 1233,1914 1233,1916 1243,1924 1243,1926 1502,1926 1506,1968 1502,1986 227,1984"/>
+        <Baseline points="229,1974 1506,1968"/>
+        <TextEquiv>
+          <Unicode>Iſt etwa die göttliche Weſenheit in die menſchliche oder dieſe in die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3000c190" >
+        <Coords points="229,2030 225,1984 444,1976 446,1976 446,1976 519,1984 552,1986 558,1984 569,1976 571,1976 571,1976 571,1976 573,1976 573,1976 575,1976 575,1976 575,1976 577,1976 577,1976 577,1976 579,1976 589,1984 593,1986 610,1984 660,1974 660,1974 662,1974 662,1974 747,1984 763,1984 780,1984 875,1974 875,1974 877,1974 877,1974 879,1974 879,1974 879,1974 881,1974 881,1974 891,1984 893,1986 1022,1986 1040,1984 1148,1972 1148,1972 1150,1972 1502,1984 1506,2024 1504,2042 229,2046"/>
+        <Baseline points="229,2030 1506,2024"/>
+        <TextEquiv>
+          <Unicode>göttliche übergegangen? Unmöglich: denn die Gottheit iſt unverän⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d77e34e" >
+        <Coords points="229,2084 229,2036 1508,2038 1508,2084 1508,2098 229,2098"/>
+        <Baseline points="229,2084 1508,2084"/>
+        <TextEquiv>
+          <Unicode>derlich, unwandelbar, und die endliche menſchliche Natur kann nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3251e39e" >
+        <Coords points="231,2135 233,2084 273,2094 527,2086 573,2086 575,2086 575,2086 589,2088 658,2098 1504,2098 1506,2141 1502,2156 229,2146"/>
+        <Baseline points="231,2135 1506,2141"/>
+        <TextEquiv>
+          <Unicode>unendlich werden; und in jedem Falle wäre Chriſtus nur Gott oder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42cde173" >
+        <Coords points="229,2191 227,2152 409,2141 411,2141 411,2141 492,2152 492,2152 492,2152 521,2141 521,2141 523,2141 523,2141 525,2141 525,2141 525,2141 527,2141 564,2154 571,2154 598,2154 767,2143 769,2143 769,2143 889,2156 908,2156 931,2156 1082,2146 1084,2146 1084,2146 1084,2146 1086,2146 1086,2146 1086,2146 1107,2156 1107,2156 1109,2156 1183,2146 1183,2146 1185,2146 1185,2146 1185,2146 1187,2146 1187,2146 1187,2146 1189,2146 1189,2146 1189,2148 1200,2158 1202,2158 1218,2158 1334,2148 1334,2148 1336,2148 1504,2160 1506,2199 1504,2208 1206,2218 1204,2218 227,2201"/>
+        <Baseline points="229,2191 1506,2199"/>
+        <TextEquiv>
+          <Unicode>nur Menſch. — Sind die göttliche und menſchliche Natur ſo mit einander</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_96828316" >
+        <Coords points="229,2251 229,2212 1504,2212 1506,2255 1502,2274 227,2261"/>
+        <Baseline points="229,2251 1506,2255"/>
+        <TextEquiv>
+          <Unicode>zuſammengeſetzt worden, daß daraus eine dritte entſtand? Unmöglich:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03b26265" >
+        <Coords points="229,2301 229,2259 420,2270 455,2259 455,2259 457,2259 457,2259 457,2259 459,2259 459,2259 461,2259 517,2270 569,2259 571,2259 571,2259 571,2259 573,2259 577,2259 693,2272 773,2272 784,2261 784,2259 784,2259 786,2259 786,2259 786,2259 786,2259 788,2259 788,2259 790,2259 790,2259 790,2259 794,2259 846,2270 956,2259 966,2259 968,2259 968,2259 968,2259 974,2259 1022,2270 1082,2259 1090,2259 1090,2259 1092,2259 1092,2259 1092,2259 1094,2259 1094,2259 1096,2259 1121,2270 1502,2261 1508,2309 1504,2342 1212,2330 1196,2340 1191,2342 1189,2342 1189,2342 1187,2342 1187,2342 1187,2344 1063,2344 1061,2342 1061,2342 1059,2342 1059,2342 1059,2342 1057,2342 1057,2342 1057,2340 1053,2338 1047,2330 927,2330 889,2336 854,2342 854,2342 854,2342 852,2342 852,2342 850,2342 850,2342 850,2342 836,2336 823,2330 809,2336 788,2342 786,2342 786,2342 786,2342 784,2342 784,2342 782,2342 782,2342 782,2342 780,2342 769,2334 759,2330 604,2330 600,2334 591,2340 591,2342 591,2342 589,2342 589,2342 589,2342 587,2342 587,2342 587,2344 384,2344 382,2342 382,2342 380,2342 380,2342 353,2330 351,2330 229,2330"/>
+        <Baseline points="231,2303 562,2313 1510,2310"/>
+        <TextEquiv>
+          <Unicode>denn zwei geiſtige Subſtanzen können nicht zu einer Subſtanz vereinigt</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00085.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:11.244907+00:00</Created>
+        <LastChange>2022-02-23T19:09:11.244922+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00085.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_93e91b08"  >
+      <Coords points="767,121 719,130 711,82 767,82 767,121"/>
+      <TextLine id="eSc_line_7746e746" >
+        <Coords points="711,121 707,74 756,74 761,117 761,130 711,134"/>
+        <Baseline points="711,121 761,117"/>
+        <TextEquiv>
+          <Unicode>79</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5c31645d"  >
+      <Coords points="1379,2172 667,2183 1338,2208 1379,2265 1362,2354 438,2346 99,2313 99,2265 165,2239 165,2183 99,2164 90,1991 107,165 1379,190 1379,2172"/>
+      <TextLine id="eSc_line_8e71e5e4" >
+        <Coords points="99,204 99,161 198,171 370,163 388,163 390,163 390,163 390,163 392,163 392,163 394,163 419,175 1371,175 1371,212 1366,233 1232,223 1213,233 1211,233 1211,233 1211,233 1209,233 1209,233 1209,233 1207,233 1207,233 1205,233 1205,233 1203,233 1176,223 1089,231 1071,233 1071,233 1069,233 1069,233 1067,233 1067,233 1067,233 1065,233 1065,233 1065,231 1050,221 901,231 876,231 874,231 827,229 581,219 471,227 436,229 434,229 434,229 434,229 432,229 432,229 432,229 426,227 405,217 361,227 353,227 353,227 353,227 351,227 351,227 351,227 341,225 297,217 279,225 275,227 275,227 275,227 272,227 272,227 270,227 95,223"/>
+        <Baseline points="99,204 1371,212"/>
+        <TextEquiv>
+          <Unicode>Intelligenz) Gewalt anthut.“ Dr. Weber unterſchiebt dem Heiligen durch dieſe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9db51f14" >
+        <Coords points="101,248 101,206 1364,221 1366,258 1362,274 167,270 167,270 167,270 97,258"/>
+        <Baseline points="101,248 1366,258"/>
+        <TextEquiv>
+          <Unicode>Überſetzung den Unſinn, daß es eine Evidenz gebe, die den Verſtand nicht zur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_67d8644a" >
+        <Coords points="103,293 103,250 200,260 330,252 349,252 351,252 351,252 361,252 421,262 620,256 721,254 723,254 723,254 725,254 725,254 725,254 727,254 732,258 744,264 868,260 992,256 994,256 1364,268 1366,301 1362,312 101,303"/>
+        <Baseline points="103,293 1366,301"/>
+        <TextEquiv>
+          <Unicode>Beiſtimmung nöthige, und daß folglich der Gehorchende auch noch zuweilen ſein Ur⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48fdeaa9" >
+        <Coords points="99,337 99,295 419,308 694,299 696,299 696,299 698,299 736,310 1364,303 1369,345 1364,359 97,347"/>
+        <Baseline points="99,337 1369,345"/>
+        <TextEquiv>
+          <Unicode>theil dann unterwerfen könne reſp. müſſe, wenn er auch eine Wahrheit ſicher und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3eb63a58" >
+        <Coords points="101,382 101,345 1364,355 1366,388 1362,399 99,392"/>
+        <Baseline points="101,382 1366,388"/>
+        <TextEquiv>
+          <Unicode>evident erkannt hat. — Eine ähnliche Unterſtellung finden wir S. 21 in der Über⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_077cac16" >
+        <Coords points="103,425 103,386 1369,399 1369,434 1366,456 1054,456 1052,454 1052,454 1029,450 998,444 765,446 421,450 419,450 419,450 419,450 376,440 370,440 345,440 140,448 138,448 138,448 138,448 136,448 99,436"/>
+        <Baseline points="103,425 1369,434"/>
+        <TextEquiv>
+          <Unicode>ſetzung des Satzes: quatenus vi sua potest voluntas intelligentiam flectere. Sie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_51a0ce76" >
+        <Coords points="99,469 99,427 1371,444 1371,477 1364,500 1327,489 1081,496 986,498 984,498 984,498 984,498 982,498 969,494 949,487 849,492 736,498 734,498 471,496 471,496 471,496 469,496 469,496 469,496 467,496 452,485 452,485 450,485 419,496 417,496 417,496 417,496 415,496 415,496 306,483 297,483 291,483 215,494 215,494 213,494 213,494 213,494 210,494 210,494 210,494 208,494 208,494 208,492 198,481 97,479"/>
+        <Baseline points="99,469 1371,477"/>
+        <TextEquiv>
+          <Unicode>lautet beim Verfaſſer: „inſoweit der Wille die Intelligenz brechen kann.“ Nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e29b460" >
+        <Coords points="99,512 99,469 208,481 525,475 593,475 595,475 595,475 597,475 597,475 603,477 626,485 641,477 643,475 645,475 645,475 647,475 647,475 647,475 649,475 736,479 885,487 895,481 901,477 903,477 903,477 905,477 905,477 905,477 907,477 907,477 949,483 976,487 982,483 990,477 990,477 992,477 992,477 992,477 994,477 994,477 996,477 996,477 996,477 998,477 1021,485 1034,487 1054,485 1112,477 1112,477 1114,477 1114,477 1114,477 1116,477 1116,477 1118,477 1118,477 1118,477 1129,485 1133,489 1166,487 1261,479 1263,479 1263,479 1366,492 1369,523 1364,535 95,525"/>
+        <Baseline points="99,512 1369,523"/>
+        <TextEquiv>
+          <Unicode>dem hl. Ignatius handelt es ſich bei der Unterwerfung des Verſtandes natürlicher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e46eac7" >
+        <Coords points="101,560 101,516 184,527 479,518 481,518 996,531 1366,523 1369,566 1364,578 99,572"/>
+        <Baseline points="101,560 1369,566"/>
+        <TextEquiv>
+          <Unicode>Weiſe nur von zweifelhaften Fällen, in welchen ſich der Gehorchende noch kein ſicheres</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_84e07ae0" >
+        <Coords points="99,603 99,560 417,572 1364,568 1369,611 1366,628 146,628 144,626 144,626 142,626 95,614"/>
+        <Baseline points="99,603 1369,611"/>
+        <TextEquiv>
+          <Unicode>Urtheil gebildet hat, ſondern zwiſchen verſchiedenen Anſichten hin und her ſchwankt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a99dab30" >
+        <Coords points="97,647 97,605 223,616 562,611 727,609 730,609 730,609 730,609 752,614 779,620 885,616 1000,611 1002,611 1369,624 1371,655 1366,669 95,659"/>
+        <Baseline points="97,647 1371,655"/>
+        <TextEquiv>
+          <Unicode>In ſolchen Fällen kann allerdings der Wille einen Einfluß auf den Verſtand aus⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36b3c2f6" >
+        <Coords points="99,690 99,649 161,661 1369,661 1369,698 1364,717 95,702"/>
+        <Baseline points="99,690 1369,698"/>
+        <TextEquiv>
+          <Unicode>üben, indem er die Aufmerkſamkeit mehr auf die Gründe für die eine Anſicht, als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f68a4d3e" >
+        <Coords points="99,736 99,702 1364,713 1366,746 1362,758 95,748"/>
+        <Baseline points="99,736 1366,746"/>
+        <TextEquiv>
+          <Unicode>auf die für die andere fixirt und demgemäß den Verſtand zu dieſer Anſicht hinneigt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_37751133" >
+        <Coords points="99,781 99,740 1366,760 1366,793 1364,802 523,806 521,806 432,795 146,802 144,802 144,802 142,802 95,789"/>
+        <Baseline points="99,781 1366,793"/>
+        <TextEquiv>
+          <Unicode>Deßhalb gebraucht der Heilige die Ausdrücke inclinare neigen, flectere beugen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47e4d7bd" >
+        <Coords points="99,824 99,785 628,798 715,793 843,789 845,789 845,789 845,789 847,789 847,789 849,789 849,789 858,798 864,800 971,800 1331,793 1333,793 1333,793 1335,793 1335,793 1369,806 1366,835 1364,845 366,849 363,849 95,835"/>
+        <Baseline points="99,824 1366,835"/>
+        <TextEquiv>
+          <Unicode>inflectere hinbeugen in dem nämlichen Capitel¹ als Synonyma. Dr. Weber über⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d6b80c5b" >
+        <Coords points="99,870 99,831 1371,843 1371,878 1366,893 97,882"/>
+        <Baseline points="99,870 1371,878"/>
+        <TextEquiv>
+          <Unicode>ſetzt mit Verletzung des Sprachgebrauches flectere durch „brechen“, und kann alſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7cfc32dd" >
+        <Coords points="103,913 103,872 388,884 552,876 554,876 554,876 554,876 612,886 1364,882 1369,924 1364,944 446,930 436,930 372,938 372,938 370,938 258,928 256,928 252,928 177,936 177,936 175,936 175,936 99,924"/>
+        <Baseline points="103,913 1369,924"/>
+        <TextEquiv>
+          <Unicode>wiederum den Heiligen ſagen laſſen, der Untergebene müſſe, auch wenn er eine Wahr⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_db8610af" >
+        <Coords points="99,957 99,920 1364,936 1366,967 1362,990 1108,979 976,984 880,988 878,988 878,988 841,982 806,977 748,982 667,986 665,986 665,986 665,986 626,979 603,975 488,977 159,982 157,982 157,982 97,969"/>
+        <Baseline points="99,957 1366,967"/>
+        <TextEquiv>
+          <Unicode>heit ſicher erkannt hat, ſein Urtheil dem entgegengeſetzten Urtheile des Obern anpaſſen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_64e6e56f" >
+        <Coords points="101,1000 101,959 1369,977 1371,1011 1366,1027 97,1013"/>
+        <Baseline points="101,1000 1371,1011"/>
+        <TextEquiv>
+          <Unicode>indem er ſeinen Verſtand bricht! — In der Überſetzung der Anm. 2. S. 25 finden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c0b3d3f" >
+        <Coords points="101,1046 101,1002 419,1015 1358,1011 1362,1054 1360,1064 752,1073 750,1073 440,1070 440,1070 440,1070 438,1070 405,1060 157,1068 155,1068 155,1068 155,1068 97,1056"/>
+        <Baseline points="101,1046 1362,1054"/>
+        <TextEquiv>
+          <Unicode>ſich nicht weniger als vier grobe Fehler. Auf zwei derſelben, daß nämlich „apprehensio“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ad3130b" >
+        <Coords points="101,1085 101,1050 1366,1068 1369,1101 1364,1118 97,1104"/>
+        <Baseline points="101,1085 459,1099 1369,1101"/>
+        <TextEquiv>
+          <Unicode>durch „Entſchließung“ wiedergegeben und in „atque etiam“ durch die Ueberſetzung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65f3cfbd" >
+        <Coords points="103,1135 103,1093 210,1104 277,1095 279,1095 279,1095 281,1095 281,1095 287,1095 386,1108 1366,1112 1369,1145 1366,1155 357,1159 355,1159 101,1143"/>
+        <Baseline points="103,1135 1369,1145"/>
+        <TextEquiv>
+          <Unicode>„ja ſogar“ eine Steigerung gelegt wird, wozu weder der Sprachgebrauch noch der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_56b1e0a8" >
+        <Coords points="103,1174 103,1137 1371,1155 1371,1190 1369,1197 1129,1207 1127,1207 1127,1207 1125,1207 1079,1197 1079,1197 1077,1197 814,1205 812,1205 99,1188"/>
+        <Baseline points="103,1174 386,1186 1371,1190"/>
+        <TextEquiv>
+          <Unicode>Context berechtigt, wollen wir kein Gewicht legen; die beiden andern Fehler aber</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f8aef1a" >
+        <Coords points="101,1217 101,1184 1366,1197 1369,1232 1362,1252 1331,1242 1100,1250 994,1252 992,1252 992,1252 965,1248 922,1240 897,1246 885,1250 883,1250 883,1250 883,1252 562,1252 560,1250 560,1250 558,1250 558,1250 537,1242 531,1240 523,1242 502,1250 502,1250 500,1250 500,1250 498,1250 97,1236"/>
+        <Baseline points="101,1217 351,1230 1369,1232"/>
+        <TextEquiv>
+          <Unicode>können wir nicht umhin als äußerſt ſchwere Mißgriffe oder Fälſchungen zu bezeichnen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fbb21298" >
+        <Coords points="99,1263 99,1226 634,1240 796,1234 953,1230 955,1230 955,1230 955,1230 994,1238 1017,1244 1176,1244 1182,1240 1203,1232 1203,1232 1205,1232 1205,1232 1205,1232 1207,1232 1207,1232 1275,1242 1282,1242 1284,1242 1309,1232 1309,1232 1311,1232 1311,1232 1313,1232 1313,1232 1313,1232 1369,1244 1371,1277 1369,1288 277,1292 275,1292 95,1279"/>
+        <Baseline points="99,1263 403,1275 1371,1277"/>
+        <TextEquiv>
+          <Unicode>Wenn der Satz „perperam praecipienti parendum est“ überſetzt werden muß: „Man</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b138c65e" >
+        <Coords points="101,1308 101,1273 1364,1285 1366,1323 1362,1337 97,1325"/>
+        <Baseline points="101,1308 330,1319 1366,1323"/>
+        <TextEquiv>
+          <Unicode>muß ſelbſt dem gehorchen, der Schlechtes befiehlt“, dann iſt es allerdings nicht ſchwer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45bfb189" >
+        <Coords points="99,1350 99,1316 1364,1333 1366,1366 1362,1385 95,1368"/>
+        <Baseline points="99,1350 411,1364 1366,1366"/>
+        <TextEquiv>
+          <Unicode>den Gehorſam, welchen der hl. Ignatius in ſeinem Briefe anräth, als einen unſitt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11bf9ad3" >
+        <Coords points="101,1395 101,1360 181,1370 306,1362 335,1360 337,1360 337,1360 363,1362 467,1374 1366,1374 1369,1412 1364,1420 97,1414"/>
+        <Baseline points="101,1395 341,1407 1369,1412"/>
+        <TextEquiv>
+          <Unicode>lichen zu beweiſen; beſonders wenn dann die Worte, in welchen er wünſcht, man</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e267198" >
+        <Coords points="101,1438 101,1401 241,1414 372,1403 394,1403 397,1403 397,1403 399,1403 405,1405 450,1418 1366,1420 1369,1455 1364,1474 217,1467 217,1467 97,1455"/>
+        <Baseline points="101,1438 531,1453 1369,1455"/>
+        <TextEquiv>
+          <Unicode>ſolle nicht unterſuchen „rectene praecipiatur an secus“ wiedergegeben werden: „ob</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de6d6eff" >
+        <Coords points="101,1482 101,1449 1366,1463 1369,1496 1366,1507 473,1513 471,1513 97,1501"/>
+        <Baseline points="101,1482 405,1496 1369,1496"/>
+        <TextEquiv>
+          <Unicode>Rechtes oder Unrechtes befohlen werde.“ Gewiß ein ſo blinder Gehorſam, der auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f4680f1" >
+        <Coords points="101,1525 101,1490 254,1501 386,1492 411,1492 413,1492 413,1492 413,1492 415,1492 415,1492 415,1492 417,1492 417,1492 417,1494 417,1494 428,1503 512,1494 523,1494 523,1494 525,1494 541,1494 653,1507 1369,1507 1371,1546 1369,1565 1087,1565 1085,1563 1085,1563 1083,1563 1083,1563 1083,1563 1081,1563 1081,1563 1081,1560 1079,1558 1071,1552 1044,1558 1021,1563 1021,1563 1021,1563 1019,1563 918,1556 847,1552 827,1554 789,1560 789,1560 787,1560 787,1560 787,1560 785,1560 785,1560 785,1560 771,1554 763,1550 744,1554 707,1560 707,1560 705,1560 411,1558 411,1558 320,1546 312,1546 304,1546 227,1556 227,1556 225,1556 225,1556 97,1542"/>
+        <Baseline points="101,1525 330,1540 1371,1546"/>
+        <TextEquiv>
+          <Unicode>das befohlene Schlechte ausführen muß, der nicht darauf achtet, ob das Befohlene</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cdea116f" >
+        <Coords points="99,1571 99,1536 277,1548 413,1540 457,1538 459,1538 459,1538 485,1542 554,1550 680,1544 777,1540 779,1540 779,1540 779,1540 810,1546 839,1552 909,1548 1002,1542 1005,1542 1005,1542 1065,1550 1093,1554 1118,1552 1170,1544 1170,1544 1172,1544 1366,1556 1369,1589 1366,1598 825,1606 823,1606 97,1589"/>
+        <Baseline points="99,1571 372,1585 1369,1589"/>
+        <TextEquiv>
+          <Unicode>recht oder unrecht ſei, iſt ein unſittlicher. Aber in welcher Grammatik hat der Gym⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_998ae0b5" >
+        <Coords points="103,1614 103,1581 347,1591 1366,1589 1371,1633 1366,1641 99,1635"/>
+        <Baseline points="103,1614 293,1629 1371,1633"/>
+        <TextEquiv>
+          <Unicode>naſiallehrer gelernt, daß die Adverbien hier Object ſein könnten? Wer gibt ihm das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3771df92" >
+        <Coords points="101,1658 101,1622 287,1635 386,1627 411,1625 413,1625 413,1625 442,1627 531,1637 610,1631 651,1627 651,1627 653,1627 653,1627 684,1631 723,1637 738,1633 752,1627 752,1627 754,1627 754,1627 756,1627 756,1627 756,1627 789,1633 825,1639 899,1635 992,1629 994,1629 994,1629 994,1629 1044,1637 1071,1641 1098,1637 1153,1631 1153,1631 1156,1631 1156,1631 1156,1631 1158,1631 1158,1631 1160,1631 1172,1639 1176,1641 1201,1639 1302,1631 1302,1631 1304,1631 1304,1631 1369,1643 1371,1676 1369,1685 1102,1695 1100,1695 1100,1695 1098,1695 1098,1695 1067,1685 1067,1685 1062,1685 500,1691 498,1691 97,1676"/>
+        <Baseline points="101,1658 405,1674 1371,1676"/>
+        <TextEquiv>
+          <Unicode>Recht, die Worte, mit welchen der Heilige die Art des Befehlens bezeichnet, auf das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac1d6539" >
+        <Coords points="101,1703 101,1666 175,1666 175,1666 175,1666 177,1666 177,1666 177,1666 179,1666 202,1678 304,1670 304,1670 306,1670 512,1680 533,1672 539,1670 539,1670 541,1670 541,1670 541,1670 543,1670 543,1670 545,1670 545,1670 545,1670 548,1670 552,1672 564,1680 761,1676 918,1674 920,1674 920,1674 922,1674 922,1674 922,1674 924,1674 924,1674 924,1676 928,1680 934,1687 1015,1687 1040,1682 1096,1674 1096,1674 1098,1674 1098,1674 1100,1674 1133,1682 1147,1687 1172,1685 1236,1676 1236,1676 1238,1676 1366,1689 1369,1724 1364,1738 246,1734 246,1734 97,1722"/>
+        <Baseline points="101,1703 332,1718 1369,1724"/>
+        <TextEquiv>
+          <Unicode>Beſohlene zu beziehen? Wenn Jemand unüberlegt, barſch, ohne Rückſicht auf Zeit, Ort,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2e1cec2" >
+        <Coords points="101,1747 101,1711 208,1713 208,1713 208,1713 208,1713 210,1713 210,1713 213,1713 213,1713 227,1724 415,1716 463,1716 465,1716 465,1716 465,1716 467,1716 467,1716 467,1716 469,1716 469,1716 471,1718 481,1726 556,1720 583,1718 585,1718 585,1718 616,1720 684,1728 701,1722 713,1718 713,1718 715,1718 715,1718 717,1718 717,1718 717,1718 746,1724 781,1730 938,1726 1164,1722 1166,1722 1166,1722 1168,1722 1168,1722 1168,1722 1170,1722 1182,1732 1187,1734 1203,1732 1259,1724 1259,1724 1261,1724 1261,1724 1369,1736 1371,1769 1369,1782 355,1782 353,1780 353,1780 351,1780 351,1780 324,1769 301,1778 301,1778 299,1778 299,1778 297,1778 97,1765"/>
+        <Baseline points="101,1747 380,1763 1371,1769"/>
+        <TextEquiv>
+          <Unicode>Umſtände u. ſ. w. befiehlt, ſo können wir ſagen „perperam praecipit“, oder „non</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f991cb8" >
+        <Coords points="101,1786 101,1757 192,1757 192,1757 192,1757 194,1757 194,1757 196,1757 227,1771 481,1771 494,1761 498,1759 500,1759 500,1759 500,1759 502,1759 502,1759 504,1759 504,1759 504,1759 523,1763 554,1769 568,1763 579,1759 579,1759 581,1759 581,1759 581,1759 583,1759 583,1759 585,1759 585,1759 585,1759 593,1763 610,1771 665,1765 696,1761 696,1761 698,1761 698,1761 701,1761 701,1761 711,1765 730,1771 835,1767 932,1763 934,1763 934,1763 936,1763 959,1769 980,1773 1019,1769 1087,1763 1087,1763 1089,1763 1089,1763 1089,1763 1091,1763 1091,1763 1110,1771 1116,1775 1286,1775 1288,1773 1338,1763 1338,1763 1338,1763 1340,1763 1340,1763 1340,1763 1342,1763 1342,1763 1371,1775 1371,1811 1366,1825 268,1823 268,1823 97,1811"/>
+        <Baseline points="101,1786 221,1802 407,1809 1371,1811"/>
+        <TextEquiv>
+          <Unicode>recte praecipit“, „er befiehlt nicht auf die rechte Weiſe“; wird deßhalb das Befohlene</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d4b869fc" >
+        <Coords points="99,1831 99,1800 1373,1819 1373,1856 1369,1877 1265,1866 1139,1873 1108,1875 1106,1875 1106,1875 1106,1875 1104,1875 1104,1875 1104,1875 1102,1875 1102,1875 1100,1873 1091,1864 1065,1873 1056,1875 1054,1875 1054,1875 1054,1875 1052,1875 1052,1875 1050,1875 1038,1873 1007,1864 980,1871 959,1875 959,1875 959,1875 957,1875 957,1875 899,1869 843,1864 665,1864 246,1869 244,1869 97,1854"/>
+        <Baseline points="99,1831 351,1852 1373,1856"/>
+        <TextEquiv>
+          <Unicode>etwas Schlechtes ſein? Ob Unwiſſenheit oder Böswilligkeit dieſe falſche Überſetzung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b0878b6c" >
+        <Coords points="107,1879 107,1846 223,1848 223,1848 223,1848 225,1848 225,1848 225,1848 227,1848 227,1848 239,1858 374,1848 399,1848 401,1848 401,1848 401,1848 403,1848 403,1848 403,1848 405,1848 405,1848 405,1850 419,1860 541,1852 570,1850 572,1850 572,1850 572,1850 589,1852 657,1864 829,1864 843,1856 847,1852 849,1852 849,1852 852,1852 852,1852 852,1852 854,1852 854,1852 856,1852 856,1852 868,1856 891,1864 1009,1858 1091,1854 1093,1854 1362,1864 1364,1900 1362,1914 827,1916 825,1916 825,1916 823,1916 787,1908 777,1906 758,1908 674,1916 674,1916 672,1916 672,1916 603,1906 591,1904 587,1906 568,1914 568,1914 568,1914 566,1914 566,1914 564,1914 564,1914 438,1904 436,1904 434,1904 254,1912 252,1912 252,1912 252,1912 250,1912 250,1912 250,1912 248,1912 248,1912 237,1902 210,1910 208,1910 208,1910 206,1910 206,1910 103,1897"/>
+        <Baseline points="107,1879 450,1897 1364,1900"/>
+        <TextEquiv>
+          <Unicode>veranlaßt habe, wollen wir nicht unterſuchen. — Iſt es ferner bloßer Zufall oder Ab⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_583bd977" >
+        <Coords points="101,1920 101,1889 248,1902 386,1891 407,1891 409,1891 409,1891 409,1891 411,1891 411,1891 415,1891 440,1904 572,1893 597,1893 599,1893 599,1893 599,1893 610,1895 663,1906 736,1897 750,1895 750,1895 752,1895 752,1895 752,1895 754,1895 761,1897 792,1906 876,1897 895,1897 895,1897 897,1897 897,1897 899,1897 899,1897 899,1897 901,1897 901,1897 901,1900 914,1908 932,1900 936,1897 936,1897 938,1897 938,1897 938,1897 940,1897 940,1897 940,1897 943,1897 943,1897 947,1900 969,1908 1009,1900 1025,1897 1025,1897 1025,1897 1027,1897 1027,1897 1027,1897 1029,1897 1029,1897 1038,1900 1054,1908 1098,1902 1125,1897 1125,1897 1127,1897 1127,1897 1127,1897 1129,1897 1129,1897 1129,1897 1131,1897 1131,1897 1131,1900 1133,1900 1135,1902 1141,1910 1174,1902 1189,1900 1189,1900 1189,1900 1191,1900 1369,1906 1371,1945 1366,1964 332,1947 316,1947 215,1955 213,1955 213,1955 97,1943"/>
+        <Baseline points="101,1920 359,1941 1371,1945"/>
+        <TextEquiv>
+          <Unicode>ſicht, wenn S. 26 bei der Überſetzung der 35. Regel, die „das Gemüth“ des Ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af7c930c" >
+        <Coords points="101,1966 101,1933 179,1933 179,1933 179,1933 181,1933 181,1933 181,1933 184,1933 184,1933 184,1933 184,1935 196,1945 233,1935 233,1935 235,1935 235,1935 235,1935 237,1935 244,1935 426,1947 494,1939 514,1937 514,1937 517,1937 517,1937 517,1937 519,1937 519,1937 521,1937 523,1939 539,1947 653,1941 719,1939 721,1939 721,1939 723,1939 723,1939 736,1943 754,1949 794,1945 823,1941 823,1941 825,1941 926,1947 1015,1951 1046,1949 1114,1941 1114,1941 1116,1941 1116,1941 1118,1941 1151,1951 1164,1953 1182,1951 1234,1943 1234,1943 1236,1943 1236,1943 1236,1943 1238,1943 1238,1943 1238,1943 1240,1943 1253,1953 1257,1955 1369,1955 1371,1988 1369,1997 1257,2009 1257,2009 1255,2009 1255,2009 1168,1999 1139,2009 1139,2009 1137,2009 1137,2009 1135,2009 1135,2009 992,1997 967,2007 967,2007 965,2007 965,2007 963,2007 676,2005 676,2005 676,2005 674,2005 674,2005 643,1993 643,1993 641,1993 514,2003 512,2003 97,1986"/>
+        <Baseline points="101,1966 428,1986 1371,1988"/>
+        <TextEquiv>
+          <Unicode>faſſers „mit Schauder und Entſetzen erfüllt“, ein gar nicht unwichtiges Wort ausge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6db03da4" >
+        <Coords points="101,2009 101,1976 452,1993 1366,1993 1369,2034 1366,2040 934,2050 932,2050 97,2030"/>
+        <Baseline points="101,2009 368,2030 1369,2034"/>
+        <TextEquiv>
+          <Unicode>laſſen wird? Der hl. Ignatius will, daß man ſein Urtheil unterwerfe mit einer Art</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a466cf93" >
+        <Coords points="105,2053 105,2019 227,2019 227,2019 227,2019 229,2019 229,2019 229,2019 231,2019 231,2019 231,2022 248,2034 295,2024 295,2024 295,2024 297,2024 297,2024 297,2024 299,2024 299,2024 326,2034 372,2026 372,2026 374,2026 982,2040 994,2034 998,2030 1000,2030 1000,2030 1000,2030 1002,2030 1002,2030 1005,2030 1005,2030 1005,2030 1007,2030 1007,2030 1017,2034 1029,2038 1069,2034 1135,2028 1135,2028 1137,2028 1137,2028 1139,2028 1139,2028 1162,2036 1182,2044 1234,2044 1242,2038 1253,2030 1255,2030 1255,2030 1255,2030 1257,2030 1257,2030 1257,2030 1259,2030 1360,2040 1362,2077 1360,2088 461,2092 459,2092 101,2073"/>
+        <Baseline points="105,2053 417,2075 1362,2077"/>
+        <TextEquiv>
+          <Unicode>von blindem Gehorſam (caeca quadam obedientia); Dr. Weber läßt das mildernde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0544d248" >
+        <Coords points="101,2096 101,2067 241,2067 241,2067 241,2067 244,2067 244,2067 244,2067 248,2069 275,2084 643,2084 758,2077 833,2073 835,2073 835,2073 837,2073 860,2079 880,2084 899,2079 932,2071 934,2071 934,2071 936,2071 1120,2084 1166,2086 1168,2084 1178,2075 1178,2075 1180,2075 1180,2075 1180,2075 1182,2075 1182,2075 1182,2075 1184,2075 1184,2075 1259,2084 1333,2073 1333,2073 1335,2073 1335,2073 1335,2073 1338,2073 1338,2073 1369,2088 1369,2119 1366,2131 626,2137 624,2137 492,2125 483,2125 481,2125 469,2135 469,2135 467,2135 467,2135 467,2135 465,2135 465,2135 465,2137 318,2137 316,2135 97,2121"/>
+        <Baseline points="101,2096 363,2119 1369,2119"/>
+        <TextEquiv>
+          <Unicode>Pronomen aus, und aus dem einſchränkenden Ausdruck des Heiligen wird der ſtrenge</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_10c8888a" >
+        <Coords points="101,2141 101,2110 208,2110 208,2110 208,2110 210,2110 210,2110 215,2110 241,2123 277,2112 279,2112 281,2112 281,2112 283,2112 283,2112 283,2112 289,2112 335,2123 405,2115 415,2115 415,2115 417,2115 417,2115 417,2115 423,2115 467,2125 485,2117 490,2115 490,2115 490,2115 492,2115 492,2115 494,2115 494,2115 494,2115 496,2115 504,2117 531,2127 765,2127 794,2121 821,2117 821,2117 821,2117 823,2117 823,2117 825,2117 825,2117 825,2117 827,2117 835,2123 843,2127 872,2123 905,2119 905,2119 907,2119 907,2119 976,2125 1019,2129 1023,2125 1029,2121 1029,2119 1029,2119 1031,2119 1031,2119 1031,2119 1034,2119 1034,2119 1036,2119 1120,2119 1120,2119 1373,2133 1373,2166 1371,2179 1141,2191 1139,2191 1139,2191 1139,2191 1081,2179 909,2189 907,2189 907,2189 907,2189 837,2177 676,2187 674,2187 674,2187 674,2187 672,2187 672,2187 645,2177 444,2185 442,2185 97,2168"/>
+        <Baseline points="101,2141 411,2164 1373,2166"/>
+        <TextEquiv>
+          <Unicode>allgemeine Ausdruck der Überſetzung „durch blinden Gehorſam“.² Nebenbei bemerkt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_abe2cb6d" >
+        <Coords points="167,2232 167,2193 256,2203 297,2195 308,2193 308,2193 308,2193 310,2193 310,2193 312,2193 312,2193 312,2193 316,2195 343,2210 703,2210 723,2201 740,2197 742,2197 742,2197 744,2197 744,2197 744,2197 746,2197 746,2197 746,2197 748,2197 748,2197 754,2203 763,2212 831,2212 852,2203 874,2197 876,2197 876,2197 878,2197 878,2197 878,2197 880,2197 905,2206 922,2210 1015,2208 1263,2199 1265,2199 1265,2199 1265,2199 1331,2214 1333,2245 1329,2263 163,2249"/>
+        <Baseline points="168,2233 488,2245 1335,2247"/>
+        <TextEquiv>
+          <Unicode>¹ Epist. de obed. n. 9; bei Dr. Weber S. 19 Anm. 1 und 2, S. 21 Anm.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_24a1e208" >
+        <Coords points="167,2278 167,2243 1364,2257 1369,2286 1364,2307 163,2294"/>
+        <Baseline points="168,2280 684,2292 1371,2288"/>
+        <TextEquiv>
+          <Unicode>² Überhaupt ſcheint dem Gymnaſiallehrer das Pronomen quidam, wenigſtens in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa84ce6a" >
+        <Coords points="99,2307 99,2278 483,2296 825,2299 901,2288 903,2288 994,2301 1009,2290 1011,2290 1013,2290 1015,2290 1087,2303 1369,2294 1371,2340 1366,2356 1280,2354 1273,2356 1242,2369 1240,2369 1238,2369 1168,2354 1166,2354 1145,2367 1143,2367 1141,2367 1141,2369 1075,2369 1073,2367 1071,2367 1046,2354 858,2363 856,2363 744,2348 742,2348 674,2361 672,2361 545,2350 500,2359 498,2359 421,2342 419,2342 415,2342 355,2356 353,2356 95,2336"/>
+        <Baseline points="99,2307 370,2332 1371,2340"/>
+        <TextEquiv>
+          <Unicode>ſeiner abſchwächenden Bedeutung, ganz unbekannt zu ſein, da er es regelmäßig</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00066.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:11.004370+00:00</Created>
+        <LastChange>2022-02-23T19:09:11.004386+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00066.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_546e9347"  >
+      <Coords points="899,113 843,121 835,74 899,74 899,113"/>
+      <TextLine id="eSc_line_3388c01b" >
+        <Coords points="835,113 829,70 887,66 893,109 893,128 835,128"/>
+        <Baseline points="835,113 893,109"/>
+        <TextEquiv>
+          <Unicode>60</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_76d46562"  >
+      <Coords points="1503,229 990,256 1453,281 1503,289 1503,337 957,363 1503,396 1511,421 1503,2313 239,2321 239,165 1503,173 1503,229"/>
+      <TextLine id="eSc_line_f4f8e4c4" >
+        <Coords points="225,210 223,163 504,169 535,163 560,159 560,159 560,159 562,159 562,159 601,163 643,169 667,165 692,159 692,159 692,159 694,159 694,159 746,165 789,169 814,165 858,157 858,157 858,157 860,157 860,157 862,157 862,157 862,157 878,165 883,167 887,165 905,157 905,157 907,157 907,157 907,157 909,157 909,157 912,157 947,165 957,167 994,165 1153,157 1156,157 1156,157 1158,157 1158,157 1158,157 1178,167 1180,169 1491,169 1499,206 1497,217 225,225"/>
+        <Baseline points="225,210 1499,206"/>
+        <TextEquiv>
+          <Unicode>herauszuleſen. Wir wollen es thun, indem wir ſofort die Erziehungs⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_849bd422" >
+        <Coords points="229,268 227,217 833,223 837,264 835,279 229,287"/>
+        <Baseline points="229,268 837,264"/>
+        <TextEquiv>
+          <Unicode>frage beſonders in&#39;s Auge faſſen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9dbd412" >
+        <Coords points="312,322 310,274 694,283 701,277 701,274 703,274 703,272 703,272 705,272 705,272 705,272 707,272 707,272 709,272 821,277 951,281 963,277 982,270 982,270 984,270 984,270 986,270 986,270 988,270 988,270 988,270 1002,277 1009,281 1015,277 1025,270 1027,270 1027,270 1029,270 1029,270 1029,270 1031,270 1220,279 1247,279 1253,279 1300,268 1300,268 1300,268 1302,268 1302,268 1302,268 1304,268 1338,279 1340,279 1342,279 1406,268 1406,268 1408,268 1408,268 1493,281 1499,316 1497,328 312,334"/>
+        <Baseline points="312,322 1499,316"/>
+        <TextEquiv>
+          <Unicode>5. Wem gebührt alſo nach der Natur der Sache das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_473fff3c" >
+        <Coords points="225,380 223,334 858,330 860,380 858,399 223,390"/>
+        <Baseline points="225,380 860,380"/>
+        <TextEquiv>
+          <Unicode>Recht der Jugenderziehung?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8ac0b41" >
+        <Coords points="316,438 306,403 318,388 320,388 320,386 320,386 322,386 322,386 322,386 324,386 324,386 326,386 601,396 614,386 614,384 614,384 616,384 616,384 616,384 618,384 618,384 620,384 620,384 620,384 622,384 622,384 647,394 674,384 674,384 676,384 676,384 678,384 899,392 918,382 920,382 920,382 922,382 922,382 922,382 924,382 924,382 924,382 926,382 926,382 951,394 1199,394 1273,380 1273,380 1273,380 1275,380 1499,392 1503,430 1501,440 316,446"/>
+        <Baseline points="316,438 1503,430"/>
+        <TextEquiv>
+          <Unicode>Frei trat der erſte Menſch in&#39;s Daſein, und frei wird er auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9bb29afa" >
+        <Coords points="229,498 227,452 843,452 847,450 862,440 864,440 864,440 866,440 866,440 866,440 868,440 1125,448 1147,448 1149,448 1178,438 1178,438 1180,438 1180,438 1182,438 1499,448 1503,489 1501,508 229,510"/>
+        <Baseline points="229,498 1503,489"/>
+        <TextEquiv>
+          <Unicode>jetzt noch geboren, ſoweit nicht eine Ausnahme, eine Rechtsbeſchränkung,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6da0afec" >
+        <Coords points="227,554 223,514 285,500 285,500 285,500 287,500 287,500 287,500 289,500 324,510 423,500 423,500 426,500 426,500 428,500 428,500 428,500 450,510 570,498 570,498 572,498 572,498 574,498 574,498 601,508 626,498 626,498 628,498 628,498 628,498 630,498 901,506 912,498 912,496 912,496 914,496 914,496 914,496 916,496 916,496 916,496 918,496 1147,506 1178,494 1178,494 1180,494 1180,494 1180,494 1182,494 1499,506 1503,545 1501,564 227,564"/>
+        <Baseline points="227,554 1503,545"/>
+        <TextEquiv>
+          <Unicode>z. B. durch die Organismen der Familie, der Gemeinde, des Staats,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7610b130" >
+        <Coords points="229,605 229,564 1505,564 1505,605 1505,618 229,618"/>
+        <Baseline points="229,605 1505,605"/>
+        <TextEquiv>
+          <Unicode>in denen er zur Welt kommt, ſich nachweiſen läßt. Ähnlich gilt ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0c97c735" >
+        <Coords points="229,663 221,624 239,611 241,611 241,611 241,611 244,611 244,611 246,611 1499,614 1503,659 1501,669 229,676"/>
+        <Baseline points="229,663 1503,659"/>
+        <TextEquiv>
+          <Unicode>Grundſtück für frei von jeder Servitut, ſoweit eine ſolche nicht darge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd87dc37" >
+        <Coords points="229,719 227,674 1501,667 1503,719 1503,727 229,729"/>
+        <Baseline points="229,719 1503,719"/>
+        <TextEquiv>
+          <Unicode>than wird. — Bei all&#39; ſeiner Freiheit indeß würde das Kind ſowohl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2e310dd" >
+        <Coords points="231,779 229,736 839,736 841,733 862,723 862,723 862,723 864,723 864,723 866,723 1499,733 1503,775 1501,787 231,798"/>
+        <Baseline points="231,779 1503,775"/>
+        <TextEquiv>
+          <Unicode>geiſtig als körperlich verkümmern, hätte ihm nicht Gott einen Ernährer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5415f35c" >
+        <Coords points="229,833 223,795 252,781 252,781 252,781 254,781 254,781 254,781 256,781 256,781 320,791 351,781 351,781 353,781 353,781 355,781 839,791 914,779 914,779 916,779 1499,791 1503,829 1501,839 229,849"/>
+        <Baseline points="229,833 1503,829"/>
+        <TextEquiv>
+          <Unicode>einen Erzieher beſtellt. Und wer iſt dieſes? Wer anders als Vater</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5980d84c" >
+        <Coords points="231,889 225,851 254,837 254,837 254,837 256,837 256,837 258,837 258,837 260,837 304,847 326,837 326,837 326,837 328,837 328,837 330,837 330,837 332,837 376,847 525,837 527,837 527,837 527,837 529,837 568,847 570,847 572,847 641,837 641,837 643,837 721,837 721,837 721,837 723,837 723,837 723,837 725,837 725,837 725,839 734,845 736,847 744,845 789,837 789,837 789,837 792,837 792,837 792,837 827,845 841,849 1071,849 1093,841 1114,837 1116,837 1116,837 1118,837 1118,837 1118,837 1120,837 1120,837 1120,837 1122,837 1122,837 1127,841 1135,847 1170,841 1199,837 1199,837 1201,837 1201,837 1247,841 1321,847 1329,839 1331,839 1331,837 1331,837 1333,837 1333,837 1333,837 1335,837 1335,837 1338,837 1420,837 1420,837 1420,837 1433,839 1476,847 1488,837 1499,886 1495,905 229,903"/>
+        <Baseline points="231,889 1499,886"/>
+        <TextEquiv>
+          <Unicode>und Mutter? Oder ſollten etwa die Kinder Adam&#39;s und Eva&#39;s auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_325921eb" >
+        <Coords points="231,948 227,907 1499,901 1505,944 1501,963 229,959"/>
+        <Baseline points="231,948 1505,944"/>
+        <TextEquiv>
+          <Unicode>Erziehung warten, bis ſich im Verlauf einiger Jahrhunderte glücklich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4de9cc12" >
+        <Coords points="229,1002 229,963 1503,965 1503,1002 1501,1021 227,1013"/>
+        <Baseline points="229,1002 1503,1002"/>
+        <TextEquiv>
+          <Unicode>der erſte Staat gebildet? Da hätten wir einen fatalen circulus vitio⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31f0083e" >
+        <Coords points="229,1060 225,1019 1497,1015 1503,1056 1501,1073 229,1075"/>
+        <Baseline points="229,1060 1503,1056"/>
+        <TextEquiv>
+          <Unicode>sus! Darüber läßt ſich freilich ſtreiten, ob das erſte Huhn das erſte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f17e0368" >
+        <Coords points="231,1116 229,1075 1503,1073 1505,1116 1503,1130 229,1124"/>
+        <Baseline points="231,1116 1505,1116"/>
+        <TextEquiv>
+          <Unicode>Ei gelegt, oder ob umgekehrt aus dem erſten Ei das erſte Huhn ſich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34f7557a" >
+        <Coords points="231,1172 229,1128 1499,1120 1501,1172 1501,1180 231,1182"/>
+        <Baseline points="231,1172 1501,1172"/>
+        <TextEquiv>
+          <Unicode>entwickelt habe; aber daß der Staat zu ſeiner Entſtehung den Einzel⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_144c1c5f" >
+        <Coords points="231,1230 229,1188 1501,1180 1503,1230 1501,1244 229,1240"/>
+        <Baseline points="231,1230 1503,1230"/>
+        <TextEquiv>
+          <Unicode>nen und die Familie mit ihren Rechten logiſch und phyſiſch vorausſetzt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf183967" >
+        <Coords points="231,1285 231,1232 304,1242 432,1232 432,1232 434,1232 434,1232 434,1232 556,1242 589,1232 591,1232 591,1232 591,1232 591,1232 593,1232 599,1232 1424,1242 1503,1232 1505,1285 1505,1296 231,1304"/>
+        <Baseline points="231,1285 1505,1285"/>
+        <TextEquiv>
+          <Unicode>ſollte vernünftiger Weiſe Niemand in Frage ziehen. Alſo die erſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba72e733" >
+        <Coords points="231,1341 223,1304 244,1292 246,1292 246,1292 246,1292 248,1292 248,1292 250,1292 705,1298 860,1300 868,1296 876,1290 878,1290 878,1290 878,1290 880,1290 880,1290 883,1290 1501,1290 1505,1337 1505,1348 1460,1360 1457,1360 1457,1360 1457,1362 1199,1362 1197,1360 1197,1360 1195,1360 1195,1360 1195,1360 1193,1360 1193,1360 1180,1350 1180,1350 1180,1350 1162,1360 1162,1360 1162,1360 1160,1360 1160,1360 1160,1362 1158,1360 1158,1360 1156,1360 1156,1360 1156,1360 1137,1352 1135,1350 1089,1352 866,1362 864,1362 229,1356"/>
+        <Baseline points="231,1341 1505,1337"/>
+        <TextEquiv>
+          <Unicode>Eltern hatten bereits eine Erziehungspflicht, als es noch keinen Staat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef004c39" >
+        <Coords points="233,1399 229,1362 287,1348 287,1348 287,1348 289,1348 289,1348 289,1348 291,1348 291,1348 291,1348 293,1348 293,1348 306,1358 403,1348 403,1348 405,1348 405,1348 481,1358 488,1358 510,1358 705,1348 707,1348 707,1348 707,1348 709,1348 709,1348 711,1348 721,1354 727,1358 744,1354 777,1348 777,1348 777,1348 779,1348 1027,1352 1391,1356 1499,1345 1505,1395 1503,1405 233,1416"/>
+        <Baseline points="233,1399 1505,1395"/>
+        <TextEquiv>
+          <Unicode>gab, und ſie hatten dieſe Pflicht eben als Eltern, gleichſam als die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_535d47ff" >
+        <Coords points="233,1457 225,1420 241,1407 241,1407 244,1407 244,1407 244,1407 246,1407 246,1407 248,1407 717,1414 864,1416 1499,1405 1505,1453 1503,1465 233,1478"/>
+        <Baseline points="233,1457 1505,1453"/>
+        <TextEquiv>
+          <Unicode>nächſte ſchützende Hülle, welche ſich um den zarten Keim herumlegt, eine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fe16ac7a" >
+        <Coords points="233,1515 231,1467 1499,1469 1503,1509 1501,1523 1106,1523 1102,1523 1081,1534 1081,1534 1079,1534 1079,1534 1077,1534 231,1527"/>
+        <Baseline points="233,1515 1503,1509"/>
+        <TextEquiv>
+          <Unicode>Hülle, aus der ſich freilich im Laufe der Zeit die weiteren concentriſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ac5febe" >
+        <Coords points="231,1573 227,1525 570,1521 572,1521 572,1521 572,1521 583,1523 624,1532 686,1521 698,1521 698,1521 701,1521 701,1521 713,1521 781,1532 794,1521 794,1521 794,1521 796,1521 796,1521 796,1521 798,1521 798,1521 798,1521 800,1521 800,1521 806,1521 864,1532 1153,1519 1195,1519 1197,1519 1197,1519 1205,1519 1269,1529 1282,1519 1282,1519 1282,1519 1284,1519 1284,1519 1284,1519 1286,1519 1286,1519 1288,1519 1288,1519 1288,1519 1290,1519 1290,1519 1290,1519 1292,1519 1292,1519 1292,1519 1304,1532 1441,1532 1499,1519 1505,1569 1503,1581 231,1591"/>
+        <Baseline points="231,1573 1505,1569"/>
+        <TextEquiv>
+          <Unicode>Kreiſe der Gemeinde und des Staates entwickeln ſollten, ſo aber, daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_149c806f" >
+        <Coords points="229,1627 225,1581 1501,1575 1507,1622 1505,1637 229,1641"/>
+        <Baseline points="231,1629 1508,1625"/>
+        <TextEquiv>
+          <Unicode>die Familie, als nächſte ſchützende Hülle des Kindes, ſtets die Pflicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a20f592f" >
+        <Coords points="231,1682 229,1643 1062,1643 1065,1641 1079,1631 1081,1631 1081,1631 1081,1631 1083,1631 1083,1631 1085,1631 1505,1641 1509,1676 1507,1691 231,1703"/>
+        <Baseline points="233,1685 1511,1678"/>
+        <TextEquiv>
+          <Unicode>der Ernährung und Erziehung behielt; ſchon deßhalb, weil der Über⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8ac2d9e" >
+        <Coords points="233,1740 229,1705 349,1691 351,1691 550,1691 550,1691 550,1691 552,1691 552,1691 552,1691 554,1691 570,1701 572,1703 721,1703 725,1701 746,1691 746,1691 748,1691 748,1691 748,1691 750,1691 750,1691 833,1699 856,1701 862,1699 880,1691 880,1691 883,1691 883,1691 885,1691 1507,1695 1511,1736 1509,1749 233,1761"/>
+        <Baseline points="235,1742 1512,1738"/>
+        <TextEquiv>
+          <Unicode>gang dieſer Pflicht, etwa auf die Gemeinde oder den Staat, nachge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a21def10" >
+        <Coords points="231,1792 229,1753 1505,1749 1509,1798 1505,1815 229,1804"/>
+        <Baseline points="233,1794 1510,1800"/>
+        <TextEquiv>
+          <Unicode>wieſen werden müßte, ſich aber nicht nachweiſen läßt. Dieſe Erziehungs⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e741796" >
+        <Coords points="231,1856 223,1821 244,1806 246,1806 246,1806 246,1806 248,1806 248,1806 248,1806 250,1806 411,1817 432,1806 432,1806 432,1806 434,1806 434,1806 436,1806 436,1806 541,1817 771,1804 773,1804 905,1804 905,1804 905,1804 907,1804 907,1804 907,1804 909,1804 922,1815 926,1815 949,1813 1087,1802 1089,1802 1089,1802 1089,1802 1133,1811 1141,1813 1153,1811 1213,1802 1213,1802 1216,1802 1216,1802 1216,1802 1218,1802 1218,1802 1220,1802 1220,1802 1230,1811 1234,1813 1503,1809 1509,1850 1507,1860 231,1869"/>
+        <Baseline points="233,1858 1511,1852"/>
+        <TextEquiv>
+          <Unicode>pflicht der Eltern aber, mag ſie ſelbſt eine Liebes⸗ oder eine Rechts⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_830425bf" >
+        <Coords points="233,1912 227,1875 258,1860 258,1860 260,1860 260,1860 260,1860 262,1860 630,1871 754,1858 754,1858 756,1858 756,1858 814,1869 1040,1858 1042,1858 1042,1858 1042,1858 1044,1858 1044,1858 1069,1869 1160,1856 1160,1856 1162,1856 1162,1856 1162,1856 1164,1856 1199,1869 1460,1869 1484,1856 1484,1856 1486,1856 1486,1856 1486,1856 1488,1856 1488,1856 1491,1856 1491,1856 1491,1856 1493,1856 1511,1869 1511,1906 1511,1922 1122,1922 1118,1922 1085,1933 1083,1933 1083,1933 1081,1933 682,1924 659,1924 657,1924 630,1935 630,1935 628,1935 628,1935 626,1935 231,1924"/>
+        <Baseline points="235,1914 1512,1908"/>
+        <TextEquiv>
+          <Unicode>Pflicht ſein, ſchließt nothwendig ein Erziehungsrecht, ein eigentliches,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0204412" >
+        <Coords points="231,1968 227,1931 1503,1922 1509,1962 1507,1976 231,1982"/>
+        <Baseline points="233,1970 1510,1964"/>
+        <TextEquiv>
+          <Unicode>ausſchließliches, erzwingbares Recht in ſich, ein Recht auf Gehorſam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ddd375a7" >
+        <Coords points="233,2032 229,1995 442,1978 444,1978 618,1986 653,1988 661,1986 692,1976 694,1976 694,1976 694,1976 696,1976 810,1984 847,1986 880,1982 953,1974 953,1974 955,1974 955,1974 998,1980 1019,1984 1027,1980 1040,1974 1040,1974 1040,1974 1042,1974 1042,1974 1044,1974 1044,1974 1044,1974 1046,1974 1046,1974 1060,1980 1073,1984 1501,1974 1507,2019 1505,2032 1267,2044 1265,2044 1265,2044 1205,2036 1195,2034 1193,2036 1182,2044 1182,2044 1180,2044 1180,2044 1180,2044 1178,2044 1178,2044 1178,2044 1069,2046 1069,2048 909,2048 907,2046 907,2046 905,2046 905,2046 905,2046 903,2046 891,2038 887,2036 876,2038 829,2048 829,2048 829,2048 827,2048 717,2040 694,2038 682,2040 620,2050 620,2050 618,2050 618,2050 618,2050 616,2050 585,2040 581,2040 301,2040 299,2042 291,2050 291,2053 291,2053 289,2053 289,2053 289,2053 287,2053 287,2053 287,2053 285,2053 285,2053 231,2042"/>
+        <Baseline points="235,2034 1509,2022"/>
+        <TextEquiv>
+          <Unicode>gegenüber dem Kinde, ein Recht, es zu ſtrafen, ein Recht auch gegen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ef62782" >
+        <Coords points="233,2086 229,2046 519,2034 521,2034 672,2038 783,2042 798,2036 812,2032 812,2032 814,2032 814,2032 816,2032 816,2032 868,2036 940,2042 998,2034 1031,2030 1031,2030 1034,2030 1100,2032 1242,2040 1298,2030 1313,2028 1313,2028 1315,2028 1315,2028 1333,2030 1408,2038 1503,2028 1509,2075 1507,2088 233,2098"/>
+        <Baseline points="235,2088 1511,2077"/>
+        <TextEquiv>
+          <Unicode>Dritte, welche ſich unbefugt und ohne Nachweiſung eines Rechtstitels</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f46160c" >
+        <Coords points="233,2139 229,2102 1503,2090 1509,2135 1507,2148 233,2152"/>
+        <Baseline points="235,2141 1511,2137"/>
+        <TextEquiv>
+          <Unicode>einmiſchen wollten. Denn Gott beſtellt Niemanden zum Erzieher ohne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf49e000" >
+        <Coords points="233,2197 231,2150 618,2158 649,2148 655,2146 657,2146 657,2146 657,2146 659,2146 659,2146 661,2146 670,2148 705,2156 783,2148 802,2146 802,2146 804,2146 804,2146 806,2146 806,2146 806,2146 808,2146 808,2146 808,2148 821,2156 1503,2146 1509,2191 1507,2206 233,2210"/>
+        <Baseline points="235,2199 1511,2192"/>
+        <TextEquiv>
+          <Unicode>ihn mit Allem auszurüſten, deſſen er zu dieſem Amte bedarf. Der Er⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b8624f4" >
+        <Coords points="233,2255 231,2212 1453,2212 1505,2199 1511,2247 1511,2257 1431,2270 1431,2270 1429,2270 1232,2261 1230,2261 1230,2261 1191,2272 1189,2272 1189,2272 1187,2272 231,2268"/>
+        <Baseline points="235,2257 1512,2248"/>
+        <TextEquiv>
+          <Unicode>zieher aber bedarf durchaus des Rechtes, Andere, und zwar auch mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_427181f5" >
+        <Coords points="237,2311 235,2272 595,2272 624,2265 651,2261 651,2261 651,2261 653,2261 653,2261 655,2261 674,2265 701,2272 734,2265 756,2261 756,2261 758,2261 758,2261 789,2263 852,2272 924,2263 957,2259 957,2259 959,2259 1085,2261 1416,2268 1429,2257 1429,2257 1431,2257 1431,2257 1431,2257 1431,2257 1433,2257 1433,2257 1433,2257 1435,2257 1435,2257 1437,2257 1437,2257 1437,2257 1437,2257 1457,2268 1501,2257 1509,2303 1509,2319 1466,2321 1449,2336 1449,2338 1447,2338 1447,2338 1447,2338 1445,2338 1445,2338 1445,2338 1443,2338 1288,2325 1238,2338 1236,2338 1236,2338 1234,2338 1234,2338 1234,2338 1232,2338 1232,2338 1205,2325 1203,2325 1203,2325 1191,2338 1191,2338 1189,2338 1189,2338 1189,2338 1187,2338 1187,2338 1187,2338 1184,2338 1048,2330 1013,2328 996,2330 949,2340 949,2340 949,2340 947,2340 947,2340 887,2332 862,2330 852,2334 829,2342 829,2342 827,2342 827,2342 825,2342 825,2342 825,2342 823,2342 796,2334 775,2328 761,2334 746,2342 746,2342 746,2342 744,2342 744,2342 744,2344 649,2344 647,2342 647,2342 645,2342 645,2342 645,2342 643,2342 643,2342 643,2340 639,2338 628,2328 574,2328 556,2338 552,2342 550,2342 550,2342 550,2342 548,2342 548,2342 545,2342 545,2342 545,2342 543,2342 533,2340 504,2330 330,2340 328,2340 328,2340 328,2340 281,2330 239,2344"/>
+        <Baseline points="239,2313 1511,2304"/>
+        <TextEquiv>
+          <Unicode>Gewalt, von jeder Einmiſchung auszuſchließen; wie wäre er ſonſt im</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

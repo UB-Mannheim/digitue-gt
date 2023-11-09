@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00029.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.262068+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.262083+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="akzs_1860_00029.jpg" imageWidth="1497" imageHeight="2610">
+    <TextRegion id="eSc_textblock_4f993100"  >
+      <Coords points="746,84 678,93 678,43 746,43 746,84"/>
+      <TextLine id="eSc_line_a397153f" >
+        <Coords points="681,80 681,34 739,36 739,80 739,91 681,91"/>
+        <Baseline points="681,80 739,80"/>
+        <TextEquiv>
+          <Unicode>27</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_38357b6f"  >
+      <Coords points="1381,267 1407,321 1425,2320 792,2346 746,2390 52,2390 34,156 1000,147 1407,165 1381,267"/>
+      <TextLine id="eSc_line_9b5e9335" >
+        <Coords points="34,193 30,152 1386,141 1394,187 1392,202 34,213"/>
+        <Baseline points="34,193 1394,187"/>
+        <TextEquiv>
+          <Unicode>mittleriſche Kirche die Heilsgnade empfangen kann, und manchem Laien iſt es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e22f87f0" >
+        <Coords points="34,245 30,208 91,195 91,195 93,195 1392,197 1396,239 1394,263 34,267"/>
+        <Baseline points="34,245 1396,239"/>
+        <TextEquiv>
+          <Unicode>auch gar nicht unbequem, daß die Kirche nicht nur Alles für ihn thut, ſondern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4977d019" >
+        <Coords points="34,300 34,256 369,261 372,304 367,319 30,313"/>
+        <Baseline points="34,300 372,304"/>
+        <TextEquiv>
+          <Unicode>auch für ihn denkt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e048778" >
+        <Coords points="113,356 108,315 1388,295 1394,345 1392,363 113,380"/>
+        <Baseline points="113,356 1394,345"/>
+        <TextEquiv>
+          <Unicode>Der Proteſtantismus hat die Vorſtellung von einem mittleriſchen Prieſter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_392cf76a" >
+        <Coords points="34,408 28,365 1390,350 1396,400 1394,413 1233,424 1231,424 1100,415 1077,415 1072,415 1059,426 1057,426 1057,426 1057,426 1055,426 1055,426 1053,426 32,421"/>
+        <Baseline points="34,408 1396,400"/>
+        <TextEquiv>
+          <Unicode>thum als unevangeliſch aufgegeben. Es gelten ihm alle Gläubigen als Einer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_13d9ab1b" >
+        <Coords points="36,461 30,415 1388,404 1394,452 1392,469 36,480"/>
+        <Baseline points="36,461 1394,452"/>
+        <TextEquiv>
+          <Unicode>in Chriſto. In der ſichtbaren Kirche befinden ſich nun freilich nicht lediglich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_419fc619" >
+        <Coords points="36,513 30,465 1390,463 1396,504 1394,524 36,532"/>
+        <Baseline points="36,513 1396,504"/>
+        <TextEquiv>
+          <Unicode>Gläubige; aber das Band, das die Gemeinden in ihr zuſammenhält, iſt doch der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8d9c69d0" >
+        <Coords points="36,567 32,526 1390,517 1396,556 1394,574 36,591"/>
+        <Baseline points="36,567 1396,556"/>
+        <TextEquiv>
+          <Unicode>Glaube, der in Einzelnen verborgen lebt und wirkt. Daher kann der Schwer⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87acf225" >
+        <Coords points="34,624 28,578 1392,561 1399,613 1396,628 34,639"/>
+        <Baseline points="34,624 1399,613"/>
+        <TextEquiv>
+          <Unicode>punkt der evangeliſchen Kirche, als einer ſichtbaren Anſtalt, nirgends als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5539f21d" >
+        <Coords points="34,678 30,628 1392,626 1399,667 1396,691 34,693"/>
+        <Baseline points="34,678 1399,667"/>
+        <TextEquiv>
+          <Unicode>in der Gemeinde liegen. Denn wo ſollte er ſonſt zu finden ſein? Der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8004b6e9" >
+        <Coords points="34,730 30,691 1392,678 1399,717 1396,735 34,748"/>
+        <Baseline points="34,730 1399,717"/>
+        <TextEquiv>
+          <Unicode>Glaube iſt nicht an einen beſonderen Stand gebunden; wir haben leider im</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_703e8fbf" >
+        <Coords points="34,787 30,741 1392,724 1399,772 1396,796 34,804"/>
+        <Baseline points="34,787 1399,772"/>
+        <TextEquiv>
+          <Unicode>geiſtlichen Stande die Macht des Unglaubens ſchon hoch geſteigert, und in der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a836904c" >
+        <Coords points="36,837 32,791 1392,778 1399,828 1396,846 36,852"/>
+        <Baseline points="36,837 1399,828"/>
+        <TextEquiv>
+          <Unicode>Gemeinde den regſten Widerſtand entwickelt geſehen, an dem der Unglaube ſich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd0862a7" >
+        <Coords points="34,891 30,850 1392,833 1399,880 1396,893 34,904"/>
+        <Baseline points="34,891 1399,880"/>
+        <TextEquiv>
+          <Unicode>gebrochen hat. Auch hat Jeſus Chriſtus ſelbſt ſeine Kirche nicht auf den Un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_24759310" >
+        <Coords points="34,943 30,902 82,889 82,889 82,889 84,889 330,898 354,898 359,898 402,887 404,887 404,887 406,887 1392,887 1396,935 1394,950 34,961"/>
+        <Baseline points="34,943 1396,935"/>
+        <TextEquiv>
+          <Unicode>terbau menſchlicher Weisheit, Gelehrſamkeit, Standes⸗ oder Amtswürde geſtellt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e14491c" >
+        <Coords points="36,998 32,948 1394,943 1401,989 1399,1002 36,1013"/>
+        <Baseline points="36,998 1401,989"/>
+        <TextEquiv>
+          <Unicode>Einer ſchlichten Frau ſagte er, daß ſie das Eine, was Noth ſei, erwählt und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_30c2b38c" >
+        <Coords points="36,1050 32,1009 1394,993 1401,1039 1399,1057 36,1067"/>
+        <Baseline points="36,1050 1401,1039"/>
+        <TextEquiv>
+          <Unicode>daß es nicht von ihr genommen werden ſolle, und den Vater und Herrn des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f843290d" >
+        <Coords points="36,1107 32,1063 1396,1050 1403,1091 1401,1115 36,1126"/>
+        <Baseline points="36,1107 1403,1091"/>
+        <TextEquiv>
+          <Unicode>Himmels und der Erde pries er, daß er das Geheimniß ſeines Reiches den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fe8814c3" >
+        <Coords points="36,1159 32,1115 1396,1100 1403,1146 1403,1159 36,1172"/>
+        <Baseline points="36,1159 1403,1146"/>
+        <TextEquiv>
+          <Unicode>Weiſen und Klugen verborgen und den Unmündigen geoffenbaret habe. Es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_669632a7" >
+        <Coords points="36,1211 32,1170 1394,1152 1401,1200 1399,1222 36,1226"/>
+        <Baseline points="36,1211 1401,1200"/>
+        <TextEquiv>
+          <Unicode>iſt viel Unheil über die proteſtantiſche Kirche gekommen, weil ſie zu viel auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71841d6c" >
+        <Coords points="36,1265 32,1215 1394,1209 1401,1254 1399,1270 36,1281"/>
+        <Baseline points="36,1265 1401,1254"/>
+        <TextEquiv>
+          <Unicode>den Scharfſinn und die Kunſt ihrer Weiſen und Klugen vertraut und den from⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ee70c19" >
+        <Coords points="39,1318 34,1274 1394,1261 1401,1309 1399,1326 39,1333"/>
+        <Baseline points="39,1318 1401,1309"/>
+        <TextEquiv>
+          <Unicode>men und treuen Kindesſinn der ſcheinbar Unmündigen zu wenig reſpektirt hat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f6b5f41" >
+        <Coords points="119,1372 115,1331 1399,1320 1405,1361 1403,1383 119,1392"/>
+        <Baseline points="119,1372 1405,1361"/>
+        <TextEquiv>
+          <Unicode>Die deutſche evangeliſche Kirche hat ein altes Unrecht gut zu machen, einen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54e4ef6f" >
+        <Coords points="36,1426 32,1385 1399,1372 1405,1413 1403,1428 36,1442"/>
+        <Baseline points="36,1426 1405,1413"/>
+        <TextEquiv>
+          <Unicode>jahrhundert langen verderblichen Irrthum auszutilgen. Sie hat dem Walten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa4047cb" >
+        <Coords points="39,1478 36,1428 1401,1428 1405,1470 1403,1483 39,1492"/>
+        <Baseline points="39,1478 1405,1470"/>
+        <TextEquiv>
+          <Unicode>und Weben des heiligen Geiſtes in dem Tempel der Gemeinde zu wenig und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1cc27fc1" >
+        <Coords points="41,1533 36,1485 1396,1481 1403,1520 1401,1535 41,1548"/>
+        <Baseline points="41,1533 1403,1520"/>
+        <TextEquiv>
+          <Unicode>dagegen den Lehrſätzen und Aufſtellungen ihrer, ſonſt ſo achtungswerthen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48e8edbc" >
+        <Coords points="41,1585 36,1544 1401,1533 1407,1574 1405,1592 41,1602"/>
+        <Baseline points="41,1585 1407,1574"/>
+        <TextEquiv>
+          <Unicode>Denker und Forſcher zu viel vertraut; ſie hat an der Selbſtſtändigkeit und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4f3f972" >
+        <Coords points="43,1639 39,1587 1403,1581 1409,1629 1407,1644 43,1661"/>
+        <Baseline points="43,1639 1409,1629"/>
+        <TextEquiv>
+          <Unicode>Mündigkeit der Gemeinden ſtets gezweifelt, und hat nicht bedacht, daß den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_103e81ee" >
+        <Coords points="43,1692 39,1646 1403,1635 1409,1683 1407,1698 43,1707"/>
+        <Baseline points="43,1692 1409,1683"/>
+        <TextEquiv>
+          <Unicode>Gemeinden durch die Bevormundung, welche ihnen ſeit Jahrhunderten zu Theil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8f56361" >
+        <Coords points="43,1746 39,1703 1403,1692 1409,1735 1407,1750 43,1761"/>
+        <Baseline points="43,1746 1409,1735"/>
+        <TextEquiv>
+          <Unicode>geworden iſt, die Theilnahme an den Arbeiten der Kirche entzogen und ihre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_825ed59a" >
+        <Coords points="43,1798 39,1755 1405,1746 1412,1785 1409,1803 43,1816"/>
+        <Baseline points="43,1798 1412,1785"/>
+        <TextEquiv>
+          <Unicode>kirchliche Urtheilskraft und Arbeitstüchtigkeit immer mehr geſchwächt und gelähmt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_410f39b1" >
+        <Coords points="45,1850 41,1807 1403,1796 1409,1842 1407,1857 45,1866"/>
+        <Baseline points="45,1850 1409,1842"/>
+        <TextEquiv>
+          <Unicode>worden iſt. Man klagt mit Recht über kirchliche Lauheit und Gleichgültigkeit,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_acac95c0" >
+        <Coords points="45,1905 41,1855 1405,1848 1412,1892 1409,1913 45,1922"/>
+        <Baseline points="45,1905 1412,1892"/>
+        <TextEquiv>
+          <Unicode>über allgemeine Verweltlichung, über erſtaunliche kirchliche Unwiſſenheit in vielen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63f05cee" >
+        <Coords points="45,1957 41,1909 1403,1900 1409,1946 1407,1961 45,1972"/>
+        <Baseline points="45,1957 1409,1946"/>
+        <TextEquiv>
+          <Unicode>Gemeinden. Man wird alle dieſe Uebelſtände in den Gemeinden am ausge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e4e5bdf" >
+        <Coords points="45,2011 39,1961 1407,1957 1414,1998 1414,2014 45,2027"/>
+        <Baseline points="45,2011 1414,1998"/>
+        <TextEquiv>
+          <Unicode>bildetſten finden, in welchen die Gemeindeglieder zu eigener kirchlicher Thätigkeit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1d6fa3bd" >
+        <Coords points="45,2064 41,2014 1405,2011 1412,2053 1409,2074 45,2079"/>
+        <Baseline points="45,2064 1412,2053"/>
+        <TextEquiv>
+          <Unicode>am wenigſten Anregung ſeit Jahren oder Jahrhunderten empfangen haben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9816c4ed" >
+        <Coords points="47,2116 45,2070 1033,2070 1055,2059 1057,2059 1057,2059 1057,2059 1059,2059 1059,2059 1059,2059 1061,2059 1061,2059 1064,2059 1066,2059 1103,2068 1405,2057 1412,2107 1409,2124 47,2131"/>
+        <Baseline points="47,2116 1412,2107"/>
+        <TextEquiv>
+          <Unicode>Eine Gemeinſchaft, wenn ſie mit ihren Grundüberzeugungen nicht Ernſt macht,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1d7b2e2" >
+        <Coords points="47,2168 43,2118 1407,2116 1414,2159 1412,2175 47,2183"/>
+        <Baseline points="47,2168 1414,2159"/>
+        <TextEquiv>
+          <Unicode>verräth damit, daß ſie keinen rechten Glauben an ihre innerſte Wahrheit hat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_72182dc8" >
+        <Coords points="47,2220 45,2177 1407,2164 1414,2209 1412,2227 47,2242"/>
+        <Baseline points="47,2220 631,2225 1414,2209"/>
+        <TextEquiv>
+          <Unicode>Die Strafe folgt dann auf dem Fuße nach. Sie verliert die Bedeutung und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bacd5544" >
+        <Coords points="52,2277 47,2229 1412,2225 1418,2266 1414,2285 1148,2281 1142,2288 1135,2292 1135,2294 1135,2294 1133,2294 1133,2294 1133,2294 1131,2294 1131,2294 1131,2296 970,2296 968,2294 968,2294 920,2288 883,2283 844,2288 789,2296 789,2296 787,2296 787,2296 731,2288 702,2285 622,2290 439,2298 437,2298 437,2298 435,2298 435,2298 411,2290 404,2288 387,2290 322,2301 322,2301 319,2301 50,2290"/>
+        <Baseline points="52,2277 1418,2266"/>
+        <TextEquiv>
+          <Unicode>Wirkung, welche ihr nach der Natur der Dinge gebührt, und der Gegner hat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a7769bf" >
+        <Coords points="50,2329 45,2288 1409,2279 1416,2316 1414,2340 50,2353"/>
+        <Baseline points="50,2329 1416,2316"/>
+        <TextEquiv>
+          <Unicode>eine gewiſſe Berechtigung, über die Zeichen ihrer herannahenden „Selbſtauf⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9deea2ba" >
+        <Coords points="52,2383 50,2335 739,2342 744,2379 744,2412 389,2418 387,2418 278,2407 258,2407 243,2407 121,2420 121,2420 119,2420 119,2420 50,2405"/>
+        <Baseline points="52,2383 744,2379"/>
+        <TextEquiv>
+          <Unicode>löſung“, wenn auch voreilig, zu jubeln.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

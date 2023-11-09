@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00010.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.035458+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.035473+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="akzs_1860_00010.jpg" imageWidth="1502" imageHeight="2610">
+    <TextRegion id="eSc_textblock_723ba8b0"  >
+      <Coords points="798,78 892,102 679,93 740,43 788,43 798,78"/>
+      <TextLine id="eSc_line_120d69ba" >
+        <Coords points="742,76 733,36 755,34 766,71 764,93 740,91"/>
+        <Baseline points="742,76 766,71"/>
+        <TextEquiv>
+          <Unicode>8</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e5cf9c89"  >
+      <Coords points="1406,2399 52,2372 69,147 1432,165 1406,2399"/>
+      <TextLine id="eSc_line_0cb6754d" >
+        <Coords points="71,182 71,139 1427,154 1430,197 1425,208 67,197"/>
+        <Baseline points="71,182 1430,197"/>
+        <TextEquiv>
+          <Unicode>die Kirche in ihren amtlichen Thätigkeiten geweſen, als die freie chriſt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eb9ff86a" >
+        <Coords points="71,234 71,182 1427,206 1430,252 1425,269 67,247"/>
+        <Baseline points="71,234 1430,252"/>
+        <TextEquiv>
+          <Unicode>liche Wirkſamkeit, die in innerer und äußerer Miſſion, in rathender, hel⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f5ca22df" >
+        <Coords points="71,289 71,237 141,247 248,239 261,239 263,239 263,239 263,239 265,239 269,239 302,250 404,243 431,241 433,241 433,241 433,241 435,241 435,241 439,243 461,252 537,245 561,243 563,243 1427,263 1427,304 1423,317 69,297"/>
+        <Baseline points="71,289 1427,304"/>
+        <TextEquiv>
+          <Unicode>fender, tröſtender Liebe, in Armenhäuſern, am Krankenbette, in Rettungsherber⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fba6563b" >
+        <Coords points="69,343 67,300 457,293 459,293 459,293 461,293 498,304 505,304 574,304 1038,300 1040,300 1040,300 1042,300 1042,300 1042,300 1064,311 1066,313 1427,315 1430,358 1425,376 67,352"/>
+        <Baseline points="69,343 1430,358"/>
+        <TextEquiv>
+          <Unicode>gen und Zufluchtsſtätten, im Glauben an den Geiſt und in der Kraft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c96fb614" >
+        <Coords points="69,393 69,350 1427,367 1430,411 1425,430 959,428 959,428 959,428 957,428 936,421 918,417 855,419 751,426 748,426 748,426 748,426 746,426 746,426 746,426 731,417 724,415 694,417 620,424 620,424 618,424 618,424 546,415 531,413 518,413 463,421 463,421 461,421 461,421 396,411 385,411 370,411 252,419 250,419 250,419 250,419 248,419 248,419 248,419 245,419 245,419 232,408 232,408 228,408 121,417 119,417 119,417 119,417 67,404"/>
+        <Baseline points="69,393 1430,411"/>
+        <TextEquiv>
+          <Unicode>des heiligen Geiſtes, dem Zeitverderben und deſſen zerſetzenden Wirkun⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_61d61f41" >
+        <Coords points="67,450 65,406 483,400 487,454 485,463 65,465"/>
+        <Baseline points="67,450 487,454"/>
+        <TextEquiv>
+          <Unicode>gen entgegengetreten iſt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a6b407f" >
+        <Coords points="148,502 148,456 1425,474 1427,519 1423,541 282,517 280,517 174,526 171,526 171,526 171,526 169,526 169,526 141,513"/>
+        <Baseline points="148,502 1427,519"/>
+        <TextEquiv>
+          <Unicode>Hat denn die Kirche den Glauben an die Kräfte des Geiſtes bewahrt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_25375def" >
+        <Coords points="67,552 67,508 788,517 788,563 783,580 63,563"/>
+        <Baseline points="67,552 788,563"/>
+        <TextEquiv>
+          <Unicode>nach dieſem gelehrt, in dieſem gehandelt?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a24ed31d" >
+        <Coords points="150,606 150,563 1427,582 1430,626 1425,639 145,626"/>
+        <Baseline points="150,606 1430,626"/>
+        <TextEquiv>
+          <Unicode>Wir hören oft aus dem Munde ihrer Diener ſchwere und nicht ungerechte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41b7ee69" >
+        <Coords points="65,661 65,609 1430,637 1430,680 1425,698 63,669"/>
+        <Baseline points="65,661 1430,680"/>
+        <TextEquiv>
+          <Unicode>Klagen über die Sünden und Gebrechen unſerer Zeit. Aber, wenn wir einen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53728f3b" >
+        <Coords points="63,713 63,672 1427,693 1427,735 1423,754 58,728"/>
+        <Baseline points="63,713 1427,735"/>
+        <TextEquiv>
+          <Unicode>Blick auf die Kirchengeſchichte werfen: wo iſt dort die Quelle der größten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca10fa43" >
+        <Coords points="65,763 65,722 1423,746 1425,787 1421,804 60,776"/>
+        <Baseline points="65,763 1425,787"/>
+        <TextEquiv>
+          <Unicode>Sünden und Verirrungen zu ſuchen? Das Evangelium iſt die Religion des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48c7edfb" >
+        <Coords points="65,819 65,772 1423,796 1425,839 1421,859 60,833"/>
+        <Baseline points="65,819 1425,839"/>
+        <TextEquiv>
+          <Unicode>Geiſtes; über die ſinnliche, ſichtbare, äußerliche Welt will es die Seele empor⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1638d9c6" >
+        <Coords points="63,874 63,828 1425,850 1427,896 1423,911 58,887"/>
+        <Baseline points="63,874 1427,896"/>
+        <TextEquiv>
+          <Unicode>heben; Anbetung im Geiſte und in der Wahrheit hat ſein Stifter gelehrt; die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0adc9c26" >
+        <Coords points="63,926 63,883 1421,904 1423,948 1419,961 58,937"/>
+        <Baseline points="63,926 1423,948"/>
+        <TextEquiv>
+          <Unicode>verborgenen Schätze des Himmelreiches hat er aufgeſchloſſen. Als er anfing</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f00d523" >
+        <Coords points="63,983 63,939 875,939 875,939 875,939 892,941 931,950 1012,943 1033,941 1033,941 1036,941 1036,941 1053,943 1127,952 1201,943 1210,943 1210,943 1212,943 1212,943 1214,943 1216,943 1262,954 1419,946 1423,1000 1419,1017 58,1000"/>
+        <Baseline points="63,983 1423,1000"/>
+        <TextEquiv>
+          <Unicode>zu predigen unter allem Volke, hatte der Glanz des geſetzlichen Gottesdienſtes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea9a8199" >
+        <Coords points="63,1037 63,987 1421,1007 1423,1052 1419,1072 831,1057 692,1059 459,1063 457,1063 457,1063 454,1063 454,1063 454,1063 452,1063 452,1063 452,1061 450,1061 446,1054 444,1052 383,1052 111,1059 108,1059 108,1059 106,1059 58,1046"/>
+        <Baseline points="63,1037 1423,1052"/>
+        <TextEquiv>
+          <Unicode>ſeinen Höhepunkt erreicht. Der Tempel war herrlicher als je gebaut. Jeſus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_adac0165" >
+        <Coords points="60,1091 60,1041 1419,1061 1421,1102 1417,1124 1099,1113 988,1117 905,1122 903,1122 903,1122 859,1115 818,1111 735,1113 607,1120 605,1120 605,1120 605,1120 602,1120 602,1120 600,1120 587,1111 581,1109 518,1111 335,1117 333,1117 333,1117 333,1117 330,1117 330,1117 328,1117 313,1107 309,1107 289,1107 124,1115 121,1115 121,1115 121,1115 58,1102"/>
+        <Baseline points="60,1091 1421,1102"/>
+        <TextEquiv>
+          <Unicode>ſprach das mächtige Wort: Das Reich Gottes iſt inwendig in euch. Als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c919ab9" >
+        <Coords points="63,1144 63,1091 1421,1115 1423,1159 1421,1174 511,1174 509,1172 254,1159 82,1167 80,1167 80,1167 80,1167 78,1167 78,1167 78,1167 76,1167 56,1154"/>
+        <Baseline points="63,1144 1423,1159"/>
+        <TextEquiv>
+          <Unicode>Paulus durch die Länder zog, da ſtand der heidniſche Götterdienſt noch in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_772513b3" >
+        <Coords points="58,1194 58,1152 1417,1163 1419,1213 1414,1226 54,1209"/>
+        <Baseline points="58,1194 1419,1213"/>
+        <TextEquiv>
+          <Unicode>voller Blüthe und das ſinnliche Auge entzückte ſich an ſeinen heitern Feſten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33b0ada3" >
+        <Coords points="58,1248 58,1207 1419,1226 1419,1270 1414,1289 54,1259"/>
+        <Baseline points="58,1248 1419,1270"/>
+        <TextEquiv>
+          <Unicode>Und der Apoſtel ſprach das mächtige Wort: Wir wandeln im Glauben,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03ca8ac6" >
+        <Coords points="58,1300 56,1261 485,1254 487,1254 487,1254 489,1254 489,1254 489,1254 511,1265 511,1265 526,1265 801,1259 803,1259 803,1259 803,1259 805,1259 840,1270 842,1270 844,1270 903,1261 903,1261 905,1261 1421,1278 1421,1320 1417,1339 54,1320"/>
+        <Baseline points="58,1300 1421,1320"/>
+        <TextEquiv>
+          <Unicode>nicht im Schauen. Eine innere Welt, ein Glaubensreich hat das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc07194f" >
+        <Coords points="56,1352 56,1309 1417,1328 1417,1372 1412,1392 54,1363"/>
+        <Baseline points="56,1352 1417,1372"/>
+        <TextEquiv>
+          <Unicode>Chriſtenthum in die äußere Welt, in das Reich der Sichtbarkeit, hineingeſtellt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ab922a07" >
+        <Coords points="56,1402 56,1352 1417,1385 1417,1426 1412,1444 52,1420"/>
+        <Baseline points="56,1402 1417,1426"/>
+        <TextEquiv>
+          <Unicode>Das iſt ſeine höchſte Bedeutung. Darum hat der jüdiſche Tempel,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8858539c" >
+        <Coords points="56,1457 56,1407 1114,1431 1153,1431 1362,1424 1364,1424 1364,1424 1364,1424 1417,1437 1419,1476 1414,1498 52,1470"/>
+        <Baseline points="56,1457 1419,1476"/>
+        <TextEquiv>
+          <Unicode>darum haben die heidniſchen Götzenaltäre fallen müſſen. „Was ſichtbar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d9b74fe" >
+        <Coords points="56,1511 54,1472 245,1461 248,1461 248,1461 248,1461 250,1461 287,1472 291,1474 1012,1474 1012,1520 1007,1537 52,1524"/>
+        <Baseline points="56,1511 1012,1520"/>
+        <TextEquiv>
+          <Unicode>iſt, iſt vergänglich, was unſichtbar, iſt ewig.“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_78d1d281" >
+        <Coords points="141,1565 141,1522 1421,1537 1421,1581 1417,1602 137,1583"/>
+        <Baseline points="141,1565 1421,1581"/>
+        <TextEquiv>
+          <Unicode>Hat die Kirche dieſes wahre Weſen, dieſen „Geiſt“ des Chriſtenthums</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20f5d0e2" >
+        <Coords points="56,1616 56,1568 1419,1596 1419,1637 1414,1655 598,1633 572,1635 522,1642 522,1642 520,1642 520,1642 520,1642 474,1633 459,1631 439,1633 370,1639 370,1639 367,1639 367,1639 365,1639 333,1629 326,1629 296,1629 102,1635 100,1635 100,1635 97,1635 52,1622"/>
+        <Baseline points="56,1616 1419,1637"/>
+        <TextEquiv>
+          <Unicode>richtig erkannt? Ich rede nicht von den furchtbaren Verirrungen derſelben in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d51ce598" >
+        <Coords points="56,1668 54,1626 243,1618 245,1618 245,1618 245,1618 302,1629 306,1629 319,1629 542,1622 544,1622 544,1622 546,1622 546,1622 546,1622 548,1622 563,1633 563,1633 572,1633 644,1624 644,1624 646,1624 1417,1646 1417,1692 1412,1703 52,1687"/>
+        <Baseline points="56,1668 746,1674 1417,1692"/>
+        <TextEquiv>
+          <Unicode>einer längſt vergangenen Zeit, die nur Täuſchung beſchönigen und Verblendung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7532d32d" >
+        <Coords points="54,1722 54,1672 1414,1700 1417,1744 1414,1755 1288,1766 1286,1766 50,1735"/>
+        <Baseline points="54,1722 687,1726 1417,1744"/>
+        <TextEquiv>
+          <Unicode>läugnen kann. Aber worauf deuten die Zeichen der Zeit? Wie ſteht es mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bbd2e507" >
+        <Coords points="54,1774 54,1722 383,1737 513,1735 659,1731 661,1731 661,1731 661,1731 663,1731 663,1731 666,1731 666,1731 666,1731 674,1739 681,1744 777,1742 962,1737 964,1737 964,1737 964,1737 1023,1748 1031,1750 1038,1750 1066,1739 1068,1739 1068,1739 1068,1739 1070,1739 1070,1739 1192,1755 1205,1755 1216,1755 1301,1744 1301,1744 1303,1744 1303,1744 1414,1761 1414,1803 1410,1820 50,1787"/>
+        <Baseline points="54,1774 740,1781 1414,1803"/>
+        <TextEquiv>
+          <Unicode>dem Glauben an den Geiſt Chriſti, an den Chriſtus, der der Geiſt iſt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e763993" >
+        <Coords points="54,1826 54,1783 1412,1811 1412,1853 1408,1868 50,1846"/>
+        <Baseline points="54,1826 1412,1853"/>
+        <TextEquiv>
+          <Unicode>und von welchem die Kraft der evangeliſchen Freiheit ausgeht (2. Cor. 3, 17.)?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e815b256" >
+        <Coords points="54,1881 54,1833 1417,1866 1417,1907 1412,1920 291,1909 291,1909 291,1909 289,1909 252,1898 169,1907 169,1907 167,1907 167,1907 50,1892"/>
+        <Baseline points="54,1881 1417,1907"/>
+        <TextEquiv>
+          <Unicode>Wir hören gegenwärtig viel von „Kirche“ reden. Die Kirche zu bauen, ihre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea43b999" >
+        <Coords points="54,1935 52,1894 505,1890 507,1890 507,1890 574,1903 576,1903 579,1903 624,1892 626,1892 626,1892 629,1892 629,1892 629,1892 692,1905 694,1905 696,1905 737,1894 740,1894 740,1894 742,1894 742,1894 842,1907 857,1909 868,1909 953,1898 953,1898 955,1898 955,1898 955,1898 1016,1911 1018,1911 1023,1911 1057,1903 1060,1903 1060,1903 1062,1903 1417,1920 1417,1961 1412,1974 50,1948"/>
+        <Baseline points="54,1935 720,1942 1417,1961"/>
+        <TextEquiv>
+          <Unicode>Aemter ein⸗ und aufzurichten, ihnen Macht, Selbſtſtändigkeit, Anſehen, eine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16f4a4fb" >
+        <Coords points="54,1992 54,1944 1412,1970 1412,2014 1408,2035 50,2009"/>
+        <Baseline points="54,1992 740,1996 1412,2014"/>
+        <TextEquiv>
+          <Unicode>weitgreifende Wirkung zu ſichern, iſt das angelegentliche Beſtreben Vieler.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ce867f84" >
+        <Coords points="52,2044 50,2003 241,1994 243,1994 243,1994 243,1994 300,2005 302,2005 302,2005 361,1996 361,1996 363,1996 363,1996 363,1996 365,1996 365,1996 367,1996 367,1996 380,2007 383,2007 404,2007 626,2000 629,2000 1412,2024 1414,2066 1412,2088 1033,2088 1031,2085 1031,2085 990,2077 977,2074 966,2077 940,2083 938,2083 938,2083 936,2083 936,2083 936,2083 933,2083 933,2083 931,2083 931,2083 922,2074 916,2072 881,2074 798,2081 796,2081 796,2081 796,2081 794,2081 794,2081 794,2081 792,2081 792,2081 783,2072 779,2068 629,2066 542,2068 289,2072 287,2072 287,2072 285,2072 245,2061 239,2057 50,2055"/>
+        <Baseline points="52,2044 666,2048 1414,2066"/>
+        <TextEquiv>
+          <Unicode>Die katholiſche Kirche iſt uns mit ihrem Beiſpiele in dieſen Beſtrebungen vor⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa8efc16" >
+        <Coords points="54,2098 54,2057 296,2059 296,2059 337,2048 339,2048 339,2048 341,2048 341,2048 472,2064 483,2064 489,2064 589,2053 589,2053 592,2053 592,2053 594,2053 594,2053 622,2064 707,2055 707,2055 709,2055 899,2070 899,2070 899,2070 922,2059 922,2059 922,2059 925,2059 925,2059 927,2059 927,2059 929,2059 929,2059 929,2059 955,2072 957,2072 962,2072 1007,2064 1007,2064 1007,2064 1010,2064 1149,2074 1160,2066 1160,2064 1160,2064 1162,2064 1162,2064 1162,2064 1164,2064 1164,2064 1166,2064 1166,2064 1166,2064 1168,2064 1208,2077 1210,2077 1221,2077 1338,2068 1340,2068 1340,2068 1340,2068 1408,2081 1410,2122 1406,2135 50,2111"/>
+        <Baseline points="54,2098 663,2103 1410,2122"/>
+        <TextEquiv>
+          <Unicode>angegangen. Iſt denn wirklich kirchliche, d. h. ſichtbare und anſtaltliche,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8937b028" >
+        <Coords points="54,2151 54,2103 746,2109 746,2109 746,2109 757,2111 807,2120 866,2111 877,2111 877,2111 879,2111 903,2114 1053,2124 1129,2116 1134,2116 1134,2116 1136,2116 1145,2116 1297,2129 1414,2120 1417,2172 1412,2192 50,2166"/>
+        <Baseline points="54,2151 1417,2172"/>
+        <TextEquiv>
+          <Unicode>Ausprägung des Chriſtenthums das Ziel, welches Chriſtus ſelbſt uns geſteckt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a163ec88" >
+        <Coords points="52,2207 52,2153 134,2164 193,2155 204,2155 204,2155 206,2155 206,2155 206,2155 208,2155 208,2155 208,2155 211,2155 211,2155 228,2166 468,2161 574,2161 576,2161 576,2161 576,2161 598,2166 631,2172 724,2168 814,2166 816,2166 1412,2188 1412,2231 1410,2242 1312,2253 1312,2253 1310,2253 1310,2253 1234,2242 1186,2251 1186,2251 1186,2251 1184,2251 1036,2238 1031,2238 1027,2238 944,2246 944,2246 942,2246 816,2233 803,2233 794,2233 703,2242 703,2242 700,2242 700,2242 698,2242 698,2242 672,2231 670,2231 650,2231 463,2238 461,2238 47,2220"/>
+        <Baseline points="52,2207 687,2211 1412,2231"/>
+        <TextEquiv>
+          <Unicode>hat? Sind wir auf dieſem Wege nicht vielleicht in Gefahr, einen Irrweg</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ba1ae5a" >
+        <Coords points="52,2259 52,2218 1414,2235 1414,2281 1410,2298 47,2275"/>
+        <Baseline points="52,2259 1414,2281"/>
+        <TextEquiv>
+          <Unicode>noch einmal zu durchlaufen, von dem unſere Väter mit Gottes Hülfe uns</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44fb1bc1" >
+        <Coords points="50,2318 50,2272 1414,2290 1414,2335 1410,2355 47,2331"/>
+        <Baseline points="50,2318 616,2318 1414,2335"/>
+        <TextEquiv>
+          <Unicode>glücklich befreit haben? Wir bauen jetzt ſo vielfältig nach außen: Chriſtus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b8fb9d57" >
+        <Coords points="52,2366 52,2327 1410,2346 1412,2385 1412,2414 1382,2431 1382,2431 1382,2431 1380,2431 1380,2431 1380,2431 1279,2433 1277,2433 1277,2433 1275,2433 1275,2433 1275,2433 1273,2433 1273,2433 1249,2414 1247,2414 1245,2414 1131,2431 1131,2431 1129,2431 1129,2431 1129,2431 1057,2416 1016,2429 1014,2429 1014,2429 1014,2429 1012,2429 1012,2429 1010,2429 1010,2429 1010,2429 981,2414 979,2414 977,2414 929,2427 927,2427 927,2427 925,2427 925,2427 925,2427 922,2427 922,2427 922,2427 920,2427 903,2414 896,2409 875,2414 835,2422 835,2422 835,2422 833,2422 833,2422 831,2422 831,2422 831,2422 829,2422 816,2414 803,2407 711,2407 692,2414 666,2425 666,2425 663,2425 663,2425 661,2425 520,2422 520,2422 520,2422 518,2422 518,2422 518,2422 502,2414 478,2403 363,2403 341,2414 341,2416 339,2416 339,2416 339,2416 337,2416 337,2416 335,2416 335,2416 335,2416 333,2416 333,2416 328,2414 304,2403 291,2414 289,2416 289,2418 287,2418 287,2418 287,2418 285,2418 285,2418 285,2420 204,2420 202,2418 202,2418 200,2418 200,2418 200,2418 198,2418 193,2414 178,2405 50,2414"/>
+        <Baseline points="52,2366 1412,2385"/>
+        <TextEquiv>
+          <Unicode>ſelbſt verweiſt uns nach innen. Wir ſtreben nach einer möglichſt vollkomm⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

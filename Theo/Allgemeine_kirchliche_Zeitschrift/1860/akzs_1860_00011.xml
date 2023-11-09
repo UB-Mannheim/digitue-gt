@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00011.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.048293+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.048309+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="akzs_1860_00011.jpg" imageWidth="1497" imageHeight="2610">
+    <TextRegion id="eSc_textblock_dc6229cf"  >
+      <Coords points="807,102 713,102 722,52 772,52 807,102"/>
+      <TextLine id="eSc_line_17cc27b8" >
+        <Coords points="731,87 731,45 759,45 759,87 759,104 731,104"/>
+        <Baseline points="731,87 759,87"/>
+        <TextEquiv>
+          <Unicode>9</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3cfc66b0"  >
+      <Coords points="1442,371 1416,374 1442,443 1433,2294 493,2305 687,2340 1190,2349 1207,2390 113,2390 113,2340 60,2294 60,174 156,156 1442,174 1442,371"/>
+      <TextLine id="eSc_line_592ec6e8" >
+        <Coords points="67,195 65,150 1429,147 1431,200 1429,224 143,224 141,221 141,221 65,208"/>
+        <Baseline points="67,195 1431,200"/>
+        <TextEquiv>
+          <Unicode>nen ſichtbaren Form, Chriſtus ſelbſt will uns gründen in unſichtbarer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd5ac9d7" >
+        <Coords points="65,250 65,204 1431,208 1431,250 1429,278 63,267"/>
+        <Baseline points="65,250 1431,250"/>
+        <TextEquiv>
+          <Unicode>Kraft. Wir wollen ſchauen; nach Chriſti Wort können wir nur ſelig werden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47d3a412" >
+        <Coords points="65,304 63,263 1425,263 1429,300 1425,328 63,321"/>
+        <Baseline points="65,304 1429,300"/>
+        <TextEquiv>
+          <Unicode>durch Glauben. Wir ſtreben nach Macht des Kirchenthums, und doch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f52af13" >
+        <Coords points="65,358 65,311 1431,315 1431,358 1429,382 63,378"/>
+        <Baseline points="65,358 1431,358"/>
+        <TextEquiv>
+          <Unicode>hat dieſelbe ſchon vor Jahrhunderten zur Ohnmacht des Chriſtenthums</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_777ffa35" >
+        <Coords points="65,413 65,371 206,371 206,413 206,424 65,426"/>
+        <Baseline points="65,413 206,413"/>
+        <TextEquiv>
+          <Unicode>geführt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac84b67d" >
+        <Coords points="150,463 150,419 1427,421 1429,467 1425,487 145,480"/>
+        <Baseline points="150,463 1429,467"/>
+        <TextEquiv>
+          <Unicode>Vor wenigen Wochen ertönte durch ganz Frankreich von den Thron⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a081765" >
+        <Coords points="65,515 65,465 1429,478 1431,522 1429,537 84,541 82,541 82,541 80,541 80,541 80,541 78,541 58,528"/>
+        <Baseline points="65,515 1431,522"/>
+        <TextEquiv>
+          <Unicode>ſitzen der Erzbiſchöfe und Biſchöfe ein Schrei der Entrüſtung und des Abſcheues</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_801285ce" >
+        <Coords points="65,569 65,519 1429,524 1431,574 1427,589 63,585"/>
+        <Baseline points="65,569 1431,574"/>
+        <TextEquiv>
+          <Unicode>darüber, daß der Pabſt in Gefahr ſchwebe, ſeine weltliche Herrſchaft oder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06146065" >
+        <Coords points="65,622 65,576 1431,585 1433,626 1429,645 63,637"/>
+        <Baseline points="65,622 1433,626"/>
+        <TextEquiv>
+          <Unicode>doch einen Theil derſelben zu verlieren. Jene Würdenträger der katholiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3cf4916b" >
+        <Coords points="65,676 65,630 1431,639 1433,680 1431,698 147,702 145,702 145,702 63,689"/>
+        <Baseline points="65,676 1433,680"/>
+        <TextEquiv>
+          <Unicode>Kirche erklärten die Kirche überhaupt in Gefahr, wenn an dem Umfange</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55c910de" >
+        <Coords points="63,728 63,678 1425,689 1427,735 1425,746 974,756 972,756 60,739"/>
+        <Baseline points="63,728 1427,735"/>
+        <TextEquiv>
+          <Unicode>des weltlichen Machtgebietes ihres Oberhauptes irgend etwas gemindert würde.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2b07cf1" >
+        <Coords points="67,782 67,741 1427,748 1429,789 1427,798 1013,809 1011,809 1011,809 1011,809 963,798 957,798 67,798"/>
+        <Baseline points="67,782 1429,789"/>
+        <TextEquiv>
+          <Unicode>Ein trefflicher franzöſiſcher Proteſtant, Herr E. von Preſſenſé hat eben ſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f21f624" >
+        <Coords points="65,835 65,785 1429,798 1431,841 1429,852 979,863 976,863 448,850 167,859 165,859 165,859 63,846"/>
+        <Baseline points="65,835 1431,841"/>
+        <TextEquiv>
+          <Unicode>ſcharfſinnig als einſchneidend hierauf entgegnet, ob denn nicht darin die größte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_510e4788" >
+        <Coords points="65,889 65,841 1429,850 1431,893 1427,909 63,904"/>
+        <Baseline points="65,889 1431,893"/>
+        <TextEquiv>
+          <Unicode>Gefahr für eine Kirche beſtehe, wenn dieſelbe in ihren Grundlagen erſchüttert</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_568cfb7b" >
+        <Coords points="65,941 65,891 241,902 396,893 422,893 424,893 424,893 439,893 522,906 1429,906 1431,948 1427,974 63,959"/>
+        <Baseline points="65,941 1431,948"/>
+        <TextEquiv>
+          <Unicode>ſei, ſobald ihr Oberhaupt aufhört, ein weltlicher Herr zu ſein?“) Von dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b37e5311" >
+        <Coords points="65,993 65,952 1433,961 1433,1002 1429,1022 126,1013 95,1022 93,1022 93,1022 93,1022 91,1022 91,1022 91,1022 89,1022 89,1022 60,1009"/>
+        <Baseline points="65,993 1433,1002"/>
+        <TextEquiv>
+          <Unicode>Standpunkt jener Biſchöfe aus wird ja das Reich des Geiſtes auf den Boden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8abe6444" >
+        <Coords points="63,1048 63,998 1427,1017 1429,1059 1425,1078 60,1061"/>
+        <Baseline points="63,1048 1429,1059"/>
+        <TextEquiv>
+          <Unicode>der äußeren Gewalt geſtellt, und das Chriſtenthum erhält einen Hintergrund,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_830f9cd6" >
+        <Coords points="63,1100 63,1052 1427,1063 1429,1104 1425,1128 60,1115"/>
+        <Baseline points="63,1100 1429,1104"/>
+        <TextEquiv>
+          <Unicode>der ſeinem wahren Weſen fremd iſt. Es giebt viele treffliche Katholiken, die das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_710e2d37" >
+        <Coords points="63,1152 63,1107 1427,1120 1429,1161 1425,1178 60,1167"/>
+        <Baseline points="63,1152 1429,1161"/>
+        <TextEquiv>
+          <Unicode>tief beklagen. Aber in der römiſchen „Kirche“ als ſolcher, als einer Anſtalt in dieſer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8fe25bdc" >
+        <Coords points="63,1204 63,1161 1427,1174 1429,1215 1425,1231 60,1220"/>
+        <Baseline points="63,1204 1429,1215"/>
+        <TextEquiv>
+          <Unicode>Welt und von dieſer Welt, liegt es nun einmal, daß ſie einen Zug nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0721121f" >
+        <Coords points="63,1259 63,1209 1433,1228 1433,1270 1429,1291 58,1278"/>
+        <Baseline points="63,1259 1433,1270"/>
+        <TextEquiv>
+          <Unicode>dieſer Welt hat. Und wenn dieſer Zug nicht nur katholiſcherſeits, ſondern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53cd6d10" >
+        <Coords points="60,1311 60,1272 1431,1276 1433,1322 1429,1346 58,1328"/>
+        <Baseline points="60,1311 1433,1322"/>
+        <TextEquiv>
+          <Unicode>auch in evangeliſchen Kreiſen gegenwärtig beſonders ſtark hervortritt, wenn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_09f55fdf" >
+        <Coords points="63,1365 63,1318 1429,1331 1431,1376 1427,1396 60,1383"/>
+        <Baseline points="63,1365 1431,1376"/>
+        <TextEquiv>
+          <Unicode>Manchem das Recht in der Kirche höher ſteht als die Wahrheit, das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7772a568" >
+        <Coords points="65,1420 65,1372 1425,1389 1427,1431 1423,1450 60,1437"/>
+        <Baseline points="65,1420 1427,1431"/>
+        <TextEquiv>
+          <Unicode>Amt höher als der Dienſt, die Form höher als das Weſen, der Buch⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_682e2531" >
+        <Coords points="63,1476 63,1426 1427,1439 1429,1483 1425,1502 60,1494"/>
+        <Baseline points="63,1476 1429,1483"/>
+        <TextEquiv>
+          <Unicode>ſtabe höher als der Geiſt: ſo iſt dies eins der bedeutungsvollſten Zeichen der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d487e190" >
+        <Coords points="63,1533 63,1492 1429,1496 1431,1537 1427,1561 60,1548"/>
+        <Baseline points="63,1533 1431,1537"/>
+        <TextEquiv>
+          <Unicode>Zeit, ein Zeichen, daß ein Anflug des materialiſtiſchen Sinnes auch die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5f51728" >
+        <Coords points="63,1583 63,1535 1427,1552 1429,1594 1427,1616 402,1616 400,1613 400,1613 335,1602 332,1602 330,1602 91,1611 89,1611 89,1611 89,1611 87,1611 87,1611 58,1598"/>
+        <Baseline points="63,1583 1429,1594"/>
+        <TextEquiv>
+          <Unicode>Kirche berührt, daß der Glaube an ihre ewige Wahrheit, an ihr Geiſtweſen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0cd21d45" >
+        <Coords points="63,1635 63,1592 1429,1607 1431,1646 1429,1663 1277,1674 1275,1674 1275,1674 1168,1663 1155,1663 1129,1663 900,1672 898,1672 898,1672 844,1663 831,1661 60,1661"/>
+        <Baseline points="63,1635 1431,1646"/>
+        <TextEquiv>
+          <Unicode>in der Kirche erſchüttert worden iſt, und Wahrnehmungen dieſer Art erinnern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5efd07a" >
+        <Coords points="65,1689 65,1644 661,1657 663,1696 659,1718 60,1711"/>
+        <Baseline points="65,1689 663,1696"/>
+        <TextEquiv>
+          <Unicode>uns, zu beten und zu wachen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_783ae12f" >
+        <Coords points="145,1748 145,1707 1429,1707 1431,1753 1427,1774 141,1761"/>
+        <Baseline points="145,1748 1431,1753"/>
+        <TextEquiv>
+          <Unicode>Es iſt ein Zeichen der Zeit, daß manche, gewiß auch innerlich fromme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c08e05e2" >
+        <Coords points="63,1798 63,1748 1433,1763 1433,1807 1429,1826 60,1811"/>
+        <Baseline points="63,1798 1433,1807"/>
+        <TextEquiv>
+          <Unicode>und redliche, Chriſten den Unterſchied zwiſchen Kirche und Evangelium überhaupt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54f85e14" >
+        <Coords points="63,1853 60,1811 1425,1807 1429,1857 1425,1874 60,1866"/>
+        <Baseline points="63,1853 1429,1857"/>
+        <TextEquiv>
+          <Unicode>zu vergeſſen angefangen haben, daß es wenigſtens den Anſchein gewinnt, als ob</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6af2440c" >
+        <Coords points="63,1905 63,1855 1427,1866 1429,1911 1425,1927 60,1918"/>
+        <Baseline points="63,1905 1429,1911"/>
+        <TextEquiv>
+          <Unicode>es für nicht Wenige keine evangeliſche Geſinnung mehr gäbe außerhalb des Um⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9055ede9" >
+        <Coords points="63,1957 63,1905 169,1918 1425,1924 1427,1966 1423,1983 60,1972"/>
+        <Baseline points="63,1957 1427,1966"/>
+        <TextEquiv>
+          <Unicode>kreiſes der ſtrengſten kirchlichen Formen. Wir erblicken hierin keine kleine Gefahr;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6000938b" >
+        <Coords points="63,2011 63,1961 1427,1970 1429,2018 1425,2040 60,2031"/>
+        <Baseline points="63,2011 1429,2018"/>
+        <TextEquiv>
+          <Unicode>denn der Weg, der damit betreten wird, iſt nicht der, welchen Gott dem deut⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eed4af15" >
+        <Coords points="65,2064 65,2016 1433,2029 1433,2070 1429,2094 63,2081"/>
+        <Baseline points="65,2064 1433,2070"/>
+        <TextEquiv>
+          <Unicode>ſchen Volke ſeit der Reformation gewieſen hat. Dieſe Blätter wollen bei den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_494d27a0" >
+        <Coords points="65,2118 65,2077 1433,2085 1433,2127 1431,2140 1164,2151 1161,2151 1161,2151 1068,2140 1064,2140 1055,2140 761,2148 759,2148 759,2148 757,2148 757,2148 757,2148 735,2138 735,2138 709,2138 409,2146 406,2146 63,2133"/>
+        <Baseline points="65,2118 1433,2127"/>
+        <TextEquiv>
+          <Unicode>Geiſtlichen, ſie wollen aber insbeſondere auch bei der evangeliſchen Gemeinde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43232d54" >
+        <Coords points="65,2170 65,2131 1429,2135 1431,2181 1427,2194 63,2181"/>
+        <Baseline points="65,2170 1431,2181"/>
+        <TextEquiv>
+          <Unicode>einkehren; ſie wollen nach ihrem beſcheidenen Theile mit dazu beitragen, daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e766a99" >
+        <Coords points="63,2225 63,2185 1429,2192 1431,2229 1427,2246 60,2242"/>
+        <Baseline points="63,2225 1431,2229"/>
+        <TextEquiv>
+          <Unicode>unſer Volk ſeinen Chriſtenberuf ſo erfüllt, wie es der geſchichtlich ange⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82382ce5" >
+        <Coords points="63,2283 63,2233 1431,2244 1431,2283 1429,2316 60,2305"/>
+        <Baseline points="63,2283 1431,2283"/>
+        <TextEquiv>
+          <Unicode>zeigte Wille Gottes iſt, wie ſeine ganze bisherige nationale und chriſtliche Ent⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4373fd3" >
+        <Coords points="121,2385 119,2349 1203,2349 1207,2379 1205,2438 874,2425 831,2436 802,2442 800,2442 800,2442 800,2444 659,2444 657,2442 657,2442 654,2442 654,2442 633,2433 615,2427 591,2433 554,2442 552,2442 552,2442 550,2442 550,2442 550,2442 548,2442 515,2431 498,2427 467,2431 389,2444 389,2444 387,2444 387,2444 265,2433 211,2444 211,2444 211,2444 208,2444 208,2444 119,2427"/>
+        <Baseline points="121,2385 1207,2379"/>
+        <TextEquiv>
+          <Unicode>*) E. de Pressensé, le pouvoir temporel est-il nécessaire à la religion?</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

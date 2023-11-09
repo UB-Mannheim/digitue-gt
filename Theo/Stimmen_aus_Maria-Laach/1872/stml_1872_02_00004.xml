@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00004.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.095927+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.095960+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00004.jpg" imageWidth="1552" imageHeight="2481">
+    <TextRegion id="eSc_textblock_8bfdbccc"  >
+      <Coords points="1369,1106 289,1130 289,1075 1320,1075 1369,1106"/>
+      <TextLine id="eSc_line_d9d9f499" >
+        <Coords points="285,1120 283,1068 1355,1068 1359,1112 1357,1141 1206,1126 1069,1141 1034,1143 1034,1143 1032,1143 993,1139 893,1130 831,1130 825,1139 825,1139 823,1139 823,1141 823,1141 821,1141 821,1141 821,1141 819,1141 819,1141 817,1141 817,1141 796,1139 751,1132 740,1139 734,1143 732,1143 732,1143 730,1143 730,1143 730,1143 728,1143 728,1143 726,1143 726,1143 711,1139 691,1130 670,1139 651,1145 651,1145 649,1145 649,1145 647,1145 647,1145 564,1137 511,1132 498,1137 473,1147 473,1147 471,1147 471,1147 471,1147 469,1147 469,1147 469,1147 424,1137 403,1132 285,1135"/>
+        <Baseline points="285,1120 1359,1112"/>
+        <TextEquiv>
+          <Unicode>Das Recht der Ueberſetzung in fremde Sprachen wird vorbehalten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a7b31a24"  >
+      <Coords points="964,2081 991,2092 1262,2100 1270,2148 397,2148 405,2100 676,2100 678,2042 744,2026 972,2042 964,2081"/>
+      <TextLine id="eSc_line_417a1131" >
+        <Coords points="691,2084 689,2030 819,2017 821,2017 821,2017 821,2017 823,2017 823,2017 823,2017 825,2017 825,2019 829,2024 840,2032 856,2022 864,2017 864,2017 864,2017 867,2017 867,2017 869,2017 972,2017 972,2088 970,2108 689,2115"/>
+        <Baseline points="693,2086 973,2090"/>
+        <TextEquiv>
+          <Unicode>1946.299</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d00e253" >
+        <Coords points="403,2143 399,2110 1256,2098 1266,2131 1264,2156 1200,2172 1200,2172 1200,2172 1198,2172 1198,2172 1198,2172 1196,2172 1196,2172 1196,2172 1194,2172 1194,2172 1194,2170 1181,2160 1181,2160 1181,2160 1117,2170 1117,2170 1115,2170 1115,2170 1115,2170 1078,2164 1049,2158 1018,2166 970,2179 968,2179 968,2179 966,2179 966,2179 966,2179 964,2179 964,2179 941,2168 922,2160 871,2170 831,2179 831,2179 831,2179 829,2179 829,2179 788,2175 699,2162 689,2175 687,2175 687,2177 687,2177 684,2177 684,2177 682,2177 682,2177 682,2177 680,2177 680,2177 629,2170 614,2181 612,2183 610,2183 610,2183 610,2183 608,2183 608,2183 608,2183 606,2183 606,2183 589,2181 486,2166 467,2183 467,2185 467,2185 465,2185 465,2185 465,2185 463,2185 463,2185 463,2185 463,2185 403,2187"/>
+        <Baseline points="403,2143 1266,2131"/>
+        <TextEquiv>
+          <Unicode>Buchdruckerei der Herder&#39; ſchen Verlagshandlung in Freiburg.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

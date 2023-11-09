@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00044.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.725281+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.725296+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00044.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_cb8cde74"  >
+      <Coords points="874,97 818,113 818,57 874,66 874,97"/>
+      <TextLine id="eSc_line_55be8665" >
+        <Coords points="810,99 812,51 868,74 866,103 864,113 808,115"/>
+        <Baseline points="810,99 866,103"/>
+        <TextEquiv>
+          <Unicode>38</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bb40791f"  >
+      <Coords points="1478,2189 469,2208 603,2265 1147,2265 1180,2274 1164,2313 297,2313 272,2296 289,2249 231,2230 281,2208 206,2189 215,157 1478,173 1478,2189"/>
+      <TextLine id="eSc_line_db7e7377" >
+        <Coords points="204,200 204,155 1472,161 1472,200 1472,208 204,217"/>
+        <Baseline points="204,200 1472,200"/>
+        <TextEquiv>
+          <Unicode>der allgemeinen Sache gleichkommen. Der conſtitutionelle Despotismus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_306f6aec" >
+        <Coords points="204,256 198,217 235,202 235,202 237,202 237,202 239,202 794,212 907,202 907,202 909,202 1019,210 1031,200 1031,200 1034,200 1034,200 1034,200 1036,200 1036,200 1036,200 1038,200 1379,210 1393,200 1393,200 1395,200 1395,200 1397,200 1397,200 1397,200 1400,200 1400,200 1468,212 1472,252 1470,272 204,272"/>
+        <Baseline points="204,256 1472,252"/>
+        <TextEquiv>
+          <Unicode>welcher dem öſterreichiſchen Despotismus in gar Nichts nachſteht, würde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_67204815" >
+        <Coords points="204,314 200,272 382,260 384,260 1468,260 1472,310 1470,320 204,332"/>
+        <Baseline points="204,314 1472,310"/>
+        <TextEquiv>
+          <Unicode>uns von der Wahlſtatt entfernen, wo die wahre Schlacht unſerer Zeit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36456be1" >
+        <Coords points="202,372 196,328 1466,320 1472,363 1470,376 202,388"/>
+        <Baseline points="202,372 1472,363"/>
+        <TextEquiv>
+          <Unicode>geliefert wird!“¹ — Über die Organiſation dieſer Arbeitervereine und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d27c3d89" >
+        <Coords points="202,423 200,382 614,382 620,380 665,370 665,370 665,370 667,370 1015,378 1036,378 1038,378 1079,368 1081,368 1081,368 1083,368 1468,378 1472,417 1470,432 202,440"/>
+        <Baseline points="202,423 1472,417"/>
+        <TextEquiv>
+          <Unicode>den Antheil derſelben an den politiſchen Wirren der Halbinſel läßt ſich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3cf7cf2" >
+        <Coords points="204,479 204,427 256,440 597,440 612,432 620,427 620,427 620,427 622,427 622,427 624,427 624,427 624,427 626,427 626,427 628,427 632,432 643,438 649,432 653,427 653,427 655,427 655,427 655,427 657,427 657,427 657,427 659,427 659,427 661,427 676,432 703,438 732,432 756,427 756,427 756,427 758,427 758,427 794,432 829,438 862,434 899,427 899,427 901,427 901,427 901,427 903,427 924,434 940,438 1044,436 1267,427 1269,427 1269,427 1271,427 1271,427 1271,427 1292,438 1294,438 1306,438 1424,427 1424,427 1426,427 1426,427 1429,427 1474,440 1472,479 1472,489 204,500"/>
+        <Baseline points="204,479 1472,479"/>
+        <TextEquiv>
+          <Unicode>bei dem Dunkel des Geheimniſſes nicht leicht etwas Sicheres ſagen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48bc6bc7" >
+        <Coords points="206,539 204,489 1468,489 1472,533 1470,549 206,554"/>
+        <Baseline points="206,539 1472,533"/>
+        <TextEquiv>
+          <Unicode>Jede bedeutendere Stadt hatte ihren Mazzini&#39;ſchen Arbeiterverein; jedoch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9be41192" >
+        <Coords points="204,595 200,556 686,541 688,541 992,549 1054,539 1054,539 1056,539 1468,549 1472,589 1470,603 204,609"/>
+        <Baseline points="204,595 1472,589"/>
+        <TextEquiv>
+          <Unicode>waren ſie am zahlreichſten im Genueſiſchen, Mailändiſchen und zu Pa⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82a71e3a" >
+        <Coords points="204,653 202,603 347,611 368,603 372,601 372,601 374,601 374,601 374,601 376,601 376,601 376,601 378,601 384,603 415,611 452,603 465,601 465,601 465,601 467,601 467,601 469,601 477,603 504,611 512,603 517,601 517,599 517,599 519,599 519,599 519,599 521,599 521,599 523,599 523,599 523,599 525,599 525,599 525,599 527,599 527,599 527,601 531,603 537,609 608,603 667,599 670,599 670,599 670,599 672,599 672,599 674,599 680,603 692,611 812,611 833,605 860,597 862,597 862,597 864,597 1042,605 1104,607 1110,605 1133,597 1133,597 1135,597 1135,597 1137,597 1375,605 1420,595 1422,595 1422,595 1424,595 1424,595 1426,595 1472,607 1474,645 1478,651 1462,663 1462,663 1460,663 1460,663 1460,663 1457,663 1457,663 1457,665 204,665"/>
+        <Baseline points="204,653 1474,645"/>
+        <TextEquiv>
+          <Unicode>lermo. In letzterer Stadt wurde 1863 der zehnte Congreß italieniſcher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_765d5b70" >
+        <Coords points="206,709 198,669 215,655 215,655 217,655 217,655 217,655 219,655 219,655 221,655 221,655 337,665 413,655 413,655 415,655 415,655 504,665 814,655 816,655 816,655 818,655 818,655 818,655 821,655 835,665 903,653 903,653 903,653 905,653 905,653 907,653 907,653 907,653 928,663 982,653 982,653 982,653 984,653 984,653 1065,663 1079,653 1081,653 1081,653 1081,653 1083,653 1083,653 1083,653 1085,653 1085,653 1087,653 1127,665 1149,665 1242,665 1242,663 1255,653 1255,653 1257,653 1257,653 1257,653 1259,653 1259,653 1259,653 1261,653 1468,663 1472,705 1468,725 204,719"/>
+        <Baseline points="206,709 1472,705"/>
+        <TextEquiv>
+          <Unicode>Arbeiter gehalten, und auf demſelben eine Commiſſion zur Entwerfung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca938e8b" >
+        <Coords points="204,764 198,725 223,713 223,713 223,713 225,713 225,713 227,713 622,721 674,711 674,711 674,711 676,711 1029,719 1062,709 1065,709 1065,709 1065,709 1067,709 1468,719 1472,758 1470,771 204,785"/>
+        <Baseline points="204,764 1472,758"/>
+        <TextEquiv>
+          <Unicode>von Statuten für einen allgemeinen italieniſchen Arbeiterverein ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29200ce6" >
+        <Coords points="204,824 198,785 248,771 250,771 250,771 252,771 252,771 252,771 316,781 523,769 525,769 525,769 525,769 527,769 568,779 630,769 630,769 632,769 632,769 632,769 694,781 732,781 821,781 823,779 839,769 841,769 841,769 841,769 843,769 843,769 845,769 1207,775 1236,764 1236,764 1238,764 1238,764 1240,764 1470,775 1474,816 1472,827 204,833"/>
+        <Baseline points="204,824 1474,816"/>
+        <TextEquiv>
+          <Unicode>wählt. Wie wir ſchon früher einmal erwähnten, betheiligte ſich Mazzini</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f208e1f4" >
+        <Coords points="204,880 200,839 1470,827 1476,874 1474,886 204,899"/>
+        <Baseline points="204,880 1476,874"/>
+        <TextEquiv>
+          <Unicode>bei der Zuſammenkunft in Martinshall zu London am 28. Sept. 1864</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a506f2b" >
+        <Coords points="206,936 202,893 1472,891 1478,930 1476,944 1122,944 1093,948 1052,955 1052,955 1050,955 866,951 632,946 616,955 614,957 612,957 612,957 612,957 610,957 610,957 608,957 531,955 262,948 206,959"/>
+        <Baseline points="206,936 1478,930"/>
+        <TextEquiv>
+          <Unicode>und ſuchte ſich Einfluß auf die Leitung der damals gegründeten Inter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_096cd847" >
+        <Coords points="206,992 204,951 835,951 837,948 860,938 860,938 862,938 862,938 862,938 864,938 1472,948 1476,988 1474,1006 206,1013"/>
+        <Baseline points="206,992 1476,988"/>
+        <TextEquiv>
+          <Unicode>nationale zu verſchaffen, was ihm durch die Bemühung des K. Marx</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1db5a129" >
+        <Coords points="208,1052 202,1013 246,998 248,998 248,998 248,998 250,998 382,1008 477,998 477,998 479,998 479,998 481,998 481,998 481,998 483,998 483,998 496,1008 506,998 506,998 508,998 508,998 508,998 510,998 510,998 512,998 1151,1004 1406,992 1408,992 1408,992 1408,992 1468,1004 1472,1044 1470,1054 208,1070"/>
+        <Baseline points="208,1052 1472,1044"/>
+        <TextEquiv>
+          <Unicode>gründlich vereitelt wurde. Anderes war bei dem principiellen Unter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f5f354f4" >
+        <Coords points="206,1106 204,1060 1474,1062 1478,1101 1476,1118 206,1124"/>
+        <Baseline points="206,1106 1478,1101"/>
+        <TextEquiv>
+          <Unicode>ſchiede der beiderſeitigen Beſtrebungen gar nicht zu erwarten; während</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a22a695c" >
+        <Coords points="206,1159 206,1116 1476,1116 1476,1159 1476,1172 206,1172"/>
+        <Baseline points="206,1159 1476,1159"/>
+        <TextEquiv>
+          <Unicode>nämlich Mazzini „durch die Freiheit zur Gleichheit“ gelangen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9257daa0" >
+        <Coords points="206,1217 200,1176 252,1161 254,1161 254,1161 256,1161 256,1161 256,1161 258,1161 258,1161 285,1172 332,1161 332,1161 332,1161 335,1161 335,1161 401,1174 525,1174 548,1161 548,1161 548,1161 550,1161 550,1161 552,1161 922,1170 934,1159 934,1159 936,1159 936,1159 936,1159 938,1159 938,1159 938,1159 940,1159 1069,1170 1127,1159 1127,1159 1127,1159 1129,1159 1362,1170 1395,1159 1397,1159 1397,1159 1397,1159 1400,1159 1400,1159 1474,1172 1478,1213 1476,1232 206,1236"/>
+        <Baseline points="206,1217 1478,1213"/>
+        <TextEquiv>
+          <Unicode>will, iſt der Grundſatz der Internationale: „durch die Gleichheit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_029d8b53" >
+        <Coords points="206,1275 202,1232 310,1217 310,1217 312,1217 312,1217 314,1217 314,1217 314,1217 316,1217 332,1228 452,1217 454,1217 454,1217 454,1217 514,1228 783,1217 785,1217 785,1217 787,1217 787,1217 816,1228 899,1215 899,1215 901,1215 901,1215 901,1215 903,1215 945,1226 994,1215 994,1215 994,1215 996,1215 996,1215 1062,1226 1089,1215 1089,1215 1091,1215 1091,1215 1091,1215 1093,1215 1093,1215 1096,1215 1137,1226 1184,1215 1184,1215 1184,1215 1187,1215 1472,1228 1476,1271 1474,1281 206,1290"/>
+        <Baseline points="206,1275 1476,1271"/>
+        <TextEquiv>
+          <Unicode>zur Freiheit.“ — Man wollte wiſſen, daß Mazzini auch in den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8392fbab" >
+        <Coords points="206,1331 200,1290 223,1277 223,1277 223,1277 225,1277 225,1277 227,1277 781,1285 800,1275 802,1275 802,1275 802,1275 804,1275 804,1275 806,1275 1408,1285 1412,1327 1408,1341 204,1339"/>
+        <Baseline points="206,1331 1412,1327"/>
+        <TextEquiv>
+          <Unicode>Reihen des Heeres nicht ohne Erfolg um Anhänger geworben habe.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc3b69e1" >
+        <Coords points="293,1385 293,1335 1478,1341 1478,1385 1478,1395 293,1403"/>
+        <Baseline points="293,1385 1478,1385"/>
+        <TextEquiv>
+          <Unicode>2. Die Einführung der Internationale in Italien fällt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2058977a" >
+        <Coords points="206,1443 204,1399 270,1389 270,1389 272,1389 1478,1399 1478,1443 1478,1453 206,1461"/>
+        <Baseline points="206,1443 1478,1443"/>
+        <TextEquiv>
+          <Unicode>in die Jahre 1866 und 67. Ein Centralrath der Arbeiterverbindungen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_680adad6" >
+        <Coords points="206,1501 202,1459 293,1447 293,1447 295,1447 721,1455 901,1445 903,1445 1472,1455 1476,1496 1474,1515 206,1519"/>
+        <Baseline points="206,1501 1476,1496"/>
+        <TextEquiv>
+          <Unicode>war in Mailand gegründet, als Abgeordneter desſelben erſchien Kaſpar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16e70e87" >
+        <Coords points="208,1556 208,1513 1478,1515 1478,1556 1478,1567 208,1577"/>
+        <Baseline points="208,1556 1478,1556"/>
+        <TextEquiv>
+          <Unicode>Stampa auf dem Congreſſe zu Lauſanne 1867. Eugen Dupont meldete</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a5b9b44" >
+        <Coords points="210,1612 208,1567 1476,1563 1480,1616 1478,1625 210,1629"/>
+        <Baseline points="210,1612 1480,1616"/>
+        <TextEquiv>
+          <Unicode>in ſeinem Berichte an den Congreß, daß regelrechte Sectionen zu Neapel,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b9eeaf1" >
+        <Coords points="208,1666 208,1622 1476,1629 1478,1670 1474,1678 206,1676"/>
+        <Baseline points="208,1666 1478,1670"/>
+        <TextEquiv>
+          <Unicode>Mailand und Genua beſtehen, und in Correſpondenz mit dem Londoner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0489c74" >
+        <Coords points="206,1728 202,1687 225,1674 225,1674 225,1674 227,1674 227,1674 227,1674 229,1674 229,1674 231,1674 231,1674 260,1687 438,1687 450,1674 450,1674 452,1674 452,1674 452,1674 454,1674 454,1674 457,1674 457,1674 457,1674 514,1687 579,1687 589,1676 589,1674 589,1674 591,1674 591,1674 591,1674 593,1674 593,1674 593,1674 595,1674 595,1674 597,1674 641,1685 696,1674 696,1674 696,1674 698,1674 698,1674 701,1674 746,1685 885,1674 887,1674 1478,1687 1478,1728 1478,1744 206,1747"/>
+        <Baseline points="206,1728 1478,1728"/>
+        <TextEquiv>
+          <Unicode>Generalrathe ſeien. Aber die politiſche Lage des italieniſchen Staates</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b107718e" >
+        <Coords points="206,1780 206,1738 1474,1742 1478,1784 1476,1794 206,1800"/>
+        <Baseline points="206,1780 1478,1784"/>
+        <TextEquiv>
+          <Unicode>und der Mangel jeglicher Initiative von Seiten der ſchon errichteten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22aa2f47" >
+        <Coords points="210,1840 210,1796 1472,1800 1474,1844 1472,1856 208,1858"/>
+        <Baseline points="210,1840 1474,1844"/>
+        <TextEquiv>
+          <Unicode>Localvereine ſtand einer weiteren Verbreitung zur Zeit noch im Wege.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c06cd0d" >
+        <Coords points="213,1900 210,1848 1474,1850 1478,1895 1474,1912 266,1910 213,1920"/>
+        <Baseline points="213,1900 1478,1895"/>
+        <TextEquiv>
+          <Unicode>Jedoch konnte E. Dupont, welcher die Socialdemokraten von Neapel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_849ed458" >
+        <Coords points="206,1957 202,1916 262,1904 262,1904 262,1904 264,1904 264,1904 266,1904 266,1904 266,1904 268,1904 268,1904 279,1912 289,1904 289,1904 291,1904 291,1904 291,1904 293,1904 293,1904 293,1904 295,1904 295,1904 297,1904 297,1904 297,1904 320,1914 405,1904 405,1904 407,1904 603,1914 622,1914 624,1914 639,1902 639,1902 641,1902 641,1902 641,1902 643,1902 643,1902 645,1902 645,1902 645,1902 647,1902 647,1902 647,1902 667,1912 765,1902 765,1902 767,1902 1015,1912 1025,1912 1027,1912 1093,1900 1093,1900 1096,1900 1470,1912 1474,1951 1472,1964 206,1978"/>
+        <Baseline points="206,1957 1474,1951"/>
+        <TextEquiv>
+          <Unicode>auf dem nächſtjährigen Congreſſe in Brüſſel vertrat, ſchon beſſere Nach⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75048ca7" >
+        <Coords points="208,2015 204,1966 1462,1964 1468,2009 1466,2024 208,2034"/>
+        <Baseline points="208,2015 1468,2009"/>
+        <TextEquiv>
+          <Unicode>richten geben. Auch die Geſellſchaft der „Söhne der Arbeit von Catania“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_60104695" >
+        <Coords points="206,2071 204,2028 326,2017 328,2017 1478,2028 1478,2071 1478,2092 206,2092"/>
+        <Baseline points="206,2071 1478,2071"/>
+        <TextEquiv>
+          <Unicode>hatte bereits am 27. Auguſt des nämlichen Jahres 1868 einſtimmig</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a609c72b" >
+        <Coords points="206,2127 206,2079 1480,2086 1480,2127 1480,2143 345,2150 343,2150 343,2150 341,2150 341,2150 341,2150 314,2139 304,2150 304,2150 301,2150 301,2150 301,2150 301,2150 299,2150 299,2150 299,2152 206,2152"/>
+        <Baseline points="206,2127 1480,2127"/>
+        <TextEquiv>
+          <Unicode>ihren Beitritt zur Internationale erklärt und den Doctor Xaver Friſica</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_984dcc18" >
+        <Coords points="206,2183 202,2146 363,2131 366,2131 366,2131 366,2131 434,2143 746,2143 769,2131 769,2131 769,2131 771,2131 771,2131 773,2131 773,2131 773,2131 775,2131 775,2131 775,2131 796,2141 864,2129 864,2129 866,2129 1474,2141 1478,2179 1476,2197 1414,2210 1414,2210 1412,2210 1137,2203 992,2199 924,2206 874,2210 874,2210 872,2210 872,2210 870,2210 870,2210 860,2206 841,2199 792,2208 758,2212 758,2212 756,2212 756,2212 756,2212 754,2212 754,2212 752,2212 746,2208 736,2201 721,2208 711,2212 711,2212 709,2212 709,2212 707,2212 707,2212 707,2212 688,2208 651,2201 539,2210 514,2212 512,2212 512,2212 512,2212 504,2212 463,2201 337,2212 337,2212 335,2212 335,2212 332,2212 332,2212 332,2212 330,2212 330,2212 316,2201 206,2214"/>
+        <Baseline points="206,2183 1478,2179"/>
+        <TextEquiv>
+          <Unicode>nach Brüſſel abgeordnet; das Beitrittsſchreiben ſchloß mit den Worten:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_23f61927" >
+        <Coords points="281,2296 285,2251 301,2263 483,2263 498,2255 506,2251 506,2251 506,2251 508,2251 508,2251 508,2251 510,2251 510,2251 537,2255 572,2261 585,2255 595,2251 595,2251 595,2251 597,2251 597,2251 599,2251 599,2251 599,2251 601,2251 601,2251 614,2257 628,2261 775,2259 1048,2253 1050,2253 1158,2265 1176,2301 1174,2325 279,2325"/>
+        <Baseline points="281,2296 1176,2301"/>
+        <TextEquiv>
+          <Unicode>¹ S. Genfer Corr. Nr. 177 f. vom 16. u. 19. Nov. 1871.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

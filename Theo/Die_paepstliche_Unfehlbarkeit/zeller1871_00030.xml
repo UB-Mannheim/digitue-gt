@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00030.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T04:36:31.578019+00:00</Created>
+        <LastChange>2023-05-15T04:36:31.578030+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="zeller1871_00030.jpg" imageWidth="1482" imageHeight="2454">
+    <TextRegion id="eSc_textblock_f17bd07a"  >
+      <Coords points="1394,2267 1378,2398 818,2414 49,2381 49,158 59,136 119,130 1389,141 1394,2267"/>
+      <TextLine id="eSc_line_c58fe870" >
+        <Coords points="57,169 54,132 1374,126 1379,166 1378,184 57,186"/>
+        <Baseline points="57,169 1379,166"/>
+        <TextEquiv>
+          <Unicode>als bis das Concil zu Conſtanz die Sache in die Hand nahm, alle drei</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2583be5" >
+        <Coords points="58,227 57,189 612,189 614,188 648,181 648,181 648,181 650,181 650,181 651,181 676,188 677,188 677,188 688,181 689,181 689,181 691,181 691,181 691,181 692,181 886,188 906,188 908,188 918,181 920,181 920,181 920,181 921,181 921,181 923,181 923,181 923,181 924,181 944,186 1029,179 1030,179 1030,179 1030,179 1032,179 1032,179 1032,179 1047,188 1375,188 1378,223 1377,242 58,245"/>
+        <Baseline points="58,227 1378,223"/>
+        <TextEquiv>
+          <Unicode>Päpſte abſetzte, und aus eigener Machtvollkommenheit einen neuen ernannte.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e14d54e7" >
+        <Coords points="57,283 53,248 72,239 72,239 73,239 73,239 74,239 466,246 493,246 496,246 543,238 543,238 543,238 545,238 545,238 546,238 546,238 567,245 610,238 610,238 612,238 612,238 612,238 613,238 613,238 613,238 627,245 642,238 642,238 643,238 643,238 643,238 644,238 869,245 872,245 873,245 948,237 948,237 950,237 1030,244 1057,237 1059,237 1059,237 1060,237 1060,237 1130,244 1307,237 1308,237 1308,237 1374,245 1377,279 1375,297 57,301"/>
+        <Baseline points="57,283 1377,279"/>
+        <TextEquiv>
+          <Unicode>Der Gedanke liegt nicht ſo ganz ferne, daß früher oder ſpäter etwas ähn⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af595876" >
+        <Coords points="55,338 54,301 301,294 302,294 302,294 302,294 304,294 323,301 325,302 494,302 498,301 538,294 538,294 538,294 539,294 654,301 663,301 665,301 678,294 678,294 680,294 680,294 680,294 681,294 681,294 725,301 729,301 738,301 871,294 872,294 872,294 932,301 933,301 933,301 943,294 944,294 944,294 944,294 946,294 946,294 947,294 1036,294 1036,294 1182,301 1182,301 1182,301 1235,294 1235,294 1236,294 1327,301 1345,294 1345,294 1347,294 1347,294 1347,294 1348,294 1348,294 1349,294 1379,302 1378,338 1377,362 54,357"/>
+        <Baseline points="55,338 1378,338"/>
+        <TextEquiv>
+          <Unicode>liches ſich wiederholen, daß noch einmal ein franzöſiſcher und ein italieni⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54fcba7e" >
+        <Coords points="54,396 49,361 59,353 59,353 61,353 61,353 61,353 62,353 62,353 64,353 452,358 493,351 493,351 494,351 1374,357 1377,392 1375,415 54,417"/>
+        <Baseline points="54,396 1377,392"/>
+        <TextEquiv>
+          <Unicode>ſcher Papſt ſich gegenübertreten könnten; nur daß dann vorausſichtlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69c5362e" >
+        <Coords points="54,452 50,417 76,407 77,407 77,407 77,407 79,407 79,407 130,414 151,407 151,407 152,407 152,407 154,407 824,413 837,406 838,406 838,406 838,406 839,406 839,406 841,406 841,406 909,413 936,406 938,406 938,406 939,406 939,406 939,406 978,413 1023,406 1023,406 1025,406 1372,414 1375,449 1372,471 53,470"/>
+        <Baseline points="54,452 1375,449"/>
+        <TextEquiv>
+          <Unicode>eher ein diplomatiſcher Congreß, als eine allgemeine Kirchenverſammlung,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fbfcd95c" >
+        <Coords points="53,508 51,466 1378,464 1379,508 1379,534 53,534"/>
+        <Baseline points="53,508 1379,508"/>
+        <TextEquiv>
+          <Unicode>die Entſcheidung herbeiführen würde. Indeſſen genügt ſchon das Beiſpiel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8b5329b6" >
+        <Coords points="53,567 50,531 115,523 117,523 920,527 938,520 938,520 939,520 939,520 940,520 1375,527 1378,563 1377,583 53,584"/>
+        <Baseline points="53,567 1378,563"/>
+        <TextEquiv>
+          <Unicode>aus dem 14. Jahrhundert, um den Satz zu erläutern, um den es uns</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd7c7189" >
+        <Coords points="54,623 53,583 933,583 938,582 970,575 970,575 972,575 1375,582 1378,618 1377,639 54,643"/>
+        <Baseline points="54,623 1378,618"/>
+        <TextEquiv>
+          <Unicode>hier allein zu thun iſt: daß diejenige Einheit der Kirchenleitung, die das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0d2fff9" >
+        <Coords points="54,678 50,642 76,633 77,633 77,633 79,633 1377,639 1379,676 1378,695 54,698"/>
+        <Baseline points="54,678 1379,676"/>
+        <TextEquiv>
+          <Unicode>katholiſche Syſtem anſtrebt, auch durch die Unbeſchränktheit der päpſtlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7aea5811" >
+        <Coords points="54,733 53,695 1378,691 1379,733 1379,753 54,753"/>
+        <Baseline points="54,733 1379,733"/>
+        <TextEquiv>
+          <Unicode>Gewalt ſich nicht wirklich erreichen läßt. Die Geſchichte zeigt uns ja</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_400e45eb" >
+        <Coords points="53,790 51,753 1378,752 1379,790 1378,809 51,808"/>
+        <Baseline points="53,790 1379,790"/>
+        <TextEquiv>
+          <Unicode>aber überdies auch ganz unwiderſprechlich, daß die Päpſte nicht allein in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75ef87c4" >
+        <Coords points="51,846 51,804 1378,811 1378,846 1378,869 1130,872 1128,872 1128,872 1101,869 1072,865 1062,869 1051,872 1049,872 1049,872 1049,872 1048,872 1000,868 957,865 933,868 903,872 903,872 903,873 610,873 609,872 531,867 508,865 492,867 436,872 436,872 434,872 434,872 400,867 395,865 394,867 385,872 384,872 384,872 384,872 383,872 383,872 383,873 290,873 289,872 50,864"/>
+        <Baseline points="51,846 1378,846"/>
+        <TextEquiv>
+          <Unicode>ihren adminiſtrativen und disciplinariſchen, ſondern auch in ihren dogma⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d680aef4" >
+        <Coords points="53,902 53,862 1375,867 1377,905 1375,921 751,929 749,929 578,921 252,928 250,928 134,921 111,928 110,928 110,928 110,928 109,928 109,928 51,918"/>
+        <Baseline points="53,902 1377,905"/>
+        <TextEquiv>
+          <Unicode>tiſchen Entſcheidungen ſich keineswegs immer gleichgeblieben ſind, daß ein⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_90d8ab5a" >
+        <Coords points="51,959 51,917 1377,925 1378,962 1375,980 50,978"/>
+        <Baseline points="51,959 1378,962"/>
+        <TextEquiv>
+          <Unicode>zelne von ihnen nicht ſo ganz ſelten zwiſchen dem, was in der Folge für</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_96d48f44" >
+        <Coords points="53,1018 51,976 1375,978 1378,1015 1375,1037 673,1034 648,1041 646,1041 644,1041 644,1041 644,1041 643,1041 629,1041 539,1034 498,1041 496,1041 496,1041 494,1041 494,1041 494,1041 493,1041 493,1041 493,1041 474,1034 100,1034 53,1042"/>
+        <Baseline points="53,1018 1378,1015"/>
+        <TextEquiv>
+          <Unicode>Häreſie, und dem, was für Orthodoxie galt, geſchwankt haben, daß mehr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f926ff7" >
+        <Coords points="51,1068 51,1032 1377,1032 1378,1074 1375,1092 50,1086"/>
+        <Baseline points="51,1068 1378,1074"/>
+        <TextEquiv>
+          <Unicode>als Ein Papſt ſich einer entſchiedenen Ketzerei ſchuldig gemacht hat und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_404278ff" >
+        <Coords points="51,1124 51,1083 1378,1094 1379,1132 1377,1149 50,1145"/>
+        <Baseline points="51,1124 1379,1132"/>
+        <TextEquiv>
+          <Unicode>von ſeinen eigenen Nachfolgern dafür verdammt worden iſt. Wenn die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7cb9d73e" >
+        <Coords points="51,1180 51,1141 1378,1147 1379,1188 1377,1212 689,1202 623,1203 497,1207 496,1207 430,1202 414,1201 392,1201 279,1206 278,1206 50,1197"/>
+        <Baseline points="51,1180 1379,1188"/>
+        <TextEquiv>
+          <Unicode>Einheit der Kirche und ihres Glaubens durch die päpſtliche Unfehlbarkeit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_64a178f3" >
+        <Coords points="51,1237 51,1194 1378,1206 1379,1244 1377,1261 50,1254"/>
+        <Baseline points="51,1237 1379,1244"/>
+        <TextEquiv>
+          <Unicode>ſichergeſtellt werden ſoll, und wenn gerade dieſe Ausſicht am eheſten geeignet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2fa365ef" >
+        <Coords points="51,1292 51,1256 193,1256 196,1256 229,1250 229,1250 229,1250 230,1250 230,1250 231,1250 231,1250 231,1250 245,1256 248,1258 268,1256 354,1252 355,1252 486,1258 512,1259 516,1259 541,1252 542,1252 542,1252 543,1252 543,1252 545,1252 545,1252 545,1252 558,1259 560,1259 565,1259 616,1252 616,1252 617,1252 617,1252 657,1259 666,1261 692,1259 808,1254 809,1254 809,1254 809,1254 811,1254 811,1254 826,1261 830,1262 863,1261 983,1255 984,1255 1378,1265 1379,1301 1377,1322 50,1311"/>
+        <Baseline points="51,1292 1379,1301"/>
+        <TextEquiv>
+          <Unicode>war, das neue Dogma auch ſolchen, die ihm nicht blos durch hierarchiſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fec6af7c" >
+        <Coords points="51,1349 51,1308 1379,1321 1381,1359 1379,1376 1194,1383 1192,1383 1192,1383 1143,1376 1139,1376 1131,1376 1038,1382 1037,1382 841,1375 773,1374 51,1374"/>
+        <Baseline points="51,1349 1381,1359"/>
+        <TextEquiv>
+          <Unicode>Beſtrebungen in die Arme geführt wurden, zu empfehlen und ſie über ſeine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_58b6237a" >
+        <Coords points="51,1406 51,1364 1377,1378 1378,1417 1375,1435 50,1427"/>
+        <Baseline points="51,1406 1378,1417"/>
+        <TextEquiv>
+          <Unicode>Gefährlichkeit zu täuſchen, ſo zeigt ſich bei näherer Betrachtung, daß es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d178290a" >
+        <Coords points="51,1466 51,1426 259,1430 301,1427 354,1423 355,1423 355,1423 399,1427 434,1431 460,1428 489,1424 489,1424 490,1424 490,1424 539,1428 571,1431 580,1428 597,1424 598,1424 598,1424 598,1424 599,1424 670,1430 715,1432 734,1430 764,1426 764,1426 766,1426 766,1426 766,1426 767,1426 782,1430 792,1434 965,1434 968,1431 980,1426 980,1426 980,1426 981,1426 981,1426 983,1426 983,1426 983,1426 1017,1432 1021,1432 1023,1432 1044,1426 1045,1426 1045,1426 1045,1426 1047,1426 1047,1426 1083,1432 1094,1434 1139,1432 1317,1427 1318,1427 1318,1427 1378,1435 1379,1472 1378,1488 1048,1495 1047,1495 50,1487"/>
+        <Baseline points="51,1466 1379,1472"/>
+        <TextEquiv>
+          <Unicode>ſelbſt dies nicht zu leiſten vermag. Denn zur Einheit des kirchlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2170a52b" >
+        <Coords points="50,1521 50,1479 1377,1492 1378,1529 1377,1547 1184,1555 1183,1555 1183,1555 1183,1555 1138,1547 1111,1554 1109,1554 1109,1554 1109,1555 936,1555 935,1554 935,1554 933,1554 906,1547 715,1552 714,1552 714,1552 714,1552 676,1544 673,1544 668,1544 560,1551 558,1551 328,1543 327,1543 327,1543 274,1550 274,1550 272,1550 272,1550 216,1541 211,1541 50,1541"/>
+        <Baseline points="50,1521 1378,1529"/>
+        <TextEquiv>
+          <Unicode>Glaubens gehört doch nicht nur dieſes, daß in jedem gegebenen Augen⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_047a5800" >
+        <Coords points="49,1578 49,1541 1378,1548 1379,1585 1379,1603 1362,1611 1362,1611 1360,1611 1360,1611 1360,1611 1359,1611 1359,1611 1357,1611 1357,1611 1337,1604 1299,1611 1299,1611 1297,1611 884,1604 875,1610 873,1610 873,1610 873,1610 872,1610 872,1610 871,1610 871,1610 871,1610 869,1610 845,1603 583,1608 582,1608 582,1608 580,1608 546,1600 417,1600 404,1607 403,1607 403,1607 403,1607 402,1607 402,1607 400,1607 400,1607 400,1607 399,1607 399,1607 399,1607 385,1600 267,1606 265,1606 47,1596"/>
+        <Baseline points="49,1578 1379,1585"/>
+        <TextEquiv>
+          <Unicode>blick alle dieſelbe Lehre bekennen, was ſich allerdings, ſo lange kein Schisma</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_893fe891" >
+        <Coords points="49,1636 49,1599 1378,1606 1379,1642 1378,1661 1115,1668 1113,1668 47,1655"/>
+        <Baseline points="49,1636 1379,1642"/>
+        <TextEquiv>
+          <Unicode>eintritt, durch den Grundſatz der päpſtlichen Unfehlbarkeit, ſeine allgemeine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9f9bdb94" >
+        <Coords points="50,1691 50,1649 184,1659 286,1659 299,1650 301,1650 301,1650 301,1650 302,1650 302,1650 302,1650 304,1650 304,1650 310,1650 372,1659 443,1652 451,1652 451,1652 452,1652 463,1652 548,1660 609,1653 618,1653 618,1653 620,1653 647,1655 800,1661 1375,1661 1378,1698 1377,1720 1177,1727 1176,1727 1176,1727 1176,1727 1141,1720 1139,1720 1137,1720 965,1725 963,1725 963,1725 963,1725 962,1725 940,1719 939,1719 928,1719 763,1724 762,1724 762,1724 760,1724 760,1724 741,1717 740,1717 723,1717 586,1723 584,1723 49,1713"/>
+        <Baseline points="50,1691 833,1701 1378,1698"/>
+        <TextEquiv>
+          <Unicode>Anerkennung vorausgeſetzt, erreichen ließe; ſondern ebenſo weſentlich wird</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f79b2461" >
+        <Coords points="49,1749 49,1708 147,1715 175,1708 175,1708 177,1708 177,1708 178,1708 189,1708 368,1715 406,1709 406,1709 407,1709 407,1709 407,1709 409,1709 409,1709 409,1709 410,1709 424,1717 609,1710 610,1710 610,1710 610,1710 612,1710 612,1710 613,1710 625,1719 706,1719 719,1709 719,1709 721,1709 721,1709 721,1709 722,1709 722,1709 723,1709 723,1709 730,1709 800,1717 819,1709 820,1709 820,1709 822,1709 822,1709 823,1709 823,1709 823,1709 828,1709 871,1719 910,1710 910,1710 910,1710 910,1710 912,1710 912,1710 912,1710 974,1720 1342,1720 1372,1712 1378,1754 1377,1773 867,1780 865,1780 47,1770"/>
+        <Baseline points="49,1749 602,1757 1378,1754"/>
+        <TextEquiv>
+          <Unicode>hiezu auch das erfordert, daß die öffentliche Lehre der Kirche in jedem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_35e6011a" >
+        <Coords points="50,1811 50,1770 1377,1770 1377,1811 1377,1830 1293,1839 1293,1840 719,1840 718,1839 718,1839 717,1839 717,1839 717,1839 703,1832 627,1839 625,1839 625,1839 563,1832 552,1839 550,1839 550,1839 550,1839 549,1839 549,1839 549,1840 428,1840 426,1839 426,1839 425,1839 402,1832 50,1832"/>
+        <Baseline points="50,1811 1377,1811"/>
+        <TextEquiv>
+          <Unicode>Zeitpunkt mit der Lehre der Vorzeit übereinſtimme. Dafür giebt aber der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95af65e9" >
+        <Coords points="49,1865 49,1824 1371,1826 1375,1865 1373,1887 49,1889"/>
+        <Baseline points="51,1866 653,1871 1377,1866"/>
+        <TextEquiv>
+          <Unicode>monarchiſche Abſolutismus eines unfehlbaren Papſtes eine weit geringere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bce26b6f" >
+        <Coords points="50,1918 50,1880 278,1886 290,1880 290,1880 291,1880 291,1880 291,1880 293,1880 293,1880 294,1880 404,1880 404,1880 404,1880 406,1880 406,1880 409,1881 426,1888 455,1881 455,1881 456,1881 456,1881 458,1881 458,1881 458,1881 459,1881 494,1888 1370,1885 1374,1923 1372,1942 1326,1950 1326,1950 1325,1950 1325,1950 1325,1950 1292,1945 1270,1953 1270,1953 1269,1953 1269,1953 1269,1955 1210,1955 1209,1953 1209,1953 1207,1953 1207,1953 1207,1953 1191,1945 1162,1953 1161,1953 1161,1953 1161,1955 993,1955 992,1953 992,1953 991,1953 991,1953 972,1946 923,1953 923,1953 921,1953 921,1953 921,1953 884,1946 875,1953 873,1953 873,1953 873,1953 872,1953 872,1953 872,1955 567,1955 565,1953 565,1953 501,1944 452,1953 452,1953 452,1953 451,1953 451,1953 398,1945 238,1950 237,1950 154,1944 130,1950 129,1950 129,1950 129,1950 128,1950 49,1942"/>
+        <Baseline points="50,1918 528,1929 1374,1923"/>
+        <TextEquiv>
+          <Unicode>Bürgſchaft, als die Feſtſtellung der Lehre durch allgemeine Kirchenverſamm⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ec711f4d" >
+        <Coords points="49,1972 46,1941 65,1931 65,1931 65,1931 66,1931 66,1931 68,1931 68,1931 139,1941 143,1942 259,1942 264,1941 293,1933 294,1933 294,1933 294,1933 295,1933 295,1933 297,1933 297,1933 297,1933 313,1941 328,1934 328,1934 329,1934 329,1934 329,1934 331,1934 524,1942 666,1948 1371,1945 1374,1979 1372,2006 1297,2006 1274,2015 1274,2015 1273,2015 1273,2015 1272,2015 1272,2015 1207,2005 1173,2015 1172,2015 1172,2015 1172,2015 1171,2015 1051,2005 1027,2013 1027,2013 1026,2013 1026,2013 1025,2013 852,2002 816,2009 816,2009 815,2009 546,2008 546,2008 546,2008 507,2000 387,2005 385,2005 385,2005 287,1994 256,2002 254,2002 254,2002 253,2002 253,2002 156,1993 125,2002 124,2002 124,2002 124,2002 122,2002 122,2002 47,1990"/>
+        <Baseline points="49,1972 702,1987 1112,1987 1374,1979"/>
+        <TextEquiv>
+          <Unicode>lungen; da die Anſichten und Intereſſen der einzelnen, oft ſehr raſch auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a115592f" >
+        <Coords points="49,2032 49,1985 929,2002 1369,1995 1375,2040 1373,2063 1156,2073 1154,2073 47,2055"/>
+        <Baseline points="50,2034 227,2041 1140,2052 1376,2041"/>
+        <TextEquiv>
+          <Unicode>einander folgenden Päpſte der Natur der Sache nach viel veränderlicher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a919c72" >
+        <Coords points="49,2085 47,2054 113,2043 114,2043 192,2054 197,2055 283,2055 290,2054 317,2047 319,2047 320,2047 365,2055 372,2055 373,2055 385,2049 387,2049 388,2049 389,2049 403,2055 409,2057 661,2055 857,2055 858,2055 884,2057 996,2065 1033,2057 1045,2055 1047,2055 1064,2058 1123,2066 1158,2058 1165,2057 1167,2057 1374,2059 1375,2094 1374,2119 966,2128 965,2128 872,2119 661,2124 659,2124 658,2124 627,2115 608,2122 606,2122 605,2122 430,2114 298,2118 297,2118 295,2118 294,2118 284,2111 282,2110 278,2111 253,2118 252,2118 250,2118 249,2118 234,2111 224,2106 207,2110 199,2113 197,2113 196,2113 177,2110 136,2104 49,2109"/>
+        <Baseline points="49,2085 729,2102 1127,2102 1375,2094"/>
+        <TextEquiv>
+          <Unicode>und von wechſelnden Einflüſſen jeder Art abhängiger ſein werden, als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_10957bb2" >
+        <Coords points="49,2140 46,2110 83,2098 84,2098 85,2098 87,2098 88,2098 104,2109 188,2099 189,2099 190,2099 215,2110 234,2103 235,2103 237,2103 368,2111 421,2114 464,2111 534,2107 535,2107 597,2113 669,2118 1368,2117 1371,2148 1370,2177 1030,2186 1029,2186 980,2178 940,2185 939,2185 938,2185 936,2185 914,2171 867,2181 749,2182 748,2182 603,2179 602,2179 564,2170 485,2178 484,2178 418,2167 346,2175 344,2175 343,2175 301,2164 259,2174 257,2174 189,2164 169,2173 167,2173 166,2173 47,2158"/>
+        <Baseline points="49,2140 737,2159 1131,2159 1371,2148"/>
+        <TextEquiv>
+          <Unicode>die Ueberlieferungen und Ueberzeugungen einer ſo zahlreichen, den ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5ee0a4ac" >
+        <Coords points="47,2198 47,2151 882,2173 1365,2167 1371,2206 1369,2237 855,2243 853,2243 45,2222"/>
+        <Baseline points="49,2199 930,2225 1372,2207"/>
+        <TextEquiv>
+          <Unicode>ſchiedenſten Ländern angehörigen Korporation, wie der katholiſche Epi⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a0d7d99" >
+        <Coords points="50,2253 50,2212 89,2218 122,2212 134,2211 134,2211 136,2211 136,2211 137,2211 145,2212 181,2222 211,2214 216,2212 218,2212 218,2212 219,2212 219,2212 235,2214 313,2224 359,2218 359,2218 359,2218 361,2218 509,2227 538,2220 539,2220 539,2220 541,2220 541,2220 633,2231 811,2233 833,2226 834,2226 834,2226 834,2226 835,2226 835,2226 835,2226 882,2234 927,2227 927,2227 928,2227 928,2227 928,2227 929,2227 962,2235 995,2227 996,2227 996,2227 997,2227 997,2227 1090,2234 1370,2229 1372,2261 1371,2293 1156,2293 1127,2301 1126,2301 1126,2301 1126,2301 1124,2301 1124,2301 1124,2301 1092,2294 635,2294 633,2293 633,2293 632,2293 599,2283 560,2291 560,2291 560,2291 558,2291 558,2291 488,2283 432,2289 432,2289 430,2289 430,2289 429,2289 399,2280 351,2287 351,2287 350,2287 49,2269"/>
+        <Baseline points="50,2253 789,2274 1111,2274 1372,2261"/>
+        <TextEquiv>
+          <Unicode>ſkopat. Ebendamit wird aber auch die gleichzeitige Lehreinheit der Kirche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e861d33b" >
+        <Coords points="50,2308 50,2268 833,2293 939,2293 958,2286 958,2286 959,2286 959,2286 959,2286 961,2286 961,2286 962,2286 962,2286 962,2286 980,2294 1068,2284 1068,2284 1070,2284 1070,2284 1123,2294 1368,2289 1371,2316 1368,2349 1224,2347 1171,2362 1169,2362 1169,2362 1169,2362 1168,2362 1168,2362 1167,2362 1100,2346 1034,2361 1034,2361 1034,2361 1033,2361 1033,2361 1033,2361 1032,2361 1032,2361 1011,2353 899,2358 898,2358 758,2347 729,2354 728,2354 728,2354 726,2354 726,2354 726,2354 676,2346 662,2353 662,2353 662,2353 661,2353 661,2353 659,2353 659,2353 659,2353 623,2346 576,2351 576,2351 575,2351 575,2351 479,2339 433,2349 433,2349 433,2349 432,2349 432,2349 430,2349 384,2336 340,2346 340,2346 340,2346 339,2346 339,2346 339,2346 282,2335 194,2342 194,2342 193,2342 193,2342 192,2342 134,2327 130,2325 128,2325 102,2336 102,2336 100,2336 100,2336 99,2336 99,2336 99,2336 49,2324"/>
+        <Baseline points="50,2308 812,2332 1161,2331 1371,2316"/>
+        <TextEquiv>
+          <Unicode>wieder gefährdet. Laſſe man die Päpſte nur erſt eine Zeit lang von ihrem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5ff8ab8a" >
+        <Coords points="49,2364 49,2319 835,2347 933,2339 935,2339 1011,2353 1105,2339 1109,2339 1111,2339 1115,2339 1164,2349 1179,2341 1181,2339 1183,2339 1185,2339 1187,2339 1373,2334 1375,2366 1371,2427 1195,2425 1193,2425 1172,2443 1170,2443 1168,2443 1166,2443 1164,2443 1131,2427 1084,2425 1009,2419 1000,2423 960,2443 957,2443 955,2443 953,2443 904,2421 898,2419 894,2421 863,2439 861,2439 859,2439 857,2439 728,2423 655,2433 652,2433 650,2433 618,2417 595,2406 546,2417 485,2429 483,2429 481,2429 478,2429 456,2415 452,2413 442,2415 401,2427 399,2427 397,2427 208,2421 206,2421 204,2421 204,2419 194,2413 186,2404 159,2411 137,2417 135,2417 133,2417 45,2409"/>
+        <Baseline points="50,2365 966,2402 1205,2394 1377,2367"/>
+        <TextEquiv>
+          <Unicode>Recht infallibler Lehrentſcheidung Gebrauch machen, und es wird bald</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_71821bfc"  >
+      <Coords points="751,91 687,91 676,54 692,38 751,43 751,91"/>
+      <TextLine id="eSc_line_99a3bd5a" >
+        <Coords points="684,79 684,32 747,35 747,79 747,100 684,109"/>
+        <Baseline points="684,79 747,79"/>
+        <TextEquiv>
+          <Unicode>28</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

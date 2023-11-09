@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00020.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.154980+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.154996+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="akzs_1860_00020.jpg" imageWidth="1502" imageHeight="2610">
+    <TextRegion id="eSc_textblock_e33a4e0b"  >
+      <Coords points="840,102 781,110 781,60 831,60 840,102"/>
+      <TextLine id="eSc_line_aaec6441" >
+        <Coords points="779,104 774,56 829,52 835,100 835,115 779,115"/>
+        <Baseline points="779,104 835,100"/>
+        <TextEquiv>
+          <Unicode>18</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bfe35109"  >
+      <Coords points="1484,1703 1269,1737 1240,1824 1086,1833 1023,1887 1049,1998 1188,2053 1162,2138 1190,2192 1484,2209 1484,2407 113,2399 113,2244 208,2192 328,2183 348,2042 339,1783 130,1763 113,1729 130,174 1493,191 1484,1703"/>
+      <TextLine id="eSc_line_cb654948" >
+        <Coords points="124,215 124,165 1484,176 1486,215 1484,232 124,234"/>
+        <Baseline points="124,215 1486,215"/>
+        <TextEquiv>
+          <Unicode>und Ruhm ſo reich, hat wohl eine Zeitlang frivolen Spott mit der Kirche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5e8ad2e" >
+        <Coords points="124,267 124,221 1484,226 1486,271 1482,282 121,280"/>
+        <Baseline points="124,267 1486,271"/>
+        <TextEquiv>
+          <Unicode>getrieben, dann mit rohem Fanatismus gegen alle Religion gewüthet, und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a051f3a3" >
+        <Coords points="124,319 124,274 1484,280 1486,326 1482,334 121,330"/>
+        <Baseline points="124,319 1486,326"/>
+        <TextEquiv>
+          <Unicode>endlich dem römiſchen Syſteme mit allen ſeinen Irrthümern und Mängeln</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2bc14a0f" >
+        <Coords points="124,371 124,326 1484,330 1486,376 1484,387 124,387"/>
+        <Baseline points="124,371 1486,376"/>
+        <TextEquiv>
+          <Unicode>ohne alle Reform wieder Thür und Thor geöffnet. Nur in Deutſchland ſind</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_776a6c0b" >
+        <Coords points="124,421 124,380 1484,389 1486,430 1482,441 121,434"/>
+        <Baseline points="124,421 1486,430"/>
+        <TextEquiv>
+          <Unicode>— mit einigen wenigen Ausnahmen — in der Regel die religiöſen Fragen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2b432cc5" >
+        <Coords points="121,478 121,430 1484,437 1486,482 1482,493 119,491"/>
+        <Baseline points="121,478 1486,482"/>
+        <TextEquiv>
+          <Unicode>mit würdigem Anſtande und entſprechendem Ernſte behandelt worden, und auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5197d2b9" >
+        <Coords points="121,530 119,485 1480,482 1484,537 1482,545 121,548"/>
+        <Baseline points="121,530 1484,537"/>
+        <TextEquiv>
+          <Unicode>da, wo die herkömmlichen Ueberzeugungen bekämpft, wo leider der Kern des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_056cbda6" >
+        <Coords points="124,580 124,537 1484,543 1484,587 1482,600 124,602"/>
+        <Baseline points="124,580 1484,587"/>
+        <TextEquiv>
+          <Unicode>Chriſtenthums ſelbſt in Frage geſtellt wurde, haben die Deutſchen wenigſtens</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36387ddc" >
+        <Coords points="124,635 124,591 1482,600 1484,643 1480,654 121,648"/>
+        <Baseline points="124,635 1484,643"/>
+        <TextEquiv>
+          <Unicode>den Weg ſtrenger und mühevoller wiſſenſchaftlicher Unterſuchung nicht verlaſſen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_83bcbb37" >
+        <Coords points="211,687 211,641 1486,652 1486,696 1482,706 206,702"/>
+        <Baseline points="211,687 1486,696"/>
+        <TextEquiv>
+          <Unicode>Aber Das iſt es ja eben, was man uns vorwirft, was viele fromme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a42c0396" >
+        <Coords points="121,737 121,693 1482,700 1484,748 1480,763 117,756"/>
+        <Baseline points="121,737 1484,748"/>
+        <TextEquiv>
+          <Unicode>Chriſten in unſerm Vaterlande ſo tiof beklagen, daß die ſchrankenloſe Forſchung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b985c31a" >
+        <Coords points="124,789 124,748 1482,761 1484,802 1480,815 121,802"/>
+        <Baseline points="124,789 1484,802"/>
+        <TextEquiv>
+          <Unicode>unvermeidlich den Irrthum erzeugt, daß die Wahrheit, die man zu ergründen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8cccda8f" >
+        <Coords points="124,846 124,802 1480,811 1482,854 1478,865 121,856"/>
+        <Baseline points="124,846 1482,854"/>
+        <TextEquiv>
+          <Unicode>vorgiebt, ſich dem Forſcher oft gerade verbirgt, daß kein feſtes kirchliches Her⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_347a4749" >
+        <Coords points="121,898 121,852 1484,865 1484,906 1480,920 119,911"/>
+        <Baseline points="121,898 1484,906"/>
+        <TextEquiv>
+          <Unicode>kommen, keine unerſchütterliche, ja faſt keine unerſchütterte Ueberzeugung mehr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7d54360" >
+        <Coords points="121,952 121,909 1482,917 1484,961 1480,974 119,970"/>
+        <Baseline points="121,952 1484,961"/>
+        <TextEquiv>
+          <Unicode>beſtehen kann, wo die Wiſſenſchaft den ganzen Kreis der kirchlichen Lehren und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_652f5116" >
+        <Coords points="124,1007 124,956 1484,972 1484,1015 1480,1026 121,1022"/>
+        <Baseline points="124,1007 1484,1015"/>
+        <TextEquiv>
+          <Unicode>Einrichtungen zu einem Gegenſtande ihrer ruheloſen Arbeit gemacht hat und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7793b6d5" >
+        <Coords points="121,1059 121,1017 1482,1017 1484,1070 1480,1080 117,1078"/>
+        <Baseline points="121,1059 1484,1070"/>
+        <TextEquiv>
+          <Unicode>immerfort auf&#39;s Neue wieder macht. Es iſt ja gerade die Frage: ob der freien</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c045f19" >
+        <Coords points="121,1115 121,1063 282,1074 498,1067 568,1065 570,1065 570,1065 572,1065 572,1065 572,1065 574,1065 574,1065 574,1067 576,1067 585,1076 831,1072 1023,1067 1025,1067 1025,1067 1027,1067 1027,1067 1044,1074 1057,1080 1480,1080 1482,1122 1480,1135 121,1135"/>
+        <Baseline points="121,1115 1482,1122"/>
+        <TextEquiv>
+          <Unicode>Forſchung — wenigſtens unter den Lehrern und Dienern der Kirche — nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a73f9d96" >
+        <Coords points="121,1167 121,1117 1480,1135 1482,1176 1478,1187 119,1183"/>
+        <Baseline points="121,1167 1482,1176"/>
+        <TextEquiv>
+          <Unicode>größere Schranken gezogen, ob die Kirche nicht vor den Ausſchreitungen der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7219b8c0" >
+        <Coords points="124,1220 124,1172 853,1183 855,1226 851,1244 119,1231"/>
+        <Baseline points="124,1220 855,1226"/>
+        <TextEquiv>
+          <Unicode>Wiſſenſchaft beſſer geſchützt werden ſollte?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_019a7948" >
+        <Coords points="202,1272 202,1224 1482,1241 1484,1283 1480,1294 198,1283"/>
+        <Baseline points="202,1272 1484,1283"/>
+        <TextEquiv>
+          <Unicode>Der Kern dieſer Frage läßt ſich ganz einfach auch ſo ausdrücken: kann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d4f2f7ff" >
+        <Coords points="119,1322 119,1276 1482,1291 1482,1335 1478,1348 117,1335"/>
+        <Baseline points="119,1322 1482,1335"/>
+        <TextEquiv>
+          <Unicode>das deutſche Volk ſeinen religiöſen Beruf, die Wahrheit zu erforſchen, in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b8d904ab" >
+        <Coords points="121,1374 121,1328 829,1339 975,1331 1005,1331 1007,1331 1007,1331 1010,1331 1010,1331 1010,1331 1012,1331 1033,1341 1188,1333 1199,1333 1201,1333 1201,1333 1205,1333 1277,1344 1475,1335 1480,1387 1475,1400 119,1387"/>
+        <Baseline points="121,1374 1480,1387"/>
+        <TextEquiv>
+          <Unicode>Wirklichkeit erfüllen ohne Freiheit der Forſchung? Die Antwort hier⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a4eadb4" >
+        <Coords points="121,1426 121,1385 1484,1398 1484,1439 1480,1455 117,1442"/>
+        <Baseline points="121,1426 1484,1439"/>
+        <TextEquiv>
+          <Unicode>auf lautet: Ohne Freiheit keine Wahrheit, vor Allem die Wahrheit nicht, die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44e2a36b" >
+        <Coords points="117,1478 117,1428 317,1442 692,1439 896,1437 899,1437 899,1437 901,1437 920,1444 940,1448 992,1444 1055,1439 1057,1439 1482,1455 1482,1494 1480,1507 899,1513 896,1513 115,1492"/>
+        <Baseline points="117,1478 1482,1494"/>
+        <TextEquiv>
+          <Unicode>die Reformatoren uns erkämpft, für die ſie alles Andere hingegeben haben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a9942e75" >
+        <Coords points="121,1533 121,1481 1482,1505 1484,1546 1482,1559 1301,1570 1299,1570 117,1552"/>
+        <Baseline points="121,1533 1484,1546"/>
+        <TextEquiv>
+          <Unicode>Was iſt Wahrheit? hat einſt Pilatus zu dem geſagt, der darauf erwidern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50662474" >
+        <Coords points="121,1585 121,1542 1480,1550 1482,1596 1480,1611 1251,1622 1249,1622 1249,1622 1249,1622 1192,1611 1188,1611 1177,1611 1023,1620 1020,1620 117,1605"/>
+        <Baseline points="121,1585 872,1600 1482,1596"/>
+        <TextEquiv>
+          <Unicode>konnte: „Ich bin die Wahrheit.“ Wie merkwürdig aber, daß Chriſtus die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7255c9b4" >
+        <Coords points="121,1637 119,1587 165,1585 167,1585 167,1585 169,1585 169,1585 169,1585 171,1585 171,1585 171,1587 171,1587 174,1587 182,1598 304,1587 328,1587 330,1587 446,1589 1153,1611 1277,1600 1279,1600 1279,1600 1279,1600 1343,1613 1478,1602 1482,1650 1480,1668 1330,1679 1327,1679 352,1655 326,1655 322,1655 189,1663 187,1663 187,1663 187,1663 117,1650"/>
+        <Baseline points="121,1637 1005,1655 1482,1650"/>
+        <TextEquiv>
+          <Unicode>Wahrheit nicht als einen Lehrſatz ausgeſprochen, nicht unter die Formel eines</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b766007" >
+        <Coords points="119,1689 117,1650 613,1644 616,1644 616,1644 676,1657 683,1657 687,1657 740,1648 740,1648 742,1648 1438,1668 1475,1707 1471,1722 117,1713"/>
+        <Baseline points="119,1689 1475,1707"/>
+        <TextEquiv>
+          <Unicode>Begriffes oder einer Vorſtellung gebracht hat. Sie iſt eben Leben, pei</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a660269" >
+        <Coords points="121,1746 121,1692 182,1703 280,1694 296,1694 298,1694 298,1694 298,1694 309,1696 365,1705 544,1700 639,1698 642,1698 642,1698 644,1698 663,1703 690,1709 718,1705 740,1700 740,1700 742,1700 1186,1716 1188,1759 1186,1774 870,1776 868,1776 868,1776 835,1772 770,1763 751,1772 744,1774 744,1774 742,1774 742,1774 742,1774 740,1774 740,1774 740,1774 737,1774 737,1774 731,1772 711,1763 674,1772 657,1774 657,1774 657,1774 655,1774 655,1774 655,1774 653,1774 653,1774 653,1774 650,1774 646,1770 631,1759 474,1759 119,1766"/>
+        <Baseline points="121,1746 1188,1759"/>
+        <TextEquiv>
+          <Unicode>ſönliches Leben. Der Dichter hat Recht, wenn er ſagt:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0c8f2a5" >
+        <Coords points="352,1800 352,1744 404,1755 583,1748 639,1748 642,1748 642,1748 644,1748 644,1748 644,1748 646,1748 646,1748 646,1750 648,1750 657,1759 740,1753 792,1750 794,1750 794,1750 794,1750 796,1750 796,1750 796,1750 798,1750 805,1755 814,1761 855,1757 892,1753 892,1753 894,1753 1238,1768 1238,1813 1234,1831 348,1822"/>
+        <Baseline points="352,1800 1238,1813"/>
+        <TextEquiv>
+          <Unicode>Wenn ihr&#39;s nicht fühlt, ihr werdet&#39;s nicht erjagen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eabfde1a" >
+        <Coords points="350,1855 350,1809 1007,1818 1010,1863 1005,1883 346,1877"/>
+        <Baseline points="350,1855 1010,1863"/>
+        <TextEquiv>
+          <Unicode>Wenn es nicht aus der Seele dringt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_221ab671" >
+        <Coords points="352,1909 352,1866 879,1870 879,1909 877,1935 350,1933"/>
+        <Baseline points="352,1909 879,1909"/>
+        <TextEquiv>
+          <Unicode>Und mit urkräftigem Behagen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01f2c6a2" >
+        <Coords points="352,1961 352,1916 1003,1922 1005,1966 1001,1987 528,1977 520,1977 461,1987 461,1987 459,1987 459,1987 348,1972"/>
+        <Baseline points="352,1961 1005,1966"/>
+        <TextEquiv>
+          <Unicode>Die Herzen aller Hörer zwingt. ...</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ac9ade0" >
+        <Coords points="352,2018 350,1974 805,1968 807,1968 807,1968 809,1968 809,1968 838,1979 842,1981 1033,1981 1036,2024 1031,2040 348,2029"/>
+        <Baseline points="352,2018 1036,2024"/>
+        <TextEquiv>
+          <Unicode>Ja, eure Reden, die ſo blinkend ſind,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3bae9a60" >
+        <Coords points="348,2070 346,2027 840,2022 842,2022 842,2022 844,2022 844,2022 844,2022 846,2022 846,2022 857,2033 859,2033 872,2033 959,2024 959,2024 962,2024 1160,2037 1182,2081 1177,2103 907,2101 907,2101 907,2101 901,2101 835,2088 716,2098 698,2098 696,2098 696,2098 696,2098 694,2098 694,2098 694,2098 692,2098 692,2098 692,2098 676,2085 346,2092"/>
+        <Baseline points="348,2070 1182,2081"/>
+        <TextEquiv>
+          <Unicode>In denen ihr der Menſchheit Schnitzel kräuſelt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5708ba35" >
+        <Coords points="350,2124 348,2081 1025,2074 1029,2129 1025,2151 346,2138"/>
+        <Baseline points="350,2124 1029,2129"/>
+        <TextEquiv>
+          <Unicode>Sind unerquicklich wie der Nebelwind,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b9b775f" >
+        <Coords points="348,2177 348,2131 1173,2144 1173,2190 1171,2201 487,2203 485,2203 343,2188"/>
+        <Baseline points="348,2177 1173,2190"/>
+        <TextEquiv>
+          <Unicode>Der herbſtlich durch die dürren Blätter ſäuſelt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b477d07" >
+        <Coords points="202,2229 202,2185 1469,2203 1480,2244 1478,2257 568,2259 565,2259 198,2240"/>
+        <Baseline points="202,2229 1480,2244"/>
+        <TextEquiv>
+          <Unicode>Und tiefer und kürzer noch ſagt es die heilige Schrift: „Das Reich Gottes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_779b8986" >
+        <Coords points="117,2283 117,2227 291,2229 291,2229 291,2229 293,2229 293,2229 298,2229 335,2244 365,2231 367,2231 367,2231 370,2231 370,2231 372,2231 372,2231 372,2231 380,2231 441,2244 461,2233 468,2231 468,2231 468,2231 470,2231 470,2231 470,2231 472,2231 472,2231 474,2231 474,2231 474,2231 481,2233 509,2246 737,2240 846,2238 848,2238 848,2238 851,2238 870,2244 899,2251 973,2246 1029,2242 1031,2242 1284,2253 1356,2255 1367,2255 1451,2242 1451,2242 1454,2242 1454,2242 1454,2242 1456,2242 1456,2242 1458,2242 1484,2257 1482,2298 1480,2307 1295,2320 1293,2320 1293,2320 1197,2309 1092,2318 1092,2318 1090,2318 1090,2318 1088,2318 1088,2318 1088,2318 1086,2318 1086,2318 1073,2307 905,2316 903,2316 903,2316 903,2316 901,2316 901,2316 901,2316 899,2316 899,2316 899,2314 885,2303 770,2314 770,2314 768,2314 768,2314 768,2314 766,2314 766,2314 740,2303 705,2314 703,2314 703,2314 703,2314 700,2314 700,2314 589,2301 511,2312 511,2312 509,2312 509,2312 509,2312 439,2298 180,2305 178,2305 178,2305 115,2292"/>
+        <Baseline points="117,2283 1482,2298"/>
+        <TextEquiv>
+          <Unicode>ſtehet nicht in Worten, ſondern in Kraft“ (1. Cor. 4, 20). Die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_148c6620" >
+        <Coords points="113,2333 111,2292 444,2283 446,2283 446,2283 448,2283 448,2283 448,2283 450,2283 450,2283 450,2283 463,2296 465,2296 478,2296 585,2285 585,2285 587,2285 587,2285 589,2285 589,2285 622,2296 629,2298 657,2298 816,2290 818,2290 818,2290 818,2290 820,2290 820,2290 820,2290 840,2301 842,2301 846,2301 892,2290 892,2290 892,2290 894,2290 894,2290 894,2290 959,2301 968,2303 975,2303 1003,2294 1005,2294 1005,2294 1007,2294 1482,2309 1482,2351 1480,2364 629,2366 626,2366 111,2346"/>
+        <Baseline points="113,2333 1482,2351"/>
+        <TextEquiv>
+          <Unicode>religiöſe, die höchſte Wahrheit, der Wahrheitsmittelpunkt, hat eben darum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8dda425b" >
+        <Coords points="117,2390 117,2335 204,2346 317,2338 333,2338 335,2338 335,2338 335,2338 337,2338 341,2338 389,2353 489,2342 507,2340 507,2340 509,2340 509,2340 511,2340 511,2340 511,2340 513,2340 513,2340 513,2342 513,2342 526,2355 801,2355 816,2346 827,2342 827,2342 829,2342 829,2342 829,2342 831,2342 831,2342 831,2342 833,2342 833,2342 835,2342 844,2346 857,2355 890,2349 912,2344 912,2344 912,2344 914,2344 914,2344 916,2344 916,2344 929,2349 955,2359 1475,2359 1478,2401 1475,2436 1421,2436 1419,2436 1390,2451 1390,2451 1390,2451 1388,2451 1388,2451 1386,2451 1386,2451 1236,2436 1203,2433 1033,2436 1033,2436 1023,2446 1023,2449 1023,2449 1020,2449 1020,2449 1020,2449 1018,2449 1018,2449 1016,2449 1016,2449 1016,2449 964,2438 944,2433 899,2438 844,2442 844,2442 842,2442 842,2442 840,2442 840,2442 840,2442 838,2442 838,2442 833,2438 827,2431 803,2438 770,2446 768,2446 768,2446 766,2446 766,2446 766,2446 716,2438 687,2433 679,2438 668,2446 666,2446 666,2446 666,2446 663,2446 663,2446 661,2446 661,2446 661,2446 659,2446 659,2446 659,2446 657,2446 646,2438 631,2429 592,2438 570,2444 568,2444 568,2444 565,2444 404,2442 404,2442 404,2442 402,2442 402,2442 400,2442 400,2442 398,2440 387,2431 363,2440 354,2442 352,2442 352,2442 352,2442 350,2442 350,2442 348,2442 348,2442 348,2442 346,2442 346,2442 343,2440 330,2429 280,2440 267,2442 267,2442 265,2442 113,2440"/>
+        <Baseline points="117,2390 1478,2401"/>
+        <TextEquiv>
+          <Unicode>Perſon werden und in der vollendeten Erſcheinung des Gottmen⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

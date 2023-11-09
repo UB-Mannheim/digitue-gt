@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1871_01/stml_1871_01_00002.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:01:32.047939+00:00</Created>
+        <LastChange>2022-02-23T19:01:32.047963+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1871_01_00002.jpg" imageWidth="1420" imageHeight="2339">
+    <TextRegion id="eSc_textblock_ce186caa"  >
+      <Coords points="1020,1580 889,1604 585,1572 552,1606 591,1621 575,1689 249,1697 241,1567 280,1504 996,1512 1020,1580"/>
+      <TextLine id="eSc_line_8038da83" >
+        <Coords points="271,1557 265,1514 310,1502 312,1502 312,1502 314,1502 795,1504 799,1551 797,1569 271,1574"/>
+        <Baseline points="271,1557 799,1551"/>
+        <TextEquiv>
+          <Unicode>N12&lt;516419875 021</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4faf33bc"  >
+      <Coords points="1082,1705 741,1713 749,1660 959,1621 1059,1621 1082,1705"/>
+      <TextLine id="eSc_line_842a492c" >
+        <Coords points="743,1707 743,1664 797,1664 811,1652 834,1637 836,1637 836,1637 836,1637 838,1637 838,1637 840,1637 938,1637 938,1707 938,1750 869,1750 867,1748 867,1748 866,1748 866,1748 866,1748 866,1748 864,1748 846,1736 743,1746"/>
+        <Baseline points="743,1707 938,1707"/>
+        <TextEquiv>
+          <Unicode>ubTÜBINGEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

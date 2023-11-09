@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00021.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.166685+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.166704+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="akzs_1860_00021.jpg" imageWidth="1497" imageHeight="2610">
+    <TextRegion id="eSc_textblock_d42ec0a4"  >
+      <Coords points="661,60 711,60 720,93 661,110 661,60"/>
+      <TextLine id="eSc_line_243504ef" >
+        <Coords points="657,97 652,54 704,52 711,93 711,108 657,110"/>
+        <Baseline points="657,97 711,93"/>
+        <TextEquiv>
+          <Unicode>19</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_04831bc2"  >
+      <Coords points="859,1120 8,1102 8,348 52,311 8,258 17,182 644,165 1381,174 1381,1067 966,1076 859,1120"/>
+      <TextLine id="eSc_line_09cbaa78" >
+        <Coords points="15,208 10,160 1362,158 1368,195 1368,219 15,224"/>
+        <Baseline points="16,210 1370,197"/>
+        <TextEquiv>
+          <Unicode>ſchen in die Welt treten müſſen, um die Welt zu überzeugen, daß die Wahrheit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92d0a401" >
+        <Coords points="13,256 10,210 1362,210 1366,250 1364,278 13,278"/>
+        <Baseline points="15,258 559,267 1368,252"/>
+        <TextEquiv>
+          <Unicode>reicher iſt als der Begriff, größer als ein Lehrſatz, gewaltiger als eine Formel.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d16987f3" >
+        <Coords points="89,321 84,269 1359,258 1366,306 1364,319 89,334"/>
+        <Baseline points="89,321 1366,306"/>
+        <TextEquiv>
+          <Unicode>Zur Wahrheit gehört, daß ſie ein Ausdruck perſönlicher Ueberzeu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7af5704d" >
+        <Coords points="15,365 10,321 1362,308 1368,354 1366,371 15,384"/>
+        <Baseline points="17,367 648,371 1370,356"/>
+        <TextEquiv>
+          <Unicode>gung iſt, daß wir an ſie glauben. Woran wir nicht glauben, das iſt für</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e8e0662" >
+        <Coords points="13,419 8,378 1366,363 1372,411 1370,428 13,437"/>
+        <Baseline points="15,421 1375,413"/>
+        <TextEquiv>
+          <Unicode>uns nicht wahr, wenn es auch an ſich wahr iſt; ſo lange wir nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_86981896" >
+        <Coords points="17,471 13,428 1366,421 1372,463 1370,485 17,491"/>
+        <Baseline points="17,471 463,478 1372,463"/>
+        <TextEquiv>
+          <Unicode>glauben, können wir auch nicht mit unſerm Innerſten für die Wahrheit ein⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b176eabc" >
+        <Coords points="19,522 17,476 1370,478 1375,515 1372,532 19,541"/>
+        <Baseline points="19,522 585,530 1375,515"/>
+        <TextEquiv>
+          <Unicode>ſtehen, nicht mit gutem Gewiſſen etwas dafür wagen. Darum, weil das deutſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c60ceef" >
+        <Coords points="19,578 17,530 1366,532 1370,572 1368,595 19,595"/>
+        <Baseline points="19,578 1370,572"/>
+        <TextEquiv>
+          <Unicode>Volk Wahrheit in der Religion will, hat es das Bedürfuiß nach einer glaub⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a534a564" >
+        <Coords points="15,628 13,580 1370,580 1375,624 1372,643 15,645"/>
+        <Baseline points="15,628 620,637 1375,624"/>
+        <TextEquiv>
+          <Unicode>haften und wirklich geglaubten Religion. Die Religion iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29f5f9dc" >
+        <Coords points="15,680 15,630 1366,630 1370,678 1368,693 15,698"/>
+        <Baseline points="15,680 676,689 1370,678"/>
+        <TextEquiv>
+          <Unicode>unſerm Volke Gewiſſensſache, das Chriſtenthum Herzensange⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8733d902" >
+        <Coords points="19,735 19,685 1372,691 1377,730 1375,748 19,752"/>
+        <Baseline points="19,735 757,741 1377,730"/>
+        <TextEquiv>
+          <Unicode>legenheit. Andere Völker haben aus der Religion eine Machtfrage, aus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_66e550b1" >
+        <Coords points="15,791 13,741 1375,741 1379,787 1377,800 15,804"/>
+        <Baseline points="15,791 1379,787"/>
+        <TextEquiv>
+          <Unicode>dem Chriſtenthum eine Staatsangelegenheit gemacht. Das geht uns gegen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_443eb99e" >
+        <Coords points="15,841 15,791 1379,791 1379,841 1377,859 13,856"/>
+        <Baseline points="15,841 1379,841"/>
+        <TextEquiv>
+          <Unicode>unſere innerſte Ueberzeugung. Wir haben den Beruf, das Chriſtenthum in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b72325d2" >
+        <Coords points="19,896 17,846 1375,848 1379,891 1377,906 19,911"/>
+        <Baseline points="19,896 1379,891"/>
+        <TextEquiv>
+          <Unicode>ſeiner Wahrheit und Glaubhaftigkeit der Menſchheit zu erhalten. Wir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04a09c7e" >
+        <Coords points="17,950 15,902 1375,904 1381,941 1379,963 17,965"/>
+        <Baseline points="17,950 1381,941"/>
+        <TextEquiv>
+          <Unicode>ſind darum das Volk der Reformation, und uns hat Gott es beſchieden, die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea0ecdb5" >
+        <Coords points="17,1004 13,961 1368,943 1381,996 1379,1013 17,1020"/>
+        <Baseline points="17,1004 1381,996"/>
+        <TextEquiv>
+          <Unicode>größte That der Weltgeſchichte ſeit Chriſti Geburt zu vollziehen. Es kann uns</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_edfd73b6" >
+        <Coords points="19,1054 17,1007 1375,1009 1381,1050 1379,1072 19,1072"/>
+        <Baseline points="19,1054 1381,1050"/>
+        <TextEquiv>
+          <Unicode>nicht ſchwer fallen, die Aufgabe der deutſch⸗evangeliſchen Kirche von dieſem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62b0023e" >
+        <Coords points="19,1107 17,1067 290,1071 356,1072 376,1059 378,1059 380,1059 509,1067 541,1057 543,1057 546,1057 707,1057 709,1057 711,1057 728,1067 861,1057 863,1057 865,1057 868,1057 909,1080 909,1102 907,1117 17,1115"/>
+        <Baseline points="19,1107 909,1102"/>
+        <TextEquiv>
+          <Unicode>innerſten Punkte aus in das nähere Licht zu ſetzen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_335184f3"  >
+      <Coords points="868,1285 522,1294 539,1244 676,1244 687,1174 728,1191 704,1235 850,1252 868,1285"/>
+      <TextLine id="eSc_line_6cc7e981" >
+        <Coords points="672,1213 674,1165 720,1181 718,1213 718,1231 672,1231"/>
+        <Baseline points="672,1213 718,1213"/>
+        <TextEquiv>
+          <Unicode>4.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_121d154f"  >
+      <Coords points="1068,2433 981,2390 26,2390 17,1392 95,1331 1390,1339 1399,2390 1157,2390 1068,2433"/>
+      <TextLine id="eSc_line_1d1628df" >
+        <Coords points="100,1372 97,1324 1383,1326 1388,1368 1386,1383 100,1385"/>
+        <Baseline points="100,1372 1388,1368"/>
+        <TextEquiv>
+          <Unicode>Ihre erſte Aufgabe kann keine andere ſein, als den Grundſätzen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_09f1b2ba" >
+        <Coords points="21,1418 21,1370 1381,1372 1383,1422 1379,1442 19,1433"/>
+        <Baseline points="21,1418 1383,1422"/>
+        <TextEquiv>
+          <Unicode>und Grundwahrheiten der Reformation treu zu bleiben, und das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92522223" >
+        <Coords points="21,1476 19,1433 1386,1428 1388,1476 1388,1494 21,1494"/>
+        <Baseline points="21,1476 1388,1476"/>
+        <TextEquiv>
+          <Unicode>edelſte Kleinod, das Gott unſerm Volke geſchenkt hat, um keinen Preis dahin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ec85303" >
+        <Coords points="23,1531 19,1492 1379,1485 1386,1524 1383,1542 23,1548"/>
+        <Baseline points="23,1531 1386,1524"/>
+        <TextEquiv>
+          <Unicode>zu geben. Wir ſind als deutſche Proteſtanten die Bewahrung und Reiner⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1e085ed" >
+        <Coords points="23,1585 21,1537 1381,1537 1386,1576 1383,1594 23,1602"/>
+        <Baseline points="23,1585 1386,1576"/>
+        <TextEquiv>
+          <Unicode>haltung der reformatoriſchen Güter nicht nur uns und unſern Kindern, ſon⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d92d0db1" >
+        <Coords points="21,1637 19,1589 1381,1592 1386,1631 1383,1648 21,1655"/>
+        <Baseline points="21,1637 1386,1631"/>
+        <TextEquiv>
+          <Unicode>dern auch den deutſchen Katholiken ſchuldig. Der deutſche Katho⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d4e63f91" >
+        <Coords points="23,1692 19,1642 1381,1639 1388,1685 1386,1700 23,1707"/>
+        <Baseline points="23,1692 1388,1685"/>
+        <TextEquiv>
+          <Unicode>licismus iſt — ſeit längerer Zeit — im Ganzen ein veredelter Katholicismus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8db8521e" >
+        <Coords points="21,1746 17,1705 1383,1698 1390,1737 1388,1759 21,1763"/>
+        <Baseline points="21,1746 1390,1737"/>
+        <TextEquiv>
+          <Unicode>geweſen. Der Proteſtantismus, der den Strahl ſeines Lichtes ſeit der großen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_57b4a0c0" >
+        <Coords points="26,1798 21,1750 1383,1746 1390,1790 1388,1807 26,1816"/>
+        <Baseline points="26,1798 1390,1790"/>
+        <TextEquiv>
+          <Unicode>Umwälzung des Reichs während der napoleoniſchen Kriege bis in die äußerſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a5d02a7c" >
+        <Coords points="26,1850 21,1805 1379,1796 1386,1844 1383,1859 26,1866"/>
+        <Baseline points="26,1850 1386,1844"/>
+        <TextEquiv>
+          <Unicode>Enden auch der ehemaligen geiſtlichen Reichsgebiete geſendet hat, hat viele Miß⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d41fbb9" >
+        <Coords points="26,1905 23,1855 1383,1857 1388,1896 1386,1913 26,1922"/>
+        <Baseline points="26,1905 1388,1896"/>
+        <TextEquiv>
+          <Unicode>bräuche und Irrthümer innerhalb der deutſchen katholiſchen Kirche ſelbſt zer⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa22e79e" >
+        <Coords points="28,1957 23,1918 1386,1903 1392,1948 1390,1968 28,1977"/>
+        <Baseline points="28,1957 1392,1948"/>
+        <TextEquiv>
+          <Unicode>ſtreut, und wo deutſche Bildung ihre Segnungen verbreitet hat, da iſt ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_890b6473" >
+        <Coords points="26,2011 21,1964 1386,1957 1392,2000 1390,2018 26,2029"/>
+        <Baseline points="26,2011 1392,2000"/>
+        <TextEquiv>
+          <Unicode>dumpfer Ceremoniendienſt und äußeres Werkgepränge faſt zur Unmöglichkeit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e64335c3" >
+        <Coords points="28,2068 23,2020 1383,2011 1390,2053 1388,2077 28,2083"/>
+        <Baseline points="28,2068 1390,2053"/>
+        <TextEquiv>
+          <Unicode>geworden. Duldſamkeit und Gewiſſensfreiheit ſtehen großentheils auch bei un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9299f765" >
+        <Coords points="30,2118 28,2070 1390,2070 1394,2109 1394,2124 30,2133"/>
+        <Baseline points="30,2118 1394,2109"/>
+        <TextEquiv>
+          <Unicode>ſeren katholiſchen Mitchriſten in hoher Achtung, und wir Proteſtanten wiſſen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ce18d89" >
+        <Coords points="28,2170 23,2127 1303,2120 1309,2164 1307,2181 28,2188"/>
+        <Baseline points="28,2170 1309,2164"/>
+        <TextEquiv>
+          <Unicode>umgekehrt den Chriſten auch im Katholiken zu ehren und zu lieben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_18be1463" >
+        <Coords points="108,2229 104,2183 1383,2172 1390,2214 1388,2233 108,2244"/>
+        <Baseline points="108,2229 1390,2214"/>
+        <TextEquiv>
+          <Unicode>Aber ſind denn etwa gegenwärtig die Güter und Segnungen des Prote⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_838f7a18" >
+        <Coords points="28,2279 23,2231 1386,2227 1392,2266 1390,2283 28,2296"/>
+        <Baseline points="28,2279 1392,2266"/>
+        <TextEquiv>
+          <Unicode>ſtantismus unter uns bedroht oder gefährdet? Wir wollen nicht von den Be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16bf81e4" >
+        <Coords points="30,2333 26,2285 1388,2279 1394,2320 1392,2338 30,2351"/>
+        <Baseline points="30,2333 1394,2320"/>
+        <TextEquiv>
+          <Unicode>ſtrebungen reden, welche katholiſcherſeits die Rückkehr der deutſchen Proteſtan⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34e32b26" >
+        <Coords points="28,2383 23,2338 1392,2335 1399,2377 1396,2412 1172,2412 1170,2409 1170,2409 1168,2409 1166,2409 1127,2399 913,2399 902,2407 900,2412 900,2412 898,2412 898,2412 898,2412 896,2412 896,2412 896,2414 739,2414 737,2412 737,2412 735,2412 735,2412 724,2407 709,2401 700,2407 696,2412 696,2412 694,2412 694,2412 691,2412 691,2412 691,2412 689,2412 615,2407 524,2401 472,2405 402,2414 402,2414 400,2414 26,2403"/>
+        <Baseline points="28,2383 1399,2377"/>
+        <TextEquiv>
+          <Unicode>ten in die katholiſche Kirche bewirken ſollen. Dieſe haben wir am wenigſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_751a7edb" >
+        <Coords points="1035,2420 1035,2370 1085,2379 1085,2422 1083,2429 1033,2440"/>
+        <Baseline points="1037,2421 1086,2423"/>
+        <TextEquiv>
+          <Unicode>2*</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_a51d323d" >
+        <Coords points="530,1294 530,1215 855,1218 855,1294 855,1339 530,1339"/>
+        <Baseline points="530,1294 855,1294"/>
+        <TextEquiv>
+          <Unicode>Der Glaube.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

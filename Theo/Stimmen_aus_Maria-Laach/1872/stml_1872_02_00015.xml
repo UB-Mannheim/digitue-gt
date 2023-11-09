@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00015.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.248064+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.248079+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00015.jpg" imageWidth="1522" imageHeight="2481">
+    <TextRegion id="eSc_textblock_43e5c8bf"  >
+      <Coords points="717,121 686,121 694,74 725,82 717,121"/>
+      <TextLine id="eSc_line_7a01b7f5" >
+        <Coords points="684,115 678,80 709,70 717,111 719,140 686,140"/>
+        <Baseline points="684,115 717,111"/>
+        <TextEquiv>
+          <Unicode>9</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_628152f1"  >
+      <Coords points="1346,2321 223,2321 66,2296 74,173 1346,173 1346,2321"/>
+      <TextLine id="eSc_line_70b9d5c6" >
+        <Coords points="66,212 66,173 1342,173 1342,212 1342,223 66,223"/>
+        <Baseline points="66,212 1342,212"/>
+        <TextEquiv>
+          <Unicode>oder vermengt werden, und die unendliche Gottheit kann nie ein Theil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ab85344c" >
+        <Coords points="64,268 64,229 194,229 198,227 217,217 217,217 217,217 219,217 219,217 219,217 221,217 221,217 287,225 299,227 306,225 335,217 337,217 337,217 337,217 339,217 339,217 413,225 440,229 634,229 641,223 647,217 647,217 649,217 649,217 649,217 651,217 651,217 651,217 653,217 653,217 698,223 742,229 914,229 934,221 942,217 942,217 945,217 945,217 947,217 1009,219 1170,227 1199,217 1203,217 1205,217 1205,217 1205,217 1207,217 1207,217 1207,217 1209,217 1209,217 1211,217 1236,227 1267,217 1269,217 1271,217 1271,217 1271,217 1273,217 1273,217 1275,217 1275,217 1275,217 1304,227 1337,217 1342,268 1340,283 62,279"/>
+        <Baseline points="64,268 1342,268"/>
+        <TextEquiv>
+          <Unicode>eines größern Ganzen werden. Dann wäre auch Chriſtus weder Gott</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b42c849b" >
+        <Coords points="66,322 64,281 322,272 324,272 324,272 324,272 326,272 326,272 326,272 328,272 328,272 337,281 341,285 572,285 587,283 688,272 688,272 690,272 690,272 692,272 692,272 692,272 713,283 717,285 729,283 781,274 781,274 783,274 1240,285 1246,285 1246,285 1286,274 1288,274 1288,274 1288,274 1290,274 1290,274 1292,274 1337,287 1342,326 1337,334 64,332"/>
+        <Baseline points="66,322 1342,326"/>
+        <TextEquiv>
+          <Unicode>noch Menſch, ſondern ein unnennbares Drittes. — Gibt es etwa einen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f7dc455" >
+        <Coords points="64,380 62,334 1337,330 1340,380 1340,394 64,394"/>
+        <Baseline points="64,380 1340,380"/>
+        <TextEquiv>
+          <Unicode>doppelten Chriſtus, der Eine Menſch, der Andere Gott, aber durch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_336a8e96" >
+        <Coords points="66,438 64,388 1333,392 1337,434 1333,454 64,448"/>
+        <Baseline points="66,438 1337,434"/>
+        <TextEquiv>
+          <Unicode>Liebe und Freundſchaft mit einander vereint? Unmöglich: denn auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb7f2771" >
+        <Coords points="66,494 66,446 1342,452 1342,494 1340,510 64,506"/>
+        <Baseline points="66,494 1342,494"/>
+        <TextEquiv>
+          <Unicode>die innigſte Freundſchaft, die ja nur unter wenigſtens Zweien beſtehen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0840dab9" >
+        <Coords points="66,547 68,494 103,506 239,496 252,496 254,496 254,496 264,496 343,506 370,498 376,496 378,496 378,496 378,496 380,496 380,496 382,496 382,496 382,496 384,496 386,498 401,506 612,502 783,498 785,498 785,498 787,498 787,498 787,498 802,504 808,508 810,504 816,500 816,498 816,498 818,498 818,498 818,498 820,498 820,498 823,498 1129,510 1174,510 1174,510 1184,502 1184,500 1184,500 1186,500 1186,500 1186,500 1189,500 1189,500 1191,500 1315,500 1315,500 1315,500 1317,500 1317,500 1317,500 1319,500 1340,512 1337,554 1333,562 64,558"/>
+        <Baseline points="66,547 1337,554"/>
+        <TextEquiv>
+          <Unicode>kann, hebt die Perſönlichkeiten der Liebenden nicht auf, und Chriſtus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf586054" >
+        <Coords points="66,607 68,556 113,566 287,558 328,556 330,556 477,556 477,556 477,556 479,556 479,556 488,560 504,566 579,560 632,556 632,556 634,556 634,556 636,556 636,556 651,560 665,566 672,560 678,556 678,556 680,556 680,556 680,556 682,556 682,556 684,556 684,556 684,556 711,562 736,566 761,562 796,556 796,556 798,556 798,556 798,556 800,556 823,562 835,566 845,562 864,556 864,556 866,556 866,556 868,556 868,556 868,556 870,556 870,556 870,556 872,556 872,556 872,558 878,562 883,566 893,562 918,556 920,556 920,556 922,556 1127,566 1166,566 1170,566 1205,556 1207,556 1207,556 1207,556 1209,556 1342,568 1342,607 1342,620 66,622"/>
+        <Baseline points="66,607 1342,607"/>
+        <TextEquiv>
+          <Unicode>der als Menſch auf Erden gewandelt, eignet ſeinem einzigen Ich, wie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c38525b" >
+        <Coords points="66,661 68,607 103,620 496,611 674,609 676,609 676,609 678,609 678,609 678,609 690,616 707,624 911,624 920,618 926,611 926,611 928,611 928,611 928,611 930,611 930,611 932,611 932,611 932,611 965,618 984,622 1005,618 1046,611 1046,611 1048,611 1335,624 1342,665 1340,676 66,678"/>
+        <Baseline points="66,661 1342,665"/>
+        <TextEquiv>
+          <Unicode>das Menſchliche, ſo alles Göttliche an. Wir müſſen alſo die Ausſage</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8757892f" >
+        <Coords points="68,723 59,682 78,669 80,669 80,669 80,669 82,669 82,669 84,669 641,678 709,667 709,667 711,667 1335,678 1342,719 1340,731 68,736"/>
+        <Baseline points="68,723 1342,719"/>
+        <TextEquiv>
+          <Unicode>Chriſti ſo verſtehen, wie ſie an verſchiedenen Stellen der heiligen Schriften</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2607dc34" >
+        <Coords points="66,779 64,733 1335,736 1342,775 1340,787 66,791"/>
+        <Baseline points="66,779 1342,775"/>
+        <TextEquiv>
+          <Unicode>und in der Lehre der Kirche gegen verſchiedene Irrlehrer des Nähern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e09be15a" >
+        <Coords points="64,835 64,791 597,791 597,835 595,851 62,845"/>
+        <Baseline points="64,835 597,835"/>
+        <TextEquiv>
+          <Unicode>erklärt worden iſt. Nämlich:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7cc288ce" >
+        <Coords points="153,891 150,843 1337,843 1342,886 1340,905 153,905"/>
+        <Baseline points="153,891 1342,886"/>
+        <TextEquiv>
+          <Unicode>Die zweite Perſon der göttlichen Dreieinigkeit hat, ohne an ihrer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70624639" >
+        <Coords points="64,948 55,909 74,897 76,897 76,897 76,897 78,897 78,897 80,897 1340,901 1344,944 1342,959 64,963"/>
+        <Baseline points="64,948 1344,944"/>
+        <TextEquiv>
+          <Unicode>Gottheit irgend welche Veränderung zu erleiden, durch die Allmacht der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dbfcd1e1" >
+        <Coords points="66,1008 64,961 876,961 880,959 922,948 924,948 924,948 926,948 926,948 1007,959 1017,959 1021,959 1052,946 1052,946 1054,946 1054,946 1056,946 1056,946 1056,946 1058,946 1100,959 1335,959 1342,1000 1340,1015 66,1023"/>
+        <Baseline points="66,1008 1342,1000"/>
+        <TextEquiv>
+          <Unicode>göttlichen Liebe, welche den erſten Menſchen erſchaffen, im Schooße der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c91d03d9" >
+        <Coords points="66,1060 64,1019 719,1008 721,1008 721,1008 721,1008 769,1019 773,1019 777,1019 860,1008 860,1008 862,1008 862,1008 922,1019 924,1019 924,1019 938,1008 940,1008 940,1008 940,1008 942,1008 942,1008 945,1008 945,1008 1054,1019 1056,1019 1058,1019 1141,1008 1141,1008 1143,1008 1143,1008 1226,1019 1271,1008 1273,1008 1273,1008 1275,1008 1275,1008 1342,1021 1342,1060 1340,1073 64,1070"/>
+        <Baseline points="66,1060 1342,1060"/>
+        <TextEquiv>
+          <Unicode>reinen Jungfrau, wie es einem Gotte ziemte, ohne menſchlichen Vater</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95247549" >
+        <Coords points="66,1120 64,1075 423,1066 425,1066 425,1066 428,1066 459,1075 467,1077 481,1075 535,1066 535,1066 537,1066 537,1066 537,1066 539,1066 570,1075 579,1077 587,1075 628,1066 628,1066 628,1066 630,1066 630,1066 632,1066 632,1066 632,1066 634,1066 634,1066 634,1068 643,1075 645,1079 820,1079 829,1077 887,1066 887,1066 887,1066 889,1066 889,1066 953,1077 957,1077 959,1077 971,1066 971,1066 973,1066 973,1066 973,1066 976,1066 976,1066 978,1066 1075,1066 1075,1066 1075,1066 1141,1077 1145,1077 1149,1077 1257,1066 1257,1066 1259,1066 1259,1066 1342,1079 1342,1120 1342,1137 66,1137"/>
+        <Baseline points="66,1120 1342,1120"/>
+        <TextEquiv>
+          <Unicode>ſich einen menſchlichen Leib und eine menſchliche Seele ſo angeeignet,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d5b684c" >
+        <Coords points="66,1174 66,1126 1342,1135 1342,1174 1342,1186 66,1188"/>
+        <Baseline points="66,1174 1342,1174"/>
+        <TextEquiv>
+          <Unicode>daß Er ſagen konnte: Dieſer Leib iſt mein Leib, dieſe Seele iſt meine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba9ac3b6" >
+        <Coords points="68,1232 68,1180 1344,1188 1344,1232 1344,1244 68,1246"/>
+        <Baseline points="68,1232 1344,1232"/>
+        <TextEquiv>
+          <Unicode>Seele. So war ſeine göttliche Perſönlichkeit die Inhaberin der göttlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42dd81d4" >
+        <Coords points="68,1285 68,1246 1342,1248 1342,1285 1340,1306 66,1304"/>
+        <Baseline points="68,1285 1342,1285"/>
+        <TextEquiv>
+          <Unicode>und menſchlichen Natur: wahrer Gott und wahrer Menſch in einer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c67dab9f" >
+        <Coords points="70,1345 66,1304 204,1300 210,1341 210,1356 70,1366"/>
+        <Baseline points="70,1345 210,1341"/>
+        <TextEquiv>
+          <Unicode>Perſon.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a8fe186" >
+        <Coords points="153,1403 144,1362 159,1350 159,1350 161,1350 161,1350 161,1350 163,1350 163,1350 165,1350 1340,1356 1344,1397 1342,1410 153,1424"/>
+        <Baseline points="153,1403 1344,1397"/>
+        <TextEquiv>
+          <Unicode>Iſt nun etwa dieſe Aneignung der menſchlichen Natur durch eine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f41238f" >
+        <Coords points="68,1457 59,1420 82,1405 84,1405 84,1405 84,1405 86,1405 86,1405 88,1405 88,1405 194,1416 231,1405 233,1405 233,1405 235,1405 235,1405 330,1418 479,1418 490,1407 490,1405 490,1405 492,1405 492,1405 492,1405 494,1405 494,1405 496,1405 496,1405 595,1416 636,1405 638,1405 638,1405 641,1405 641,1405 641,1405 701,1416 701,1416 703,1416 748,1403 750,1403 750,1403 752,1403 752,1403 752,1403 802,1414 876,1403 876,1403 878,1403 878,1403 878,1403 880,1403 880,1403 909,1414 942,1403 945,1403 945,1403 945,1403 947,1403 947,1403 947,1403 949,1403 982,1414 1189,1403 1191,1403 1340,1414 1344,1453 1340,1474 66,1467"/>
+        <Baseline points="68,1457 1344,1453"/>
+        <TextEquiv>
+          <Unicode>göttliche Perſon unmöglich? Wer wollte das behaupten? Dieſe Ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a12f254" >
+        <Coords points="68,1509 66,1467 916,1461 918,1461 918,1461 920,1461 957,1472 963,1474 1342,1474 1344,1515 1342,1525 922,1536 920,1536 66,1521"/>
+        <Baseline points="68,1509 1344,1515"/>
+        <TextEquiv>
+          <Unicode>einigung, weil einzig in ihrer Art, kann durch keine andere vollkommen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d943197f" >
+        <Coords points="68,1571 68,1519 200,1529 272,1519 287,1519 287,1519 289,1519 289,1519 289,1519 299,1521 341,1532 469,1532 485,1521 492,1519 492,1519 492,1519 494,1519 494,1519 496,1519 496,1519 496,1519 498,1519 498,1519 498,1519 500,1519 504,1523 514,1529 535,1523 545,1519 548,1519 548,1519 548,1519 550,1519 550,1519 576,1523 616,1529 663,1523 705,1519 707,1519 785,1519 785,1519 785,1519 787,1519 787,1519 787,1519 789,1519 789,1519 796,1525 802,1529 823,1525 860,1519 860,1519 862,1519 862,1519 862,1519 864,1519 864,1519 864,1519 878,1525 883,1529 889,1525 899,1519 901,1519 901,1519 903,1519 903,1519 903,1519 905,1519 905,1519 905,1519 907,1519 907,1519 909,1519 909,1519 918,1527 924,1529 961,1527 1052,1519 1054,1519 1346,1532 1346,1571 1346,1585 68,1585"/>
+        <Baseline points="68,1571 1346,1571"/>
+        <TextEquiv>
+          <Unicode>ähnliche erklärt und begreiflich gemacht werden und bleibt darum ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f7e05c5b" >
+        <Coords points="70,1622 70,1571 171,1583 233,1573 233,1573 233,1573 235,1573 235,1573 235,1573 235,1573 237,1573 237,1573 262,1585 560,1585 593,1577 614,1573 614,1573 614,1573 616,1573 616,1573 643,1577 674,1583 688,1577 696,1575 696,1575 698,1575 698,1575 698,1575 701,1575 701,1575 703,1575 703,1575 703,1575 705,1575 705,1575 705,1577 707,1579 715,1585 761,1579 794,1575 794,1575 796,1575 953,1575 953,1575 953,1575 955,1575 955,1575 955,1575 957,1575 967,1581 976,1585 1058,1583 1267,1575 1269,1575 1269,1575 1342,1587 1344,1627 1342,1641 742,1651 740,1651 740,1651 740,1651 738,1651 705,1641 134,1649 132,1649 132,1649 68,1637"/>
+        <Baseline points="70,1622 1344,1627"/>
+        <TextEquiv>
+          <Unicode>Geheimniß des Glaubens. Aber einige Ähnlichkeit finden wir doch in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0f50983" >
+        <Coords points="70,1680 72,1631 97,1643 270,1643 272,1685 268,1701 66,1697"/>
+        <Baseline points="70,1680 272,1685"/>
+        <TextEquiv>
+          <Unicode>der Natur.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6be0e807" >
+        <Coords points="155,1742 155,1695 1344,1701 1344,1742 1342,1763 153,1753"/>
+        <Baseline points="155,1742 1344,1742"/>
+        <TextEquiv>
+          <Unicode>Die Pflanze vermag durch ihr Lebensprincip die Säfte der Erde,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_111678af" >
+        <Coords points="68,1792 68,1742 173,1753 405,1747 473,1744 475,1744 475,1744 477,1744 477,1744 483,1747 506,1755 717,1751 870,1747 872,1747 872,1747 872,1747 899,1753 922,1759 1344,1759 1344,1798 1342,1811 514,1819 512,1819 512,1819 510,1819 510,1819 481,1809 111,1817 109,1817 109,1817 107,1817 64,1804"/>
+        <Baseline points="68,1792 1344,1798"/>
+        <TextEquiv>
+          <Unicode>die Beſtandtheile der Atmoſphäre ſich anzueignen und ihnen ihre In⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f5ed760" >
+        <Coords points="70,1850 70,1809 1342,1817 1346,1856 1344,1869 504,1877 502,1877 68,1862"/>
+        <Baseline points="70,1850 1346,1856"/>
+        <TextEquiv>
+          <Unicode>dividualität mitzutheilen; ſo das Thier gegenüber der Pflanze und den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c98ec003" >
+        <Coords points="70,1910 70,1858 150,1871 301,1860 303,1860 306,1860 306,1860 306,1860 308,1860 308,1860 308,1860 308,1860 310,1860 310,1860 322,1871 394,1860 403,1860 403,1860 405,1860 405,1860 407,1860 407,1860 407,1860 409,1860 430,1871 459,1860 463,1860 465,1860 465,1860 467,1860 661,1860 661,1860 661,1860 663,1860 674,1862 711,1875 833,1875 841,1864 843,1864 843,1862 843,1862 845,1862 845,1862 845,1862 847,1862 847,1862 849,1862 849,1862 849,1862 851,1862 851,1862 858,1864 876,1873 889,1864 893,1862 895,1862 895,1862 897,1862 897,1862 897,1862 899,1862 899,1862 901,1862 901,1862 909,1864 932,1873 1346,1871 1348,1914 1346,1924 713,1935 711,1935 711,1935 709,1935 709,1935 709,1935 707,1935 707,1935 692,1924 130,1933 128,1933 128,1933 68,1920"/>
+        <Baseline points="70,1910 1348,1914"/>
+        <TextEquiv>
+          <Unicode>Elementen; ſo der Menſch in Bezug auf die ganze untergeordnete</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95cb7b70" >
+        <Coords points="70,1968 70,1922 1348,1926 1348,1968 1348,1984 70,1984"/>
+        <Baseline points="70,1968 1348,1968"/>
+        <TextEquiv>
+          <Unicode>Natur. Wenn aber in der ganzen Schöpfung das Höhere das Niedrigere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e81a9751" >
+        <Coords points="68,2024 68,1984 1346,1988 1346,2024 1344,2046 66,2038"/>
+        <Baseline points="68,2024 1346,2024"/>
+        <TextEquiv>
+          <Unicode>zu beherrſchen und zu ſich emporzuziehen vermag: wer wird es wagen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5efc4c2f" >
+        <Coords points="70,2081 70,2038 436,2042 442,2038 452,2032 454,2032 454,2032 454,2032 457,2032 457,2032 459,2032 459,2032 459,2032 461,2032 461,2032 461,2032 475,2040 483,2044 636,2044 661,2040 734,2032 734,2032 736,2032 736,2032 736,2032 738,2032 765,2040 773,2044 980,2044 984,2042 1009,2032 1009,2032 1011,2032 1011,2032 1013,2032 1013,2032 1013,2032 1062,2042 1064,2042 1067,2042 1091,2032 1091,2032 1093,2032 1093,2032 1096,2032 1096,2032 1211,2042 1222,2034 1222,2032 1222,2032 1224,2032 1224,2032 1224,2032 1226,2032 1226,2032 1228,2032 1309,2032 1309,2032 1309,2032 1311,2032 1350,2044 1348,2081 1348,2096 70,2096"/>
+        <Baseline points="70,2081 1348,2081"/>
+        <TextEquiv>
+          <Unicode>zu behaupten, der allmächtige Schöpfer vermöge nicht, die menſchliche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eb3a7587" >
+        <Coords points="72,2133 72,2084 144,2094 376,2086 432,2086 434,2086 434,2086 448,2088 498,2096 723,2092 891,2088 893,2088 893,2088 936,2094 967,2100 1342,2100 1346,2139 1344,2164 924,2164 922,2162 922,2162 895,2158 864,2152 622,2154 198,2158 196,2158 70,2146"/>
+        <Baseline points="72,2133 1346,2139"/>
+        <TextEquiv>
+          <Unicode>Natur ſich ſo anzueignen, daß Er ſeine göttliche Subſiſtenz ihr mittheile,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4522637" >
+        <Coords points="72,2189 72,2141 161,2154 171,2146 171,2143 171,2143 173,2143 173,2143 173,2143 175,2143 175,2143 175,2143 177,2143 177,2143 179,2143 179,2143 179,2143 181,2143 181,2143 196,2154 409,2146 494,2143 496,2143 496,2143 498,2143 498,2143 510,2148 533,2156 550,2148 556,2146 556,2146 556,2146 558,2146 558,2146 560,2146 560,2146 560,2146 562,2146 562,2146 570,2150 587,2156 593,2150 597,2146 597,2143 597,2143 599,2143 599,2143 599,2143 601,2143 601,2143 603,2143 603,2143 603,2143 605,2143 605,2143 620,2150 636,2156 725,2152 866,2143 868,2143 868,2143 868,2143 926,2154 947,2160 1013,2160 1017,2156 1031,2146 1033,2146 1033,2146 1033,2146 1036,2146 1036,2146 1036,2146 1038,2146 1038,2146 1038,2146 1040,2146 1073,2158 1079,2158 1085,2158 1131,2146 1133,2146 1133,2146 1135,2146 1327,2146 1327,2146 1327,2146 1329,2146 1329,2146 1329,2146 1331,2146 1331,2146 1331,2148 1346,2162 1346,2195 1344,2216 287,2216 285,2214 285,2214 204,2203 177,2214 177,2214 175,2214 175,2214 175,2214 173,2214 173,2214 171,2214 171,2214 171,2214 169,2214 169,2214 169,2212 159,2201 70,2199"/>
+        <Baseline points="72,2189 1346,2195"/>
+        <TextEquiv>
+          <Unicode>und ſo eine göttliche Perſönlichkeit zwei Naturen, die göttliche und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d62f920" >
+        <Coords points="74,2243 74,2197 128,2208 142,2197 142,2197 144,2197 144,2197 144,2197 146,2197 146,2197 148,2197 148,2197 161,2197 250,2208 283,2199 291,2197 293,2197 293,2197 295,2197 295,2197 330,2199 428,2210 636,2206 781,2201 783,2201 783,2201 785,2201 785,2201 785,2201 787,2201 794,2208 804,2214 969,2214 986,2210 1033,2201 1033,2201 1036,2201 1344,2216 1346,2255 1342,2272 148,2270 148,2270 148,2270 70,2257"/>
+        <Baseline points="74,2243 543,2255 1346,2255"/>
+        <TextEquiv>
+          <Unicode>menſchliche, innehabe und trage? — Wäre etwa eine ſolche Vereinigung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_537a6fb0" >
+        <Coords points="72,2299 72,2255 244,2265 270,2257 275,2255 275,2255 277,2255 277,2255 279,2255 279,2255 279,2255 281,2255 281,2255 281,2255 283,2255 283,2255 283,2257 283,2257 295,2270 370,2270 388,2257 392,2255 394,2255 394,2255 397,2255 397,2255 397,2255 399,2255 399,2255 399,2255 401,2255 401,2255 409,2257 432,2270 525,2270 543,2259 554,2255 554,2255 556,2255 556,2255 556,2255 558,2255 558,2255 558,2255 560,2255 560,2255 560,2255 562,2255 568,2259 581,2270 748,2270 761,2261 767,2257 769,2257 769,2257 771,2257 771,2257 771,2257 773,2257 773,2257 775,2257 775,2257 775,2257 787,2263 798,2270 965,2270 986,2265 1048,2255 1048,2255 1050,2255 1050,2255 1050,2255 1052,2255 1052,2255 1079,2265 1079,2265 1079,2265 1118,2255 1120,2255 1120,2255 1122,2255 1122,2255 1122,2255 1124,2255 1124,2255 1127,2255 1127,2255 1139,2265 1158,2257 1158,2257 1160,2257 1160,2257 1160,2257 1162,2257 1162,2257 1253,2268 1255,2268 1257,2268 1304,2257 1304,2257 1304,2257 1306,2257 1306,2257 1309,2257 1309,2257 1342,2270 1346,2307 1342,2342 1224,2328 1116,2340 1091,2342 1091,2342 1089,2342 1089,2342 1064,2340 1005,2332 957,2338 926,2342 926,2342 924,2342 924,2342 924,2342 922,2342 907,2338 876,2328 866,2336 860,2342 860,2342 858,2342 858,2342 858,2342 856,2342 856,2342 856,2344 750,2344 748,2342 748,2342 746,2342 746,2342 729,2336 711,2328 655,2334 589,2342 589,2342 587,2342 587,2342 585,2342 585,2342 585,2342 583,2342 568,2334 560,2328 502,2332 386,2342 384,2342 384,2342 384,2342 382,2342 341,2330 332,2328 328,2330 310,2342 308,2342 308,2342 308,2342 306,2342 306,2342 303,2342 303,2342 303,2342 301,2342 301,2342 301,2342 299,2342 281,2330 277,2328 72,2328"/>
+        <Baseline points="72,2299 508,2313 1346,2307"/>
+        <TextEquiv>
+          <Unicode>der Gottheit unwürdig? Eine Entwürdigung der Gottheit liegt darin</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

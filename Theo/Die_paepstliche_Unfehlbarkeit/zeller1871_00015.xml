@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/zeller1871/zeller1871_00015.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-03-14T15:00:23.828819+00:00</Created>
+        <LastChange>2022-03-14T15:00:23.828841+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="zeller1871_00015.jpg" imageWidth="1424" imageHeight="2420">
+    <TextRegion id="eSc_textblock_e2d9e608"  >
+      <Coords points="1367,2369 40,2361 64,137 1375,145 1367,2369"/>
+      <TextLine id="eSc_line_b2e093ef" >
+        <Coords points="58,177 56,133 1369,135 1373,173 1371,183 58,187"/>
+        <Baseline points="58,177 1373,173"/>
+        <TextEquiv>
+          <Unicode>Erſt wenn die gewohnten Künſte gänzlich verſagen, wenn alle Stützen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a8ebb1ee" >
+        <Coords points="60,233 52,189 76,173 78,173 78,173 78,173 80,173 80,173 82,173 332,173 332,173 332,173 334,173 334,173 334,173 336,173 336,173 350,185 399,173 401,173 401,173 403,173 403,173 403,173 405,173 405,173 435,185 496,173 496,173 496,173 498,173 958,183 978,171 980,171 980,171 980,171 982,171 982,171 984,171 1365,185 1371,229 1369,244 60,248"/>
+        <Baseline points="60,233 1371,229"/>
+        <TextEquiv>
+          <Unicode>zuſammenbrechen und alle Hoffnungen täuſchen, wird man ſich in das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04ffe42b" >
+        <Coords points="58,288 54,242 524,227 526,227 915,235 931,225 933,225 933,225 933,225 935,225 935,225 937,225 1369,235 1373,282 1371,294 58,298"/>
+        <Baseline points="58,288 1373,282"/>
+        <TextEquiv>
+          <Unicode>unvermeidliche fügen. Dann bleiben aber der päpſtlichen Politik, wenn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8fdffedc" >
+        <Coords points="58,344 52,296 90,284 92,284 92,284 94,284 558,292 724,282 726,282 1369,292 1373,340 1371,352 58,356"/>
+        <Baseline points="58,344 1373,340"/>
+        <TextEquiv>
+          <Unicode>wir recht ſehen, immer noch zwei Wege. Sie kann ſich entweder mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef08c980" >
+        <Coords points="60,403 56,346 1363,344 1369,399 1367,413 60,413"/>
+        <Baseline points="60,403 1369,399"/>
+        <TextEquiv>
+          <Unicode>Italien verſtändigen, den Compromiß, der ihr durch das Garantiegeſetz</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e5cfde6" >
+        <Coords points="58,457 52,411 94,399 96,399 96,399 98,399 256,399 256,399 256,399 258,399 258,399 258,399 276,409 278,409 290,409 395,397 395,397 397,397 397,397 399,397 399,397 425,407 425,407 457,407 1040,393 1042,393 1367,401 1371,449 1369,469 58,469"/>
+        <Baseline points="58,457 1371,449"/>
+        <TextEquiv>
+          <Unicode>geboten wird, annehmen, und im übrigen ihre bisherige Stellung in der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_17dc1085" >
+        <Coords points="56,512 52,465 102,453 102,453 104,453 1365,453 1369,504 1367,524 56,524"/>
+        <Baseline points="56,512 1369,504"/>
+        <TextEquiv>
+          <Unicode>Kirche, ſo weit dies unter den veränderten Verhältniſſen möglich iſt, zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f76dc836" >
+        <Coords points="56,566 52,518 1365,510 1371,560 1369,574 56,584"/>
+        <Baseline points="56,566 1371,560"/>
+        <TextEquiv>
+          <Unicode>behaupten, ihr bisheriges Syſtem fortzuſetzen verſuchen. Oder ſie könnte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20711077" >
+        <Coords points="56,623 52,572 835,560 837,560 1365,570 1369,619 1367,631 56,637"/>
+        <Baseline points="56,623 1369,619"/>
+        <TextEquiv>
+          <Unicode>die Abhängigkeit und die Vortheile, die ihr geboten werden, zurückweiſen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a694883" >
+        <Coords points="54,679 50,631 1363,625 1369,673 1365,691 52,689"/>
+        <Baseline points="54,679 1369,673"/>
+        <TextEquiv>
+          <Unicode>die goldene Kette, mit welcher der bisherige Gegner ſie zu umſchlingen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20e6e1e2" >
+        <Coords points="54,736 50,687 1365,679 1371,728 1369,744 467,744 457,744 381,754 381,754 379,754 52,744"/>
+        <Baseline points="54,736 1371,728"/>
+        <TextEquiv>
+          <Unicode>und an ſich zu feſſeln hofft, abwehren, und ſich in ſtolzer Unabhängigkeit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e9625d8" >
+        <Coords points="52,792 48,742 1361,730 1367,786 1365,802 52,802"/>
+        <Baseline points="52,792 1367,786"/>
+        <TextEquiv>
+          <Unicode>auf ihre kirchliche Stellung und ihre eigenen Hülfsmittel zurückziehen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_51c4ec99" >
+        <Coords points="54,847 50,794 1363,788 1369,842 1365,857 52,855"/>
+        <Baseline points="54,847 1369,842"/>
+        <TextEquiv>
+          <Unicode>Damit wäre dann Cavour&#39;s Programm, die freie Kirche im freien Staat,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11b1912d" >
+        <Coords points="52,903 48,853 1361,847 1367,899 1363,915 50,911"/>
+        <Baseline points="52,903 1367,899"/>
+        <TextEquiv>
+          <Unicode>noch vollſtändiger, als er ſelbſt dies wohl gedacht und beabſichtigt hat,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0cab1b43" >
+        <Coords points="52,957 48,909 137,897 137,897 139,897 699,905 760,895 760,895 762,895 1363,905 1367,953 1363,972 50,968"/>
+        <Baseline points="52,957 1367,953"/>
+        <TextEquiv>
+          <Unicode>verwirklicht. Dieſes Verfahren würde jedoch eine tiefgehende Veränderung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_37367fe2" >
+        <Coords points="52,1014 50,957 1365,961 1369,1008 1365,1026 50,1024"/>
+        <Baseline points="52,1014 1369,1008"/>
+        <TextEquiv>
+          <Unicode>in dem bisherigen Syſtem der Kurie und in dem ganzen Verhältniß der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_39e66549" >
+        <Coords points="50,1070 46,1022 92,1010 94,1010 94,1010 96,1010 1367,1020 1369,1070 1365,1084 48,1080"/>
+        <Baseline points="50,1070 1369,1070"/>
+        <TextEquiv>
+          <Unicode>katholiſchen Kirche zum Staate theils vorausſetzen, theils herbeiführen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b052cd2" >
+        <Coords points="52,1127 44,1080 62,1068 64,1068 64,1068 64,1068 66,1068 66,1068 68,1068 1365,1070 1369,1121 1367,1133 52,1139"/>
+        <Baseline points="52,1127 1369,1121"/>
+        <TextEquiv>
+          <Unicode>Die Unabhängigkeit der kirchlichen Centralgewalt würde dadurch allerdings</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c2e2c29" >
+        <Coords points="50,1185 46,1135 1365,1129 1371,1179 1369,1193 50,1201"/>
+        <Baseline points="50,1185 1371,1179"/>
+        <TextEquiv>
+          <Unicode>gewinnen, aber ihre äußeren Mittel würden in hohem Grade beſchränkt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_361c54cd" >
+        <Coords points="50,1238 48,1189 1369,1185 1371,1238 1369,1252 48,1248"/>
+        <Baseline points="50,1238 1371,1238"/>
+        <TextEquiv>
+          <Unicode>werden. Sie wäre für die Koſten der päpſtlichen Hofhaltung und der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0e145f69" >
+        <Coords points="50,1296 50,1246 1371,1246 1371,1296 1371,1306 50,1310"/>
+        <Baseline points="50,1296 1371,1296"/>
+        <TextEquiv>
+          <Unicode>oberſten Kirchenleitung auf die freiwilligen Gaben der Einzelnen und der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dcf82f0d" >
+        <Coords points="50,1349 48,1300 1369,1294 1371,1349 1371,1361 50,1367"/>
+        <Baseline points="50,1349 1371,1349"/>
+        <TextEquiv>
+          <Unicode>Landeskirchen angewieſen, die in eine regelmäßige und geſetzliche Abgabe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c5155f0d" >
+        <Coords points="50,1409 46,1363 102,1349 102,1349 102,1349 104,1349 411,1359 516,1347 518,1347 1367,1357 1371,1403 1369,1411 50,1425"/>
+        <Baseline points="50,1409 1371,1403"/>
+        <TextEquiv>
+          <Unicode>zu verwandeln die Staaten ihr wohl ſchwerlich geſtatten würden; ihre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_313b7c4f" >
+        <Coords points="50,1464 46,1415 1359,1403 1365,1460 1363,1476 50,1476"/>
+        <Baseline points="50,1464 1365,1460"/>
+        <TextEquiv>
+          <Unicode>Mittel wären daher vorausſichtlich um vieles unſicherer und beſchränkter,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_909cde4e" >
+        <Coords points="48,1518 46,1462 1363,1466 1367,1514 1365,1528 48,1536"/>
+        <Baseline points="48,1518 1367,1514"/>
+        <TextEquiv>
+          <Unicode>als ſie nicht blos bisher waren, ſondern auch bei Annahme der italieni⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65c342d6" >
+        <Coords points="50,1575 48,1524 1363,1522 1365,1575 1365,1587 50,1589"/>
+        <Baseline points="50,1575 1365,1575"/>
+        <TextEquiv>
+          <Unicode>ſchen Vorſchläge ſein werden. Es würden ferner alle jene Vorrechte,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ebb5d585" >
+        <Coords points="50,1629 46,1583 1359,1579 1365,1625 1363,1643 50,1647"/>
+        <Baseline points="50,1629 1365,1625"/>
+        <TextEquiv>
+          <Unicode>welche das italieniſche Geſetz dem Papſte für ſeine Perſon, ſeinen Haus⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_32abc767" >
+        <Coords points="50,1687 46,1635 1361,1633 1367,1681 1363,1700 48,1698"/>
+        <Baseline points="50,1687 1367,1681"/>
+        <TextEquiv>
+          <Unicode>halt und ſeine kirchlichen Organe ertheilt, wegfallen; er würde dem Staat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ada0b7f9" >
+        <Coords points="48,1750 44,1696 1361,1687 1365,1742 1363,1754 48,1762"/>
+        <Baseline points="48,1750 609,1740 1365,1742"/>
+        <TextEquiv>
+          <Unicode>gegenüber zu einer Privatperſon, die trotz alles ihres realen Einfluſſes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_494710b1" >
+        <Coords points="46,1798 42,1750 1361,1746 1367,1794 1365,1810 46,1817"/>
+        <Baseline points="46,1798 1367,1794"/>
+        <TextEquiv>
+          <Unicode>doch formell den allgemeinen Staatsgeſetzen ebenſo unterworfen wäre, wie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4023db15" >
+        <Coords points="46,1853 44,1802 1361,1798 1365,1853 1363,1863 46,1865"/>
+        <Baseline points="46,1853 1365,1853"/>
+        <TextEquiv>
+          <Unicode>alle andern. Daraus würde folgen, daß die päpſtliche Hofhaltung bedeu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ad16d89f" >
+        <Coords points="48,1909 48,1853 1365,1861 1367,1909 1365,1923 48,1925"/>
+        <Baseline points="48,1909 1367,1909"/>
+        <TextEquiv>
+          <Unicode>tende Einſchränkungen erleiden müßte, daß die Kardinäle und der höhere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d90fd99d" >
+        <Coords points="48,1968 46,1911 1363,1911 1367,1962 1365,1972 48,1978"/>
+        <Baseline points="48,1968 1367,1962"/>
+        <TextEquiv>
+          <Unicode>römiſche Klerus überhaupt ſich auf einen weit beſcheideneren Rang in der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b11e1b9b" >
+        <Coords points="48,2022 48,1972 1365,1972 1367,2022 1363,2040 46,2032"/>
+        <Baseline points="48,2022 1367,2022"/>
+        <TextEquiv>
+          <Unicode>Geſellſchaft und auf eine mit ihrer bisherigen Stellung ſtark contraſtirende</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af189534" >
+        <Coords points="48,2081 46,2022 1361,2026 1365,2077 1361,2093 46,2091"/>
+        <Baseline points="48,2081 1365,2077"/>
+        <TextEquiv>
+          <Unicode>Einfachheit zurückgeführt ſähen, daß jenes Heer von untergeordneten Kle⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b80bd82" >
+        <Coords points="46,2133 44,2079 1361,2079 1365,2129 1363,2143 46,2145"/>
+        <Baseline points="46,2133 1365,2129"/>
+        <TextEquiv>
+          <Unicode>rikern, Beamten und Dienern aller Art, welches ſich bisher im Glanze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f44a2069" >
+        <Coords points="46,2188 44,2137 1365,2135 1367,2192 1365,2204 46,2204"/>
+        <Baseline points="46,2188 1367,2192"/>
+        <TextEquiv>
+          <Unicode>des Papſtthums geſonnt und gewärmt hat, noch weiter reducirt werden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b294ae3a" >
+        <Coords points="46,2244 46,2194 1365,2200 1367,2250 1363,2260 44,2254"/>
+        <Baseline points="46,2244 1367,2250"/>
+        <TextEquiv>
+          <Unicode>müßte, als dies nach der Einziehung des Kirchenſtaats jedenfalls geſchehen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dfc5735e" >
+        <Coords points="48,2303 48,2246 1365,2254 1365,2303 1363,2317 46,2315"/>
+        <Baseline points="48,2303 1365,2303"/>
+        <TextEquiv>
+          <Unicode>wird. Es würde ebendamit der Dienſt der Kirche gerade in Rom ſelbſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e7c9246" >
+        <Coords points="48,2357 48,2305 1365,2305 1367,2361 1363,2389 1073,2383 1032,2387 943,2397 943,2397 941,2397 941,2397 855,2385 833,2383 824,2385 786,2397 784,2397 784,2397 784,2397 782,2397 782,2397 782,2397 780,2397 780,2397 750,2385 746,2381 619,2381 613,2383 592,2391 592,2391 590,2391 590,2391 590,2391 588,2391 588,2391 586,2391 586,2391 586,2391 568,2383 564,2381 554,2383 486,2395 486,2395 486,2395 484,2395 484,2395 482,2395 482,2395 482,2395 480,2395 459,2381 457,2381 455,2381 417,2395 415,2395 415,2395 415,2395 413,2395 274,2385 145,2395 145,2395 143,2395 143,2395 46,2377"/>
+        <Baseline points="48,2357 1367,2361"/>
+        <TextEquiv>
+          <Unicode>von ſeiner Anziehungskraft viel verlieren, die römiſche Ariſtokratie würde</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1c8b5b90"  >
+      <Coords points="754,86 693,94 693,48 746,48 754,86"/>
+      <TextLine id="eSc_line_a25e1346" >
+        <Coords points="691,88 687,52 740,42 748,84 746,102 689,96"/>
+        <Baseline points="691,88 748,84"/>
+        <TextEquiv>
+          <Unicode>13</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00018.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.284603+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.284618+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00018.jpg" imageWidth="1521" imageHeight="2481">
+    <TextRegion id="eSc_textblock_c0be9643"  >
+      <Coords points="891,105 827,113 836,66 891,74 891,105"/>
+      <TextLine id="eSc_line_63878088" >
+        <Coords points="825,111 819,62 877,59 883,107 883,130 825,132"/>
+        <Baseline points="825,111 883,107"/>
+        <TextEquiv>
+          <Unicode>12</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3f1f1269"  >
+      <Coords points="1504,2255 1009,2263 908,2313 223,2305 215,181 422,165 1496,173 1504,2255"/>
+      <TextLine id="eSc_line_4c9dc26f" >
+        <Coords points="217,208 213,169 507,159 509,159 604,167 627,169 631,167 643,157 643,157 645,157 645,157 645,157 647,157 647,157 647,157 649,157 776,167 784,167 792,167 881,157 881,157 883,157 883,157 885,157 885,157 910,167 912,167 920,167 1014,157 1014,157 1016,157 1016,157 1018,157 1018,157 1045,167 1049,167 1051,167 1090,157 1092,157 1092,157 1094,157 1492,167 1496,202 1496,212 1460,225 1458,225 1458,225 1458,225 1456,225 1456,225 1351,215 1349,215 1347,215 1227,225 1227,225 1225,225 1225,225 1160,215 1152,215 1146,215 1067,227 1067,227 1065,227 912,217 906,217 906,217 885,227 885,227 885,227 883,227 883,227 883,227 881,227 881,227 879,227 879,227 879,227 877,227 862,217 860,217 666,217 660,217 618,229 616,229 616,229 614,229 215,219"/>
+        <Baseline points="217,208 1496,202"/>
+        <TextEquiv>
+          <Unicode>an einen göttlichen Erlöſer nicht glaubt, der verzweifle! Wenn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3bb37f9" >
+        <Coords points="217,266 211,225 240,212 240,212 242,212 242,212 244,212 769,221 865,210 867,210 1489,221 1494,262 1489,283 215,277"/>
+        <Baseline points="217,266 1494,262"/>
+        <TextEquiv>
+          <Unicode>aber eine göttliche Perſon die menſchliche Natur annähme, ſo könnte ſie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6aeb9d27" >
+        <Coords points="217,322 215,277 1489,277 1494,318 1492,337 217,337"/>
+        <Baseline points="217,322 1494,318"/>
+        <TextEquiv>
+          <Unicode>in derſelben leiden, und dieſen ihren Leiden durch ihre göttliche Perſön⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fc7d7dc2" >
+        <Coords points="219,376 219,334 1496,334 1496,376 1496,394 219,394"/>
+        <Baseline points="219,376 1496,376"/>
+        <TextEquiv>
+          <Unicode>lichkeit unendlichen Werth geben. Iſt das aber möglich? Allerdings nur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eaaed9c8" >
+        <Coords points="219,434 221,382 254,392 322,382 331,382 331,382 333,382 333,382 349,382 461,392 500,384 515,382 515,382 515,382 517,382 517,382 542,384 602,392 624,386 635,382 637,382 637,382 637,382 639,382 639,382 639,382 641,382 641,382 649,386 666,392 684,386 697,382 699,382 699,382 699,382 701,382 701,382 730,386 767,392 800,386 829,382 829,382 831,382 1202,390 1301,392 1307,392 1353,382 1353,382 1353,382 1355,382 1355,382 1357,382 1357,382 1386,392 1388,392 1388,392 1429,382 1432,382 1432,382 1434,382 1434,382 1434,382 1496,394 1496,434 1496,446 219,446"/>
+        <Baseline points="219,434 1496,434"/>
+        <TextEquiv>
+          <Unicode>der unendlichen Liebe Gottes! Chriſtus erklärt nun, der himmliſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_631c10cb" >
+        <Coords points="219,489 217,450 378,438 380,438 380,438 380,438 382,438 420,448 496,438 496,438 498,438 498,438 498,438 556,450 684,450 699,438 699,438 701,438 701,438 703,438 703,438 703,438 705,438 705,438 782,448 809,438 809,438 811,438 811,438 813,438 1494,450 1494,489 1492,508 217,504"/>
+        <Baseline points="219,489 1494,489"/>
+        <TextEquiv>
+          <Unicode>Vater habe die Welt ſo geliebt, daß er ſeinen eingeborenen Sohn für</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f5d39945" >
+        <Coords points="221,547 219,500 1487,502 1492,543 1489,562 221,564"/>
+        <Baseline points="221,547 1492,543"/>
+        <TextEquiv>
+          <Unicode>ſie hingab; daß Er, Chriſtus, ſein Leben freiwillig für uns hingebe,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bfa36b21" >
+        <Coords points="219,605 217,554 1489,560 1494,601 1489,618 217,616"/>
+        <Baseline points="219,605 1494,601"/>
+        <TextEquiv>
+          <Unicode>damit wir das Leben haben und in Fülle haben. Auf dieſe Weiſe wird</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_116478c4" >
+        <Coords points="219,661 217,611 1489,614 1494,655 1492,674 219,674"/>
+        <Baseline points="219,661 1494,655"/>
+        <TextEquiv>
+          <Unicode>dem Sünder die Bosheit der Sünde, die Heiligkeit des Geſetzes, die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d4f404a" >
+        <Coords points="221,717 217,680 314,665 314,665 316,665 316,665 384,676 415,665 415,665 418,665 418,665 420,665 707,674 722,663 722,663 724,663 724,663 724,663 726,663 726,663 728,663 1492,674 1496,711 1502,719 1492,731 1489,731 1489,733 1489,733 1487,733 1487,733 1487,733 1485,733 1485,733 1485,736 221,736"/>
+        <Baseline points="221,717 1496,711"/>
+        <TextEquiv>
+          <Unicode>unendliche Erbarmung und Liebe Gottes auf die möglichſt vollkommene</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb4e0774" >
+        <Coords points="223,775 219,729 403,721 405,721 500,729 546,731 550,729 556,723 556,721 556,721 558,721 558,721 558,721 560,721 560,721 562,721 562,721 562,721 598,729 614,731 658,729 771,719 771,719 773,719 773,719 776,719 813,729 819,729 821,729 836,719 838,719 838,719 840,719 840,719 840,719 842,719 842,719 844,719 879,729 887,729 906,729 1011,719 1014,719 1014,719 1014,719 1059,729 1067,729 1082,729 1183,717 1183,717 1185,717 1185,717 1187,717 1225,729 1489,729 1494,769 1489,789 221,787"/>
+        <Baseline points="223,775 1494,769"/>
+        <TextEquiv>
+          <Unicode>Art geoffenbart und zugleich der Gerechtigkeit vollſtändig genügt. Am</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a79b5bc5" >
+        <Coords points="219,833 213,793 235,781 235,781 235,781 237,781 237,781 240,781 513,789 533,779 533,779 533,779 535,779 535,779 535,779 538,779 747,787 852,777 854,777 1489,785 1494,824 1492,837 219,845"/>
+        <Baseline points="219,833 1494,824"/>
+        <TextEquiv>
+          <Unicode>Kreuze des freiwillig für die Schuldigen ſterbenden Gottmenſchen um⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d45f64b8" >
+        <Coords points="221,889 217,849 355,837 358,837 639,845 684,835 687,835 687,835 689,835 1011,843 1065,833 1065,833 1065,833 1067,833 1489,843 1494,882 1492,897 221,901"/>
+        <Baseline points="221,889 1494,882"/>
+        <TextEquiv>
+          <Unicode>armen ſich Gerechtigkeit und Liebe. Mag das Kreuz Chriſti dem fleiſch⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42b52f65" >
+        <Coords points="221,944 219,897 533,905 567,897 583,895 583,895 583,895 585,895 585,895 585,895 587,895 587,895 589,895 589,895 593,899 602,905 631,899 653,893 655,893 655,893 658,893 658,893 658,893 689,899 716,905 947,905 960,901 987,893 989,893 989,893 989,893 991,893 991,893 1045,901 1065,903 1076,901 1109,891 1111,891 1111,891 1111,891 1113,891 1113,891 1175,901 1179,901 1191,901 1469,891 1471,891 1471,891 1471,891 1473,891 1473,891 1475,891 1496,903 1496,938 1498,948 1469,961 1469,961 1467,961 1467,961 1465,961 1078,953 1038,963 1036,963 1036,963 1034,963 730,955 639,965 639,965 637,965 219,955"/>
+        <Baseline points="221,944 1496,938"/>
+        <TextEquiv>
+          <Unicode>lichen Juden ein Ärgerniß, dem hochmüthigen Heiden eine Thorheit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7d83911" >
+        <Coords points="221,1002 219,953 1489,955 1494,998 1492,1019 221,1023"/>
+        <Baseline points="221,1002 1494,998"/>
+        <TextEquiv>
+          <Unicode>ſein; gewiß iſt es, daß der wahre Gott, der Schöpfer des Himmels und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_88abacbf" >
+        <Coords points="221,1058 219,1019 310,1006 310,1006 312,1006 312,1006 312,1006 366,1017 368,1017 368,1017 440,1006 440,1006 442,1006 442,1006 569,1017 579,1017 585,1017 653,1006 653,1006 655,1006 655,1006 655,1006 716,1017 724,1017 753,1017 945,1006 947,1006 947,1006 947,1006 991,1015 1001,1017 1022,1015 1109,1006 1109,1006 1111,1006 1111,1006 1158,1015 1175,1019 1301,1019 1307,1015 1318,1006 1320,1006 1320,1006 1320,1006 1322,1006 1322,1006 1324,1006 1492,1015 1492,1058 1489,1070 219,1068"/>
+        <Baseline points="221,1058 1492,1058"/>
+        <TextEquiv>
+          <Unicode>der Erde, nie beſſer gekannt, nie würdiger verehrt, nie inbrünſtiger</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4971aa96" >
+        <Coords points="221,1114 217,1075 260,1062 262,1062 262,1062 264,1062 264,1062 341,1075 531,1075 546,1062 546,1062 548,1062 548,1062 550,1062 550,1062 550,1062 552,1062 552,1062 554,1062 554,1062 583,1073 612,1062 612,1062 614,1062 614,1062 616,1062 616,1062 616,1062 678,1073 757,1062 757,1062 759,1062 1489,1075 1489,1114 1489,1137 221,1137"/>
+        <Baseline points="221,1114 1489,1114"/>
+        <TextEquiv>
+          <Unicode>geliebt worden, als ſeitdem Chriſtus als Welterlöſer in den Tod ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_38347607" >
+        <Coords points="223,1170 219,1132 353,1116 353,1116 355,1116 355,1116 418,1124 422,1166 420,1178 223,1190"/>
+        <Baseline points="223,1170 422,1166"/>
+        <TextEquiv>
+          <Unicode>gangen iſt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e142bb01" >
+        <Coords points="318,1223 318,1170 442,1170 442,1170 442,1170 444,1170 444,1170 444,1170 446,1170 446,1170 446,1170 459,1182 604,1182 614,1172 616,1170 616,1170 618,1170 618,1170 618,1170 620,1170 620,1170 622,1170 622,1170 651,1172 722,1180 761,1174 786,1170 786,1170 786,1170 788,1170 788,1170 790,1170 790,1170 800,1174 819,1180 862,1174 900,1170 900,1170 902,1170 902,1170 902,1170 904,1170 922,1176 941,1180 985,1176 1042,1170 1045,1170 1496,1182 1496,1223 1496,1246 318,1246"/>
+        <Baseline points="318,1223 1496,1223"/>
+        <TextEquiv>
+          <Unicode>Schließen wir: die drei Grundlehren des Chriſtenthums, welche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_379590a5" >
+        <Coords points="221,1281 219,1242 308,1230 308,1230 310,1230 310,1230 399,1240 467,1230 467,1230 467,1230 469,1230 614,1240 653,1230 655,1230 655,1230 655,1230 658,1230 658,1230 720,1240 763,1230 765,1230 765,1230 767,1230 767,1230 767,1230 825,1242 960,1242 970,1232 970,1230 970,1230 972,1230 972,1230 972,1230 974,1230 974,1230 974,1230 976,1230 976,1230 1040,1240 1053,1230 1053,1230 1055,1230 1055,1230 1057,1230 1057,1230 1057,1230 1059,1230 1059,1230 1061,1230 1061,1230 1061,1230 1084,1242 1293,1242 1322,1230 1322,1230 1324,1230 1324,1230 1324,1230 1326,1230 1496,1242 1496,1281 1494,1300 219,1294"/>
+        <Baseline points="221,1281 1496,1281"/>
+        <TextEquiv>
+          <Unicode>die Ausſage Chriſti enthält, ſind zwar Geheimniſſe, aber keine Un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_656c6388" >
+        <Coords points="223,1337 223,1290 571,1296 655,1292 796,1285 798,1285 798,1285 798,1285 800,1285 825,1294 833,1296 850,1294 891,1288 891,1288 893,1288 893,1288 893,1288 896,1288 896,1288 896,1288 898,1288 898,1288 904,1294 910,1300 1055,1300 1067,1296 1105,1288 1105,1288 1105,1288 1107,1288 1107,1288 1107,1288 1150,1296 1160,1298 1167,1296 1189,1288 1189,1288 1191,1288 1191,1288 1191,1288 1194,1288 1194,1288 1196,1288 1196,1288 1223,1298 1223,1298 1225,1298 1233,1290 1233,1288 1233,1288 1235,1288 1235,1288 1235,1288 1237,1288 1237,1288 1237,1288 1239,1288 1239,1288 1241,1288 1241,1288 1241,1288 1243,1288 1243,1288 1256,1298 1258,1300 1340,1300 1349,1298 1446,1288 1446,1288 1448,1288 1448,1288 1450,1288 1496,1300 1496,1341 1494,1350 869,1360 867,1360 718,1350 240,1358 237,1358 237,1358 235,1358 235,1358 235,1358 233,1358 233,1358 217,1345"/>
+        <Baseline points="223,1337 1496,1341"/>
+        <TextEquiv>
+          <Unicode>möglichkeiten. Die Dreieinigkeit iſt das Geheimniß des göttlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1a4dd67" >
+        <Coords points="223,1397 221,1348 1492,1354 1496,1393 1492,1410 221,1407"/>
+        <Baseline points="223,1397 1496,1393"/>
+        <TextEquiv>
+          <Unicode>Seins und Lebens, die Menſchwerdung das Geheimniß der göttlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2bbfa9ef" >
+        <Coords points="223,1455 223,1414 1494,1414 1494,1455 1492,1474 221,1465"/>
+        <Baseline points="223,1455 1494,1455"/>
+        <TextEquiv>
+          <Unicode>Allmacht, die Erlöſung das Geheimniß der göttlichen Liebe. Weit ent⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a146670" >
+        <Coords points="221,1513 219,1463 548,1472 629,1461 653,1459 653,1459 655,1459 655,1459 658,1459 658,1459 666,1461 689,1469 749,1461 769,1459 769,1459 771,1459 771,1459 802,1461 896,1469 1485,1461 1492,1507 1489,1525 221,1536"/>
+        <Baseline points="221,1513 1492,1507"/>
+        <TextEquiv>
+          <Unicode>fernt, die Ausſage Chriſti unglaublich zu machen, tragen ſie unverkenn⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c5199ff" >
+        <Coords points="221,1569 213,1532 225,1519 225,1517 225,1517 227,1517 227,1517 227,1517 229,1517 229,1517 231,1517 523,1525 554,1515 554,1515 556,1515 556,1515 558,1515 898,1525 902,1565 898,1587 219,1581"/>
+        <Baseline points="221,1569 902,1565"/>
+        <TextEquiv>
+          <Unicode>bar das Gepräge der Gottheit in ſich.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8f23d99" >
+        <Coords points="310,1620 310,1573 370,1583 627,1577 757,1573 759,1573 759,1573 761,1573 761,1573 761,1573 763,1573 769,1577 778,1583 819,1579 852,1575 852,1575 854,1575 854,1575 881,1579 918,1585 960,1581 1005,1575 1005,1575 1007,1575 1007,1575 1007,1575 1009,1575 1009,1575 1024,1581 1036,1585 1158,1583 1465,1575 1467,1575 1467,1575 1467,1575 1469,1575 1469,1575 1496,1587 1496,1625 1494,1635 904,1645 902,1645 800,1635 353,1643 351,1643 351,1643 349,1643 304,1631"/>
+        <Baseline points="310,1620 1496,1625"/>
+        <TextEquiv>
+          <Unicode>Die menſchliche Vernunft vermag nur zwei Arten von Lehren</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b092493a" >
+        <Coords points="221,1678 219,1637 463,1627 465,1627 465,1627 569,1637 587,1639 602,1637 670,1629 670,1629 672,1629 672,1629 784,1639 796,1639 796,1639 813,1629 815,1629 815,1629 817,1629 817,1629 817,1629 819,1629 819,1629 821,1629 821,1629 850,1639 856,1641 860,1639 871,1631 873,1631 873,1631 873,1631 875,1631 875,1631 877,1631 877,1631 877,1631 916,1639 929,1643 1030,1643 1032,1639 1042,1631 1042,1631 1045,1631 1045,1631 1045,1631 1047,1631 1047,1631 1049,1631 1049,1631 1144,1641 1175,1643 1196,1641 1249,1633 1249,1633 1251,1633 1251,1633 1251,1633 1254,1633 1254,1633 1254,1633 1256,1633 1256,1633 1256,1635 1264,1641 1266,1643 1270,1641 1297,1633 1299,1633 1299,1633 1299,1633 1301,1633 1489,1643 1492,1687 1487,1707 836,1695 747,1697 564,1703 562,1703 562,1703 562,1703 519,1695 511,1693 478,1693 262,1701 260,1701 260,1701 258,1701 217,1689"/>
+        <Baseline points="221,1678 1492,1687"/>
+        <TextEquiv>
+          <Unicode>aus ſich ſelbſt aufzuſtellen: nachweisbar falſche, widerſinnige,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c58a943b" >
+        <Coords points="223,1738 221,1701 1494,1693 1496,1738 1494,1759 221,1753"/>
+        <Baseline points="223,1738 1496,1738"/>
+        <TextEquiv>
+          <Unicode>wenn ſie irrt, oder rein vernünftige, der Vernunft einfachhin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e216f521" >
+        <Coords points="223,1792 223,1753 538,1753 544,1753 612,1742 612,1742 614,1742 614,1742 614,1742 666,1753 668,1753 670,1753 749,1742 749,1742 751,1742 751,1742 753,1742 796,1753 796,1753 796,1753 1082,1744 1084,1744 1084,1744 1086,1744 1086,1744 1086,1744 1088,1744 1088,1744 1088,1747 1098,1755 1098,1755 1098,1755 1150,1744 1150,1744 1150,1744 1152,1744 1152,1744 1218,1755 1223,1755 1227,1755 1345,1744 1347,1744 1347,1744 1347,1744 1398,1755 1444,1744 1446,1744 1446,1744 1448,1744 1448,1744 1450,1744 1494,1757 1494,1796 1489,1815 221,1811"/>
+        <Baseline points="223,1792 1494,1796"/>
+        <TextEquiv>
+          <Unicode>angemeſſene, wenn ſie nach den richtigen Denkgeſetzen verfährt; über</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_27c23604" >
+        <Coords points="223,1852 223,1802 1494,1813 1494,1852 1492,1866 221,1864"/>
+        <Baseline points="223,1852 1494,1852"/>
+        <TextEquiv>
+          <Unicode>ſich hinauszugehen vermag ſie nicht. Nun aber ſind jene drei Grund⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0da13dbc" >
+        <Coords points="221,1910 221,1858 1496,1866 1496,1910 1494,1922 219,1920"/>
+        <Baseline points="221,1910 1496,1910"/>
+        <TextEquiv>
+          <Unicode>lehren trotz aller Verſuche im Verlaufe von achtzehn Jahrhunderten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1c1206a" >
+        <Coords points="223,1964 223,1916 1492,1926 1494,1968 1489,1986 221,1974"/>
+        <Baseline points="223,1964 1494,1968"/>
+        <TextEquiv>
+          <Unicode>noch nie als widerſinnig nachgewieſen worden; andererſeits ſind</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ccb39d40" >
+        <Coords points="223,2026 219,1978 1487,1974 1494,2022 1492,2038 223,2038"/>
+        <Baseline points="223,2026 1494,2022"/>
+        <TextEquiv>
+          <Unicode>ſie nicht ſchlechthin der Vernunft der Menſchen angemeſſen, da alle</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1aa01811" >
+        <Coords points="223,2079 225,2026 271,2036 337,2026 345,2026 345,2026 347,2026 438,2026 438,2026 438,2026 440,2026 440,2026 440,2026 442,2026 442,2026 442,2028 455,2036 484,2028 492,2026 494,2026 494,2026 496,2026 496,2026 521,2028 595,2036 643,2030 670,2026 670,2026 672,2026 749,2026 749,2026 749,2026 751,2026 751,2026 751,2026 753,2026 753,2026 753,2028 757,2030 763,2038 887,2038 893,2032 900,2026 900,2026 902,2026 902,2026 902,2026 904,2026 904,2026 906,2026 1417,2036 1434,2036 1434,2036 1446,2026 1446,2026 1448,2026 1448,2026 1448,2026 1450,2026 1450,2026 1450,2026 1452,2026 1452,2026 1454,2026 1498,2038 1496,2079 1494,2100 221,2090"/>
+        <Baseline points="223,2079 1496,2079"/>
+        <TextEquiv>
+          <Unicode>Jene, die ſie feſthalten, dieſelben als Geheimniß glauben: ſie ſind alſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_902880f0" >
+        <Coords points="223,2131 221,2090 279,2079 279,2079 279,2079 281,2079 413,2090 424,2090 426,2090 457,2079 459,2079 459,2079 459,2079 461,2079 461,2079 461,2079 463,2079 463,2079 465,2079 465,2079 465,2079 475,2090 480,2094 637,2094 641,2092 664,2081 664,2081 666,2081 666,2081 668,2081 668,2081 668,2081 718,2092 734,2094 761,2092 831,2084 831,2084 833,2084 833,2084 877,2092 891,2094 906,2092 962,2084 962,2084 964,2084 964,2084 964,2084 966,2084 966,2084 966,2084 982,2092 991,2096 999,2092 1018,2086 1018,2086 1020,2086 1020,2086 1022,2086 1022,2086 1024,2086 1053,2092 1069,2096 1098,2094 1160,2086 1160,2086 1162,2086 1494,2096 1496,2141 1492,2156 219,2148"/>
+        <Baseline points="223,2131 1496,2141"/>
+        <TextEquiv>
+          <Unicode>über die Vernunft erhaben; alſo nicht eine menſchliche Erfindung,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45360f6f" >
+        <Coords points="223,2187 223,2137 302,2148 461,2139 480,2139 482,2139 1496,2154 1498,2193 1496,2203 1076,2214 1074,2214 1074,2214 1071,2214 1071,2214 1042,2203 1040,2203 1024,2203 705,2212 703,2212 703,2212 651,2201 645,2201 223,2201"/>
+        <Baseline points="223,2187 1498,2193"/>
+        <TextEquiv>
+          <Unicode>ſondern Offenbarungen eines Geiſtes, der Gottes innerſtes Weſen nnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_594ed399" >
+        <Coords points="223,2243 223,2199 1494,2208 1496,2251 1492,2276 219,2263"/>
+        <Baseline points="223,2243 1496,2251"/>
+        <TextEquiv>
+          <Unicode>Leben, Gottes Allmacht und Liebe vollkommen kennt, und dieſer Geiſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44806009" >
+        <Coords points="223,2296 223,2249 908,2265 910,2305 904,2336 881,2325 788,2332 740,2336 738,2336 738,2336 662,2330 602,2323 591,2328 571,2334 571,2334 569,2334 569,2334 567,2334 567,2334 434,2321 395,2319 372,2321 266,2330 264,2330 264,2330 264,2330 262,2330 217,2315"/>
+        <Baseline points="223,2296 910,2305"/>
+        <TextEquiv>
+          <Unicode>kann kein anderer als Gott ſelbſt ſein.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

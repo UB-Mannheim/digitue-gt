@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00084.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T05:28:58.252308+00:00</Created>
+        <LastChange>2023-05-15T05:28:58.252320+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00084.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_65e5280f"  >
+      <Coords points="777,90 833,90 833,121 785,138 777,90"/>
+      <TextLine id="eSc_line_3e81de66" >
+        <Coords points="814,121 794,90 792,84 775,80 773,126 773,144 827,138 827,126 827,121 814,121"/>
+        <Baseline points="775,128 828,128"/>
+        <TextEquiv>
+          <Unicode>78</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_86b490d4"  >
+      <Coords points="165,190 1453,198 1462,2222 190,2222 165,190"/>
+      <TextLine id="eSc_line_d004c6d4" >
+        <Coords points="169,221 167,184 1437,184 1441,217 1439,227 169,231"/>
+        <Baseline points="169,221 1441,217"/>
+        <TextEquiv>
+          <Unicode>Weber eingeſchoben hat, um ſeinen proteſtkatholiſchen Standpunkt zu rechtfertigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2dccdd6" >
+        <Coords points="167,264 165,221 1435,223 1439,260 1437,270 167,277"/>
+        <Baseline points="167,264 1439,260"/>
+        <TextEquiv>
+          <Unicode>(S. 7—12), ſeine exegetiſche Kunſt ein wenig prüfen. Von jeher mußte ſich die arme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_585f3e51" >
+        <Coords points="169,308 161,277 177,264 177,264 179,264 179,264 179,264 181,264 181,264 184,264 725,272 800,262 800,262 802,262 1433,272 1437,303 1435,320 169,320"/>
+        <Baseline points="169,308 1437,303"/>
+        <TextEquiv>
+          <Unicode>heilige Schrift von allen Häretikern malträtiren laſſen, um Waffen gegen die Wahr⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_241e16ab" >
+        <Coords points="169,349 169,310 1437,314 1439,353 1437,363 184,372 181,372 181,372 179,372 179,372 179,372 177,372 177,372 163,359"/>
+        <Baseline points="169,349 1439,353"/>
+        <TextEquiv>
+          <Unicode>heit zu liefern; natürlich ſucht in ihr auch der Herr Religionslehrer die Prämiſſe ſeiner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b7561494" >
+        <Coords points="165,399 161,357 397,357 401,394 401,403 165,407"/>
+        <Baseline points="165,399 401,394"/>
+        <TextEquiv>
+          <Unicode>Argumentation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a97b778f" >
+        <Coords points="241,444 237,405 430,394 432,394 432,394 432,394 434,394 434,394 434,394 436,394 448,403 452,407 618,407 622,403 636,392 639,392 639,392 639,392 641,392 641,392 643,392 643,392 643,392 645,392 680,403 682,403 686,403 763,392 763,392 765,392 1160,401 1170,392 1170,390 1170,390 1172,390 1172,390 1172,390 1174,390 1174,390 1174,390 1176,390 1176,390 1178,390 1178,390 1178,390 1201,401 1259,390 1259,390 1259,390 1261,390 1437,403 1441,438 1439,452 241,458"/>
+        <Baseline points="241,444 1441,438"/>
+        <TextEquiv>
+          <Unicode>Zum Veweiſe alſo des Cardinalſatzes der proteſtkatholiſchen Secte, welcher lautet:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ea249d4" >
+        <Coords points="169,485 169,442 1441,446 1441,485 1441,500 169,500"/>
+        <Baseline points="169,485 1441,485"/>
+        <TextEquiv>
+          <Unicode>Die Glieder der Kirche haben das Recht, die Lehren, welche ihnen von ihren Hirten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e1796d36" >
+        <Coords points="171,531 167,498 984,485 986,485 1437,496 1441,527 1439,539 171,543"/>
+        <Baseline points="171,531 1441,527"/>
+        <TextEquiv>
+          <Unicode>als zur Heilswahrheit gehörig verkündet werden, „mit ihrem bisherigen Glaubensbe⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_59ed083f" >
+        <Coords points="171,576 167,543 1437,531 1443,570 1441,591 171,591"/>
+        <Baseline points="171,576 1443,570"/>
+        <TextEquiv>
+          <Unicode>wußtſein zu vergleichen, um dieſelben auf ſolche Weiſe vor ihrer Auf⸗ und Annahme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_27174699" >
+        <Coords points="171,620 169,585 1443,583 1445,620 1443,638 169,630"/>
+        <Baseline points="171,620 1445,620"/>
+        <TextEquiv>
+          <Unicode>der Prüfung zu unterwerfen“ (S. 10), beruft ſich der Verfaſſer auf Chriſtus und die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa9a53df" >
+        <Coords points="173,665 171,624 1439,626 1443,659 1441,674 173,678"/>
+        <Baseline points="173,665 1443,659"/>
+        <TextEquiv>
+          <Unicode>Apoſtel. Chriſtus habe für ſeine Perſon keine blinde Anerkennung verlangt, ſondern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cb831e5b" >
+        <Coords points="171,711 169,671 556,676 610,671 705,663 707,663 707,663 785,671 806,674 821,671 872,663 872,663 874,663 874,663 982,671 1005,674 1011,671 1042,661 1042,661 1044,661 1044,661 1046,661 1046,661 1046,661 1048,661 1087,671 1216,661 1218,661 1218,661 1218,661 1220,661 1220,661 1220,661 1222,661 1222,661 1222,663 1232,674 1338,674 1360,661 1360,661 1360,661 1362,661 1362,661 1362,661 1364,661 1364,661 1366,661 1366,661 1395,671 1408,661 1408,661 1410,661 1410,661 1412,661 1412,661 1412,661 1414,661 1414,661 1416,661 1416,661 1416,661 1441,674 1443,705 1441,715 171,721"/>
+        <Baseline points="171,711 1443,705"/>
+        <TextEquiv>
+          <Unicode>die Juden aufgefordert in den Schriften zu forſchen, da dieſe von ihm Zeugniß ab⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a5c51ba8" >
+        <Coords points="173,754 173,715 1445,719 1445,754 1445,769 173,771"/>
+        <Baseline points="173,754 1445,754"/>
+        <TextEquiv>
+          <Unicode>legten, und als Paulus in Beröa das Evangelium verkündete, hätten auch die Be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf2b0892" >
+        <Coords points="173,798 173,758 1445,762 1445,798 1443,814 171,808"/>
+        <Baseline points="173,798 1445,798"/>
+        <TextEquiv>
+          <Unicode>röenſer in der Schrift nachgeforſcht, ob es ſich ſo verhielte, wie der Apoſtel predigte.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3ecfcd0" >
+        <Coords points="175,843 173,806 1445,798 1447,843 1445,855 173,851"/>
+        <Baseline points="175,843 1447,843"/>
+        <TextEquiv>
+          <Unicode>Alſo weil der Heiland die ungläubigen Juden, welche ſeine göttliche Sendung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1130775e" >
+        <Coords points="175,886 171,853 1441,841 1447,882 1443,901 173,899"/>
+        <Baseline points="175,886 1447,882"/>
+        <TextEquiv>
+          <Unicode>nicht anerkannten, auffordert, ſich von dieſer göttlichen Sendung durch einen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_caaf5b40" >
+        <Coords points="177,934 173,893 1443,886 1449,928 1447,938 177,944"/>
+        <Baseline points="177,934 1449,928"/>
+        <TextEquiv>
+          <Unicode>Vergleich ſeines Lebens und ſeiner Thaten mit den altteſtamentlichen Weiſſagungen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_043c5e81" >
+        <Coords points="173,977 169,944 1443,938 1449,971 1447,988 173,994"/>
+        <Baseline points="173,977 1449,971"/>
+        <TextEquiv>
+          <Unicode>zu überzeugen, deshalb hat er auch noch den Apoſteln und Jüngern, die an ſeine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e9b2c4fa" >
+        <Coords points="175,1023 169,990 200,977 200,977 202,977 202,977 204,977 574,986 593,975 595,975 595,975 595,975 597,975 597,975 599,975 1445,984 1449,1017 1447,1029 175,1033"/>
+        <Baseline points="175,1023 1449,1017"/>
+        <TextEquiv>
+          <Unicode>göttliche Sendung glaubten, das Recht zuerkannt, ſeine neuen Lehren einer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ce2988de" >
+        <Coords points="179,1066 175,1027 1441,1019 1447,1060 1445,1077 179,1087"/>
+        <Baseline points="179,1066 1447,1060"/>
+        <TextEquiv>
+          <Unicode>Prüfung zu unterwerfen und mit ihrem bisherigen Glaubensbewußtſein zu vergleichen!</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3ca8236" >
+        <Coords points="179,1110 177,1070 1445,1073 1449,1106 1447,1116 179,1120"/>
+        <Baseline points="179,1110 1449,1106"/>
+        <TextEquiv>
+          <Unicode>Weil die noch ungläubigen Beröenſer ſich durch eigene Forſchung von der Gött⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9dc24f6c" >
+        <Coords points="177,1149 177,1112 1449,1114 1451,1153 1449,1159 816,1170 814,1170 814,1170 750,1159 744,1159 177,1159"/>
+        <Baseline points="177,1149 1451,1153"/>
+        <TextEquiv>
+          <Unicode>lichkeit des Chriſtenthums und damit zugleich von der Berechtigung des Apo⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1596bc0f" >
+        <Coords points="179,1192 177,1157 1445,1153 1449,1197 1445,1213 177,1205"/>
+        <Baseline points="179,1192 1449,1197"/>
+        <TextEquiv>
+          <Unicode>ſtels zur Predigt überzeugten, deshalb durften auch die gläubig gewordenen Beröenſer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03f71eb0" >
+        <Coords points="177,1236 177,1201 1449,1203 1451,1242 1447,1259 444,1246 192,1254 190,1254 190,1254 190,1254 188,1254 188,1254 188,1254 186,1254 186,1254 171,1242"/>
+        <Baseline points="177,1236 1451,1242"/>
+        <TextEquiv>
+          <Unicode>als ſie von der apoſtoliſchen Sendung des heiligen Paulus überzeugt waren, die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20a16293" >
+        <Coords points="179,1281 179,1240 1447,1248 1449,1285 1445,1302 177,1290"/>
+        <Baseline points="179,1281 1449,1285"/>
+        <TextEquiv>
+          <Unicode>weitern Lehren des Apoſtels mit ihrem bisherigen Glaubensbewußtſein vergleichen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5f5c0c9" >
+        <Coords points="181,1327 181,1290 1451,1294 1453,1331 1449,1339 179,1335"/>
+        <Baseline points="181,1327 1453,1331"/>
+        <TextEquiv>
+          <Unicode>um ſie abzulehnen oder anzunehmen, je nach der gefundenen oder nichtgefundenen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f69edaa" >
+        <Coords points="181,1372 181,1331 1453,1335 1453,1372 1453,1383 181,1383"/>
+        <Baseline points="181,1372 1453,1372"/>
+        <TextEquiv>
+          <Unicode>Uebereinſtimmung! Welches mag wohl das Glaubensbewußtſein der Beröenſer vor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d11a01e6" >
+        <Coords points="181,1414 181,1374 1449,1383 1451,1420 1449,1434 202,1434 200,1432 200,1432 198,1432 198,1432 198,1432 196,1432 175,1420"/>
+        <Baseline points="181,1414 1451,1420"/>
+        <TextEquiv>
+          <Unicode>ihrer Bekehrung z. B. in Bezug auf die Sacramente geweſen ſein? In der That,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41f5166f" >
+        <Coords points="179,1459 177,1422 1453,1418 1455,1463 1453,1474 179,1476"/>
+        <Baseline points="179,1459 1455,1463"/>
+        <TextEquiv>
+          <Unicode>der Unterſchied zwiſchen dem Rechte zur Prüfung der Auctorität deſſen, der ſich eine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95c87527" >
+        <Coords points="181,1507 181,1465 1455,1469 1455,1507 1455,1517 181,1525"/>
+        <Baseline points="181,1507 1455,1507"/>
+        <TextEquiv>
+          <Unicode>göttliche Miſſion zuſchreibt, und dem Rechte zur Prüfung der Lehren, welche eine als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f58fe83b" >
+        <Coords points="181,1552 179,1517 1451,1515 1453,1552 1451,1571 179,1565"/>
+        <Baseline points="181,1552 1453,1552"/>
+        <TextEquiv>
+          <Unicode>göttlich erkannte Auctorität vorträgt, iſt zu ſubtil für einen Privatdocenten der Philo⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2145ce8" >
+        <Coords points="184,1598 181,1556 1449,1558 1453,1594 1449,1612 181,1608"/>
+        <Baseline points="184,1598 1453,1594"/>
+        <TextEquiv>
+          <Unicode>ſophie; er vermag nicht einzuſehen, daß die Kirche zwar den Ungläubigen gegenüber</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_19b846a7" >
+        <Coords points="181,1641 181,1604 1453,1606 1453,1641 1453,1654 181,1654"/>
+        <Baseline points="181,1641 1453,1641"/>
+        <TextEquiv>
+          <Unicode>ihre göttliche Auctorität beweiſen muß, daß ſie aber nicht ihren Kindern gegen⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa316e14" >
+        <Coords points="181,1687 177,1647 562,1639 564,1639 663,1647 698,1649 703,1647 719,1639 719,1639 719,1639 721,1639 721,1639 723,1639 723,1639 723,1639 763,1647 775,1649 787,1647 827,1637 829,1637 829,1637 831,1637 831,1637 833,1637 833,1637 833,1637 856,1647 856,1647 870,1647 1050,1637 1052,1637 1052,1637 1052,1637 1108,1647 1108,1647 1108,1647 1125,1637 1127,1637 1127,1637 1129,1637 1129,1637 1129,1637 1131,1637 1131,1637 1133,1637 1172,1647 1174,1649 1451,1649 1455,1682 1453,1699 181,1699"/>
+        <Baseline points="181,1687 1455,1682"/>
+        <TextEquiv>
+          <Unicode>über, die in ihr eine Säule und Grundfeſte der Wahrheit erblicken, ihre Lehren</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bbb48231" >
+        <Coords points="181,1730 179,1689 1451,1693 1455,1726 1453,1738 181,1742"/>
+        <Baseline points="181,1730 1455,1726"/>
+        <TextEquiv>
+          <Unicode>zu beweiſen braucht. Wie nothwendig iſt doch für den Gymnaſial⸗Religionslehrer ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_195c8949" >
+        <Coords points="181,1775 177,1730 841,1734 845,1771 843,1782 181,1786"/>
+        <Baseline points="181,1775 845,1771"/>
+        <TextEquiv>
+          <Unicode>Repetitorium der Exegeſe und — der Logik!</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d7d75b8" >
+        <Coords points="254,1817 254,1780 1455,1782 1455,1817 1455,1827 254,1833"/>
+        <Baseline points="254,1817 1455,1817"/>
+        <TextEquiv>
+          <Unicode>Doch kommen wir zum eigentlichen Thema des Verfaſſers zurück. Das Geringſte,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_695fad10" >
+        <Coords points="181,1862 181,1819 1457,1823 1457,1862 1457,1873 1375,1887 1375,1887 1375,1889 1216,1889 1213,1887 1213,1887 1211,1887 1166,1875 1164,1875 1013,1875 1011,1875 990,1887 988,1887 988,1887 986,1887 986,1887 986,1889 872,1889 870,1887 870,1887 868,1887 868,1887 841,1875 839,1875 833,1875 732,1887 732,1887 730,1887 179,1875"/>
+        <Baseline points="181,1862 1457,1862"/>
+        <TextEquiv>
+          <Unicode>was man von jedem Schriftſteller erwarten darf, iſt, daß er die benutzten Quellen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ddfe092" >
+        <Coords points="181,1910 179,1866 477,1871 481,1906 481,1918 181,1920"/>
+        <Baseline points="181,1910 481,1906"/>
+        <TextEquiv>
+          <Unicode>richtig überſetze.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bfb43baa" >
+        <Coords points="258,1953 256,1916 388,1904 390,1904 390,1904 390,1904 392,1904 392,1904 392,1904 394,1904 409,1914 411,1914 1455,1906 1457,1953 1457,1966 258,1966"/>
+        <Baseline points="258,1953 1457,1953"/>
+        <TextEquiv>
+          <Unicode>Wir haben ſchon in unſerer kurzen Notiz im I. Bd. S. 548 darauf hingewieſen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1770bcb3" >
+        <Coords points="188,1999 186,1964 1453,1955 1455,1999 1453,2009 186,2007"/>
+        <Baseline points="188,1999 1455,1999"/>
+        <TextEquiv>
+          <Unicode>wie dieß auch ſchon von anderer Seite geſchehen iſt¹, daß nicht einmal dieſer gering⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4df091c6" >
+        <Coords points="186,2042 184,2007 1455,1999 1457,2042 1457,2055 186,2055"/>
+        <Baseline points="186,2042 1457,2042"/>
+        <TextEquiv>
+          <Unicode>ſten Forderung in vorliegender Schrift Genüge geſchieht. Wie Dr. Weber durch un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd3589df" >
+        <Coords points="186,2090 177,2055 200,2042 200,2042 200,2042 202,2042 202,2042 204,2042 1455,2046 1460,2081 1457,2098 186,2102"/>
+        <Baseline points="186,2090 1460,2081"/>
+        <TextEquiv>
+          <Unicode>richtige Überſetzung im heiligen Paulus findet, was er will (ſiehe oben S. 75 Anm. 2),</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a525e7fe" >
+        <Coords points="188,2131 186,2094 1015,2094 1021,2094 1056,2084 1058,2084 1058,2084 1060,2084 1457,2094 1462,2125 1460,2146 186,2143"/>
+        <Baseline points="188,2131 1462,2125"/>
+        <TextEquiv>
+          <Unicode>ſo auch beim hl. Ignatius. So z. B. wird S. 19 der Satz „in quibus cognitae</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_480cde90" >
+        <Coords points="190,2177 188,2137 1453,2137 1457,2170 1455,2181 190,2191"/>
+        <Baseline points="190,2177 1457,2170"/>
+        <TextEquiv>
+          <Unicode>veritatis evidentia vim illi (sc. intellectui) non infert“ überſetzt: „in denen näm⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a6a26e2" >
+        <Coords points="190,2218 184,2187 206,2175 206,2175 206,2175 208,2175 208,2175 210,2175 651,2181 800,2183 835,2179 889,2172 891,2172 1457,2172 1462,2214 1462,2228 1426,2241 1424,2241 1424,2241 1424,2243 1178,2243 1176,2241 1176,2241 1174,2241 1139,2230 1137,2230 866,2230 862,2230 827,2243 825,2243 825,2243 825,2243 823,2243 188,2232"/>
+        <Baseline points="190,2218 1462,2214"/>
+        <TextEquiv>
+          <Unicode>lich die Evidenz der erkannten Wahrheit nicht ſo groß iſt, daß ſie jener (der</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d3b807ce"  >
+      <Coords points="1238,2346 281,2346 264,2307 1238,2307 1238,2346"/>
+      <TextLine id="eSc_line_384d4d06" >
+        <Coords points="268,2340 268,2303 1238,2303 1238,2340 1238,2356 1108,2373 1108,2373 1106,2373 1106,2373 1104,2373 1104,2373 1104,2373 1102,2373 1102,2373 1085,2359 1038,2373 1036,2373 1036,2373 1036,2375 961,2375 959,2373 959,2373 957,2373 957,2373 957,2373 955,2373 955,2371 940,2359 889,2373 887,2373 887,2373 885,2373 463,2359 426,2359 423,2359 409,2371 409,2373 407,2373 407,2373 407,2373 405,2373 405,2373 405,2375 324,2375 322,2373 322,2373 320,2373 264,2359"/>
+        <Baseline points="268,2340 1238,2340"/>
+        <TextEquiv>
+          <Unicode>¹ Germania Nr. 283 Beilage. Breslauer Volkszeitung Nr. 298.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

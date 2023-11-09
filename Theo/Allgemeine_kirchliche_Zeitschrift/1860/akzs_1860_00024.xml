@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00024.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.203964+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.203980+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="akzs_1860_00024.jpg" imageWidth="1502" imageHeight="2610">
+    <TextRegion id="eSc_textblock_166868f6"  >
+      <Coords points="840,93 772,102 781,52 831,52 840,93"/>
+      <TextLine id="eSc_line_8f5d3c0a" >
+        <Coords points="772,95 768,45 825,43 831,91 831,100 772,104"/>
+        <Baseline points="772,95 831,91"/>
+        <TextEquiv>
+          <Unicode>22</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1b5c9607"  >
+      <Coords points="1475,2399 121,2390 113,304 121,226 217,165 1484,174 1475,2399"/>
+      <TextLine id="eSc_line_944c2cbb" >
+        <Coords points="206,206 202,160 1471,156 1478,200 1473,221 204,219"/>
+        <Baseline points="206,206 1478,200"/>
+        <TextEquiv>
+          <Unicode>Aber eben von hier aus werden wir nun auf die zweite Urſache geführt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f30981cf" >
+        <Coords points="121,261 117,213 1471,210 1478,254 1475,269 121,271"/>
+        <Baseline points="121,261 1478,254"/>
+        <TextEquiv>
+          <Unicode>die nicht ſelten Gliedern unſerer Kirche geheime Neigungen für die römiſch⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_278d033f" >
+        <Coords points="121,311 121,263 1480,265 1480,311 1480,321 121,328"/>
+        <Baseline points="121,311 1480,311"/>
+        <TextEquiv>
+          <Unicode>katholiſche einflößt. In dieſer hat das Chriſtenthum ſich ſcheinbar in ſeinem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_25aafad9" >
+        <Coords points="124,365 121,315 1473,315 1478,356 1475,371 124,382"/>
+        <Baseline points="124,365 1478,356"/>
+        <TextEquiv>
+          <Unicode>Feſtſchmuck begeben; da hat die Wahrheit für den äußern Sinn das Gewand</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1433efe5" >
+        <Coords points="124,417 121,367 1475,369 1480,413 1478,424 124,428"/>
+        <Baseline points="124,417 1480,413"/>
+        <TextEquiv>
+          <Unicode>der Schönheit angenommen; und wie bezaubernd auf geiſtreiche Männer und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71ec45cf" >
+        <Coords points="124,474 119,428 1478,424 1482,469 1480,482 124,485"/>
+        <Baseline points="124,474 720,465 1482,469"/>
+        <TextEquiv>
+          <Unicode>Frauen der Sinnenreiz des katholiſchen Cultus zu wirken vermag, davon kann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_23227dd1" >
+        <Coords points="124,524 119,482 1473,476 1480,517 1478,530 124,545"/>
+        <Baseline points="124,524 1480,517"/>
+        <TextEquiv>
+          <Unicode>uns das Zeitalter der Romantik, können uns die Novalis, Schlegel, Stol⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6cc8808b" >
+        <Coords points="124,578 119,535 620,519 622,519 846,528 853,528 853,528 868,517 868,517 870,517 870,517 872,517 872,517 872,517 875,517 1112,528 1116,569 1112,591 121,589"/>
+        <Baseline points="124,578 1116,569"/>
+        <TextEquiv>
+          <Unicode>berg, Werner u. A. m. in ſchlagender Weiſe überzeugen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_951417b7" >
+        <Coords points="206,628 206,585 1484,585 1484,628 1484,643 206,645"/>
+        <Baseline points="206,628 1484,628"/>
+        <TextEquiv>
+          <Unicode>Und war es denn nicht wirklich ein grober Irrthum, als eine nüchterne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_999f8959" >
+        <Coords points="124,680 121,632 1478,635 1482,676 1480,689 124,693"/>
+        <Baseline points="124,680 1482,676"/>
+        <TextEquiv>
+          <Unicode>Schule lehrte, daß das Schöne nicht wahr, und daß das Wahre nicht ſchön</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e822d475" >
+        <Coords points="121,730 121,682 1480,687 1480,735 1478,746 121,748"/>
+        <Baseline points="121,730 1480,735"/>
+        <TextEquiv>
+          <Unicode>ſein könne? Aber noch ein viel größerer Irrthum iſt es, wenn die ſinn⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_118db25a" >
+        <Coords points="121,780 121,735 1480,743 1480,789 1475,806 119,800"/>
+        <Baseline points="121,780 1480,789"/>
+        <TextEquiv>
+          <Unicode>liche vergängliche Schönheit an die Stelle der geiſtigen und himmliſchen geſetzt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_748fa410" >
+        <Coords points="124,837 124,787 1480,793 1480,841 1475,856 121,848"/>
+        <Baseline points="124,837 1480,841"/>
+        <TextEquiv>
+          <Unicode>wird. Und das iſt ſchon innerhab des mittelalterlichen Kirchenthums vielfach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1fbadb6" >
+        <Coords points="126,889 126,846 1480,852 1480,896 1475,913 124,906"/>
+        <Baseline points="126,889 1480,896"/>
+        <TextEquiv>
+          <Unicode>geſchehen. Das Chriſtenthum iſt kein Werk der Kunſt, ſondern eine Schöpfung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8878a58d" >
+        <Coords points="124,941 124,893 1480,902 1480,948 1475,965 121,954"/>
+        <Baseline points="124,941 1480,948"/>
+        <TextEquiv>
+          <Unicode>des h. Geiſtes. Daß es ſeine wunderbare Macht über alle Gebiete des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_484613eb" >
+        <Coords points="124,996 124,948 1478,954 1478,1002 1475,1011 124,1013"/>
+        <Baseline points="124,996 1478,1002"/>
+        <TextEquiv>
+          <Unicode>Lebens und der Welt ausbreiten ſoll, das iſt allerdings ſeine Beſtimmung.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9de58e2c" >
+        <Coords points="128,1048 128,1002 1480,1009 1480,1054 1475,1074 126,1061"/>
+        <Baseline points="128,1048 1480,1054"/>
+        <TextEquiv>
+          <Unicode>Darum mußte es auch eine chriſtliche Kunſt und chriſtliche Kunſtwerke erzeugen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c977d7be" >
+        <Coords points="124,1104 124,1052 1478,1063 1478,1104 1475,1126 121,1117"/>
+        <Baseline points="124,1104 1478,1104"/>
+        <TextEquiv>
+          <Unicode>Aber die chriſtliche Wahrheit ſelbſt kann nicht in Kunſt verwandelt werden;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_039a1201" >
+        <Coords points="121,1157 121,1109 1475,1115 1478,1161 1473,1174 119,1167"/>
+        <Baseline points="121,1157 1478,1161"/>
+        <TextEquiv>
+          <Unicode>die Kunſt ſoll umgekehrt durch das Chriſtenthum wahr werden. Man ſpricht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_effec975" >
+        <Coords points="121,1215 121,1161 1480,1170 1480,1215 1480,1228 121,1228"/>
+        <Baseline points="121,1215 1480,1215"/>
+        <TextEquiv>
+          <Unicode>jetzt ſo oft davon: der Geiſt, alſo auch der chriſtliche Geiſt, müſſe Natur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_157bea05" >
+        <Coords points="121,1261 121,1215 1475,1222 1478,1268 1473,1287 119,1272"/>
+        <Baseline points="121,1261 1478,1268"/>
+        <TextEquiv>
+          <Unicode>werden. Das Chriſtenthum fordert umgekehrt: daß die Natur Geiſt, daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3e250c6" >
+        <Coords points="121,1315 121,1268 1179,1270 1182,1322 1177,1339 117,1324"/>
+        <Baseline points="121,1315 1182,1322"/>
+        <TextEquiv>
+          <Unicode>die geſammte Welt ein Organ des chriſtlichen Geiſtes werde.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29f474d6" >
+        <Coords points="204,1365 204,1320 1475,1328 1478,1374 1473,1385 200,1383"/>
+        <Baseline points="204,1365 1478,1374"/>
+        <TextEquiv>
+          <Unicode>Die mittelalterliche Kirche hat in der Naturwerdung des Geiſtes Wunder⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_32916675" >
+        <Coords points="119,1418 119,1374 1480,1385 1480,1428 1475,1439 117,1433"/>
+        <Baseline points="119,1418 1480,1428"/>
+        <TextEquiv>
+          <Unicode>bares geleiſtet; ihre herrlichen Dome ſind in Stein verwandelte Predigten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f96bf069" >
+        <Coords points="121,1472 121,1428 1475,1428 1478,1483 1473,1500 117,1489"/>
+        <Baseline points="121,1472 1478,1483"/>
+        <TextEquiv>
+          <Unicode>von dem Kreuze Chriſti. Aber dieſe ſteinernen Predigten, ſammt den in Holz</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d1625f1" >
+        <Coords points="121,1526 121,1481 1478,1487 1478,1535 1473,1544 119,1537"/>
+        <Baseline points="121,1526 1478,1535"/>
+        <TextEquiv>
+          <Unicode>geſchnitzten und gemalten „Laienbibeln“, den Bildern, haben die Chriſtenheit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1aae905b" >
+        <Coords points="121,1579 121,1533 1473,1537 1475,1587 1471,1598 119,1589"/>
+        <Baseline points="121,1579 1475,1587"/>
+        <TextEquiv>
+          <Unicode>nicht vor dem ſteigenden Verfalle, nicht vor dem Abgrunde eines Irrthums</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_011c7e6d" >
+        <Coords points="119,1633 119,1585 1475,1589 1478,1639 1473,1648 117,1644"/>
+        <Baseline points="119,1633 1478,1639"/>
+        <TextEquiv>
+          <Unicode>geſchützt, in welchem die Reformatoren die Offenbarung des Antichriſtenthums</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fdfa6a73" >
+        <Coords points="124,1685 124,1633 1480,1646 1480,1692 1475,1703 121,1700"/>
+        <Baseline points="124,1685 1480,1692"/>
+        <TextEquiv>
+          <Unicode>ſelbſt erblicken zu müſſen meinten. Wo die lebendige Predigt verſtummt, da</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e0a51b1" >
+        <Coords points="124,1737 124,1692 1475,1698 1478,1748 1473,1766 119,1755"/>
+        <Baseline points="124,1737 1478,1748"/>
+        <TextEquiv>
+          <Unicode>wirkt die Stimme aus Holz und Steinen nicht mehr. Die Erfahrung beweiſt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bb47ab7b" >
+        <Coords points="124,1794 124,1748 1478,1753 1480,1800 1475,1809 121,1803"/>
+        <Baseline points="124,1794 1480,1800"/>
+        <TextEquiv>
+          <Unicode>daß je mehr Gewicht auf die ſtumme gelegt wird, deſto mehr Werth und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98df94b2" >
+        <Coords points="126,1848 124,1798 720,1800 724,1844 720,1863 124,1861"/>
+        <Baseline points="126,1848 724,1844"/>
+        <TextEquiv>
+          <Unicode>Wirkung der lebendigen ſchwindet.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_119901e8" >
+        <Coords points="208,1900 208,1848 1480,1859 1482,1907 1478,1918 204,1913"/>
+        <Baseline points="208,1900 1482,1907"/>
+        <TextEquiv>
+          <Unicode>Es wäre nicht ſchwer, in der Gegenwart manche Merkmale aufzufinden,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ade70b0a" >
+        <Coords points="121,1955 121,1909 1480,1911 1482,1961 1478,1970 119,1964"/>
+        <Baseline points="121,1955 1482,1961"/>
+        <TextEquiv>
+          <Unicode>welche auf einen erneuerten Verſuch, den chriſtlichen Geiſt in Natur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41e8802f" >
+        <Coords points="119,2014 117,1961 1475,1964 1480,2007 1475,2024 302,2022 254,2033 250,2033 250,2033 250,2033 248,2033 248,2033 245,2033 243,2033 200,2022 119,2033"/>
+        <Baseline points="119,2014 1480,2007"/>
+        <TextEquiv>
+          <Unicode>zu verwandeln, hindeuten. Das iſt nicht die Aufgabe der deutſchen evan⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a789107b" >
+        <Coords points="121,2064 121,2016 1480,2020 1482,2068 1480,2074 121,2081"/>
+        <Baseline points="121,2064 1482,2068"/>
+        <TextEquiv>
+          <Unicode>geliſchen Kirche in der Gegenwart. Sie hat umgekehrt die Aufgabe, mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95d81900" >
+        <Coords points="124,2114 121,2070 1478,2068 1482,2120 1480,2131 124,2133"/>
+        <Baseline points="124,2114 1482,2120"/>
+        <TextEquiv>
+          <Unicode>gewiſſenhaftem Ernſte das Panier des Geiſtes in dieſem Augenblicke recht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ed7312f" >
+        <Coords points="121,2168 121,2120 389,2124 391,2172 387,2185 117,2181"/>
+        <Baseline points="121,2168 391,2172"/>
+        <TextEquiv>
+          <Unicode>hoch zu halten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bb9a558c" >
+        <Coords points="211,2220 211,2175 1484,2183 1484,2231 1480,2240 206,2238"/>
+        <Baseline points="211,2220 1484,2231"/>
+        <TextEquiv>
+          <Unicode>Manche, die es gewiß gut meinen, ſind gegenwärtig der Anſicht, es liege</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_acf8aca0" >
+        <Coords points="121,2275 121,2220 1482,2238 1484,2283 1480,2294 119,2288"/>
+        <Baseline points="121,2275 1484,2283"/>
+        <TextEquiv>
+          <Unicode>in der Aufgabe der evangeliſchen Kirche, der katholiſchen ſich anzunähern, und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7fd5dc1c" >
+        <Coords points="121,2329 121,2283 1478,2288 1480,2338 1475,2349 119,2342"/>
+        <Baseline points="121,2329 1480,2338"/>
+        <TextEquiv>
+          <Unicode>es fehlt gerade jetzt an Beſtrebungen innerhalb der deutſchen evangeliſchen Landes⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a6788da" >
+        <Coords points="121,2381 121,2335 1480,2344 1482,2390 1480,2412 1441,2412 1441,2412 1423,2425 1423,2427 1421,2427 1421,2427 1421,2427 1419,2427 1419,2427 1419,2429 1240,2429 1238,2427 1238,2427 1236,2427 1236,2427 1236,2427 1208,2412 1205,2409 1136,2409 822,2409 816,2412 803,2422 801,2422 801,2422 801,2422 798,2422 798,2422 798,2422 796,2422 796,2422 794,2422 794,2422 794,2422 774,2414 761,2407 751,2414 729,2422 729,2422 727,2422 727,2422 727,2422 724,2422 724,2422 722,2422 722,2422 722,2422 703,2414 690,2407 679,2414 657,2422 657,2422 655,2422 655,2422 655,2422 653,2422 653,2422 650,2422 650,2422 626,2414 616,2409 613,2414 605,2420 605,2422 605,2422 602,2422 602,2422 602,2422 600,2422 600,2422 600,2425 463,2425 461,2422 461,2422 459,2422 428,2414 396,2405 352,2414 319,2420 319,2420 319,2420 317,2420 317,2420 315,2420 315,2420 315,2420 302,2414 291,2409 119,2414"/>
+        <Baseline points="121,2381 1482,2390"/>
+        <TextEquiv>
+          <Unicode>kirchen nicht, welche Lehre, Gottesdienſt, Verfaſſung, Amt, wo immer möglich,</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

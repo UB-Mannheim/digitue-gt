@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00064.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.978392+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.978410+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00064.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_6b90477d"  >
+      <Coords points="874,105 810,113 818,66 866,66 874,105"/>
+      <TextLine id="eSc_line_2a7bee0c" >
+        <Coords points="808,103 810,57 868,62 868,107 866,117 806,117"/>
+        <Baseline points="808,103 868,107"/>
+        <TextEquiv>
+          <Unicode>58</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_abd84a14"  >
+      <Coords points="1495,2313 206,2305 215,157 1486,165 1495,2313"/>
+      <TextLine id="eSc_line_5f0688ad" >
+        <Coords points="204,202 202,155 1476,161 1480,198 1478,208 204,212"/>
+        <Baseline points="204,202 1480,198"/>
+        <TextEquiv>
+          <Unicode>lichen Geſetze decretirt hätten. Nein, es gibt Grenzen, welche auch der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21a625ad" >
+        <Coords points="204,258 202,215 899,215 901,215 936,204 938,204 938,204 938,204 940,204 940,204 943,204 943,204 943,204 945,204 957,215 969,204 969,204 971,204 971,204 974,204 974,204 974,204 976,204 976,204 976,204 978,204 978,204 980,204 996,215 996,215 998,215 1073,204 1073,204 1075,204 1075,204 1075,204 1077,204 1077,204 1079,204 1079,204 1093,215 1093,217 1203,217 1205,215 1284,204 1284,204 1286,204 1286,204 1352,215 1431,204 1431,204 1433,204 1433,204 1433,204 1435,204 1474,217 1476,254 1474,266 204,270"/>
+        <Baseline points="204,258 1476,254"/>
+        <TextEquiv>
+          <Unicode>Staat einzuhalten genöthigt iſt! Rechtlich kann er nicht nach Be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2625076" >
+        <Coords points="202,314 202,274 1478,274 1478,314 1476,326 200,324"/>
+        <Baseline points="202,314 1478,314"/>
+        <TextEquiv>
+          <Unicode>lieben ſchalten und walten mit den Rechten ſeiner Unter⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0936cf72" >
+        <Coords points="204,374 200,328 1472,322 1478,368 1476,376 204,382"/>
+        <Baseline points="204,374 1478,368"/>
+        <TextEquiv>
+          <Unicode>thanen, wenn auch ſeine Überlegenheit an phyſiſchen Kräften über</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0cc22246" >
+        <Coords points="202,427 200,388 297,376 297,376 299,376 299,376 399,388 591,388 626,376 628,376 628,376 630,376 630,376 742,386 792,376 792,376 792,376 794,376 794,376 794,376 796,376 796,376 821,386 872,376 872,376 872,376 874,376 874,376 876,376 876,376 907,386 945,376 947,376 947,376 949,376 949,376 949,376 951,376 951,376 953,376 971,388 1143,388 1160,376 1162,376 1162,376 1162,376 1164,376 1164,376 1166,376 1480,388 1480,427 1480,442 202,442"/>
+        <Baseline points="202,427 1480,427"/>
+        <TextEquiv>
+          <Unicode>Kirche, Gemeinde, Familie und Einzelne ihn einer großen Gefahr aus⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ccea53f" >
+        <Coords points="204,489 202,436 500,444 510,438 514,434 514,434 517,434 517,434 517,434 519,434 519,434 521,434 521,434 521,434 543,438 570,444 591,438 616,432 618,432 618,432 618,432 620,432 620,432 622,432 622,432 622,432 639,440 645,442 719,440 943,432 945,432 945,432 1036,444 1040,485 1038,496 204,506"/>
+        <Baseline points="204,489 1040,485"/>
+        <TextEquiv>
+          <Unicode>ſetzt, ſeine Grenzen mißbräuchlich zu erweitern.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_67e4692e" >
+        <Coords points="291,543 289,492 773,498 783,494 796,487 796,487 796,487 798,487 798,487 800,487 800,487 800,487 831,494 852,498 862,494 880,485 880,485 883,485 883,485 883,485 885,485 885,485 885,485 926,494 936,496 945,494 976,485 978,485 978,485 980,485 980,485 980,485 1021,494 1031,496 1065,494 1236,485 1238,485 1238,485 1344,496 1348,496 1350,496 1387,485 1389,485 1389,485 1391,485 1391,485 1478,498 1482,539 1480,549 291,562"/>
+        <Baseline points="291,543 1482,539"/>
+        <TextEquiv>
+          <Unicode>2. Nur das iſt die Frage: Wo iſt die Grenze der ſtaat⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d445121a" >
+        <Coords points="204,601 202,556 374,545 376,545 376,545 378,545 378,545 378,545 399,556 401,558 614,558 614,601 614,611 204,611"/>
+        <Baseline points="204,601 614,601"/>
+        <TextEquiv>
+          <Unicode>lichen Competenz?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_88ed4ca7" >
+        <Coords points="293,661 291,603 583,614 725,605 814,599 816,599 816,599 818,599 843,605 868,611 893,605 926,597 928,597 928,597 930,597 930,597 930,597 932,597 932,597 951,605 961,611 1075,611 1083,607 1104,597 1104,597 1106,597 1106,597 1106,597 1108,597 1108,597 1110,597 1110,597 1110,597 1131,607 1133,607 1141,607 1222,595 1222,595 1224,595 1224,595 1354,607 1358,607 1358,607 1379,595 1381,595 1381,595 1383,595 1383,595 1383,595 1385,595 1385,595 1478,609 1482,653 1480,671 293,671"/>
+        <Baseline points="293,661 1482,653"/>
+        <TextEquiv>
+          <Unicode>Iſt etwa das einſeitige Intereſſe des Staates der zuverläſſige</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f82cc678" >
+        <Coords points="206,713 202,661 1478,657 1484,709 1482,725 204,721"/>
+        <Baseline points="206,713 1484,709"/>
+        <TextEquiv>
+          <Unicode>Maßſtab ſeines Rechtes? An einem Intereſſe pflegt es freilich, wie den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c2258f9" >
+        <Coords points="206,771 204,723 1205,723 1273,713 1273,713 1275,713 1275,713 1275,713 1278,713 1278,713 1302,723 1379,713 1379,713 1381,713 1381,713 1381,713 1439,723 1451,713 1451,713 1453,713 1453,713 1455,713 1455,713 1455,713 1457,713 1457,713 1457,713 1460,713 1460,713 1462,713 1482,725 1482,764 1480,775 206,781"/>
+        <Baseline points="206,771 1482,764"/>
+        <TextEquiv>
+          <Unicode>völkerrechtlichen und privatrechtlichen, ſo auch den ſtaatsrechtlichen Uſur⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6241f0ff" >
+        <Coords points="206,829 202,787 1176,771 1178,771 1476,781 1480,822 1478,833 206,839"/>
+        <Baseline points="206,829 1480,822"/>
+        <TextEquiv>
+          <Unicode>patoren nicht zu fehlen; ein ſolches hätten auch Caligula und Philipp IV.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46368fa1" >
+        <Coords points="206,884 202,847 264,833 264,833 264,833 266,833 266,833 268,833 308,843 345,833 347,833 347,833 347,833 349,833 572,843 574,843 574,843 626,831 628,831 628,831 630,831 630,831 630,831 632,831 632,831 634,831 634,831 647,841 711,831 711,831 713,831 1011,841 1036,841 1044,841 1116,829 1116,829 1118,829 1118,829 1118,829 1120,829 1120,829 1149,839 1184,829 1187,829 1187,829 1189,829 1476,839 1480,878 1478,891 206,899"/>
+        <Baseline points="206,884 1480,878"/>
+        <TextEquiv>
+          <Unicode>wohl anzuführen gewußt; aber ich glaube, man braucht eben nicht viel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5f575670" >
+        <Coords points="206,942 204,893 1478,897 1482,936 1480,948 206,955"/>
+        <Baseline points="206,942 1482,936"/>
+        <TextEquiv>
+          <Unicode>Rechtsſtudien gemacht zu haben, um das Widerrechtliche dieſes Maß⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9edb4aa" >
+        <Coords points="206,1000 202,953 1476,944 1482,992 1480,1006 206,1015"/>
+        <Baseline points="206,1000 1482,992"/>
+        <TextEquiv>
+          <Unicode>ſtabes einzuſehen. Wenn das Intereſſe genügte, ein Recht zu begrün⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36df475f" >
+        <Coords points="206,1056 198,1017 215,1004 215,1004 217,1004 217,1004 217,1004 219,1004 219,1004 221,1004 550,1013 595,1013 599,1013 626,1002 626,1002 628,1002 628,1002 630,1002 852,1008 965,1011 1476,1000 1482,1050 1478,1070 204,1066"/>
+        <Baseline points="206,1056 1482,1050"/>
+        <TextEquiv>
+          <Unicode>den, ſo hätte in der That jeder Gauner ein unumſtößliches Recht auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_082ff43c" >
+        <Coords points="208,1112 204,1070 765,1058 771,1108 769,1118 208,1128"/>
+        <Baseline points="208,1112 771,1108"/>
+        <TextEquiv>
+          <Unicode>die volle Börſe des Reiſenden!</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_192e53f7" >
+        <Coords points="295,1161 295,1116 1484,1120 1486,1166 1484,1176 293,1178"/>
+        <Baseline points="295,1161 1486,1166"/>
+        <TextEquiv>
+          <Unicode>3. Der wahre Maßſtab für den Umfang des ſtaatlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_05d870e8" >
+        <Coords points="206,1226 204,1176 1482,1178 1486,1221 1484,1230 206,1234"/>
+        <Baseline points="206,1226 1486,1221"/>
+        <TextEquiv>
+          <Unicode>Rechtes iſt, als letzter formaler Grund, einzig und allein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_300f4068" >
+        <Coords points="206,1281 202,1240 843,1226 845,1226 1482,1236 1486,1277 1484,1290 206,1292"/>
+        <Baseline points="206,1281 1486,1277"/>
+        <TextEquiv>
+          <Unicode>der Wille des perſönlichen Gottes, welcher dem Staat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f4c86a6" >
+        <Coords points="208,1337 206,1296 721,1296 723,1294 738,1283 740,1283 740,1283 740,1283 742,1283 742,1283 744,1283 1247,1294 1251,1333 1249,1352 208,1354"/>
+        <Baseline points="208,1337 1251,1333"/>
+        <TextEquiv>
+          <Unicode>einen beſtimmten Umfang von Rechten zuweist.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f47f1bf0" >
+        <Coords points="295,1395 293,1343 1482,1345 1486,1391 1484,1401 295,1405"/>
+        <Baseline points="295,1395 1486,1391"/>
+        <TextEquiv>
+          <Unicode>Entweder iſt nämlich der Staat ein von Ewigkeit her beſtehendes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b380ad47" >
+        <Coords points="206,1455 204,1410 628,1410 636,1407 698,1397 698,1397 701,1397 1017,1405 1034,1405 1034,1405 1054,1395 1054,1395 1054,1395 1056,1395 1056,1395 1058,1395 1482,1405 1486,1449 1484,1457 206,1463"/>
+        <Baseline points="206,1455 1486,1449"/>
+        <TextEquiv>
+          <Unicode>Weſen, welches den Grund ſeines Daſeins in ſich ſelbſt trägt; oder er</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4025de7e" >
+        <Coords points="206,1511 202,1463 537,1455 539,1455 539,1455 579,1463 593,1465 605,1463 634,1455 636,1455 636,1455 639,1455 639,1455 639,1455 641,1455 665,1463 674,1465 678,1463 690,1455 692,1455 692,1455 692,1455 694,1455 694,1455 696,1455 696,1455 696,1455 698,1455 698,1455 698,1455 715,1463 721,1467 845,1467 885,1463 1031,1453 1034,1453 1034,1453 1034,1453 1089,1463 1089,1463 1091,1463 1139,1453 1139,1453 1139,1453 1141,1453 1327,1463 1329,1463 1329,1463 1346,1453 1348,1453 1348,1453 1350,1453 1350,1453 1350,1453 1352,1453 1484,1465 1488,1507 1486,1517 206,1527"/>
+        <Baseline points="206,1511 1488,1507"/>
+        <TextEquiv>
+          <Unicode>verdankt ſein Daſein mittelbar oder unmittelbar einem andern höchſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0e62876a" >
+        <Coords points="208,1569 204,1521 576,1521 585,1519 608,1511 608,1511 610,1511 610,1511 612,1511 612,1511 678,1519 703,1521 711,1519 730,1511 730,1511 732,1511 732,1511 732,1511 734,1511 734,1511 736,1511 736,1511 756,1519 767,1521 789,1519 852,1509 852,1509 854,1509 1017,1517 1058,1519 1096,1517 1244,1507 1247,1507 1484,1517 1488,1560 1486,1575 208,1589"/>
+        <Baseline points="208,1569 1488,1560"/>
+        <TextEquiv>
+          <Unicode>Weſen, nämlich Gott. Im erſten Fall könnte er freilich Anſpruch machen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_723c6123" >
+        <Coords points="208,1627 204,1585 258,1573 258,1573 258,1573 260,1573 260,1573 318,1581 328,1573 328,1571 328,1571 330,1571 330,1571 330,1571 332,1571 332,1571 335,1571 500,1571 500,1571 500,1571 502,1571 502,1571 502,1571 521,1581 523,1581 543,1581 711,1569 713,1569 713,1569 800,1577 821,1579 827,1577 845,1569 845,1569 847,1569 847,1569 847,1569 849,1569 849,1569 901,1577 922,1579 1054,1579 1058,1575 1069,1567 1069,1567 1071,1567 1071,1567 1073,1567 1073,1567 1073,1567 1075,1567 1075,1567 1129,1573 1156,1577 1166,1573 1184,1567 1184,1567 1187,1567 1187,1567 1189,1567 1278,1567 1278,1567 1278,1567 1280,1567 1280,1567 1280,1567 1282,1567 1282,1567 1288,1573 1296,1577 1482,1571 1488,1620 1486,1629 208,1635"/>
+        <Baseline points="208,1627 1488,1620"/>
+        <TextEquiv>
+          <Unicode>auf rechtliche Allgewalt, und Hegel&#39;ſcher Pantheismus iſt in der That</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5beb635b" >
+        <Coords points="210,1682 206,1641 262,1629 262,1629 262,1629 264,1629 587,1637 674,1627 674,1627 676,1627 1480,1635 1484,1676 1482,1687 210,1697"/>
+        <Baseline points="210,1682 1484,1676"/>
+        <TextEquiv>
+          <Unicode>ganz beſonders zur wiſſenſchaftlichen Begründung der abſoluten Staats⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2b328fb" >
+        <Coords points="210,1738 208,1687 1484,1693 1488,1734 1486,1744 210,1749"/>
+        <Baseline points="210,1738 1488,1734"/>
+        <TextEquiv>
+          <Unicode>omnipotenz ausgebeutet. Ihm iſt ja der Staat der perſönlich gewor⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_067638ab" >
+        <Coords points="210,1796 208,1751 1484,1751 1488,1792 1486,1802 210,1813"/>
+        <Baseline points="210,1796 1488,1792"/>
+        <TextEquiv>
+          <Unicode>dene, präſente Gott. Drum braucht er ſein Recht aus keiner andern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33b8f07f" >
+        <Coords points="210,1852 210,1806 1488,1809 1488,1852 1488,1860 210,1869"/>
+        <Baseline points="210,1852 1488,1852"/>
+        <TextEquiv>
+          <Unicode>Quelle abzuleiten, während er ſelbſt, als der ſich ſelber denkende Gott,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c7b1462" >
+        <Coords points="213,1912 208,1866 1480,1860 1486,1908 1484,1916 213,1924"/>
+        <Baseline points="213,1912 1486,1908"/>
+        <TextEquiv>
+          <Unicode>dem die Rechtsbildung obliegt, nothwendig die einzige Quelle iſt, aus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47b7be57" >
+        <Coords points="210,1968 204,1928 231,1914 231,1914 231,1914 233,1914 233,1914 235,1914 235,1914 235,1914 237,1914 237,1914 237,1914 258,1924 283,1914 283,1914 285,1914 285,1914 285,1914 287,1914 287,1914 289,1914 289,1914 320,1924 380,1914 380,1914 380,1914 382,1914 382,1914 384,1914 384,1914 384,1914 407,1924 446,1914 448,1914 448,1914 450,1914 450,1914 523,1924 535,1914 535,1914 537,1914 537,1914 537,1914 539,1914 539,1914 539,1914 541,1914 541,1914 616,1924 622,1924 632,1924 717,1912 717,1912 719,1912 719,1912 719,1912 721,1912 758,1922 761,1922 761,1922 798,1912 800,1912 800,1912 802,1912 802,1912 802,1912 856,1922 862,1922 864,1922 876,1912 878,1912 878,1912 878,1912 880,1912 880,1912 883,1912 883,1912 883,1912 885,1912 885,1912 885,1912 903,1920 905,1922 907,1920 930,1912 930,1912 932,1912 932,1912 934,1912 934,1912 1002,1920 1025,1922 1034,1920 1056,1910 1056,1910 1058,1910 1058,1910 1058,1910 1060,1910 1060,1910 1060,1910 1104,1918 1114,1920 1125,1918 1172,1910 1172,1910 1172,1910 1174,1910 1174,1910 1176,1910 1176,1910 1199,1918 1207,1920 1218,1918 1249,1910 1251,1910 1251,1910 1253,1910 1253,1910 1253,1910 1255,1910 1278,1918 1290,1920 1482,1916 1488,1962 1484,1980 208,1978"/>
+        <Baseline points="210,1968 1488,1962"/>
+        <TextEquiv>
+          <Unicode>welcher alle außer ihm liegenden Rechte, der Kirche, der Gemeinde, der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bae5c8fc" >
+        <Coords points="210,2028 208,1974 1482,1976 1486,2019 1484,2028 210,2044"/>
+        <Baseline points="210,2028 1486,2019"/>
+        <TextEquiv>
+          <Unicode>Familie und der Einzelnen hervorfließen. Solche Hirngeſpinnſte in ihrer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_acae2286" >
+        <Coords points="213,2088 208,2046 283,2032 283,2032 285,2032 285,2032 405,2042 436,2032 436,2032 438,2032 438,2032 440,2032 440,2032 440,2032 442,2032 442,2032 444,2032 444,2032 459,2042 556,2030 556,2030 558,2030 740,2038 758,2028 761,2028 761,2028 763,2028 763,2028 763,2028 765,2028 765,2028 765,2028 767,2028 767,2028 792,2038 835,2028 837,2028 837,2028 839,2028 839,2028 969,2038 978,2028 980,2028 980,2026 980,2026 982,2026 982,2026 982,2026 984,2026 984,2026 986,2026 986,2026 1112,2036 1197,2026 1197,2026 1199,2026 1199,2026 1199,2026 1201,2026 1201,2026 1224,2036 1234,2026 1234,2024 1234,2024 1236,2024 1236,2024 1236,2024 1238,2024 1238,2024 1240,2024 1240,2024 1329,2036 1416,2036 1429,2024 1429,2024 1431,2024 1431,2024 1431,2024 1433,2024 1433,2024 1433,2024 1435,2024 1435,2024 1437,2024 1484,2036 1486,2077 1484,2086 213,2104"/>
+        <Baseline points="213,2088 1486,2077"/>
+        <TextEquiv>
+          <Unicode>ganzen Conſequenz klar aufdecken und ſie widerlegen iſt Eins; wenig⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1eaad61d" >
+        <Coords points="215,2143 210,2098 399,2088 401,2088 401,2088 450,2096 463,2098 465,2096 471,2088 473,2088 473,2086 473,2086 475,2086 475,2086 475,2086 477,2086 477,2086 479,2086 479,2086 479,2086 481,2086 481,2086 483,2086 498,2096 500,2096 514,2096 636,2086 636,2086 639,2086 639,2086 701,2094 713,2096 725,2094 787,2084 787,2084 787,2084 789,2084 928,2094 945,2094 947,2094 976,2081 976,2081 978,2081 978,2081 978,2081 980,2081 1125,2092 1127,2092 1129,2092 1234,2079 1234,2079 1236,2079 1486,2092 1491,2133 1486,2152 1294,2143 1226,2154 1220,2154 1220,2154 1218,2154 1199,2154 1036,2146 990,2154 980,2156 980,2156 980,2158 215,2158"/>
+        <Baseline points="215,2143 1491,2133"/>
+        <TextEquiv>
+          <Unicode>ſtens für Jeden, dem ſeine fünf Sinne noch nicht abhanden gekommen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_28b68f21" >
+        <Coords points="217,2197 215,2146 401,2154 498,2143 531,2141 531,2141 533,2141 533,2141 535,2141 545,2143 574,2152 647,2143 674,2141 674,2141 676,2141 676,2141 678,2141 678,2141 678,2141 680,2141 682,2143 696,2154 769,2154 779,2143 781,2141 781,2141 783,2141 783,2141 783,2141 785,2141 785,2141 785,2141 787,2141 787,2141 787,2141 800,2143 835,2152 858,2143 870,2139 870,2139 872,2139 872,2139 874,2139 874,2139 905,2143 947,2150 965,2143 978,2139 978,2139 980,2139 980,2139 982,2139 982,2139 982,2139 1005,2143 1036,2150 1046,2143 1052,2139 1054,2139 1054,2139 1054,2139 1056,2139 1056,2139 1058,2139 1058,2139 1058,2139 1081,2143 1118,2150 1484,2143 1491,2189 1493,2197 1468,2210 1468,2210 1468,2210 1466,2210 1466,2210 1464,2210 1021,2206 862,2203 217,2216"/>
+        <Baseline points="217,2197 1491,2189"/>
+        <TextEquiv>
+          <Unicode>ſind, und der nicht „vor lauter Gelehrſamkeit ſeinen eignen Vater nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1db57e05" >
+        <Coords points="213,2251 206,2214 248,2199 250,2199 250,2199 250,2199 252,2199 252,2199 252,2199 254,2199 289,2210 326,2199 328,2199 328,2199 328,2199 330,2199 330,2199 332,2199 332,2199 363,2210 417,2199 417,2199 417,2199 419,2199 419,2199 419,2199 465,2210 477,2199 477,2199 479,2199 479,2199 479,2199 481,2199 481,2199 481,2199 483,2199 483,2199 483,2199 533,2210 537,2210 678,2210 680,2208 696,2197 698,2197 698,2197 698,2197 701,2197 701,2197 703,2197 703,2197 703,2197 705,2197 705,2197 705,2197 725,2208 725,2208 727,2208 796,2197 796,2197 798,2197 798,2197 798,2197 841,2208 847,2208 852,2208 874,2197 874,2197 876,2197 876,2197 878,2197 878,2197 878,2197 880,2197 880,2197 903,2206 907,2208 914,2206 943,2197 945,2197 945,2197 947,2197 1484,2201 1488,2245 1486,2255 213,2261"/>
+        <Baseline points="213,2251 1488,2245"/>
+        <TextEquiv>
+          <Unicode>mehr kennt.“ Wenn man dagegen, was allein der geſunden Vernunft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7bdb72af" >
+        <Coords points="210,2309 212,2273 782,2272 808,2278 843,2259 845,2259 847,2259 1054,2259 1056,2259 1077,2270 1085,2261 1085,2259 1087,2259 1089,2259 1218,2257 1220,2257 1222,2257 1249,2268 1315,2257 1317,2257 1319,2257 1364,2270 1406,2257 1408,2257 1410,2257 1484,2270 1488,2301 1488,2325 1358,2334 1356,2334 1354,2334 1352,2334 1342,2325 1331,2321 1267,2325 1141,2336 1139,2336 1137,2336 1118,2325 1112,2323 1098,2325 1048,2336 1046,2336 1044,2336 1042,2336 1031,2325 1027,2321 868,2321 796,2321 792,2325 779,2336 779,2338 777,2338 775,2338 775,2340 632,2340 630,2338 628,2338 626,2338 610,2325 605,2323 541,2323 517,2325 347,2340 345,2340 289,2328 268,2340 266,2340 264,2340 262,2340 260,2340 206,2323"/>
+        <Baseline points="210,2309 1488,2301"/>
+        <TextEquiv>
+          <Unicode>entſpricht, den Staat als Glied in der Ordnung der erſchaffenen Weſen</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00041.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:10.686671+00:00</Created>
+        <LastChange>2022-02-23T19:09:10.686685+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00041.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_df49c842"  >
+      <Coords points="686,74 734,90 717,130 670,130 686,74"/>
+      <TextLine id="eSc_line_d45827a5" >
+        <Coords points="670,121 663,84 713,68 723,117 725,142 670,142"/>
+        <Baseline points="670,121 723,117"/>
+        <TextEquiv>
+          <Unicode>35</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4999ad9f"  >
+      <Coords points="1114,1720 1238,1736 1247,1775 943,1775 959,1728 1058,1720 940,1709 66,1693 57,256 157,173 1338,198 1346,1643 1329,1676 1114,1720"/>
+      <TextLine id="eSc_line_a2b1f1df" >
+        <Coords points="148,215 146,171 1329,165 1331,219 1329,229 146,233"/>
+        <Baseline points="148,215 1331,219"/>
+        <TextEquiv>
+          <Unicode>Sehen wir von den radicalen zum Bisthum Baſel gehörenden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f65931df" >
+        <Coords points="64,264 64,208 138,210 138,210 138,210 140,210 140,210 177,227 291,217 291,217 293,217 485,231 519,221 521,221 521,221 521,221 523,221 523,221 632,231 686,219 688,219 688,219 690,219 690,219 690,219 765,233 785,219 785,217 785,217 787,217 787,217 789,217 789,217 789,217 792,217 792,217 806,219 912,237 1031,237 1054,223 1058,219 1060,219 1060,219 1060,219 1062,219 1062,219 1065,219 1065,219 1065,219 1089,223 1160,235 1325,227 1329,277 1327,289 277,291 275,291 59,277"/>
+        <Baseline points="64,264 1329,277"/>
+        <TextEquiv>
+          <Unicode>Kantonen ab, ſo haben, als das Placet 1848 unter den Trümmern des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c0a1e64" >
+        <Coords points="68,324 68,272 148,287 301,287 312,277 312,274 312,274 312,274 314,274 314,274 314,274 316,274 316,274 318,274 318,274 318,274 320,274 320,274 320,274 322,274 322,274 341,289 1329,289 1331,334 1329,355 1093,355 1091,353 1091,353 1089,353 1089,353 1081,351 1060,343 823,345 574,349 572,349 572,349 502,341 479,339 452,341 349,347 347,347 347,347 347,347 345,347 312,337 306,337 283,337 136,345 134,345 134,345 66,332"/>
+        <Baseline points="68,324 1331,334"/>
+        <TextEquiv>
+          <Unicode>Polizeiſtaates begraben wurde, wohl nirgends die Staatsmänner, Herrn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e966d48" >
+        <Coords points="64,378 64,334 423,345 492,341 581,334 583,334 583,334 583,334 585,334 585,334 587,334 599,343 608,347 618,343 632,337 632,337 634,337 634,337 634,337 636,337 727,345 765,347 783,345 831,339 831,339 833,339 833,339 835,339 835,339 856,347 864,349 909,347 1046,341 1048,341 1048,341 1048,341 1050,341 1050,341 1073,349 1077,351 1081,351 1118,341 1120,341 1120,341 1122,341 1329,355 1329,392 1325,407 258,405 258,405 59,388"/>
+        <Baseline points="64,378 1329,392"/>
+        <TextEquiv>
+          <Unicode>v. Lutz einbegriffen, ſich ſolche Mühe gegeben, dasſelbe zum Leben zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a054158c" >
+        <Coords points="64,436 64,392 401,401 417,392 423,390 423,390 423,390 426,390 426,390 428,390 428,390 428,390 444,392 490,403 539,394 552,392 552,392 554,392 554,392 572,394 645,403 663,394 667,392 667,392 667,392 670,392 670,392 672,392 672,392 674,392 674,392 674,392 678,394 701,405 1029,396 1050,396 1052,396 1052,396 1054,396 1054,396 1054,396 1079,407 1104,396 1104,396 1104,396 1106,396 1106,396 1108,396 1329,399 1331,448 1329,456 725,463 723,463 59,446"/>
+        <Baseline points="64,436 1331,448"/>
+        <TextEquiv>
+          <Unicode>erwecken, als in Bayern. Deshalb kommen uns die Worte des Herrn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dca455df" >
+        <Coords points="64,492 64,440 488,456 696,446 696,446 698,446 698,446 698,446 698,446 701,446 742,458 831,448 831,448 833,448 833,448 835,448 835,448 835,448 837,448 837,448 837,450 847,458 976,450 978,450 978,450 978,450 980,450 1017,461 1054,450 1056,450 1056,450 1056,450 1058,450 1058,450 1060,450 1060,450 1089,461 1118,450 1118,450 1120,450 1120,450 1120,450 1122,450 1122,450 1122,450 1125,450 1125,450 1125,450 1127,450 1127,450 1141,463 1195,452 1195,452 1195,452 1197,452 1197,452 1263,463 1329,452 1333,504 1331,514 1127,525 1125,525 1125,525 1122,525 1122,525 1122,525 1100,514 281,516 279,516 59,502"/>
+        <Baseline points="64,492 1333,504"/>
+        <TextEquiv>
+          <Unicode>Cultusminiſters vor wie der ärgerliche Ruf eines Arztes, der nach un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ab923a4" >
+        <Coords points="64,552 64,500 177,512 304,504 306,504 306,504 306,504 308,504 308,504 308,504 310,504 310,504 322,516 436,516 454,504 457,504 457,504 459,504 459,504 459,504 461,504 461,504 463,504 463,504 463,504 465,504 481,514 568,506 568,506 570,506 570,506 572,506 572,506 597,516 614,506 616,506 616,506 616,506 618,506 618,506 620,506 620,506 620,506 622,506 622,506 622,506 624,506 624,506 624,508 634,518 734,518 787,506 787,506 787,506 789,506 789,506 792,506 845,518 1077,508 1077,508 1079,508 1079,508 1079,508 1195,521 1209,510 1209,510 1211,510 1211,510 1211,510 1213,510 1213,510 1216,510 1329,510 1331,562 1327,576 59,562"/>
+        <Baseline points="64,552 1331,562"/>
+        <TextEquiv>
+          <Unicode>ſäglichen Mühen für einen Patienten ſich endlich vom Tode desſelben</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd57c539" >
+        <Coords points="64,605 64,562 144,572 275,562 297,562 299,562 299,562 326,564 448,572 1323,572 1327,616 1323,630 59,626"/>
+        <Baseline points="64,605 359,616 1327,616"/>
+        <TextEquiv>
+          <Unicode>überzeugt. Wir ſtimmen aus vollem Herzen in dieſen Grabesruf ein:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c999031" >
+        <Coords points="64,661 64,614 186,630 250,624 279,622 279,622 281,622 434,636 436,669 432,692 59,678"/>
+        <Baseline points="64,661 436,669"/>
+        <TextEquiv>
+          <Unicode>Requiescat in pace.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b1d780d" >
+        <Coords points="134,725 132,678 1331,676 1333,725 1333,740 134,744"/>
+        <Baseline points="134,725 1333,725"/>
+        <TextEquiv>
+          <Unicode>„Offen geſtanden,“ ſagt Herr v. Lutz im deutſchen Reichstag, „ich bin kein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6722f4ec" >
+        <Coords points="62,758 62,723 1325,729 1325,769 1323,777 585,787 583,787 59,775"/>
+        <Baseline points="62,758 332,769 1325,769"/>
+        <TextEquiv>
+          <Unicode>Freund, ſondern ein entſchiedener Gegner von Inſtituten, wie das placetum regium</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8276e37a" >
+        <Coords points="66,802 66,760 148,771 514,767 688,767 690,767 690,767 692,767 692,767 692,767 694,767 694,767 694,769 696,769 698,771 703,777 798,773 891,769 893,769 893,769 893,769 895,769 895,769 895,769 897,769 897,769 903,775 909,779 967,775 1050,771 1052,771 1323,783 1325,814 1321,824 62,812"/>
+        <Baseline points="66,802 1325,814"/>
+        <TextEquiv>
+          <Unicode>und der recursus ab abusu. (Bewegung.) Dieſer Meinung huldige ich nicht aus⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2cd52579" >
+        <Coords points="64,847 64,802 341,814 777,808 779,808 779,808 781,808 825,818 1325,812 1329,858 1325,868 59,858"/>
+        <Baseline points="64,847 1329,858"/>
+        <TextEquiv>
+          <Unicode>ſchließlich, ja nicht einmal vorwiegend deßhalb, weil ich die Ohnmacht des Staates</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b36d543e" >
+        <Coords points="64,891 64,851 1329,866 1331,905 1329,911 982,922 980,922 980,922 978,922 978,922 978,922 976,922 959,911 957,911 953,911 624,920 622,920 59,905"/>
+        <Baseline points="64,891 272,901 1331,905"/>
+        <TextEquiv>
+          <Unicode>auf dieſem Gebiete anerkenne. Freilich halte ich es für ſehr heilſam, ſich dieſe Ohn⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_189b67c5" >
+        <Coords points="72,936 72,893 250,905 370,897 374,897 376,897 376,897 376,897 378,897 432,907 560,899 574,899 576,899 576,899 576,899 579,899 581,899 612,911 1323,911 1325,951 1321,969 68,948"/>
+        <Baseline points="72,936 1325,951"/>
+        <TextEquiv>
+          <Unicode>macht zu vergegenwärtigen, und ſich vor Augen zu halten, daß es nicht möglich iſt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7efa4f5e" >
+        <Coords points="66,977 66,940 128,951 359,942 394,942 397,942 397,942 399,942 403,942 438,955 1329,955 1331,992 1329,1000 746,1008 744,1008 744,1008 690,998 177,1004 175,1004 62,992"/>
+        <Baseline points="66,977 436,990 1331,992"/>
+        <TextEquiv>
+          <Unicode>von Seiten der weltlichen Regierung eine Macht zu üben über die Gewiſſen, daß es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ec1c332b" >
+        <Coords points="66,1021 66,984 161,984 161,984 161,984 163,984 163,984 163,984 165,984 165,984 165,984 179,998 256,998 266,988 266,986 266,986 268,986 268,986 268,986 268,986 270,986 270,986 270,986 272,986 299,986 521,996 535,990 545,986 545,986 548,986 548,986 548,986 550,986 550,986 550,986 552,986 552,986 554,986 560,990 574,998 597,990 608,988 610,988 610,988 610,988 612,988 612,988 614,988 614,988 614,988 620,990 634,998 758,992 876,988 878,988 878,988 880,988 880,988 899,994 909,998 959,996 1067,990 1069,990 1327,1002 1329,1037 1325,1044 62,1037"/>
+        <Baseline points="66,1021 233,1033 1329,1037"/>
+        <TextEquiv>
+          <Unicode>dem Staate nicht zukommen kann, Nachlaß der Sünden zu erzwingen, wo er vom</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9266fe60" >
+        <Coords points="64,1066 64,1027 1025,1042 1325,1033 1329,1081 1325,1091 59,1083"/>
+        <Baseline points="64,1066 411,1079 1329,1081"/>
+        <TextEquiv>
+          <Unicode>Diener der Kirche verweigert wird, die feierliche Trauung zu erzwingen, wo man ſie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2fc92e60" >
+        <Coords points="64,1110 64,1079 1327,1081 1329,1124 1325,1139 59,1130"/>
+        <Baseline points="64,1110 297,1122 1329,1124"/>
+        <TextEquiv>
+          <Unicode>aus kirchlichen Rückſichten verweigern zu müſſen glaubt und ſo weiter. Aber ich bin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_067fdfb4" >
+        <Coords points="64,1153 64,1120 1325,1130 1327,1168 1325,1176 849,1188 847,1188 847,1188 847,1188 845,1188 845,1188 816,1176 816,1176 804,1176 361,1186 359,1186 59,1172"/>
+        <Baseline points="64,1153 355,1168 1327,1168"/>
+        <TextEquiv>
+          <Unicode>der Anſicht, daß man das placetum regium und ähnliche Sachen nicht weiter ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_91ef85f5" >
+        <Coords points="64,1199 64,1164 231,1176 490,1168 593,1166 595,1166 595,1166 597,1166 614,1170 641,1176 837,1172 1108,1168 1110,1168 1327,1180 1329,1213 1325,1219 62,1215"/>
+        <Baseline points="64,1199 248,1211 1329,1213"/>
+        <TextEquiv>
+          <Unicode>folgen ſoll, weil ſie mit den Principien des Staates, mit den Principien des viel⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2adba8fd" >
+        <Coords points="62,1246 62,1209 893,1209 893,1209 893,1209 895,1209 895,1209 895,1209 897,1209 897,1209 897,1211 897,1211 907,1219 1075,1211 1098,1211 1100,1211 1100,1211 1100,1211 1102,1211 1102,1211 1104,1211 1104,1211 1104,1211 1118,1221 1321,1213 1325,1259 1321,1273 270,1271 270,1271 59,1257"/>
+        <Baseline points="62,1246 1325,1259"/>
+        <TextEquiv>
+          <Unicode>geſchmähten modernen Staates geradezu unvereinbar ſind. Der Staat muß ſich ſelbſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a11376f" >
+        <Coords points="66,1288 66,1252 475,1252 475,1252 475,1252 477,1252 477,1252 479,1252 504,1263 1323,1257 1327,1300 1323,1316 64,1306"/>
+        <Baseline points="66,1288 289,1300 1327,1300"/>
+        <TextEquiv>
+          <Unicode>treu bleiben, auch wo er ſeine Gegner bekämpft. Der moderne Staat ſchreibt auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77cc71ea" >
+        <Coords points="66,1331 66,1292 171,1292 171,1292 171,1292 173,1292 173,1292 173,1292 173,1292 175,1292 175,1292 175,1294 186,1302 1329,1302 1331,1348 1327,1366 1034,1356 878,1360 758,1364 756,1364 756,1364 754,1364 732,1358 709,1354 535,1356 188,1360 186,1360 62,1348"/>
+        <Baseline points="66,1331 411,1345 1331,1348"/>
+        <TextEquiv>
+          <Unicode>ſeine Fahne die Gewiſſensfreiheit. Daraus folgt, daß kein Cultusminiſter das reli⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bde7a5f7" >
+        <Coords points="64,1376 64,1345 1323,1354 1325,1391 1321,1405 59,1395"/>
+        <Baseline points="64,1376 299,1389 1325,1391"/>
+        <TextEquiv>
+          <Unicode>giöſe Glaubensbekenntniß irgend einer Religions⸗Geſellſchaft orthopädiſch behandeln kann.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5aea5374" >
+        <Coords points="64,1422 64,1381 134,1381 134,1381 134,1381 136,1381 136,1381 136,1381 136,1381 163,1395 295,1395 314,1383 316,1383 316,1383 318,1383 318,1383 318,1383 318,1383 320,1383 320,1383 320,1383 320,1383 322,1383 322,1383 322,1383 324,1383 324,1383 337,1395 434,1395 1323,1391 1327,1436 1323,1453 62,1436"/>
+        <Baseline points="64,1422 436,1434 1327,1436"/>
+        <TextEquiv>
+          <Unicode>(Sehr gut!) Daraus folgt, daß kein Cultusminiſter beſtimmen kann, wer als Mitglied</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e029dd64" >
+        <Coords points="66,1463 66,1428 1329,1443 1331,1478 1329,1486 893,1496 891,1496 891,1496 889,1496 889,1496 862,1486 862,1486 843,1486 419,1494 417,1494 62,1482"/>
+        <Baseline points="66,1463 374,1478 1331,1478"/>
+        <TextEquiv>
+          <Unicode>einer Kirchengemeinde anzuerkennen iſt und wer nicht. Daraus folgt, daß kein Cultus⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d36a866" >
+        <Coords points="68,1507 68,1472 184,1482 306,1474 314,1474 316,1474 316,1474 316,1474 318,1474 318,1474 351,1484 380,1474 382,1474 382,1474 384,1474 384,1474 386,1474 386,1474 386,1474 388,1474 388,1474 388,1474 390,1474 390,1474 390,1474 403,1486 554,1486 570,1476 576,1474 576,1474 576,1474 579,1474 579,1474 581,1474 581,1474 612,1478 674,1484 730,1478 777,1474 777,1474 779,1474 779,1474 781,1474 781,1474 796,1480 814,1486 852,1480 876,1476 876,1476 878,1476 1327,1486 1329,1523 1325,1538 64,1529"/>
+        <Baseline points="68,1507 246,1521 1329,1523"/>
+        <TextEquiv>
+          <Unicode>miniſter beſtimmen kann, wer geiſtliche Funktionen vornehmen darf und wer nicht.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a35ece96" >
+        <Coords points="66,1552 66,1515 161,1527 446,1519 496,1519 498,1519 498,1519 500,1519 500,1519 504,1521 531,1532 725,1532 740,1523 750,1519 750,1519 752,1519 752,1519 752,1519 754,1519 754,1519 754,1519 756,1519 756,1519 756,1519 758,1519 758,1519 763,1523 771,1529 883,1525 1027,1521 1029,1521 1029,1521 1029,1521 1067,1529 1083,1532 1100,1529 1149,1521 1149,1521 1151,1521 1151,1521 1151,1521 1153,1521 1153,1521 1153,1521 1172,1529 1176,1534 1333,1534 1333,1569 1331,1577 949,1587 947,1587 947,1587 945,1587 945,1587 914,1577 570,1585 568,1585 64,1571"/>
+        <Baseline points="66,1552 301,1567 1333,1569"/>
+        <TextEquiv>
+          <Unicode>(Sehr gut!) Das gebe ich Alles zu. Auch hier bekenne ich mich, wie ich es bereits</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e4d92e1" >
+        <Coords points="68,1596 68,1565 1327,1575 1331,1608 1329,1618 68,1618"/>
+        <Baseline points="68,1596 368,1612 1331,1608"/>
+        <TextEquiv>
+          <Unicode>an einem anderen Orte gethan, zu dem Satze, daß der Kirche jene Freiheit einge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc02687b" >
+        <Coords points="68,1637 68,1604 167,1604 167,1604 167,1604 169,1604 169,1604 169,1604 169,1604 196,1616 310,1604 328,1604 328,1604 330,1604 330,1604 332,1604 332,1604 332,1604 335,1606 357,1616 399,1606 407,1604 409,1604 409,1604 411,1604 411,1604 430,1606 504,1616 533,1606 537,1606 539,1606 539,1606 539,1606 541,1606 541,1606 541,1606 543,1606 543,1606 543,1606 545,1606 564,1616 632,1608 649,1606 649,1606 651,1606 651,1606 651,1606 653,1606 653,1606 653,1606 657,1608 674,1616 777,1608 823,1606 825,1606 825,1606 825,1606 827,1606 827,1606 827,1606 829,1606 829,1606 831,1610 839,1614 845,1610 849,1606 849,1606 852,1606 852,1606 852,1606 854,1606 854,1606 856,1606 856,1606 856,1606 858,1606 858,1606 858,1606 860,1606 860,1606 860,1608 862,1610 870,1616 914,1610 943,1606 943,1606 945,1606 1329,1614 1333,1651 1333,1660 1300,1672 1300,1672 1298,1672 1298,1672 1298,1674 810,1674 808,1672 808,1672 740,1662 568,1672 566,1672 566,1672 461,1662 444,1672 442,1672 442,1672 442,1672 440,1672 440,1672 440,1674 328,1674 326,1672 66,1660"/>
+        <Baseline points="68,1637 312,1656 1333,1651"/>
+        <TextEquiv>
+          <Unicode>räumt werden muß, welche die Conſequenz der modernen Staatstheorie iſt, und welche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21de1fc2" >
+        <Coords points="68,1682 68,1651 248,1668 659,1662 1114,1656 1116,1656 1116,1656 1118,1656 1118,1656 1118,1656 1153,1672 1153,1699 1151,1711 688,1722 686,1722 686,1722 686,1722 684,1722 684,1722 659,1711 659,1711 653,1711 175,1720 173,1720 64,1707"/>
+        <Baseline points="68,1682 275,1699 1153,1699"/>
+        <TextEquiv>
+          <Unicode>ſie im Kampfe gegen die Inſtitution des placetum regium verlangt hat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8cd6180" >
+        <Coords points="943,1771 934,1732 959,1716 961,1716 961,1716 961,1716 963,1716 963,1716 965,1716 1232,1726 1244,1765 1242,1784 943,1792"/>
+        <Baseline points="943,1771 1244,1765"/>
+        <TextEquiv>
+          <Unicode>G. Schneemann.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_85c189f7"  >
+      <Coords points="339,1993 1031,2001 1056,2057 339,2065 339,1993"/>
+      <TextLine id="eSc_line_c8fad267" >
+        <Coords points="330,2055 330,1995 438,2003 448,1999 467,1991 469,1991 471,1991 473,1991 496,2001 502,2003 504,2001 512,1993 514,1993 517,1993 519,1993 521,1993 550,2003 560,2005 570,2003 639,1988 641,1988 643,1988 692,2005 740,1993 742,1993 744,1993 746,1993 773,2007 806,1993 808,1993 810,1993 812,1993 874,2003 980,2000 1050,2024 1052,2055 1050,2067 328,2065"/>
+        <Baseline points="330,2055 1052,2055"/>
+        <TextEquiv>
+          <Unicode>Die Internationale in Italien.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3c7643c5"  >
+      <Coords points="1083,2379 1040,2338 74,2305 66,2208 138,2199 157,2158 1329,2175 1338,2321 1133,2346 1083,2379"/>
+      <TextLine id="eSc_line_185b890e" >
+        <Coords points="150,2201 150,2156 1325,2170 1327,2208 1323,2226 146,2216"/>
+        <Baseline points="150,2201 1327,2208"/>
+        <TextEquiv>
+          <Unicode>Je ſchwächer und unvolksthümlicher eine Regierung iſt, deſto ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_deb6a44a" >
+        <Coords points="70,2241 70,2203 339,2222 678,2222 703,2212 709,2210 709,2210 711,2210 711,2210 713,2210 713,2210 742,2212 843,2224 947,2216 998,2212 1000,2212 1000,2212 1000,2212 1029,2216 1081,2226 1100,2218 1110,2214 1110,2214 1112,2214 1112,2214 1112,2214 1114,2214 1325,2222 1327,2265 1323,2286 1207,2278 1195,2284 1187,2290 1184,2290 1184,2290 1182,2290 1182,2290 1182,2290 1180,2290 1180,2290 1180,2290 1178,2290 1160,2284 1143,2280 1038,2282 835,2288 833,2288 833,2288 779,2278 754,2274 746,2278 730,2286 730,2286 730,2286 727,2286 727,2286 725,2286 432,2276 339,2284 339,2284 337,2284 66,2265"/>
+        <Baseline points="70,2241 397,2265 1327,2265"/>
+        <TextEquiv>
+          <Unicode>fährlicher für ſie wird jede ſocialiſtiſche Bewegung, deſto mehr wird das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c639beff" >
+        <Coords points="72,2292 72,2307 76,2248 376,2283 492,2294 492,2292 494,2292 496,2292 498,2292 595,2292 597,2292 625,2287 645,2292 647,2292 750,2276 752,2276 754,2276 775,2286 818,2276 821,2276 823,2276 969,2276 971,2276 974,2276 986,2286 1011,2276 1013,2276 1015,2276 1180,2286 1302,2276 1304,2276 1306,2276 1309,2276 1327,2290 1327,2319 1323,2359 1153,2338 1050,2338 1019,2350 1017,2350 1015,2350 963,2342 949,2352 940,2359 938,2359 936,2359 934,2359 932,2359 916,2352 899,2344 883,2350 866,2359 864,2359 862,2359 732,2348 725,2348 721,2348 645,2359 643,2359 579,2344 572,2344 566,2344 517,2359 514,2359 512,2359 510,2359 454,2344 440,2354 438,2354 436,2354 434,2354 432,2354 430,2354 430,2352 417,2342 415,2340 411,2342 368,2356 366,2356 366,2359 272,2359 270,2356 268,2356 217,2338 208,2336 70,2336"/>
+        <Baseline points="72,2292 237,2315 457,2323 1327,2319"/>
+        <TextEquiv>
+          <Unicode>Land von dem internationalen Arbeiterbunde in den Kreis der Berech⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_cd62841e" >
+        <Coords points="1071,2369 1069,2328 1112,2323 1114,2369 1112,2418 1069,2412"/>
+        <Baseline points="1073,2371 1116,2371"/>
+        <TextEquiv>
+          <Unicode>3*</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

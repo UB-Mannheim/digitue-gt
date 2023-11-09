@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00028.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.251059+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.251074+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="akzs_1860_00028.jpg" imageWidth="1501" imageHeight="2610">
+    <TextRegion id="eSc_textblock_21add115"  >
+      <Coords points="830,84 754,84 772,34 830,43 830,84"/>
+      <TextLine id="eSc_line_d2f5f667" >
+        <Coords points="759,78 754,41 815,28 824,73 822,91 759,91"/>
+        <Baseline points="759,78 824,73"/>
+        <TextEquiv>
+          <Unicode>26</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dc861901"  >
+      <Coords points="1466,2390 95,2372 113,147 1474,156 1466,2390"/>
+      <TextLine id="eSc_line_ef981814" >
+        <Coords points="113,182 113,134 1477,143 1477,197 1472,210 110,195"/>
+        <Baseline points="113,182 1477,197"/>
+        <TextEquiv>
+          <Unicode>Dieſer gilt die Kirche als äußere Anſtalt für unentbehrlich; die ſichtbare Kirche iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_db86fe9f" >
+        <Coords points="113,237 113,189 1468,206 1470,254 1466,263 110,247"/>
+        <Baseline points="113,237 1470,254"/>
+        <TextEquiv>
+          <Unicode>ihr Heilsträgerin und Heilsmittlerin; ohne Kirche kein Chriſtus, keine Erlöſung,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e808fc9d" >
+        <Coords points="110,289 110,241 1472,254 1472,304 1468,317 108,300"/>
+        <Baseline points="110,289 1472,304"/>
+        <TextEquiv>
+          <Unicode>kein Heil: das iſt ihr Wahlſpruch, und darum kennt ſie auch nur eine ſicht⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0e74a50e" >
+        <Coords points="110,341 110,295 1013,304 1013,350 1009,365 106,354"/>
+        <Baseline points="110,341 1013,350"/>
+        <TextEquiv>
+          <Unicode>bare Kirche, und verwirft alle andern als ketzeriſch.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f6ade55" >
+        <Coords points="193,398 193,348 1472,363 1472,413 1468,424 189,411"/>
+        <Baseline points="193,398 1472,413"/>
+        <TextEquiv>
+          <Unicode>Die evangeliſche Kirche weiß die eine wahre, gegenwärtig noch unſichtbare,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b5a50c7" >
+        <Coords points="110,450 110,402 1472,417 1472,465 1468,478 108,458"/>
+        <Baseline points="110,450 1472,465"/>
+        <TextEquiv>
+          <Unicode>Kirche von den ſichtbaren Schattenbildern derſelben gar wohl zu unterſcheiden;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e3e1d13" >
+        <Coords points="110,502 110,456 1472,465 1472,517 1468,528 106,519"/>
+        <Baseline points="110,502 1472,517"/>
+        <TextEquiv>
+          <Unicode>ſie vermiſcht, was für einmal noch Gegenſtand des Glaubens iſt, nicht mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69a33c46" >
+        <Coords points="108,558 106,504 1472,519 1472,574 1468,585 106,565"/>
+        <Baseline points="108,558 550,556 1472,574"/>
+        <TextEquiv>
+          <Unicode>Dem, was Gegenſtand der ſinnlichen Wahrnehmung ſein muß. Sie weiß, daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_088d451d" >
+        <Coords points="106,606 106,563 1470,572 1472,622 1468,637 104,617"/>
+        <Baseline points="106,606 1472,622"/>
+        <TextEquiv>
+          <Unicode>die ſichtbare Kirche das Heil nicht vermittelt, daß es überhaupt nur einen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_765f2d60" >
+        <Coords points="108,661 108,613 1472,622 1474,676 1470,691 106,669"/>
+        <Baseline points="108,661 1474,676"/>
+        <TextEquiv>
+          <Unicode>Heilsmittler, Jeſum Chriſtum ſelbſt, giebt. Sie ſchämt ſich als ſichtbare</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87d97ac6" >
+        <Coords points="108,713 108,665 1470,678 1472,732 1468,741 104,726"/>
+        <Baseline points="108,713 1472,732"/>
+        <TextEquiv>
+          <Unicode>Kirchengemeinſchaft des Bekenntniſſes nicht, daß ſie irren und fehlen kann; daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8b821a50" >
+        <Coords points="108,763 108,713 1472,730 1474,782 1470,793 106,774"/>
+        <Baseline points="108,763 1474,782"/>
+        <TextEquiv>
+          <Unicode>ſie ein nur unvollkommener Ausdruck der Wahrheit und des Lebens iſt, die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b6f0846d" >
+        <Coords points="106,817 106,769 1472,787 1474,837 1470,846 104,826"/>
+        <Baseline points="106,817 1474,837"/>
+        <TextEquiv>
+          <Unicode>in ſchöpferiſcher Fülle aus dem göttlichen Worte und dem h. Geiſte ſtets neu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4601cc7" >
+        <Coords points="106,874 106,817 1472,843 1472,891 1468,900 102,887"/>
+        <Baseline points="106,874 637,874 1472,891"/>
+        <TextEquiv>
+          <Unicode>in das Menſchheitsleben ausſtrömen. Sie weiß es zu begreifen, wenn nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aaab6999" >
+        <Coords points="106,922 106,874 1470,891 1470,946 1466,961 102,939"/>
+        <Baseline points="106,922 1470,946"/>
+        <TextEquiv>
+          <Unicode>alle Chriſten ſich zu ihr bekennen, wenn nicht alle ihre Lehrform ſich aneignen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8f2507d" >
+        <Coords points="106,976 106,930 1470,950 1470,996 1466,1009 104,987"/>
+        <Baseline points="106,976 1470,996"/>
+        <TextEquiv>
+          <Unicode>nicht alle denſelben Gottesdienſt wie ſie feiern, nicht alle nach gleichen Ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f90c135e" >
+        <Coords points="106,1030 106,983 1472,998 1472,1050 1468,1065 102,1048"/>
+        <Baseline points="106,1030 1472,1050"/>
+        <TextEquiv>
+          <Unicode>faſſungs⸗Grundſätzen ſich einrichten. Sie verwirft und verdammt diejenigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4757016" >
+        <Coords points="104,1085 104,1039 1468,1057 1468,1102 1464,1117 100,1100"/>
+        <Baseline points="104,1085 1468,1102"/>
+        <TextEquiv>
+          <Unicode>nicht, welche außer ihr den Heiland und das Heil ſuchen. Sie iſt deſſenunge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c27c499f" >
+        <Coords points="102,1137 102,1096 1470,1107 1470,1154 1466,1167 97,1150"/>
+        <Baseline points="102,1137 1470,1154"/>
+        <TextEquiv>
+          <Unicode>achtet nicht etwa gleichgültig und ungerecht gegen ihre eigenen Vorzüge. Sie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_325ead96" >
+        <Coords points="102,1191 102,1148 1461,1161 1466,1211 1461,1220 100,1200"/>
+        <Baseline points="102,1191 1466,1211"/>
+        <TextEquiv>
+          <Unicode>iſt in aller Demuth, aber auch mit hohem Danke gegen Gott, ſich deſſen bewußt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1f2494d" >
+        <Coords points="102,1241 102,1196 1468,1222 1468,1263 1464,1274 100,1250"/>
+        <Baseline points="102,1241 1468,1263"/>
+        <TextEquiv>
+          <Unicode>daß ſie auf dem rechten Grunde ruht, daß ſie den rechten Geiſt hat,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c77830b7" >
+        <Coords points="102,1294 102,1248 1464,1274 1464,1318 1459,1328 97,1311"/>
+        <Baseline points="102,1294 1464,1318"/>
+        <TextEquiv>
+          <Unicode>daß ihr Gnadengaben geſchenkt ſind, welche andere Kirchen nicht mit ihr theilen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_436784e4" >
+        <Coords points="102,1352 102,1298 1466,1318 1468,1370 1464,1385 100,1359"/>
+        <Baseline points="102,1352 615,1352 1468,1370"/>
+        <TextEquiv>
+          <Unicode>Sie weiß, daß ſie auf das Wort und den h. Geiſt, auch im Sakramente</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c68ca5a" >
+        <Coords points="104,1400 104,1352 1464,1370 1466,1422 1461,1431 100,1418"/>
+        <Baseline points="104,1400 1466,1422"/>
+        <TextEquiv>
+          <Unicode>auf nichts Anderes gegründet iſt, da das Sakrament außer der Stiftung durch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ae5090d" >
+        <Coords points="102,1455 102,1407 1464,1426 1466,1474 1461,1489 97,1470"/>
+        <Baseline points="102,1455 1466,1474"/>
+        <TextEquiv>
+          <Unicode>das Wort und die Wirkung im h. Geiſte nach ihrer Ueberzeugung weder Kraft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20aa9b73" >
+        <Coords points="102,1509 102,1461 1461,1478 1464,1529 1459,1535 100,1518"/>
+        <Baseline points="102,1509 1464,1529"/>
+        <TextEquiv>
+          <Unicode>noch Segen hat; und darum giebt ſie die äußeren Formen frei, wie die beſon⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6feee740" >
+        <Coords points="102,1561 102,1513 1466,1533 1466,1583 1461,1596 97,1572"/>
+        <Baseline points="102,1561 1466,1583"/>
+        <TextEquiv>
+          <Unicode>deren Eigenthümlichkeiten der Individuen und die geſchichtliche Entwicklung der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_699ac77a" >
+        <Coords points="102,1618 102,1565 1461,1587 1464,1637 1459,1652 100,1624"/>
+        <Baseline points="102,1618 652,1618 1464,1637"/>
+        <TextEquiv>
+          <Unicode>Völker ſie fordern. Das iſt das Eigenthümliche der evangeliſchen Kirche, daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1eba6a98" >
+        <Coords points="102,1668 102,1616 1461,1642 1464,1689 1459,1705 97,1683"/>
+        <Baseline points="102,1668 1464,1689"/>
+        <TextEquiv>
+          <Unicode>ſie zunächſt von innen baut, und nach innen arbeitet, daß es ihr immer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b8fedbd" >
+        <Coords points="100,1720 100,1670 1461,1694 1461,1742 1457,1753 97,1735"/>
+        <Baseline points="100,1720 1461,1742"/>
+        <TextEquiv>
+          <Unicode>zuerſt auf das Verhältniß des Gewiſſens zu Gott, und nicht auf ihre Macht⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4bd5126d" >
+        <Coords points="102,1779 97,1735 580,1726 587,1774 585,1794 102,1798"/>
+        <Baseline points="102,1779 587,1774"/>
+        <TextEquiv>
+          <Unicode>ſtellung zur Welt ankommt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_24e82c87" >
+        <Coords points="184,1831 184,1781 870,1781 870,1781 1466,1803 1466,1850 1461,1861 180,1844"/>
+        <Baseline points="184,1831 639,1831 1466,1850"/>
+        <TextEquiv>
+          <Unicode>Wenn ſie aber zunächſt von innen baut und arbeitet, ſo doch auch nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_88b0e5ac" >
+        <Coords points="100,1885 100,1833 1466,1846 1466,1903 1461,1911 97,1896"/>
+        <Baseline points="100,1885 670,1885 1466,1903"/>
+        <TextEquiv>
+          <Unicode>außen. Es kann folgerichtig nur zwei Ausgangspunkte für die Herſtellung einer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c880d42" >
+        <Coords points="102,1940 102,1890 1461,1907 1464,1957 1459,1970 100,1946"/>
+        <Baseline points="102,1940 739,1940 1464,1957"/>
+        <TextEquiv>
+          <Unicode>ſichtbaren Kirche geben. Entweder wird dieſelbe von oben nach unten, von der Prie⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eccb12ec" >
+        <Coords points="102,1994 102,1946 1461,1961 1464,2009 1459,2018 100,2003"/>
+        <Baseline points="102,1994 693,1994 1464,2009"/>
+        <TextEquiv>
+          <Unicode>ſterſchaft aus nach dem Laienthume hin, von dem Stande der chriſtlichen Mündig⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c17a3a2c" >
+        <Coords points="100,2042 100,1994 1464,2014 1464,2064 1459,2072 95,2057"/>
+        <Baseline points="100,2042 1464,2064"/>
+        <TextEquiv>
+          <Unicode>keit aus in den Stand der Unmündigen hinein gebaut. So iſt das römiſch⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fff76191" >
+        <Coords points="100,2096 100,2048 1459,2068 1461,2116 1457,2133 97,2105"/>
+        <Baseline points="100,2096 1461,2116"/>
+        <TextEquiv>
+          <Unicode>katholiſche Kirchenthum aufgebaut. Die Kirche, d. h. der geiſtliche Stand,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e215e048" >
+        <Coords points="100,2151 100,2098 1459,2120 1461,2172 1457,2181 97,2159"/>
+        <Baseline points="100,2151 1461,2172"/>
+        <TextEquiv>
+          <Unicode>befiehlt, der Laie gehorcht. Die Kirche ordnet an, der Laie ordnet ſich unter.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_db83a553" >
+        <Coords points="100,2205 100,2155 1464,2177 1464,2227 1459,2235 97,2214"/>
+        <Baseline points="100,2205 1464,2227"/>
+        <TextEquiv>
+          <Unicode>Die Kirche richtet, der Laie beichtet. Die Kirche iſt die Seele, die Laien</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_338005aa" >
+        <Coords points="97,2259 97,2209 1457,2222 1461,2279 1457,2288 95,2268"/>
+        <Baseline points="97,2259 1461,2279"/>
+        <TextEquiv>
+          <Unicode>bilden den Leib. Hier hat der Laie weder eigenes Urtheil, noch eigenen Willen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4dbf8ab6" >
+        <Coords points="97,2314 97,2255 1461,2283 1464,2333 1459,2342 95,2327"/>
+        <Baseline points="97,2314 1464,2333"/>
+        <TextEquiv>
+          <Unicode>Die Kirche denkt für ihn, will für ihn, ſorgt für ihn. So entſchieden hängt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9666de0c" >
+        <Coords points="100,2366 100,2314 1461,2338 1464,2383 1461,2403 1346,2416 1346,2416 1344,2416 1344,2416 1342,2416 1289,2403 1263,2414 1263,2414 1261,2414 1261,2414 1261,2414 1259,2414 1259,2414 1150,2403 954,2412 952,2412 952,2412 952,2412 950,2412 950,2412 950,2412 948,2412 948,2412 948,2409 935,2399 785,2409 783,2409 783,2409 783,2409 780,2409 780,2409 746,2396 452,2405 450,2405 450,2405 450,2405 448,2405 448,2405 445,2405 445,2405 445,2405 432,2392 402,2403 402,2403 400,2403 400,2403 398,2403 398,2403 298,2392 191,2401 191,2401 189,2401 189,2401 97,2385"/>
+        <Baseline points="100,2366 1464,2383"/>
+        <TextEquiv>
+          <Unicode>hier Alles mit der Grundvorausſetzung zuſammen, daß der Laie nur durch die</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

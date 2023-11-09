@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/stml_1872_02/stml_1872_02_00082.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T19:09:11.206670+00:00</Created>
+        <LastChange>2022-02-23T19:09:11.206685+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="stml_1872_02_00082.jpg" imageWidth="1520" imageHeight="2481">
+    <TextRegion id="eSc_textblock_708208ee"  >
+      <Coords points="769,115 825,115 825,155 777,163 769,115"/>
+      <TextLine id="eSc_line_a2298e1d" >
+        <Coords points="769,152 769,107 825,107 825,152 823,171 767,165"/>
+        <Baseline points="769,152 825,152"/>
+        <TextEquiv>
+          <Unicode>76</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_21c56b16"  >
+      <Coords points="157,215 1429,215 1437,1139 165,1147 157,215"/>
+      <TextLine id="eSc_line_504cf418" >
+        <Coords points="159,246 157,206 1429,206 1433,239 1431,252 159,258"/>
+        <Baseline points="159,246 1433,239"/>
+        <TextEquiv>
+          <Unicode>fohlene nicht zögernd, nicht langſam, nicht lau, nicht mit Murren oder Widerſtreben</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_52187d1f" >
+        <Coords points="159,291 153,256 198,243 200,243 200,243 202,243 1426,250 1431,287 1429,297 159,308"/>
+        <Baseline points="159,291 1431,287"/>
+        <TextEquiv>
+          <Unicode>vollzogen wird, denn der den Obern geleiſtete Gehorſam wird Gott ſelber geleiſtet“.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_decd3f29" >
+        <Coords points="159,332 157,293 1426,295 1431,328 1429,343 159,345"/>
+        <Baseline points="159,332 1431,328"/>
+        <TextEquiv>
+          <Unicode>Dieſe Stellvertretung alſo iſt nach dem hl. Benedict das einzige Motiv, welches dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_163c0a30" >
+        <Coords points="159,378 157,337 1429,341 1433,374 1431,384 159,388"/>
+        <Baseline points="159,378 1433,374"/>
+        <TextEquiv>
+          <Unicode>Gehorſam die nothwendigen Eigenſchaften geben ſoll. Einen beſſern Commentator</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a24e822d" >
+        <Coords points="161,421 157,388 181,376 181,376 181,376 184,376 184,376 186,376 186,376 186,376 239,386 330,376 330,376 332,376 517,386 574,376 574,376 574,376 576,376 576,376 579,376 624,386 703,376 703,376 705,376 705,376 705,376 707,376 707,376 707,376 727,386 785,376 785,376 785,376 787,376 787,376 789,376 789,376 821,386 868,376 868,376 868,376 870,376 870,376 870,376 928,386 1346,376 1348,376 1348,376 1350,376 1350,376 1350,376 1371,386 1389,376 1389,376 1389,376 1391,376 1391,376 1393,376 1393,376 1393,376 1395,376 1435,388 1433,421 1433,432 161,436"/>
+        <Baseline points="161,421 1433,421"/>
+        <TextEquiv>
+          <Unicode>dieſer an ſich ſchon klaren Worte des großen Heiligen können wir wohl nicht finden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac9cb244" >
+        <Coords points="159,467 157,432 1429,425 1431,467 1431,479 159,479"/>
+        <Baseline points="159,467 1431,467"/>
+        <TextEquiv>
+          <Unicode>als den hl. Bernard, den Stifter des Ciſterzienſer⸗Ordens. „Lehret uns dieſes (daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f7a986f0" >
+        <Coords points="157,512 153,471 1424,465 1431,508 1429,527 157,527"/>
+        <Baseline points="157,512 1431,508"/>
+        <TextEquiv>
+          <Unicode>nämlich der Obere die Stelle Gottes vertritt) nicht auch die Regel, wenn ſie ſagt:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b921ec7" >
+        <Coords points="157,554 157,521 1433,521 1433,554 1433,566 157,566"/>
+        <Baseline points="157,554 1433,554"/>
+        <TextEquiv>
+          <Unicode>Der den Obern geleiſtete Gehorſam wird Gott geleiſtet? Was deshalb auch immer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c304f5db" >
+        <Coords points="157,601 150,562 1424,554 1431,595 1429,607 157,618"/>
+        <Baseline points="157,601 1431,595"/>
+        <TextEquiv>
+          <Unicode>(quidquid) der Menſch an Gottes Statt befiehlt, wenn es nur nicht ſicher Gott miß⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a348297" >
+        <Coords points="157,645 155,603 1429,603 1433,640 1431,651 157,657"/>
+        <Baseline points="157,645 1433,640"/>
+        <TextEquiv>
+          <Unicode>fällt, darf nicht anders aufgenommen werden, als wenn Gott es befähle. Denn was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7482383f" >
+        <Coords points="159,690 155,647 1424,647 1429,686 1424,702 157,700"/>
+        <Baseline points="159,690 1429,686"/>
+        <TextEquiv>
+          <Unicode>macht es für einen Unterſchied, ob Gott ſeinen Willen mittheilt durch ſich ſelbſt oder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a85f4b49" >
+        <Coords points="155,733 155,696 1429,698 1429,733 1426,750 153,744"/>
+        <Baseline points="155,733 1429,733"/>
+        <TextEquiv>
+          <Unicode>durch ſeinen Diener?“¹ Ich könnte noch hinweiſen auf die ſpätern Ordensſtifter,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2e7a63f" >
+        <Coords points="159,779 155,733 1429,738 1433,775 1431,789 159,795"/>
+        <Baseline points="159,779 1433,775"/>
+        <TextEquiv>
+          <Unicode>welche ebenſo „die Stellvertretung Gottes durch den Obern in den Vordergrund ſchie⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c15e660e" >
+        <Coords points="159,824 155,779 1429,779 1433,820 1431,829 159,835"/>
+        <Baseline points="159,824 1433,820"/>
+        <TextEquiv>
+          <Unicode>ben“, aber das Geſagte genügt wohl, um darzuthun, daß der hl. Ignatius keine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f30047a5" >
+        <Coords points="157,866 155,831 1431,824 1433,866 1431,882 155,878"/>
+        <Baseline points="157,866 1433,866"/>
+        <TextEquiv>
+          <Unicode>ueue Lehre in dieſer Beziehung aufgeſtellt hat. Die Lehre kann bloß neu ſein für</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_daac7e6a" >
+        <Coords points="157,913 155,870 1383,876 1387,909 1385,926 157,926"/>
+        <Baseline points="157,913 1387,909"/>
+        <TextEquiv>
+          <Unicode>den, welcher nicht einmal die erſten Begriffe vom Gehorſam im Allgemeinen hat².</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0bf28c47" >
+        <Coords points="229,957 225,915 1426,909 1433,951 1431,967 279,967 229,977"/>
+        <Baseline points="229,957 1433,951"/>
+        <TextEquiv>
+          <Unicode>Dr. Weber geräth beinahe außer ſich bei der Mittheilung der 36. Regel des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba0e2269" >
+        <Coords points="159,1000 159,961 1433,967 1433,1000 1433,1013 159,1013"/>
+        <Baseline points="159,1000 1433,1000"/>
+        <TextEquiv>
+          <Unicode>Summarium, in welcher es heißt, die Untergebenen ſollen ſich von den Obern leiten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8904a6c8" >
+        <Coords points="157,1044 157,1002 1424,1004 1424,1044 1424,1054 157,1062"/>
+        <Baseline points="157,1044 1424,1044"/>
+        <TextEquiv>
+          <Unicode>laſſen, „wie wenn ſie ein Cadaver wären,“ oder „ähnlich wie der Stab eines Greiſes“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d9dd86c" >
+        <Coords points="157,1089 155,1050 1431,1046 1433,1089 1433,1099 157,1101"/>
+        <Baseline points="157,1089 1433,1089"/>
+        <TextEquiv>
+          <Unicode>(S. 26. 27), und der „Cadaver⸗Gehorſam“ kehrt noch mehrmals wieder. Dieſes Staunen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9125c2da" >
+        <Coords points="157,1128 157,1085 1429,1099 1431,1135 1426,1153 887,1143 864,1153 860,1155 860,1155 860,1155 858,1155 858,1155 858,1157 767,1157 765,1155 738,1153 641,1143 630,1153 628,1153 628,1155 628,1155 626,1155 626,1155 626,1155 624,1155 624,1155 624,1157 583,1157 581,1155 581,1155 566,1153 514,1141 459,1151 459,1151 459,1151 457,1151 457,1151 368,1141 330,1153 326,1153 324,1153 324,1153 322,1153 322,1153 322,1153 314,1153 258,1141 233,1153 231,1153 231,1153 231,1153 229,1153 229,1153 227,1153 153,1151"/>
+        <Baseline points="157,1128 1431,1135"/>
+        <TextEquiv>
+          <Unicode>und Entſetzen des Herrn Religionslehrers iſt aber nur ein neuer Beweis für ſeine</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4bf5d889"  >
+      <Coords points="1437,2330 1265,2346 1230,2379 157,2371 148,1331 157,1240 206,1215 1429,1223 1437,2330"/>
+      <TextLine id="eSc_line_2eeb6c44" >
+        <Coords points="229,1244 229,1211 1424,1221 1429,1254 1424,1265 225,1261"/>
+        <Baseline points="229,1244 1429,1254"/>
+        <TextEquiv>
+          <Unicode>¹ De praec. et disp. 9. (Opp. ed. Maur. Ven. I. 225.) Ich empfehle ganz</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c3ce21be" >
+        <Coords points="157,1292 157,1254 1429,1259 1431,1296 1426,1310 155,1306"/>
+        <Baseline points="157,1292 1431,1296"/>
+        <TextEquiv>
+          <Unicode>beſonders das Studium dieſer Schrift dem Herrn Dr. Weber, wenn er noch mehr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3fcd011d" >
+        <Coords points="159,1337 159,1292 1429,1298 1431,1341 1426,1354 157,1352"/>
+        <Baseline points="159,1337 1431,1341"/>
+        <TextEquiv>
+          <Unicode>über den vom hl. Ignatius gelehrten Gehorſam ſchreiben will. Vielleicht wird er</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_122ccd9a" >
+        <Coords points="157,1381 157,1339 1429,1350 1431,1387 1426,1401 155,1391"/>
+        <Baseline points="157,1381 1431,1387"/>
+        <TextEquiv>
+          <Unicode>dann ſeine Angriffe gleich gegen die Quelle richten, aus welcher der hl. Ignatius</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f76c4f06" >
+        <Coords points="157,1426 157,1381 1429,1393 1431,1430 1429,1441 157,1443"/>
+        <Baseline points="157,1426 1431,1430"/>
+        <TextEquiv>
+          <Unicode>ſeine Lehre geſchöpft hat. Nimmt man zum hl. Bernard noch den hl. Baſilius, den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f15fdea6" >
+        <Coords points="155,1474 155,1434 1424,1436 1424,1474 1422,1488 153,1484"/>
+        <Baseline points="155,1474 1424,1474"/>
+        <TextEquiv>
+          <Unicode>hl. Gregor den Gr. und Caſſian hinzu, ſo dürfte ſich wohl kein Satz im Briefe des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8624c7ed" >
+        <Coords points="157,1515 157,1472 1422,1484 1424,1521 1420,1529 155,1527"/>
+        <Baseline points="157,1515 1424,1521"/>
+        <TextEquiv>
+          <Unicode>hl. Ignatius finden, für den ſich nicht eine Parallele bei dieſen großen Asceten dar⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c63446c" >
+        <Coords points="153,1563 153,1519 1426,1521 1426,1563 1426,1575 153,1575"/>
+        <Baseline points="153,1563 1426,1563"/>
+        <TextEquiv>
+          <Unicode>böte. Es iſt merkwürdig, daß Dr. Weber ſeine Citate aus dem incriminirten Briefe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4cb4bee3" >
+        <Coords points="155,1604 155,1560 1426,1571 1429,1608 1424,1616 153,1612"/>
+        <Baseline points="155,1604 1429,1608"/>
+        <TextEquiv>
+          <Unicode>dort abbricht, wo der hl. Ignatius einen dieſer ſeiner Gewährsmänner citirt, oder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca33dbaa" >
+        <Coords points="155,1649 153,1614 1426,1608 1431,1654 1429,1668 198,1670 196,1670 196,1670 194,1670 150,1658"/>
+        <Baseline points="155,1649 1431,1654"/>
+        <TextEquiv>
+          <Unicode>auch wohl (wie z. B. S. 2) die Citation in der Überſetzung einfach wegläßt. Iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6d57f9e" >
+        <Coords points="153,1693 153,1660 1429,1660 1431,1697 1426,1707 150,1701"/>
+        <Baseline points="153,1693 1431,1697"/>
+        <TextEquiv>
+          <Unicode>das Zufall oder Abſicht? — Ferner möchte ich den Herrn Privatdocenten der Philo⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e99605f3" >
+        <Coords points="157,1742 157,1697 1433,1705 1433,1742 1433,1755 157,1755"/>
+        <Baseline points="157,1742 1433,1742"/>
+        <TextEquiv>
+          <Unicode>ſophie fragen, ob ſein logiſcher Scharfſinn einen weſentlichen Unterſchied findet zwiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_418bc3fb" >
+        <Coords points="153,1782 153,1749 1429,1753 1431,1786 1429,1794 153,1798"/>
+        <Baseline points="153,1782 1431,1786"/>
+        <TextEquiv>
+          <Unicode>den Worten des hl. Bernard „quod non sit certum displicere Deo“ und den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a7d3081" >
+        <Coords points="155,1831 153,1786 1424,1788 1429,1827 1426,1838 155,1844"/>
+        <Baseline points="155,1831 1429,1827"/>
+        <TextEquiv>
+          <Unicode>(S. 19) ſo bitter getadelten und verdächtigten des hl. Ignatius „quae cum peccato</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98a88db8" >
+        <Coords points="155,1875 153,1840 1429,1831 1431,1875 1431,1885 155,1889"/>
+        <Baseline points="155,1875 1431,1875"/>
+        <TextEquiv>
+          <Unicode>manifesto conjunctae non sunt“? Wie der Jeſuit übrigens ſeinen Conſtitutionen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b094344" >
+        <Coords points="155,1920 155,1885 1431,1885 1431,1920 1429,1935 153,1928"/>
+        <Baseline points="155,1920 1431,1920"/>
+        <TextEquiv>
+          <Unicode>gemäß zu handeln habe, wenn er an der Erlaubtheit einer ihm befohlenen Handlung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_15445b45" >
+        <Coords points="153,1966 153,1918 1429,1928 1429,1966 1429,1978 153,1982"/>
+        <Baseline points="153,1966 1429,1966"/>
+        <TextEquiv>
+          <Unicode>zweifelt, habe ich ſchon früher gezeigt (Stimmen von M.⸗L. I. S. 463), und hätte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1bc74a79" >
+        <Coords points="153,2009 153,1968 1431,1974 1431,2009 1429,2032 390,2022 376,2022 310,2032 310,2032 308,2032 308,2032 308,2032 306,2032 272,2022 270,2022 266,2022 208,2032 208,2032 206,2032 206,2032 206,2032 150,2019"/>
+        <Baseline points="153,2009 1431,2009"/>
+        <TextEquiv>
+          <Unicode>der Herr Religionslehrer mit ein Bischen gutem Willen aus den Regeln ſelbſt heraus⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b1f56ae" >
+        <Coords points="157,2055 155,2017 359,2017 363,2050 361,2065 155,2063"/>
+        <Baseline points="157,2055 363,2050"/>
+        <TextEquiv>
+          <Unicode>leſen können.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7bf5c223" >
+        <Coords points="225,2094 225,2048 436,2059 452,2050 461,2046 461,2046 461,2046 463,2046 463,2046 465,2046 465,2046 465,2046 467,2046 467,2046 467,2046 469,2046 469,2046 473,2050 483,2061 566,2061 605,2050 643,2044 643,2044 643,2044 645,2044 645,2044 703,2053 750,2059 767,2053 792,2044 792,2044 794,2044 794,2044 796,2044 796,2044 796,2044 798,2044 798,2044 798,2044 816,2053 825,2059 833,2055 843,2046 845,2046 845,2046 845,2046 847,2046 847,2046 849,2046 849,2046 849,2046 852,2046 852,2046 852,2046 866,2055 878,2061 891,2055 905,2048 905,2048 907,2048 907,2048 907,2048 909,2048 988,2055 1052,2061 1065,2057 1087,2046 1087,2046 1089,2046 1089,2046 1091,2046 1226,2046 1226,2046 1226,2046 1228,2046 1228,2046 1257,2059 1265,2061 1290,2059 1362,2050 1362,2050 1364,2050 1364,2050 1431,2061 1433,2098 1431,2106 272,2112 270,2112 270,2112 270,2112 221,2100"/>
+        <Baseline points="225,2094 1433,2098"/>
+        <TextEquiv>
+          <Unicode>² Vgl. Germania Nr. 283 Beil. Ein Correſpondent aus Breslau macht in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cdc8ab72" >
+        <Coords points="148,2137 146,2102 1426,2096 1431,2141 1429,2152 148,2156"/>
+        <Baseline points="148,2137 1431,2141"/>
+        <TextEquiv>
+          <Unicode>einer kurzen Anzeige der Weber&#39;ſchen Schrift darauf aufmerkſam, daß wenn die An⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_58f13dbd" >
+        <Coords points="150,2185 146,2154 1422,2150 1429,2181 1426,2193 150,2201"/>
+        <Baseline points="150,2185 1429,2181"/>
+        <TextEquiv>
+          <Unicode>erkennung der Stellvertretung Gottes durch die Vorgeſetzten nicht eine chriſtliche, ſon⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2e8150ff" >
+        <Coords points="150,2228 150,2187 1431,2187 1433,2232 1429,2249 148,2237"/>
+        <Baseline points="150,2228 1433,2232"/>
+        <TextEquiv>
+          <Unicode>dern bloß eine jeſuitiſche Idee wäre, Luther ſelbſt als ein echter Jeſuit angeſehen werden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_12621eee" >
+        <Coords points="153,2272 153,2237 1433,2241 1433,2276 1429,2286 150,2280"/>
+        <Baseline points="153,2272 1433,2276"/>
+        <TextEquiv>
+          <Unicode>müßte. Derſelbe ſchreibe in ſeiner übertreibenden Weiſe: „Gott will die Obrigkeiten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea8172a2" >
+        <Coords points="155,2315 155,2274 1429,2286 1431,2321 1429,2332 583,2340 581,2340 581,2340 579,2340 533,2330 171,2338 169,2338 169,2338 167,2338 167,2338 167,2338 165,2338 165,2338 148,2325"/>
+        <Baseline points="155,2315 1431,2321"/>
+        <TextEquiv>
+          <Unicode>laſſen Götter ſein über Menſchen, daß man ihnen als ſeinen Amtsleuten gleich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc5c6ec3" >
+        <Coords points="153,2359 153,2323 1236,2332 1238,2369 1234,2402 1021,2383 963,2396 940,2400 940,2400 940,2400 938,2400 870,2394 831,2390 825,2392 808,2400 808,2400 808,2400 806,2400 806,2400 804,2400 804,2400 804,2400 802,2400 802,2400 802,2400 783,2392 765,2381 742,2390 719,2398 719,2398 717,2398 717,2398 715,2398 715,2398 713,2398 674,2387 663,2385 653,2387 614,2398 612,2398 612,2398 610,2398 610,2398 610,2398 608,2398 608,2398 605,2398 605,2398 591,2385 581,2379 502,2379 496,2383 479,2396 479,2396 477,2396 477,2396 477,2396 475,2396 475,2396 473,2396 272,2394 272,2394 272,2394 148,2373"/>
+        <Baseline points="153,2359 1238,2369"/>
+        <TextEquiv>
+          <Unicode>wie ihm ſelbſt ſoll gehorſam ſein.“ (Erlang. Ausg. 39, 228 f., 261 f.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

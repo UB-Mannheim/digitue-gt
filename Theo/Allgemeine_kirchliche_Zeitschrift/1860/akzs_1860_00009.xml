@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00009.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-02-23T18:18:46.024221+00:00</Created>
+        <LastChange>2022-02-23T18:18:46.024237+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="akzs_1860_00009.jpg" imageWidth="1497" imageHeight="2610">
+    <TextRegion id="eSc_textblock_2ebb4ee6"  >
+      <Coords points="772,84 713,84 731,26 772,43 772,84"/>
+      <TextLine id="eSc_line_8e0eb8f8" >
+        <Coords points="728,65 728,21 748,21 748,65 748,78 728,80"/>
+        <Baseline points="728,65 748,65"/>
+        <TextEquiv>
+          <Unicode>7</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ef2e87a3"  >
+      <Coords points="1460,2381 95,2390 60,200 128,182 139,147 1096,130 1433,147 1460,2381"/>
+      <TextLine id="eSc_line_1941f11a" >
+        <Coords points="141,184 137,141 1416,123 1423,165 1423,180 141,195"/>
+        <Baseline points="141,184 1423,165"/>
+        <TextEquiv>
+          <Unicode>Aber hüten wir uns vor Täuſchung. Der Unglaube erſcheint nicht ſelten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b83e7ce" >
+        <Coords points="58,237 54,189 1414,169 1420,217 1425,230 1409,243 1409,243 1407,243 1407,243 1407,243 1405,243 1405,243 1403,243 966,239 942,250 942,250 942,250 939,250 939,250 937,250 770,243 661,254 659,254 56,250"/>
+        <Baseline points="58,237 1420,217"/>
+        <TextEquiv>
+          <Unicode>im Gewande des Glaubens, der Glaube ſcheint die Geſtalt des Unglaubens</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_988841c6" >
+        <Coords points="58,291 56,250 463,245 465,291 463,311 56,304"/>
+        <Baseline points="58,291 465,291"/>
+        <TextEquiv>
+          <Unicode>angenommen zu haben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8bfb97bb" >
+        <Coords points="141,348 137,297 1416,276 1423,326 1420,348 141,361"/>
+        <Baseline points="141,348 1423,326"/>
+        <TextEquiv>
+          <Unicode>Unſer Erlöſer hat den höchſten Gegenſtand des Glaubens bezeichnet, als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b849e78" >
+        <Coords points="56,398 50,354 1416,332 1423,380 1420,393 56,411"/>
+        <Baseline points="56,398 1423,380"/>
+        <TextEquiv>
+          <Unicode>er Gott als Geiſt beſchrieb. Wer nicht an den Geiſt glaubt, der glaubt auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_667fbb21" >
+        <Coords points="58,452 52,415 78,402 78,402 78,402 80,402 80,402 80,402 82,402 219,411 493,398 496,398 496,398 496,398 539,406 565,395 565,395 567,395 567,395 570,395 1418,395 1423,434 1420,452 58,465"/>
+        <Baseline points="58,452 1423,434"/>
+        <TextEquiv>
+          <Unicode>nicht an Gott. Der nackte Unglaube läugnet, daß überhaupt Geiſt iſt; was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0589cf0" >
+        <Coords points="58,506 54,465 1416,441 1423,489 1420,504 58,519"/>
+        <Baseline points="58,506 1423,489"/>
+        <TextEquiv>
+          <Unicode>nicht erſcheint, das iſt für ihn nicht vorhanden. Das Chriſtenthum iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fabd9d56" >
+        <Coords points="58,554 54,511 1418,500 1425,539 1423,552 58,574"/>
+        <Baseline points="58,554 515,558 1425,539"/>
+        <TextEquiv>
+          <Unicode>die Religion des Geiſtes; jede Verläugnung der oberſten Autorität des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd72df2e" >
+        <Coords points="58,613 54,574 1420,552 1427,595 1425,609 58,626"/>
+        <Baseline points="58,613 1427,595"/>
+        <TextEquiv>
+          <Unicode>Geiſtes, und vor Allem des Geiſtes der Geiſter, des lebendigen Gottes, iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d33fdd8" >
+        <Coords points="60,665 56,617 1420,600 1427,648 1427,663 60,680"/>
+        <Baseline points="60,665 1427,648"/>
+        <TextEquiv>
+          <Unicode>feineres oder gröberes Heidenthum. Was lernen wir aus den Zeichen der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e25e660d" >
+        <Coords points="58,724 54,680 1166,656 1172,709 1172,722 58,735"/>
+        <Baseline points="58,724 1172,709"/>
+        <TextEquiv>
+          <Unicode>Zeit in dieſer Beziehung von unſeren gegenwärtigen Zuſtänden?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08645565" >
+        <Coords points="143,776 139,735 1423,715 1429,756 1429,772 143,789"/>
+        <Baseline points="143,776 1429,756"/>
+        <TextEquiv>
+          <Unicode>Es iſt wahr: vielfach tritt der geiſtverläugnende Unglaube kalt und nackt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6447da7e" >
+        <Coords points="63,828 58,778 1420,765 1427,809 1425,824 63,843"/>
+        <Baseline points="63,828 1427,809"/>
+        <TextEquiv>
+          <Unicode>uns jetzt entgegen. Schon der Jugend ſind öfters die Flügel des Geiſtes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dde2e038" >
+        <Coords points="60,878 56,835 1423,815 1429,865 1427,887 60,896"/>
+        <Baseline points="60,878 1429,865"/>
+        <TextEquiv>
+          <Unicode>beſchnitten; es fehlt an edelm Aufſchwunge und friſcher Hingabe an das Gute</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7559b4aa" >
+        <Coords points="60,935 56,891 1423,876 1429,920 1427,935 60,950"/>
+        <Baseline points="60,935 1429,920"/>
+        <TextEquiv>
+          <Unicode>und Ewige, an Opferwilligkeit und Geiſtesfreudigkeit ſelbſt in den Lebensjahren,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a006aef" >
+        <Coords points="63,989 58,946 1425,930 1431,974 1429,987 63,1002"/>
+        <Baseline points="63,989 1431,974"/>
+        <TextEquiv>
+          <Unicode>die ſonſt noch nicht Nützlichkeitstrieben folgen, die von dem warmen Schlage</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c88ae006" >
+        <Coords points="63,1039 58,989 1423,978 1429,1028 1427,1046 63,1059"/>
+        <Baseline points="63,1039 1429,1028"/>
+        <TextEquiv>
+          <Unicode>des fühlenden Herzens mehr als der kühlen Ueberlegung des berechnenden Ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac4cd3f8" >
+        <Coords points="65,1094 60,1044 1427,1035 1433,1080 1431,1091 65,1111"/>
+        <Baseline points="65,1094 1433,1080"/>
+        <TextEquiv>
+          <Unicode>ſtandes geleitet zu werden pflegen. Was augenblicklich nützt, was Ausſicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b33f1fc" >
+        <Coords points="65,1148 60,1098 1425,1083 1431,1133 1429,1150 65,1159"/>
+        <Baseline points="65,1148 1431,1133"/>
+        <TextEquiv>
+          <Unicode>auf raſchen Gewinn bietet, was zu äußeren Beförderungen und Ehren führt:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_009e566f" >
+        <Coords points="65,1200 60,1154 1427,1139 1433,1189 1431,1204 65,1211"/>
+        <Baseline points="65,1200 1433,1189"/>
+        <TextEquiv>
+          <Unicode>das iſt es, was die Meiſten frühe ſuchen und raſch erſtreben. Der Materia⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cdde9217" >
+        <Coords points="65,1250 60,1198 1427,1191 1433,1244 1431,1257 65,1263"/>
+        <Baseline points="65,1250 1433,1244"/>
+        <TextEquiv>
+          <Unicode>lismus hat dieſe Geſinnung in Regeln gebracht und den klaren, gemeinver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_74a21ac9" >
+        <Coords points="67,1307 63,1263 1431,1252 1438,1296 1436,1309 67,1320"/>
+        <Baseline points="67,1307 1438,1296"/>
+        <TextEquiv>
+          <Unicode>ſtändlichen Ausdruck dafür gefunden. Aber ſie war ſchon vor ihm da; er hat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca2a789a" >
+        <Coords points="69,1361 65,1315 1431,1305 1438,1350 1436,1363 69,1374"/>
+        <Baseline points="69,1361 1438,1350"/>
+        <TextEquiv>
+          <Unicode>nicht ſie, ſie hat ihn hervorgebracht. Daher das leichtfertige Börſenſpiel, das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_72592592" >
+        <Coords points="69,1413 65,1370 1433,1359 1440,1405 1438,1420 69,1426"/>
+        <Baseline points="69,1413 1440,1405"/>
+        <TextEquiv>
+          <Unicode>Vornehm und Gering in ſein dämoniſches Netz zieht, der verbrecheriſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f5b67e0" >
+        <Coords points="71,1470 67,1418 1433,1407 1440,1457 1438,1472 71,1483"/>
+        <Baseline points="71,1470 1440,1457"/>
+        <TextEquiv>
+          <Unicode>Schwindel, der die Kinder des Genuſſes in einem Augenblicke von dem Gipfel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_694a5832" >
+        <Coords points="71,1524 67,1472 1431,1459 1438,1511 1436,1529 71,1535"/>
+        <Baseline points="71,1524 1438,1511"/>
+        <TextEquiv>
+          <Unicode>des Wohllebens in den Abgrund des Elends ſtürzt, die ſittliche Schlaffheit,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd80df5b" >
+        <Coords points="71,1574 67,1531 1436,1522 1442,1565 1440,1579 71,1589"/>
+        <Baseline points="71,1574 1442,1565"/>
+        <TextEquiv>
+          <Unicode>welche in ſo vielen Fällen kein ernſtes warnendes Wort gegen das wachſende</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a14d1b3" >
+        <Coords points="73,1631 71,1581 711,1579 713,1631 713,1644 73,1646"/>
+        <Baseline points="73,1631 713,1631"/>
+        <TextEquiv>
+          <Unicode>Verderben mehr auszuſprechen wagt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6309746e" >
+        <Coords points="156,1685 152,1631 1436,1626 1442,1672 1440,1687 156,1696"/>
+        <Baseline points="156,1685 1442,1672"/>
+        <TextEquiv>
+          <Unicode>Dieſe Durchſchnittsgeſinnung des Materialismus hindert natürlich jede</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ecb5543e" >
+        <Coords points="76,1737 71,1689 1436,1676 1442,1724 1440,1737 76,1750"/>
+        <Baseline points="76,1737 1442,1724"/>
+        <TextEquiv>
+          <Unicode>tiefere religiöſe und ſittliche Weltbetrachtung. Sie befördert um ſo mehr die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6a17b45" >
+        <Coords points="76,1790 71,1744 1438,1735 1444,1779 1442,1798 76,1803"/>
+        <Baseline points="76,1790 1444,1779"/>
+        <TextEquiv>
+          <Unicode>rohe Gewalt, ſowohl die des übermächtigen Einzelwillens, welcher nach Willkür</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eb91063d" >
+        <Coords points="78,1846 73,1794 1438,1787 1444,1831 1442,1844 78,1859"/>
+        <Baseline points="78,1846 1444,1831"/>
+        <TextEquiv>
+          <Unicode>und Laune das Recht beugt, als die des ſelbſtſüchtigen Maſſentriebes, welcher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d1266205" >
+        <Coords points="78,1898 73,1853 1438,1835 1444,1885 1442,1896 78,1909"/>
+        <Baseline points="78,1898 1444,1885"/>
+        <TextEquiv>
+          <Unicode>die Schranken geordneter, ächt freiheitlicher Entwicklung zuchtlos durchbricht.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5754581e" >
+        <Coords points="78,1953 73,1905 1440,1890 1446,1937 1444,1957 78,1966"/>
+        <Baseline points="78,1953 1446,1937"/>
+        <TextEquiv>
+          <Unicode>Darin liegt die Schuld, daß die Gegenwart zwiſchen despotiſcher Willkür und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e6525d4" >
+        <Coords points="80,2007 76,1955 1442,1946 1449,1990 1449,2000 80,2020"/>
+        <Baseline points="80,2007 1449,1990"/>
+        <TextEquiv>
+          <Unicode>anarchiſchem Maſſendruck in ſteter Angſt hin und her gezerrt wird, daß ſie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_86d7adb9" >
+        <Coords points="82,2061 78,2014 1233,1994 1240,2046 1240,2057 245,2081 243,2081 80,2070"/>
+        <Baseline points="82,2061 1240,2046"/>
+        <TextEquiv>
+          <Unicode>weder Ruhe findet, noch Ordnung, weder Freiheit, noch Frieden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46029608" >
+        <Coords points="167,2116 163,2061 1442,2055 1449,2098 1446,2114 167,2133"/>
+        <Baseline points="167,2116 1449,2098"/>
+        <TextEquiv>
+          <Unicode>Man hört öfters die Bemerkung: nur die Kirche kann helfen. Warum hat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e820d57" >
+        <Coords points="82,2170 78,2114 1444,2103 1451,2153 1449,2164 82,2181"/>
+        <Baseline points="82,2170 1451,2153"/>
+        <TextEquiv>
+          <Unicode>ſie denn bis jetzt nicht geholfen? Iſt nicht gerade das eines der bedenkener⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0d7a7b9" >
+        <Coords points="84,2222 80,2170 1446,2153 1453,2207 1451,2218 84,2233"/>
+        <Baseline points="84,2222 1453,2207"/>
+        <TextEquiv>
+          <Unicode>regendſten Zeichen der Zeit, daß ſie die Hülfe öfters verſprochen, aber doch ſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79beac2e" >
+        <Coords points="84,2277 80,2225 1446,2216 1453,2259 1451,2270 84,2288"/>
+        <Baseline points="84,2277 1453,2259"/>
+        <TextEquiv>
+          <Unicode>wenig eine gründliche gebracht hat? Nicht als ob wir verkennen wollten, was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69d94392" >
+        <Coords points="87,2331 84,2277 842,2277 939,2270 1155,2259 1157,2259 1285,2268 1298,2268 1305,2268 1366,2257 1366,2257 1368,2257 1368,2257 1451,2268 1455,2312 1455,2325 87,2340"/>
+        <Baseline points="87,2331 1455,2312"/>
+        <TextEquiv>
+          <Unicode>von Organen der Kirche Treffliches, Anerkennungswerthes, Wohlgemeintes im</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c10213c" >
+        <Coords points="91,2385 84,2331 1449,2314 1455,2366 1453,2390 1342,2390 1340,2390 1303,2407 1303,2407 1303,2407 1301,2407 1301,2407 1298,2407 1298,2407 1177,2396 1151,2409 1151,2409 1151,2409 1148,2409 1148,2409 1146,2409 1146,2409 1018,2394 1003,2394 1000,2394 976,2412 974,2412 974,2412 974,2412 972,2412 972,2412 970,2412 970,2412 970,2412 968,2412 937,2403 846,2414 846,2414 844,2414 844,2414 842,2414 789,2399 787,2399 785,2399 696,2416 696,2416 696,2418 644,2418 641,2416 641,2416 639,2416 639,2416 639,2416 637,2416 637,2416 637,2414 622,2401 622,2401 613,2401 480,2412 478,2412 478,2412 478,2412 430,2403 424,2403 422,2403 393,2416 393,2416 391,2416 391,2416 391,2416 389,2416 276,2405 261,2405 258,2405 228,2422 228,2422 228,2422 226,2422 226,2422 224,2422 224,2422 89,2407"/>
+        <Baseline points="91,2385 1455,2366"/>
+        <TextEquiv>
+          <Unicode>Einzelnen geſchehen iſt. Aber genauer betrachtet iſt es doch ungleich weniger</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
