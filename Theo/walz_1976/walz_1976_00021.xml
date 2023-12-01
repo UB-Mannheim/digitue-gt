@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00021.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.616309+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.616320+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00021.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_dfd2a09c"  >
+      <Coords points="1996,333 1974,481 1748,494 2017,570 1996,621 1931,634 1974,653 1910,710 1974,774 1953,901 1899,936 1931,976 1770,1000 1942,1054 1985,1183 1953,1546 1996,1732 1996,2084 1888,2119 1964,2162 1942,2246 1985,2321 1878,2517 1942,2611 1783,2655 1759,2711 1824,2754 1856,2859 1931,2894 1931,2956 1286,2988 139,2967 150,2905 322,2902 298,2859 161,2870 139,2837 139,2248 330,2205 376,2127 247,2084 258,1495 341,1474 365,1420 161,1374 172,1119 301,1073 277,1008 172,976 182,624 373,591 419,513 290,492 301,279 1662,290 1996,333"/>
+      <TextLine id="eSc_line_2df63b98" >
+        <Coords points="1904,320 1878,317 1851,314 1824,309 1797,306 1770,303 1743,301 1716,295 1689,293 1662,290 1635,287 1608,287 1582,287 1555,287 1401,293 1399,293 1374,287 1366,287 1339,287 1313,285 1286,285 1259,285 1232,285 1205,285 1178,285 1151,285 1124,285 1097,285 1070,285 1043,285 1017,285 990,285 982,282 933,285 922,282 909,282 882,282 855,282 828,282 801,282 774,282 747,282 721,282 694,282 667,282 640,282 613,279 597,279 586,279 559,279 532,279 505,279 478,279 452,279 425,279 398,279 371,279 344,279 317,279 314,274 290,274 290,317 287,328 1934,360 1939,347 1918,322 1904,320"/>
+        <Baseline points="290,317 1939,347"/>
+        <TextEquiv>
+          <Unicode>nature of man? Is it not pecularly marked by an existence toward</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c49a0165" >
+        <Coords points="1985,387 1972,357 293,325 293,365 290,387 1985,411 1991,400 1988,368 1985,387"/>
+        <Baseline points="293,365 1991,400"/>
+        <TextEquiv>
+          <Unicode>death, a transiency in which man can only be said really to live in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8935eb42" >
+        <Coords points="293,419 290,427 1808,465 1813,449 1813,406 293,368 293,419"/>
+        <Baseline points="293,419 1813,449"/>
+        <TextEquiv>
+          <Unicode>the decision of the moment? Is there any real continuity to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_818526d1" >
+        <Coords points="1479,443 1452,443 1426,443 1399,443 1372,441 1345,441 1318,441 1291,441 1264,441 1237,438 1210,438 1183,438 1156,438 1130,438 1103,435 1076,435 1049,435 1022,435 995,435 968,433 941,433 914,433 887,433 861,433 834,430 807,430 780,430 753,430 726,430 699,427 672,427 645,427 618,427 591,427 565,425 538,425 511,425 484,425 457,425 430,422 403,422 376,422 349,422 322,422 295,422 295,473 293,486 1495,497 1501,484 1498,443 1479,443"/>
+        <Baseline points="295,473 1501,484"/>
+        <TextEquiv>
+          <Unicode>historical life beyond the moment of decision?¹⁵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_456be779" >
+        <Coords points="1999,591 1974,556 1950,551 1654,535 1652,535 1539,546 1530,546 1517,535 1517,532 1514,532 1512,532 1509,532 1506,532 1461,546 1455,546 1450,543 1417,532 1415,532 1412,532 1062,538 1035,538 1030,538 960,521 957,521 847,535 844,535 834,521 831,521 831,519 828,519 826,519 823,519 406,527 387,559 387,570 384,583 1269,616 1272,616 2007,613 2009,599 2001,589 1999,591"/>
+        <Baseline points="387,570 2009,599"/>
+        <TextEquiv>
+          <Unicode>It is with this kind of background that the question of a future</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc46b75e" >
+        <Coords points="209,618 182,621 182,667 180,688 1041,707 1043,707 1046,707 1068,699 1078,696 1095,699 1135,710 1138,710 1140,710 1208,702 1232,699 1323,702 1681,720 1684,720 1829,707 1832,696 1832,653 325,613 322,613 317,613 250,624 215,616 209,618"/>
+        <Baseline points="182,667 1832,696"/>
+        <TextEquiv>
+          <Unicode>for mankind must be asked anew. Is there a future and a hope for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b6ce82fa" >
+        <Coords points="180,769 177,788 1689,820 1692,820 1770,809 1786,823 1789,823 1791,823 1794,823 1948,809 1950,798 1950,755 1638,753 1635,745 1627,737 1625,737 1625,734 1622,734 1619,734 1617,734 1280,737 984,739 947,728 928,723 925,723 922,723 863,726 737,734 718,723 715,720 713,720 710,720 707,720 704,720 699,720 664,734 645,720 643,718 640,718 637,718 634,718 616,720 546,731 508,718 503,715 500,715 497,715 484,715 403,728 387,715 384,715 382,715 180,710 180,769"/>
+        <Baseline points="180,769 1950,798"/>
+        <TextEquiv>
+          <Unicode>mankind? Science and technology present man not only with vast possi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_277952ad" >
+        <Coords points="177,868 174,879 457,903 460,903 659,893 704,893 742,895 869,911 871,911 936,901 965,898 1014,903 1119,917 1121,917 1318,911 1474,909 1498,917 1520,925 1522,925 1525,925 1574,919 1619,914 1923,928 1929,903 1929,858 177,812 177,868"/>
+        <Baseline points="177,868 1929,903"/>
+        <TextEquiv>
+          <Unicode>bilities but also with threats to his existence. This mood of modern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b59d4667" >
+        <Coords points="177,968 174,981 1135,1000 1140,987 1140,936 177,925 177,968"/>
+        <Baseline points="177,968 1140,987"/>
+        <TextEquiv>
+          <Unicode>man seems ready for a message of hope.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_27424a8e" >
+        <Coords points="314,1084 314,1108 365,1094 753,1097 780,1110 799,1119 801,1119 804,1119 842,1110 885,1102 1108,1102 1143,1113 1194,1124 1197,1124 1200,1124 1240,1113 1259,1108 1267,1113 1283,1127 1286,1127 1288,1127 1291,1127 1294,1127 1345,1113 1348,1113 1350,1113 1377,1127 1380,1127 1759,1135 1762,1137 1886,1137 1886,1135 1888,1135 1921,1116 1923,1102 1921,1059 1794,1043 1791,1043 1789,1043 1786,1043 1773,1054 1759,1043 1756,1043 1754,1043 1751,1043 1641,1054 1635,1054 1617,1038 1614,1038 1611,1038 1608,1038 1479,1051 1452,1035 1450,1035 1447,1035 1444,1035 1307,1049 1278,1027 1275,1027 1272,1027 1269,1027 1119,1046 1006,1024 1003,1024 901,1041 836,1022 834,1022 831,1022 828,1022 826,1022 801,1038 729,1024 726,1024 651,1038 559,1019 556,1019 481,1032 446,1014 443,1014 336,1014 333,1014 330,1014 328,1014 328,1016 314,1027 314,1084"/>
+        <Baseline points="314,1084 581,1078 1923,1102"/>
+        <TextEquiv>
+          <Unicode>A Frenchman, Jacques Ellul, in his book Hope in Time of Aban-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44e1ccd1" >
+        <Coords points="169,1172 166,1197 1964,1218 1969,1205 1966,1162 169,1129 169,1172"/>
+        <Baseline points="169,1172 1969,1205"/>
+        <TextEquiv>
+          <Unicode>donment, begins with a detailed analysis of the illnesses of mankind at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3ed3c01" >
+        <Coords points="172,1272 169,1291 1913,1318 1918,1307 1918,1253 172,1221 172,1272"/>
+        <Baseline points="172,1272 1918,1307"/>
+        <TextEquiv>
+          <Unicode>this time in history. His diagnosis can be summarized by saying that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_796579cc" >
+        <Coords points="166,1366 166,1374 164,1393 1953,1423 1958,1409 1956,1363 1805,1347 1802,1347 1342,1350 1318,1350 1315,1350 1272,1336 1269,1336 1267,1336 761,1339 756,1339 713,1326 710,1326 707,1326 589,1336 586,1336 581,1336 443,1320 441,1320 177,1328 166,1366"/>
+        <Baseline points="166,1374 1958,1409"/>
+        <TextEquiv>
+          <Unicode>mankind is without hope today. Near the beginning of his book he says:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_480e74f3" >
+        <Coords points="368,1474 365,1495 1931,1519 1937,1509 1937,1466 368,1420 368,1474"/>
+        <Baseline points="368,1474 1937,1509"/>
+        <TextEquiv>
+          <Unicode>We are living through the experience of a closed world. Never</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d3bdfad4" >
+        <Coords points="287,1484 260,1492 260,1525 258,1541 1907,1573 1913,1557 1910,1514 295,1482 287,1484"/>
+        <Baseline points="260,1525 1913,1557"/>
+        <TextEquiv>
+          <Unicode>have there been so many openings, scientific breakthroughs by the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b006cb34" >
+        <Coords points="269,1576 266,1592 1802,1622 1808,1603 1805,1562 269,1530 269,1576"/>
+        <Baseline points="269,1576 1808,1603"/>
+        <TextEquiv>
+          <Unicode>most stupefying, lightning-like extensions of technology, the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94f0b371" >
+        <Coords points="263,1627 260,1646 1956,1670 1961,1662 1961,1619 263,1584 263,1627"/>
+        <Baseline points="263,1627 1961,1662"/>
+        <TextEquiv>
+          <Unicode>secularization of thought and of civilization, the opening of doors</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3762cec5" >
+        <Coords points="1904,1662 1878,1662 1851,1662 1835,1659 1756,1659 1743,1659 1716,1659 1708,1657 1590,1657 1582,1657 1579,1654 263,1635 263,1678 260,1686 1921,1721 1926,1710 1923,1662 1904,1662"/>
+        <Baseline points="263,1678 1926,1710"/>
+        <TextEquiv>
+          <Unicode>to &quot;the cosmos&quot;; yet never has man felt so closed in, so confined,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ef2c345" >
+        <Coords points="258,1726 255,1740 1977,1772 1982,1761 1980,1716 258,1683 258,1726"/>
+        <Baseline points="258,1726 1982,1761"/>
+        <TextEquiv>
+          <Unicode>so impotent. With the help of intermediaries he participates in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d71137f" >
+        <Coords points="1899,1761 1872,1761 1845,1759 1818,1759 1652,1764 1544,1753 1522,1753 1495,1753 1469,1753 1450,1751 1374,1759 1350,1751 1334,1751 1307,1748 1296,1748 1224,1756 1210,1748 1200,1748 1173,1745 1165,1745 1113,1753 1076,1745 1065,1745 1038,1743 1011,1743 984,1743 957,1743 930,1743 904,1740 877,1740 850,1740 823,1740 796,1740 785,1737 258,1737 258,1780 255,1796 1904,1821 1910,1813 1904,1761 1899,1761"/>
+        <Baseline points="258,1780 1910,1813"/>
+        <TextEquiv>
+          <Unicode>great human adventure. He watches television. He sees the first</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1487d1ef" >
+        <Coords points="1791,1813 1789,1810 1660,1810 1657,1810 1654,1807 1380,1804 1361,1804 1356,1802 1240,1802 1226,1802 1221,1799 1100,1799 1092,1799 1089,1796 957,1796 957,1796 955,1794 258,1783 258,1829 255,1839 1800,1869 1805,1853 1802,1813 1791,1813"/>
+        <Baseline points="258,1829 1805,1853"/>
+        <TextEquiv>
+          <Unicode>steps of &quot;man-in-himself&quot; on the moon. But he is not man-in-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_877b6f7c" >
+        <Coords points="473,1834 446,1834 433,1831 371,1831 365,1831 339,1831 312,1831 285,1831 258,1831 258,1877 255,1888 1974,1920 1980,1909 1980,1869 487,1834 473,1834"/>
+        <Baseline points="258,1877 1980,1909"/>
+        <TextEquiv>
+          <Unicode>himself. He is the white-collar unit, this man in a gray suit whose</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d57e3ab8" >
+        <Coords points="258,1928 255,1947 1969,1969 1974,1958 1972,1915 258,1883 258,1928"/>
+        <Baseline points="258,1928 1974,1958"/>
+        <TextEquiv>
+          <Unicode>life mechanically unwinds like the perforated roll of an old player-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e09a2fd9" >
+        <Coords points="255,1982 252,1998 1894,2022 1899,2009 1896,1966 255,1931 255,1982"/>
+        <Baseline points="255,1982 1899,2009"/>
+        <TextEquiv>
+          <Unicode>piano. Each turn of the roll is a year and, when deposited every</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3af3bbea" >
+        <Coords points="1896,2009 1869,2009 1843,2009 1816,2009 1789,2009 1762,2009 1735,2009 1708,2006 1681,2006 1654,2006 1627,2006 1600,2006 1574,2006 1547,2004 1520,2004 1493,2004 1466,2004 1439,2004 1412,2004 1385,2001 1358,2001 1331,2001 1304,2001 1278,2001 1251,2001 1224,1998 1197,1998 1170,1998 1143,1998 1116,1998 1089,1998 1062,1995 1035,1995 1008,1995 982,1995 955,1995 928,1995 901,1993 874,1993 847,1993 820,1993 793,1993 766,1993 739,1990 713,1990 686,1990 659,1990 632,1990 605,1990 578,1987 551,1987 524,1987 497,1987 470,1987 443,1987 417,1985 390,1985 363,1985 336,1985 309,1985 282,1985 255,1985 255,2028 252,2041 1972,2071 1977,2057 1977,2006 1896,2004 1896,2009"/>
+        <Baseline points="255,2028 1977,2057"/>
+        <TextEquiv>
+          <Unicode>December 31 on the preceding year, obliterates it. The notes played</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_226744e8" >
+        <Coords points="1544,2052 1517,2052 1490,2049 1463,2049 1436,2049 1409,2049 1382,2049 1356,2049 1329,2047 1302,2047 1275,2047 1248,2047 1221,2047 1194,2047 1170,2044 1113,2044 1087,2044 1060,2044 1054,2041 252,2039 252,2079 250,2098 1541,2117 1547,2098 1544,2052 1544,2052"/>
+        <Baseline points="252,2079 1547,2098"/>
+        <TextEquiv>
+          <Unicode>on the piano are the sum of his programmed deeds.¹⁶</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_437b7765" >
+        <Coords points="349,2170 349,2181 347,2192 387,2205 390,2205 392,2205 602,2197 624,2211 626,2211 629,2211 632,2211 1049,2208 1253,2224 1256,2224 1899,2221 1902,2213 1902,2168 1778,2168 1775,2165 1759,2149 1756,2149 1754,2149 1751,2149 1544,2160 1525,2160 1514,2146 1512,2146 1512,2143 1509,2143 1506,2143 1382,2141 1380,2141 1377,2141 1348,2154 1315,2141 1313,2141 1310,2141 1156,2152 1151,2152 1111,2135 1108,2135 1105,2135 1103,2135 1049,2149 869,2149 866,2146 812,2130 809,2130 807,2130 648,2141 610,2125 608,2125 605,2125 602,2125 570,2138 478,2125 476,2125 357,2135 349,2170"/>
+        <Baseline points="349,2181 1902,2213"/>
+        <TextEquiv>
+          <Unicode>Ellul says people have lost hope in the future so they try to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3731cd42" >
+        <Coords points="1950,2267 1948,2264 207,2230 201,2232 174,2238 147,2246 147,2281 145,2291 1966,2326 1972,2313 1966,2297 1950,2267"/>
+        <Baseline points="147,2281 1972,2313"/>
+        <TextEquiv>
+          <Unicode>concentrate on the present moment. The person of this age no longer has</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1efa74e8" >
+        <Coords points="145,2377 142,2394 1891,2423 1896,2410 1894,2353 1754,2364 1590,2348 1574,2348 1571,2348 1544,2348 1315,2356 1205,2342 1167,2340 145,2332 145,2377"/>
+        <Baseline points="145,2377 1896,2410"/>
+        <TextEquiv>
+          <Unicode>a fixed, sane, and reliable point of reference by which to direct his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b81c1db4" >
+        <Coords points="142,2482 139,2499 1786,2523 1791,2512 1791,2458 142,2434 142,2482"/>
+        <Baseline points="142,2482 1791,2512"/>
+        <TextEquiv>
+          <Unicode>activities and his life. He finds it difficult to arrive at some</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42c309e9" >
+        <Coords points="1915,2611 1894,2558 1878,2550 1875,2550 1872,2550 1681,2560 1643,2560 1498,2560 1490,2555 1463,2542 1461,2542 1458,2542 1374,2552 1337,2555 1310,2550 1259,2539 1256,2539 1253,2539 1232,2547 1221,2552 1038,2552 1011,2542 984,2533 982,2533 979,2533 936,2539 890,2547 863,2539 844,2531 842,2531 839,2531 766,2536 675,2542 637,2531 624,2528 621,2528 618,2528 616,2528 613,2528 610,2531 602,2539 597,2531 594,2531 594,2528 591,2528 589,2528 586,2528 532,2528 325,2536 298,2523 295,2520 293,2520 290,2520 142,2520 142,2582 139,2606 1926,2628 1931,2614 1929,2611 1915,2611"/>
+        <Baseline points="142,2582 1931,2614"/>
+        <TextEquiv>
+          <Unicode>judgment of what he himself is doing and what is being done around him</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ec584760" >
+        <Coords points="1800,2741 1689,2754 1611,2754 1582,2735 1582,2733 1579,2733 1576,2733 1574,2733 1571,2733 1568,2733 1568,2735 1555,2746 1490,2733 1487,2733 1485,2733 1482,2733 1423,2746 1401,2730 1399,2730 1396,2730 1393,2730 1385,2730 1243,2743 1097,2722 1084,2722 1081,2722 1078,2722 1076,2722 1014,2738 901,2719 898,2719 823,2733 772,2716 769,2716 766,2716 567,2727 341,2706 341,2765 339,2784 452,2805 454,2805 556,2792 565,2792 858,2797 863,2800 917,2816 920,2816 1800,2827 1805,2800 1802,2741 1800,2741"/>
+        <Baseline points="341,2765 1805,2800"/>
+        <TextEquiv>
+          <Unicode>¹⁵Walther Zimmerli, Man and His Hope in the Old Testament</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_96bb5d2c" >
+        <Coords points="139,2821 137,2835 1100,2846 1105,2837 1103,2794 145,2768 139,2821"/>
+        <Baseline points="139,2821 1105,2837"/>
+        <TextEquiv>
+          <Unicode>(London: SCM Press, Ltd., 1971), p. 1.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f83c8040" >
+        <Coords points="1907,2891 1584,2870 1582,2870 1579,2870 1557,2880 1549,2886 1474,2886 1463,2878 1450,2867 1447,2867 1444,2867 1442,2867 1439,2867 1417,2875 1407,2880 1372,2875 1323,2867 1321,2867 1240,2870 1151,2875 1146,2867 1140,2862 1138,2862 1138,2859 1135,2859 1132,2859 1130,2859 1127,2859 1108,2867 1092,2872 1019,2864 957,2856 955,2856 898,2859 799,2867 785,2856 780,2851 777,2851 774,2851 772,2851 769,2851 758,2856 737,2864 667,2851 637,2848 634,2848 632,2848 624,2851 594,2862 570,2848 562,2846 559,2846 556,2846 532,2848 454,2859 339,2843 339,2899 336,2921 1921,2959 1926,2937 1921,2910 1907,2891"/>
+        <Baseline points="339,2899 1926,2937"/>
+        <TextEquiv>
+          <Unicode>¹⁶Jacques Ellul, Hope in Time of Abandonment, c. Edward Hopkin,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7b9855b" >
+        <Coords points="137,2940 137,2953 134,2975 150,2988 153,2988 156,2988 158,2988 379,2977 414,2993 417,2993 419,2993 605,2983 621,2983 624,2983 637,2996 637,2999 640,2999 643,2999 645,2999 836,2991 893,2988 906,2991 944,3004 947,3004 949,3004 1272,3002 1275,2977 1275,2937 153,2915 137,2940"/>
+        <Baseline points="137,2953 1275,2977"/>
+        <TextEquiv>
+          <Unicode>trans. (New York: Seabury Press, 1973): p. 3.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_12bd4ab3"  >
+      <Coords points="2017,255 1945,266 1956,204 2017,215 2017,255"/>
+      <TextLine id="eSc_line_da41105f" >
+        <Coords points="1969,207 1945,244 1948,252 1953,298 2012,271 2012,247 1996,209 1969,207"/>
+        <Baseline points="1948,252 2012,247"/>
+        <TextEquiv>
+          <Unicode>14</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

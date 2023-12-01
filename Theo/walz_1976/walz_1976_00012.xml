@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00012.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.446848+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.446868+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00012.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_1ae5377b"  >
+      <Coords points="1243,933 1931,979 1899,1062 1942,1084 1878,1159 2017,1172 2028,1234 290,1234 524,1258 535,1299 236,1310 236,1054 427,1022 441,957 1151,933 333,911 355,247 2017,279 2061,731 2028,901 1243,933"/>
+      <TextLine id="eSc_line_2b5afdc7" >
+        <Coords points="1985,277 1958,277 1931,277 1904,277 1878,277 1851,274 1824,274 1797,274 1770,274 1743,274 1716,271 1689,271 1662,271 1635,271 1608,271 1582,269 1555,269 1528,269 1501,269 1474,269 1447,266 1420,266 1393,266 1366,266 1339,266 1313,263 1286,263 1259,263 1232,263 1205,263 1178,260 1151,260 1124,260 1097,260 1070,260 1043,258 1017,258 990,258 963,258 936,258 909,258 882,255 855,255 828,255 801,255 774,255 747,252 721,252 694,252 667,252 640,252 613,250 586,250 559,250 532,250 505,250 478,247 452,247 425,247 398,247 371,247 368,242 344,242 344,287 341,303 2001,333 2007,314 2007,277 1985,277"/>
+        <Baseline points="344,287 2007,314"/>
+        <TextEquiv>
+          <Unicode>dear! Oh dear!&quot; said the White Rabbit as he looked at his watch,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a2378b3" >
+        <Coords points="1864,314 1859,312 1754,312 1730,312 1703,312 1676,312 1654,309 1627,309 1622,309 1595,309 1568,309 1541,309 1514,309 1487,306 1461,306 1434,306 1407,306 1380,306 1353,306 1326,303 1299,303 1272,303 1245,303 1218,303 1191,303 1165,301 1138,301 1111,301 1084,301 1057,301 1030,301 1003,298 976,298 949,298 922,298 895,298 869,298 842,295 815,295 788,295 761,295 734,295 707,295 680,295 653,293 626,293 600,293 573,293 546,293 519,293 492,290 465,290 438,290 411,290 384,290 357,290 357,336 355,352 2007,390 2012,371 2009,317 1880,314 1864,314"/>
+        <Baseline points="357,336 2012,371"/>
+        <TextEquiv>
+          <Unicode>&quot;how late it&#x27;s getting.&quot; That&#x27;s what our poets are saying in this</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cfb6cbfa" >
+        <Coords points="368,338 365,336 341,333 344,395 344,411 473,403 476,390 470,347 390,338 368,338"/>
+        <Baseline points="344,395 476,390"/>
+        <TextEquiv>
+          <Unicode>book.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70af2c34" >
+        <Coords points="2028,468 344,446 344,489 341,508 2026,532 2031,521 2031,478 2028,468"/>
+        <Baseline points="344,489 2031,521"/>
+        <TextEquiv>
+          <Unicode>here&quot; or coming--but because we are the first generation absolutely</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_355eba15" >
+        <Coords points="446,443 443,454 1985,484 1991,465 1985,406 1840,419 1654,403 1652,403 1649,403 1643,403 1466,414 1409,400 1396,398 1393,398 1391,398 1358,400 1248,411 1229,400 1224,395 1221,395 1218,395 1216,395 1156,398 1025,408 909,408 898,398 893,392 890,392 887,392 885,392 446,392 446,443"/>
+        <Baseline points="446,443 1991,465"/>
+        <TextEquiv>
+          <Unicode>Ours is a great time to be alive--not because &quot;happy days are</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f74b92aa" >
+        <Coords points="344,540 341,551 2001,578 2007,567 2004,527 344,500 344,540"/>
+        <Baseline points="344,540 2007,567"/>
+        <TextEquiv>
+          <Unicode>certain that tomorrow will not be like today. If it is, our coun-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_85f6a305" >
+        <Coords points="344,562 344,594 341,602 1824,624 1829,616 1826,572 365,546 344,562"/>
+        <Baseline points="344,594 1829,616"/>
+        <TextEquiv>
+          <Unicode>try&#x27;s tomorrow is heading toward a silent atomic graveyard.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5dabb793" >
+        <Coords points="1038,656 1011,656 995,653 939,653 930,653 904,653 877,653 850,653 823,653 796,650 769,650 742,650 715,650 688,650 661,650 634,650 608,648 581,648 554,648 527,648 500,648 473,648 446,648 441,640 339,640 339,691 336,712 2020,731 2026,718 2023,677 1060,656 1038,656"/>
+        <Baseline points="339,691 2026,718"/>
+        <TextEquiv>
+          <Unicode>here and now because things are as they are--not as they should be.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b87af575" >
+        <Coords points="1275,610 1272,607 1113,607 1113,607 1087,607 1078,605 947,605 925,605 920,602 777,602 764,602 737,602 729,599 608,599 602,599 575,599 548,599 535,597 441,597 441,645 438,661 1956,677 1961,667 1958,621 1283,610 1275,610"/>
+        <Baseline points="441,645 1961,667"/>
+        <TextEquiv>
+          <Unicode>For poets, of course, there will always be a red-hot inferno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e9814e35" >
+        <Coords points="2052,723 341,699 341,745 339,755 540,774 543,774 777,766 839,766 847,769 877,780 879,780 882,782 1366,782 1861,782 2050,796 2055,772 2055,755 2052,723"/>
+        <Baseline points="341,745 2055,772"/>
+        <TextEquiv>
+          <Unicode>That&#x27;s the theme of this anthology--resistance against the world the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c41ae3df" >
+        <Coords points="336,798 336,817 742,815 742,798 742,761 336,755 336,798"/>
+        <Baseline points="336,798 742,798"/>
+        <TextEquiv>
+          <Unicode>way it is. . . .</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98dd3800" >
+        <Coords points="2026,868 2015,825 737,798 737,801 710,801 683,801 656,801 629,801 602,801 575,801 548,801 521,801 495,801 468,801 441,801 441,847 438,860 2028,885 2034,874 2031,868 2026,868"/>
+        <Baseline points="441,847 2034,874"/>
+        <TextEquiv>
+          <Unicode>Poems project the future, they show how it feels to be human in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b2d1638" >
+        <Coords points="1200,860 1173,860 1146,860 1119,860 1092,860 1065,858 1038,858 1011,858 984,858 957,858 930,858 904,855 877,855 850,855 823,855 796,855 769,855 742,852 715,852 688,852 661,852 634,852 608,852 581,850 554,850 527,850 500,850 473,850 446,850 441,841 339,841 339,893 336,909 1221,919 1226,903 1224,860 1200,860"/>
+        <Baseline points="339,893 1226,903"/>
+        <TextEquiv>
+          <Unicode>the ice age of an automated world.²</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e8d8066" >
+        <Coords points="1886,973 1859,973 1832,971 1805,968 1778,968 1775,971 1767,976 1592,976 1584,968 1574,957 1574,954 1571,954 1568,954 1520,954 1517,954 1514,954 1512,954 1512,957 1501,965 1495,973 1423,973 1366,965 1251,949 1248,949 1245,949 1210,963 1197,965 1143,960 1017,949 1014,949 965,957 939,963 661,960 645,954 629,949 621,949 594,952 567,952 540,952 513,954 487,954 460,954 435,987 433,997 430,1011 1902,1043 1907,1022 1907,976 1886,973"/>
+        <Baseline points="433,997 1907,1022"/>
+        <TextEquiv>
+          <Unicode>One of the poems in the book is by Barbara Gibson entitled</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a063ef2" >
+        <Coords points="1894,1073 1536,1057 1533,1057 1382,1062 1280,1065 1267,1059 1248,1051 1245,1051 1243,1051 1173,1057 1100,1062 995,1051 925,1046 922,1046 780,1046 470,1051 457,1041 457,1038 454,1038 452,1038 449,1038 427,1038 304,1049 282,1043 271,1046 244,1049 244,1086 242,1108 1899,1135 1904,1124 1902,1110 1894,1073"/>
+        <Baseline points="244,1086 489,1102 1904,1124"/>
+        <TextEquiv>
+          <Unicode>&quot;Thinking About the Unthinkable.&quot; Her mind is filled with despair</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_731240ce" >
+        <Coords points="2009,1178 242,1148 231,1197 228,1223 2017,1253 2023,1226 2020,1197 2009,1178"/>
+        <Baseline points="231,1197 2023,1226"/>
+        <TextEquiv>
+          <Unicode>because she sees death all around her. She represents the mood of many</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e4a0c05" >
+        <Coords points="505,1299 478,1299 452,1301 425,1301 395,1301 371,1299 344,1299 317,1299 287,1301 279,1272 244,1266 236,1301 234,1334 298,1326 309,1334 320,1342 322,1342 325,1342 430,1345 433,1345 435,1345 438,1345 438,1342 454,1328 457,1326 513,1326 516,1307 513,1299 505,1299"/>
+        <Baseline points="237,1304 518,1308"/>
+        <TextEquiv>
+          <Unicode>in our day</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_eab8cd35"  >
+      <Coords points="1350,1665 1479,1721 1490,1794 1318,1912 1490,2076 1512,2246 1342,2342 1318,2418 1748,2485 1759,2547 1364,2579 1275,2687 505,2676 527,1366 1479,1388 1469,1471 1350,1527 1350,1665"/>
+      <TextLine id="eSc_line_1f78f3ab" >
+        <Coords points="1442,1385 1415,1385 1388,1385 1361,1385 1334,1382 1307,1382 1280,1382 1253,1382 1226,1379 1200,1379 1173,1379 1146,1379 1119,1377 1092,1377 1065,1377 1038,1377 1011,1377 984,1374 957,1374 930,1374 904,1374 877,1371 850,1371 823,1371 796,1371 769,1371 742,1369 715,1369 688,1369 661,1369 634,1366 608,1366 581,1366 554,1366 527,1366 527,1404 524,1412 1463,1439 1469,1423 1466,1385 1442,1385"/>
+        <Baseline points="527,1404 1469,1423"/>
+        <TextEquiv>
+          <Unicode>The killing is unthinkable. Thinking</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd5df0c4" >
+        <Coords points="1415,1423 1388,1423 1361,1423 1334,1423 1318,1420 1208,1420 1200,1420 1197,1417 527,1412 527,1455 524,1468 1434,1479 1439,1466 1436,1423 1415,1423"/>
+        <Baseline points="527,1455 1439,1466"/>
+        <TextEquiv>
+          <Unicode>about killing is unbearable. Babies</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e654bc22" >
+        <Coords points="524,1503 521,1519 1288,1530 1294,1517 1294,1474 524,1460 524,1503"/>
+        <Baseline points="524,1503 1294,1517"/>
+        <TextEquiv>
+          <Unicode>are born and are killed and we</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a22a68f1" >
+        <Coords points="1200,1517 1173,1517 1146,1517 1119,1514 1092,1514 1065,1514 1038,1514 1011,1514 984,1511 957,1511 930,1511 904,1511 877,1511 850,1511 834,1509 527,1509 527,1560 527,1573 1210,1573 1210,1560 1210,1517 1200,1517"/>
+        <Baseline points="527,1560 1210,1560"/>
+        <TextEquiv>
+          <Unicode>think about it. &quot;About it&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ac1075c" >
+        <Coords points="527,1608 524,1616 1337,1627 1342,1619 1342,1570 527,1562 527,1608"/>
+        <Baseline points="527,1608 1342,1619"/>
+        <TextEquiv>
+          <Unicode>is not it, is not enough, is not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa347550" >
+        <Coords points="524,1657 521,1665 1210,1683 1216,1667 1213,1622 524,1616 524,1657"/>
+        <Baseline points="524,1657 1216,1667"/>
+        <TextEquiv>
+          <Unicode>unbearable enough, is still</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ae3597e" >
+        <Coords points="1116,1667 1089,1667 1062,1667 1035,1665 1008,1665 982,1665 955,1665 928,1665 901,1665 874,1665 847,1662 820,1662 793,1662 766,1662 739,1662 713,1662 686,1659 659,1659 632,1659 605,1659 578,1659 551,1659 524,1659 524,1708 521,1721 1323,1732 1329,1718 1323,1662 1132,1673 1124,1667 1116,1667"/>
+        <Baseline points="524,1708 1329,1718"/>
+        <TextEquiv>
+          <Unicode>thinkable. Stillborn is enough,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb58ac8d" >
+        <Coords points="521,1756 519,1778 1482,1786 1487,1770 1487,1724 521,1713 521,1756"/>
+        <Baseline points="521,1756 1487,1770"/>
+        <TextEquiv>
+          <Unicode>but being born and then killed is more</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50a53b85" >
+        <Coords points="1415,1778 524,1764 524,1807 521,1818 1431,1845 1436,1823 1434,1815 1415,1778"/>
+        <Baseline points="524,1807 1436,1823"/>
+        <TextEquiv>
+          <Unicode>than enough, is unthinkable. Enough</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04966e22" >
+        <Coords points="521,1864 521,1883 780,1877 780,1864 780,1821 521,1821 521,1864"/>
+        <Baseline points="521,1864 780,1864"/>
+        <TextEquiv>
+          <Unicode>is enough.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3b9853d" >
+        <Coords points="769,1866 769,1912 766,1923 1159,1934 1165,1917 1162,1872 772,1856 769,1866"/>
+        <Baseline points="769,1912 1165,1917"/>
+        <TextEquiv>
+          <Unicode>We are thinking</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c8ec24fb" >
+        <Coords points="785,1915 782,1912 516,1907 516,1958 513,1977 1296,1985 1302,1974 1302,1928 809,1915 785,1915"/>
+        <Baseline points="516,1958 1302,1974"/>
+        <TextEquiv>
+          <Unicode>about the unthinkable, killing.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_097aaae2" >
+        <Coords points="1167,1971 1140,1971 1113,1971 1087,1971 1060,1971 1033,1969 1006,1969 979,1969 952,1969 925,1969 573,1969 543,1961 521,1961 521,2009 519,2022 1181,2025 1186,2017 1181,1971 1167,1971"/>
+        <Baseline points="521,2009 1186,2017"/>
+        <TextEquiv>
+          <Unicode>It is unbearable. We bear</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e5baf8df" >
+        <Coords points="624,2012 597,2012 570,2012 543,2012 540,2009 516,2009 516,2060 513,2068 1428,2082 1434,2073 1434,2030 629,2012 624,2012"/>
+        <Baseline points="516,2060 1434,2073"/>
+        <TextEquiv>
+          <Unicode>babies and we kill them. The babies</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e0b756d8" >
+        <Coords points="1081,2071 1073,2068 998,2068 974,2068 947,2068 920,2068 893,2068 866,2065 839,2065 812,2065 785,2065 758,2065 731,2065 704,2065 678,2063 651,2063 624,2063 597,2063 570,2063 543,2063 516,2063 516,2108 513,2127 1479,2135 1485,2125 1482,2082 1095,2071 1081,2071"/>
+        <Baseline points="516,2108 1485,2125"/>
+        <TextEquiv>
+          <Unicode>are thinking about us, somewhere where</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba0fe8eb" >
+        <Coords points="519,2165 519,2181 1299,2184 1302,2165 1302,2125 519,2125 519,2165"/>
+        <Baseline points="519,2165 1302,2165"/>
+        <TextEquiv>
+          <Unicode>they are, killed, unborn. They</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_684fa7ea" >
+        <Coords points="1501,2181 656,2168 651,2168 624,2168 597,2168 570,2168 543,2168 516,2165 516,2211 513,2224 1501,2246 1506,2227 1504,2195 1501,2181"/>
+        <Baseline points="516,2211 1506,2227"/>
+        <TextEquiv>
+          <Unicode>are thinking that we are dead. Because</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dff7c87c" >
+        <Coords points="516,2259 513,2278 1426,2289 1431,2278 1428,2235 516,2216 516,2259"/>
+        <Baseline points="516,2259 1431,2278"/>
+        <TextEquiv>
+          <Unicode>we keep thinking and we keep bearing</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_56a4f4b5" >
+        <Coords points="516,2313 513,2321 1267,2340 1272,2326 1269,2283 516,2270 516,2313"/>
+        <Baseline points="516,2313 1272,2326"/>
+        <TextEquiv>
+          <Unicode>the unbearable. It is enough.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c245ac3" >
+        <Coords points="1162,2326 1135,2326 1121,2324 1057,2324 1054,2324 1027,2324 1000,2324 974,2324 947,2321 920,2321 893,2321 866,2321 839,2321 812,2318 785,2318 758,2318 731,2318 704,2318 678,2318 651,2316 624,2316 597,2316 573,2324 540,2316 516,2316 516,2364 513,2386 1280,2386 1283,2372 1280,2329 1167,2326 1162,2326"/>
+        <Baseline points="516,2364 1283,2372"/>
+        <TextEquiv>
+          <Unicode>It is too much to bear. It is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1f19bd4" >
+        <Coords points="516,2412 513,2429 1251,2434 1256,2423 1253,2380 516,2367 516,2412"/>
+        <Baseline points="516,2412 1256,2423"/>
+        <TextEquiv>
+          <Unicode>unthinkable. But we kill and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fc897309" >
+        <Coords points="1237,2423 1210,2423 1183,2423 1156,2423 1130,2423 1103,2423 1076,2423 1049,2421 1022,2421 995,2421 968,2421 941,2421 914,2421 887,2421 511,2421 511,2464 508,2477 1299,2482 1304,2474 1302,2421 1237,2421 1237,2423"/>
+        <Baseline points="511,2464 1304,2474"/>
+        <TextEquiv>
+          <Unicode>we become dead and we make dead</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_429101d9" >
+        <Coords points="1724,2482 1245,2474 1237,2474 1210,2474 1183,2474 1156,2474 1130,2474 1103,2472 1076,2472 1049,2472 1022,2472 995,2472 968,2472 941,2472 914,2472 887,2469 861,2469 834,2469 807,2469 780,2469 753,2469 726,2469 699,2466 672,2466 645,2466 618,2466 591,2466 565,2466 538,2466 511,2466 511,2515 508,2525 691,2528 694,2531 713,2544 715,2544 718,2544 721,2544 1014,2539 1124,2536 1132,2542 1151,2550 1154,2550 1156,2550 1237,2542 1283,2539 1304,2544 1337,2552 1339,2552 1342,2555 1751,2555 1754,2531 1746,2509 1724,2482"/>
+        <Baseline points="511,2515 1754,2531"/>
+        <TextEquiv>
+          <Unicode>and we are killed and we think and are thought of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b212dd68" >
+        <Coords points="511,2566 508,2587 1038,2590 1043,2574 1041,2528 511,2520 511,2566"/>
+        <Baseline points="511,2566 1043,2574"/>
+        <TextEquiv>
+          <Unicode>and it is unbearable.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4cb2a8c" >
+        <Coords points="1264,2633 508,2622 508,2665 505,2676 1269,2703 1275,2679 1272,2673 1264,2633"/>
+        <Baseline points="508,2665 1275,2679"/>
+        <TextEquiv>
+          <Unicode>want to sink down into despair</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5ef29d0" >
+        <Coords points="1033,2625 1033,2641 1278,2638 1278,2620 1269,2571 1030,2582 1033,2625"/>
+        <Baseline points="1033,2625 1278,2620"/>
+        <TextEquiv>
+          <Unicode>We do not</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8cf01793"  >
+      <Coords points="1673,2945 204,2924 204,2872 384,2872 408,2808 1835,2829 1931,2840 1953,2902 1673,2945"/>
+      <TextLine id="eSc_line_fde12324" >
+        <Coords points="1937,2875 1913,2837 1910,2835 1886,2835 1859,2832 1848,2829 1705,2837 1687,2837 1654,2837 1493,2824 1482,2824 1455,2821 1428,2821 1401,2821 1374,2821 1361,2821 1299,2824 1202,2829 1186,2821 1181,2819 1159,2819 1132,2819 1130,2816 1130,2819 1092,2827 664,2821 632,2811 621,2811 594,2811 567,2808 556,2808 449,2813 435,2808 433,2808 406,2808 406,2859 403,2875 1937,2910 1942,2891 1937,2878 1937,2875"/>
+        <Baseline points="406,2859 1942,2891"/>
+        <TextEquiv>
+          <Unicode>²Walter Lowenfels, ed., The Writing on the Wall (Garden City.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9577233c" >
+        <Coords points="363,2872 336,2872 309,2872 282,2872 255,2872 228,2872 201,2867 201,2910 199,2929 433,2934 435,2937 465,2959 468,2959 470,2959 567,2961 570,2961 831,2948 917,2942 930,2948 955,2967 957,2967 960,2967 963,2969 1043,2969 1043,2967 1046,2967 1049,2967 1068,2953 1078,2945 1089,2953 1111,2969 1113,2969 1116,2969 1119,2972 1296,2972 1296,2969 1299,2969 1326,2959 1353,2950 1662,2967 1668,2932 1665,2894 371,2864 363,2872"/>
+        <Baseline points="201,2910 1668,2932"/>
+        <TextEquiv>
+          <Unicode>N. Y.: Doubleday &amp; Company, Inc., 1969), pp. xiii and xvi.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2c7bc05f"  >
+      <Coords points="2031,204 2050,204 2050,223 2031,223 2031,204"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_d14f5170" >
+        <Coords points="2028,212 2026,225 2058,231 2063,215 2063,139 2031,137 2028,212"/>
+        <Baseline points="2030,214 2064,216"/>
+        <TextEquiv>
+          <Unicode>5</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

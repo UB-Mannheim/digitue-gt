@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00116.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.448596+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.448608+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00116.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_5a1b8e2e"  >
+      <Coords points="815,459 290,459 269,492 258,290 1845,290 1953,301 1964,363 828,373 869,416 815,459"/>
+      <TextLine id="eSc_line_fc7d2f02" >
+        <Coords points="414,290 387,290 360,290 333,290 306,290 279,290 252,293 252,330 250,357 600,349 629,365 632,365 634,365 637,365 640,365 643,365 661,352 769,365 817,371 820,371 823,371 836,365 863,355 893,365 906,371 909,371 912,371 944,368 1006,357 1017,368 1022,371 1022,373 1025,373 1027,373 1030,376 1121,376 1121,373 1124,373 1135,368 1156,357 1315,371 1372,373 1374,373 1423,371 1530,363 1552,371 1571,379 1574,379 1576,379 1614,373 1638,368 1643,373 1654,381 1657,381 1660,381 1662,381 1665,381 1684,373 1697,365 1711,373 1730,381 1732,381 1735,381 1948,373 1950,355 1948,312 441,290 414,290"/>
+        <Baseline points="252,330 1950,355"/>
+        <TextEquiv>
+          <Unicode>intends to make the theology of hope more concrete by stressing the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b27d0ac" >
+        <Coords points="250,430 247,441 320,457 807,459 812,438 809,395 250,381 250,430"/>
+        <Baseline points="250,430 812,438"/>
+        <TextEquiv>
+          <Unicode>theology of the cross.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a12ff07a"  >
+      <Coords points="258,516 933,538 998,559 998,632 322,653 236,589 258,516"/>
+      <TextLine id="eSc_line_19a5e79c" >
+        <Coords points="974,551 947,543 928,538 258,532 247,546 247,581 244,605 982,624 987,591 984,554 974,551"/>
+        <Baseline points="247,581 987,591"/>
+        <TextEquiv>
+          <Unicode>The Identity and Relevance of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d3bda63" >
+        <Coords points="306,634 306,664 425,667 427,629 422,589 304,589 306,634"/>
+        <Baseline points="306,634 427,629"/>
+        <TextEquiv>
+          <Unicode>Faith</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dbdeccb9"  >
+      <Coords points="2039,1535 1996,1570 2007,1675 1931,1700 1996,1718 1931,1751 2050,2063 226,2073 226,1700 384,1657 430,1600 322,1557 322,1366 462,1277 226,1234 236,796 258,753 395,742 398,699 452,688 2050,720 2039,1191 1598,1258 1600,1301 1996,1323 2039,1535"/>
+      <TextLine id="eSc_line_3999f8de" >
+        <Coords points="2028,718 2001,718 1974,718 1948,718 1921,718 1894,715 1867,715 1840,715 1813,715 1786,715 1759,712 1732,712 1705,712 1678,712 1652,712 1625,710 1598,710 1571,710 1544,710 1517,710 1490,707 1463,707 1436,707 1409,707 1382,707 1356,704 1329,704 1302,704 1275,704 1248,704 1221,702 1194,702 1167,702 1140,702 1113,699 1087,699 1060,699 1033,699 1006,699 979,696 952,696 925,696 898,696 871,696 844,694 817,694 791,694 764,694 737,694 710,691 683,691 656,691 629,691 602,691 575,688 548,688 521,688 495,688 468,688 441,688 441,731 438,742 2039,769 2044,758 2042,715 2036,712 2028,718"/>
+        <Baseline points="441,731 2044,758"/>
+        <TextEquiv>
+          <Unicode>Moltmann stresses the need for the church to change in order to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3261fd7c" >
+        <Coords points="242,780 242,831 239,847 1969,871 1974,860 1974,809 244,774 242,780"/>
+        <Baseline points="242,831 1974,860"/>
+        <TextEquiv>
+          <Unicode>exist for the humanity of man in changed circumstances. He uses the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_27db1b92" >
+        <Coords points="242,930 239,944 1843,979 1845,979 2039,965 2042,954 2042,898 242,876 242,930"/>
+        <Baseline points="242,930 2042,954"/>
+        <TextEquiv>
+          <Unicode>term &quot;critical political theology&quot; to emphasize having the church spend</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bffcd7bf" >
+        <Coords points="239,1032 236,1046 1603,1078 1606,1078 1711,1067 1770,1081 1773,1081 1775,1081 1939,1067 1942,1059 1942,1011 1883,997 1880,997 1878,997 1786,1011 1775,1011 1770,1011 1738,995 1735,995 1732,995 1730,995 1727,995 1708,1008 1705,1008 1703,1008 1517,992 1514,992 1512,992 1509,992 1490,1006 1487,1006 1463,1006 1208,989 1205,989 1127,1000 1119,1000 1116,1000 1103,987 1100,987 1097,987 1095,987 1003,997 998,997 984,987 984,984 982,984 979,984 976,984 922,995 866,981 863,981 861,981 699,992 691,992 686,992 581,976 578,976 511,989 505,989 500,989 382,973 379,973 239,984 239,1032"/>
+        <Baseline points="239,1032 1942,1059"/>
+        <TextEquiv>
+          <Unicode>itself for others. It will be necessary for Christians to have the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c94ae6ca" >
+        <Coords points="236,1132 234,1148 2031,1180 2036,1162 2036,1113 236,1073 236,1132"/>
+        <Baseline points="236,1132 2036,1162"/>
+        <TextEquiv>
+          <Unicode>courage to be different and to identify with the cross of Christ. This</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c08d84b8" >
+        <Coords points="236,1226 236,1232 234,1245 1565,1277 1571,1253 1571,1205 443,1191 443,1188 406,1175 403,1175 400,1175 247,1186 236,1226"/>
+        <Baseline points="236,1232 1571,1253"/>
+        <TextEquiv>
+          <Unicode>will bring contradiction, resistance, and opposition.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a04ba22b" >
+        <Coords points="1939,1318 1913,1318 1886,1315 1859,1315 1832,1312 1805,1312 1778,1310 1751,1310 1724,1307 1697,1307 1670,1304 1643,1301 1617,1301 1614,1299 438,1288 433,1293 433,1334 430,1353 1953,1369 1958,1358 1956,1318 1939,1318"/>
+        <Baseline points="433,1334 1958,1358"/>
+        <TextEquiv>
+          <Unicode>Personal, inner change without a change in circumstances and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c0afcfa" >
+        <Coords points="1999,1369 355,1342 330,1358 330,1385 328,1396 2004,1423 2009,1414 2007,1409 1999,1369"/>
+        <Baseline points="330,1385 2009,1414"/>
+        <TextEquiv>
+          <Unicode>structures is an idealist illusion, as though man were only a soul</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_044bd61b" >
+        <Coords points="1921,1414 1894,1414 1867,1414 1840,1412 1813,1412 1786,1412 1759,1412 1732,1412 1705,1412 1678,1409 1652,1409 1625,1409 1598,1409 1571,1409 1544,1406 1517,1406 1490,1406 1463,1406 1436,1406 1409,1406 1382,1404 1356,1404 1329,1404 1302,1404 1275,1404 1248,1404 1221,1401 1194,1401 1167,1401 1140,1401 1113,1401 1087,1398 1060,1398 1033,1398 1006,1398 979,1398 952,1398 925,1396 898,1396 871,1396 844,1396 817,1396 791,1396 764,1393 737,1393 710,1393 683,1393 656,1393 629,1390 602,1390 575,1390 548,1390 521,1390 495,1390 468,1388 441,1388 414,1388 387,1388 360,1388 333,1388 333,1436 330,1444 1923,1476 1929,1460 1926,1414 1921,1414"/>
+        <Baseline points="333,1436 1929,1460"/>
+        <TextEquiv>
+          <Unicode>and not a body as well. But a change in external circumstances</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69a977bf" >
+        <Coords points="2026,1492 2017,1468 330,1439 330,1484 330,1509 667,1501 702,1514 704,1514 707,1514 718,1514 1000,1506 1130,1519 1178,1525 1181,1525 1218,1522 1304,1511 1369,1522 1396,1527 1399,1527 1474,1525 1635,1517 2026,1530 2031,1511 2028,1492 2026,1492"/>
+        <Baseline points="330,1484 2031,1511"/>
+        <TextEquiv>
+          <Unicode>without inner renewal is a materialist illusion, as though man were</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e2407a2" >
+        <Coords points="1869,1511 1867,1509 336,1498 336,1541 333,1552 1869,1565 1875,1554 1872,1511 1869,1511"/>
+        <Baseline points="336,1541 1875,1554"/>
+        <TextEquiv>
+          <Unicode>only a product of his social circumstances and nothing else.²</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1419c322" >
+        <Coords points="1999,1614 1915,1600 1913,1600 1843,1611 1832,1614 1829,1611 1813,1597 1810,1597 1808,1597 1805,1597 1802,1597 1773,1611 1770,1611 1759,1611 1652,1595 1649,1595 1555,1605 1528,1608 1493,1605 1399,1592 1396,1592 1393,1592 1353,1603 1334,1605 430,1584 430,1635 427,1651 1996,1673 2001,1659 2001,1624 1999,1614"/>
+        <Baseline points="430,1635 2001,1659"/>
+        <TextEquiv>
+          <Unicode>Christian identification with the crucified Christ means soli-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0435bad" >
+        <Coords points="226,1737 223,1748 1875,1772 1880,1764 1880,1716 250,1692 226,1737"/>
+        <Baseline points="226,1737 1880,1764"/>
+        <TextEquiv>
+          <Unicode>darity with the sufferings of the poor and the misery of both the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36f641bb" >
+        <Coords points="220,1837 217,1853 1926,1874 1931,1864 1931,1818 1377,1796 1374,1796 1261,1807 1251,1807 1245,1807 1202,1794 1200,1794 1197,1794 1108,1804 1103,1804 1097,1804 1035,1791 1033,1791 632,1796 548,1783 546,1783 487,1794 387,1780 384,1780 231,1791 220,1837"/>
+        <Baseline points="220,1837 1931,1864"/>
+        <TextEquiv>
+          <Unicode>oppressed and the oppressors. This makes a theology of the cross a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e3571cbe" >
+        <Coords points="1996,1931 1988,1915 371,1883 368,1883 231,1893 220,1939 217,1958 1996,1974 2001,1966 1999,1942 1996,1931"/>
+        <Baseline points="220,1939 2001,1966"/>
+        <TextEquiv>
+          <Unicode>practical theory. The cross of Christ represents not merely the death</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c1269160" >
+        <Coords points="2017,2063 1991,2063 1964,2063 1937,2063 1910,2057 1883,2057 1856,2057 1829,2057 1802,2057 1775,2057 1748,2057 1722,2057 1695,2057 1684,2017 1514,2001 1512,2001 1337,2012 1313,2012 1304,2012 1256,1998 1253,1998 1251,1998 1138,2006 1108,2009 1084,2006 992,1993 990,1993 852,2001 809,2004 801,2001 774,1990 772,1990 217,1990 217,2036 215,2063 1539,2071 1608,2087 1617,2087 1619,2087 1627,2087 1708,2076 2034,2092 2039,2065 2017,2063 2017,2063"/>
+        <Baseline points="217,2036 2039,2065"/>
+        <TextEquiv>
+          <Unicode>of Jesus but also God&#x27;s identification with the sufferings of the world.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ee64ecc0"  >
+      <Coords points="1964,2375 1910,2407 1964,2410 1931,2461 2007,2517 2039,2687 1985,2784 236,2773 204,2751 215,2388 548,2270 258,2256 215,2224 226,2141 912,2152 976,2246 965,2289 882,2302 1942,2313 1964,2375"/>
+      <TextLine id="eSc_line_c9c1ffe0" >
+        <Coords points="890,2152 863,2152 836,2152 809,2152 782,2152 756,2149 729,2149 702,2149 675,2149 648,2149 621,2146 594,2146 567,2146 540,2146 513,2146 487,2143 460,2143 433,2143 406,2143 379,2143 352,2141 325,2141 298,2141 271,2141 244,2141 217,2154 217,2189 215,2216 901,2221 906,2197 904,2152 890,2152"/>
+        <Baseline points="217,2189 906,2197"/>
+        <TextEquiv>
+          <Unicode>The Resistance of the Cross</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e165c138" >
+        <Coords points="944,2205 269,2192 269,2240 266,2264 955,2281 960,2251 957,2224 944,2205"/>
+        <Baseline points="269,2240 960,2251"/>
+        <TextEquiv>
+          <Unicode>against its Interpretations</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31a5497a" >
+        <Coords points="1934,2318 462,2297 446,2305 419,2310 419,2342 417,2353 1939,2380 1945,2367 1945,2334 1934,2318"/>
+        <Baseline points="419,2342 1945,2367"/>
+        <TextEquiv>
+          <Unicode>There has always been resistance to the cross by making it a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3c6489a" >
+        <Coords points="212,2439 209,2453 1883,2482 1888,2466 1888,2421 212,2394 212,2439"/>
+        <Baseline points="212,2439 1888,2466"/>
+        <TextEquiv>
+          <Unicode>symbol of the good, the true, and the beautiful. It is the really</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e8260db" >
+        <Coords points="212,2539 209,2555 1985,2587 1991,2566 1988,2512 1848,2517 1829,2509 1813,2501 1810,2501 1808,2501 1727,2507 1646,2515 1557,2507 1458,2496 1455,2496 1452,2496 1420,2504 1401,2509 1127,2509 1078,2501 1017,2493 1014,2493 979,2501 957,2504 947,2499 922,2488 920,2488 917,2488 914,2488 912,2488 901,2499 895,2504 747,2504 737,2499 710,2485 707,2485 704,2485 645,2496 629,2499 586,2496 390,2480 387,2480 212,2490 212,2539"/>
+        <Baseline points="212,2539 1991,2566"/>
+        <TextEquiv>
+          <Unicode>irreligious thing in the Christian faith. Even the disciples all fled</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_626369d7" >
+        <Coords points="209,2636 207,2655 2031,2679 2036,2665 2036,2614 769,2603 742,2598 661,2585 659,2585 656,2585 653,2585 640,2595 637,2598 632,2595 594,2585 591,2585 589,2585 484,2595 465,2595 457,2595 395,2579 392,2579 390,2579 209,2590 209,2636"/>
+        <Baseline points="209,2636 2036,2665"/>
+        <TextEquiv>
+          <Unicode>from their master&#x27;s cross. Roman humanism looked on it as unrespectable</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a5254cc" >
+        <Coords points="209,2741 207,2776 306,2778 309,2778 312,2778 314,2778 360,2759 470,2776 473,2776 610,2765 634,2781 637,2781 640,2781 643,2781 653,2781 707,2770 731,2781 745,2786 747,2786 750,2786 753,2786 766,2781 788,2770 807,2781 815,2786 817,2786 820,2786 947,2789 949,2789 952,2789 968,2784 990,2776 1095,2784 1202,2792 1205,2792 1208,2792 1224,2784 1245,2776 1318,2776 1331,2786 1339,2792 1342,2792 1345,2792 1348,2792 1350,2792 1353,2792 1361,2786 1372,2778 1423,2786 1479,2794 1482,2794 1485,2794 1504,2786 1512,2784 1512,2786 1522,2794 1522,2797 1525,2797 1528,2797 1530,2797 1595,2786 1622,2784 1652,2789 1724,2800 1727,2800 1730,2800 1770,2789 1800,2781 1840,2789 1904,2802 1907,2802 1982,2789 1985,2768 1982,2722 209,2695 209,2741"/>
+        <Baseline points="209,2741 1985,2768"/>
+        <TextEquiv>
+          <Unicode>and perverse. The crux of the criticism of Feuerbach and Freud is the</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ae62d6a4"  >
+      <Coords points="847,2956 408,2956 408,2894 793,2894 847,2956"/>
+      <TextLine id="eSc_line_90c36024" >
+        <Coords points="815,2924 801,2907 511,2894 492,2894 465,2894 438,2894 411,2894 411,2940 408,2959 476,2975 478,2977 839,2977 842,2950 836,2942 815,2924"/>
+        <Baseline points="411,2940 842,2950"/>
+        <TextEquiv>
+          <Unicode>²Moltmann, p. 23.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a648ab4a"  >
+      <Coords points="2082,234 1988,266 1988,204 2061,204 2082,234"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a3f5f120"  >
+      <Coords points="664,2859 581,2848 581,2829 643,2829 664,2859"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d21c4899"  >
+      <Coords points="417,2837 387,2837 387,2829 417,2829 417,2837"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_e7c2de00" >
+        <Coords points="1985,252 1985,295 2074,279 2074,252 2074,204 1985,196 1985,252"/>
+        <Baseline points="1985,252 2074,252"/>
+        <TextEquiv>
+          <Unicode>109</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

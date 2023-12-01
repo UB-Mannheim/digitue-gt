@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00100.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.236995+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.237006+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00100.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_8ed9ac9d"  >
+      <Coords points="1824,408 1641,438 1108,416 979,449 965,492 1867,527 1899,836 1996,893 2039,1043 2028,1127 1942,1237 2017,1258 2061,1388 1985,2073 718,2098 1235,2130 1921,2108 1921,2149 505,2138 226,2192 215,1388 408,1331 215,1266 226,591 384,548 430,494 645,481 236,449 247,290 1974,312 1953,373 955,395 1824,408"/>
+      <TextLine id="eSc_line_e8de0b92" >
+        <Coords points="1958,347 1934,309 1907,309 1880,309 1853,309 1826,309 1800,309 1773,309 1746,306 1719,306 1692,306 1665,306 1638,306 1611,306 1584,306 1557,306 1530,303 1504,303 1477,303 1450,303 1423,303 1396,303 1369,303 1342,303 1315,301 1288,301 1261,301 1235,301 1208,301 1181,301 1154,301 1127,301 1100,298 1073,298 1046,298 1019,298 1006,298 992,298 965,298 939,298 912,298 885,295 858,295 839,295 831,295 815,295 804,295 777,295 750,295 723,295 696,295 669,293 656,293 645,293 643,293 616,293 589,293 562,293 535,293 508,293 481,293 454,290 427,290 400,290 373,290 347,290 320,290 293,290 266,290 239,322 239,328 236,347 1961,373 1966,352 1958,341 1958,347"/>
+        <Baseline points="239,328 1966,352"/>
+        <TextEquiv>
+          <Unicode>unequivocal necessities. Thus the concept of causality too can have</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0e97c45" >
+        <Coords points="236,427 234,449 947,459 952,441 952,398 236,384 236,427"/>
+        <Baseline points="236,427 952,441"/>
+        <TextEquiv>
+          <Unicode>only heuristic significance.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_14dc65c5" >
+        <Coords points="1835,524 1808,524 1781,521 1754,521 1727,521 1700,519 1673,519 1646,516 1619,516 1592,516 1565,513 1539,513 1512,511 1485,511 1458,511 1431,508 1404,508 1377,505 1350,505 1323,505 1296,503 1269,503 1243,503 1216,500 1189,500 1162,497 1135,497 1108,497 1081,494 1054,494 1033,492 995,492 974,492 971,489 575,484 570,484 543,486 516,486 489,489 462,492 435,492 435,532 433,554 1835,562 1840,551 1837,524 1835,524"/>
+        <Baseline points="435,532 1840,551"/>
+        <TextEquiv>
+          <Unicode>Another conceptual means of grasping connections is the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_981e3120" >
+        <Coords points="1872,626 1867,605 1302,589 1299,589 1243,594 1178,599 1165,591 1156,586 1154,586 1151,586 1148,586 1065,591 952,597 944,589 944,586 941,586 941,583 939,583 936,583 933,583 804,586 492,591 473,578 470,578 468,578 465,578 457,578 392,589 266,578 258,581 231,589 231,634 228,653 667,650 1068,661 1665,675 1668,675 1883,661 1886,653 1886,607 1872,605 1872,626"/>
+        <Baseline points="231,634 1886,653"/>
+        <TextEquiv>
+          <Unicode>discovering of &quot;tendencies.“ It means that the stringency of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b3e10c4" >
+        <Coords points="234,731 231,750 1859,766 1864,755 1861,704 234,680 234,731"/>
+        <Baseline points="234,731 1864,755"/>
+        <TextEquiv>
+          <Unicode>causality of natural science is renounced, and the transition in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb913027" >
+        <Coords points="228,836 226,855 1878,868 1883,858 1883,801 228,790 228,836"/>
+        <Baseline points="228,836 1883,858"/>
+        <TextEquiv>
+          <Unicode>historic movements is described not as a transition from causa to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_617aef0c" >
+        <Coords points="226,941 223,960 1977,968 1982,960 1980,906 1240,906 1186,893 1170,890 1167,890 1124,893 982,901 893,887 879,887 877,887 858,887 729,898 608,885 605,885 602,885 600,885 532,895 226,879 226,941"/>
+        <Baseline points="226,941 1982,960"/>
+        <TextEquiv>
+          <Unicode>effectus but from possibility to reality. What stands between possi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eab4d6ba" >
+        <Coords points="228,1038 226,1051 2015,1081 2020,1065 2017,1016 1065,989 1062,989 1035,992 984,1000 920,989 893,987 890,987 782,987 408,992 228,976 228,1038"/>
+        <Baseline points="228,1038 2020,1065"/>
+        <TextEquiv>
+          <Unicode>bilities and realized realities is not a causal necessity but tendency,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a34fc79" >
+        <Coords points="226,1137 223,1148 1953,1186 1958,1164 1953,1110 1469,1110 1345,1097 1315,1094 1313,1094 1310,1094 1304,1097 1267,1108 1208,1094 1191,1092 1189,1092 1170,1094 1095,1105 1041,1092 1033,1089 1030,1089 1027,1089 1011,1089 922,1102 823,1086 815,1086 812,1086 807,1086 747,1100 694,1084 691,1084 688,1084 686,1084 683,1084 680,1084 659,1097 470,1084 468,1084 408,1094 226,1076 226,1137"/>
+        <Baseline points="226,1137 1958,1164"/>
+        <TextEquiv>
+          <Unicode>impulse, inclination, trend, and specific leanings towards something</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4fa3cd04" >
+        <Coords points="223,1240 220,1258 1662,1269 1668,1261 1668,1213 1611,1199 1608,1199 1606,1199 1509,1213 1498,1213 1495,1213 1474,1197 1471,1197 1469,1197 1466,1197 1350,1210 1334,1210 1304,1210 1054,1191 1052,1191 1049,1191 1019,1205 1017,1205 1014,1205 936,1188 933,1188 930,1188 928,1188 906,1202 904,1205 769,1205 764,1202 745,1186 742,1186 739,1186 737,1186 734,1186 731,1186 710,1199 707,1199 559,1183 556,1183 223,1191 223,1240"/>
+        <Baseline points="223,1240 1668,1261"/>
+        <TextEquiv>
+          <Unicode>which can become real in certain historic constellations.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02770b24" >
+        <Coords points="422,1345 419,1353 1022,1377 1025,1377 2026,1374 2028,1366 2026,1304 1859,1315 1829,1301 1826,1301 1824,1301 1821,1301 1633,1312 1603,1299 1600,1299 1598,1299 1595,1299 1428,1310 1380,1296 1377,1296 1374,1296 1372,1296 1232,1307 422,1285 422,1345"/>
+        <Baseline points="422,1345 2028,1366"/>
+        <TextEquiv>
+          <Unicode>E. Rothacker has recommended as a means towards the grasping of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_696cc197" >
+        <Coords points="2044,1457 2034,1417 1808,1417 1805,1414 1794,1404 1794,1401 1791,1401 1789,1401 1786,1401 1584,1412 1552,1412 1530,1412 1417,1398 1415,1398 1296,1409 1278,1409 1275,1409 1259,1396 1256,1396 1253,1396 1251,1396 217,1396 217,1441 215,1463 2044,1471 2050,1460 2044,1444 2044,1457"/>
+        <Baseline points="217,1441 2050,1460"/>
+        <TextEquiv>
+          <Unicode>historical complexes the concept of &quot;style.“ What is called &quot;historical</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_273cff2e" >
+        <Coords points="223,1544 220,1557 2020,1573 2026,1562 2023,1517 223,1487 223,1544"/>
+        <Baseline points="223,1544 2026,1562"/>
+        <TextEquiv>
+          <Unicode>thinking“ in the emphatic and passionate use of the term has indeed its</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9df7fca1" >
+        <Coords points="217,1611 217,1646 215,1654 1818,1670 1824,1662 1821,1616 223,1597 217,1611"/>
+        <Baseline points="217,1646 1824,1662"/>
+        <TextEquiv>
+          <Unicode>primary aim not in the establishing of facts but in grasping as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a692aa2" >
+        <Coords points="2017,1751 2012,1713 217,1697 217,1743 215,1753 2017,1786 2023,1764 2017,1737 2017,1751"/>
+        <Baseline points="217,1743 2023,1764"/>
+        <TextEquiv>
+          <Unicode>congenially as may be the appearances of the immanent logos, the styles</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8db442c" >
+        <Coords points="217,1842 215,1853 1121,1877 1124,1877 1969,1869 1972,1858 1969,1815 995,1794 992,1794 874,1804 855,1804 847,1804 807,1791 804,1791 801,1791 217,1796 217,1842"/>
+        <Baseline points="217,1842 1972,1858"/>
+        <TextEquiv>
+          <Unicode>in which these facts arrange themselves. This involves the anthropo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7edc241f" >
+        <Coords points="215,1947 212,1958 1985,1974 1991,1963 1991,1915 215,1899 215,1947"/>
+        <Baseline points="215,1947 1991,1963"/>
+        <TextEquiv>
+          <Unicode>logical and sociological connection of acts and events with the &quot;envi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_74e4810c" >
+        <Coords points="215,2044 212,2068 1964,2082 1969,2065 1966,2017 1108,2014 1060,2001 1049,1998 1046,1998 1043,1998 1008,2001 882,2009 815,1995 804,1995 801,1995 782,1995 653,2006 449,1990 433,1990 430,1990 419,1990 282,2001 215,1987 215,2044"/>
+        <Baseline points="215,2044 1969,2065"/>
+        <TextEquiv>
+          <Unicode>ronment“ in the experiences of the moment and in the current views of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c8646775" >
+        <Coords points="212,2149 212,2165 355,2162 355,2143 349,2090 209,2084 212,2149"/>
+        <Baseline points="212,2149 355,2143"/>
+        <TextEquiv>
+          <Unicode>life.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9eebfcaa"  >
+      <Coords points="2009,204 2061,204 2071,255 1999,266 2009,204"/>
+      <TextLine id="eSc_line_b820b60f" >
+        <Coords points="2028,204 2009,220 2007,255 2012,287 2061,269 2061,250 2052,204 2028,204"/>
+        <Baseline points="2007,255 2061,250"/>
+        <TextEquiv>
+          <Unicode>93</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5386e48e"  >
+      <Coords points="2050,2334 2028,2396 1921,2442 2017,2636 1964,2754 1985,2880 473,2880 417,2894 417,2967 226,2967 193,2859 193,2313 226,2205 1910,2216 2050,2334"/>
+      <TextLine id="eSc_line_608034d2" >
+        <Coords points="1910,2219 1313,2211 1302,2211 1275,2211 1248,2211 1221,2211 1194,2211 1167,2211 1140,2211 1113,2211 1087,2211 1060,2208 1033,2208 1006,2208 979,2208 952,2208 925,2208 898,2208 871,2208 844,2208 817,2208 791,2208 764,2208 737,2208 710,2208 683,2208 656,2208 629,2205 602,2205 575,2205 548,2205 521,2205 495,2205 468,2205 441,2205 414,2205 414,2246 411,2256 1913,2275 1918,2264 1915,2221 1910,2219"/>
+        <Baseline points="414,2246 1918,2264"/>
+        <TextEquiv>
+          <Unicode>In much the same way the concept of &quot;structure“ attempts to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5543dfe" >
+        <Coords points="2031,2361 2015,2318 204,2302 204,2351 201,2361 2034,2388 2039,2369 2036,2361 2031,2361"/>
+        <Baseline points="204,2351 2039,2369"/>
+        <TextEquiv>
+          <Unicode>grasp the social institutions in which history was accepted and mastered</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9f01f4b" >
+        <Coords points="207,2450 204,2469 1835,2480 1840,2469 1837,2418 207,2396 207,2450"/>
+        <Baseline points="207,2450 1840,2469"/>
+        <TextEquiv>
+          <Unicode>at a given moment, by seeing them as the world of the orders and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_171e263f" >
+        <Coords points="207,2550 204,2560 1934,2590 1939,2571 1939,2523 207,2499 207,2550"/>
+        <Baseline points="207,2550 1939,2571"/>
+        <TextEquiv>
+          <Unicode>expressions of life that exercised their influence on history. This</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3678e237" >
+        <Coords points="1999,2620 207,2603 207,2649 204,2665 2004,2679 2009,2668 2007,2644 1999,2620"/>
+        <Baseline points="207,2649 2009,2668"/>
+        <TextEquiv>
+          <Unicode>framework of ideas leads on to the history of &quot;forms.“ It examines not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42dd0e09" >
+        <Coords points="201,2751 199,2762 1931,2786 1937,2770 1934,2722 201,2706 201,2751"/>
+        <Baseline points="201,2751 1937,2770"/>
+        <TextEquiv>
+          <Unicode>so much the individual statement as once made but rather the Sitz im</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2c9696a" >
+        <Coords points="201,2851 201,2889 306,2875 446,2889 470,2891 473,2891 489,2889 591,2872 626,2889 629,2891 632,2891 634,2891 637,2891 645,2889 702,2875 793,2889 796,2889 890,2878 933,2889 947,2894 949,2894 952,2894 955,2894 963,2889 990,2878 1167,2889 1417,2907 1420,2907 1603,2905 1606,2905 1654,2889 1660,2889 1662,2889 1692,2910 1695,2910 1697,2910 1778,2913 1781,2913 1783,2913 1851,2891 1972,2891 1974,2875 1966,2824 201,2794 201,2851"/>
+        <Baseline points="201,2851 1974,2875"/>
+        <TextEquiv>
+          <Unicode>Leben provided for the statements by religion, law, culture, politics,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9dd04e24" >
+        <Coords points="204,2953 204,2980 414,2988 417,2953 406,2910 204,2910 204,2953"/>
+        <Baseline points="204,2953 417,2953"/>
+        <TextEquiv>
+          <Unicode>and art.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00024.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.663859+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.663871+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00024.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_db5c35df"  >
+      <Coords points="1974,742 1996,1955 1888,2076 1867,2227 1867,2299 1942,2367 1931,2515 172,2515 193,807 373,774 408,710 1130,707 1022,696 1065,667 1008,653 624,642 656,559 1598,581 1598,653 1447,707 1974,742"/>
+      <TextLine id="eSc_line_296e9c70" >
+        <Coords points="1595,575 1568,578 1541,578 1514,578 1487,578 1461,575 1434,575 1407,575 1380,575 1353,572 1326,572 1299,572 1272,572 1245,572 1218,570 1191,570 1165,570 1138,570 1111,567 1084,567 1057,567 1030,567 1003,564 976,564 949,564 922,564 895,564 869,562 842,562 815,562 788,562 761,559 734,559 707,559 680,559 653,559 651,546 626,546 626,607 624,616 1595,642 1600,632 1600,567 1595,564 1595,575"/>
+        <Baseline points="626,607 1600,632"/>
+        <TextEquiv>
+          <Unicode>A STUDY OF BIBLICAL REFERENCES TO HOPE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3421fe61" >
+        <Coords points="922,707 785,718 761,718 750,715 718,707 696,707 669,707 643,707 616,707 543,712 519,712 513,707 508,707 481,707 454,707 427,707 400,720 400,755 398,763 1966,807 1972,793 1969,745 1773,745 1765,739 1746,726 1743,726 1740,726 1738,726 1409,731 1323,731 1315,728 1286,715 1283,715 1280,715 1132,726 1105,726 1100,723 1078,710 1076,710 1073,710 1070,710 1068,710 1038,723 1035,723 1025,723 925,707 922,707"/>
+        <Baseline points="400,755 1972,793"/>
+        <TextEquiv>
+          <Unicode>Hope is a dominant theme of the Bible. Both the Old Testament</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c22f329" >
+        <Coords points="223,801 196,807 196,850 193,866 955,893 957,893 1014,885 1025,882 1035,885 1073,895 1076,895 1078,895 1235,887 1261,887 1280,887 1391,903 1393,903 1471,893 1474,893 1493,906 1495,906 1498,906 1748,911 1751,911 1821,898 1824,890 1824,844 1592,823 1590,823 1530,836 1525,836 1504,820 1501,820 1498,820 1495,820 1493,820 1490,820 1471,833 1353,817 1350,817 1127,825 1105,825 1103,825 1057,809 1054,809 1052,809 1049,809 1017,823 1014,823 930,807 928,807 866,820 861,820 839,804 836,804 834,804 831,804 597,812 581,812 570,812 414,793 411,793 408,793 406,793 387,807 304,790 301,790 236,798 223,801"/>
+        <Baseline points="196,850 1824,890"/>
+        <TextEquiv>
+          <Unicode>and the New Testament make many references to it. The Bible can</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c0e8ce35" >
+        <Coords points="196,952 193,960 419,981 422,981 476,971 661,987 664,987 739,976 747,976 769,976 987,995 990,995 1041,984 1043,984 1049,984 1089,997 1092,997 1982,1008 1988,995 1985,941 196,898 196,952"/>
+        <Baseline points="196,952 1988,995"/>
+        <TextEquiv>
+          <Unicode>rightfully be called &quot;the book of hope.&quot; When St. Paul, addressing the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f4b0d79" >
+        <Coords points="188,1051 185,1059 1961,1110 1966,1100 1966,1038 188,997 188,1051"/>
+        <Baseline points="188,1051 1966,1100"/>
+        <TextEquiv>
+          <Unicode>Gentiles, describes their former condition, he uses the phrase &quot;having</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cb16e918" >
+        <Coords points="188,1151 185,1159 1934,1202 1939,1194 1939,1145 1913,1132 1910,1132 1907,1132 1837,1145 1832,1145 1826,1145 1773,1129 1770,1129 1767,1129 1765,1129 1727,1143 1724,1143 1700,1127 1697,1127 1695,1127 1692,1127 1619,1140 1611,1140 1590,1124 1587,1124 1584,1124 1582,1124 1512,1137 1501,1137 1458,1135 1173,1113 1170,1113 1087,1124 1070,1127 1046,1124 939,1108 936,1108 863,1119 847,1121 836,1119 799,1105 796,1105 793,1105 791,1105 747,1116 739,1119 737,1116 729,1105 726,1105 726,1102 723,1102 721,1102 718,1102 661,1113 648,1116 643,1113 621,1100 618,1100 616,1100 613,1100 610,1100 565,1110 554,1113 543,1110 497,1097 495,1097 492,1097 489,1097 446,1108 433,1110 403,1108 295,1092 293,1092 188,1100 188,1151"/>
+        <Baseline points="188,1151 1939,1194"/>
+        <TextEquiv>
+          <Unicode>no hope and without God in the world.&quot;¹ The same apostle, in another</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a461666f" >
+        <Coords points="185,1253 182,1264 443,1285 446,1285 1000,1285 1057,1299 1060,1299 1062,1299 1232,1291 1845,1315 1848,1315 1931,1301 1934,1291 1934,1248 185,1197 185,1253"/>
+        <Baseline points="185,1253 1934,1291"/>
+        <TextEquiv>
+          <Unicode>letter, names hope as one of the purposes for which the Old Testament</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cb097cb4" >
+        <Coords points="182,1353 180,1366 1485,1409 1487,1409 1568,1398 1722,1414 1724,1414 1956,1404 1958,1393 1956,1350 182,1299 182,1353"/>
+        <Baseline points="182,1353 1958,1393"/>
+        <TextEquiv>
+          <Unicode>was written: &quot;For whatever was written in former days was written for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55832c08" >
+        <Coords points="180,1452 177,1476 610,1476 629,1484 645,1490 648,1490 651,1490 691,1484 729,1479 734,1484 737,1490 739,1490 739,1492 742,1492 745,1492 747,1492 782,1487 809,1482 863,1487 955,1498 957,1498 998,1490 1014,1487 1030,1490 1065,1501 1068,1501 1070,1501 1132,1492 1154,1490 1159,1492 1173,1503 1175,1503 1178,1503 1181,1503 1237,1495 1251,1492 1259,1495 1288,1506 1291,1506 1294,1506 1296,1506 1329,1495 1334,1495 1369,1498 1622,1514 1625,1514 1791,1506 1845,1519 1848,1519 1851,1519 1953,1506 1956,1495 1956,1452 1840,1433 1837,1433 1727,1444 1431,1425 1428,1425 1286,1433 1251,1420 1248,1420 1245,1420 1070,1428 1054,1414 1052,1414 1049,1414 1046,1414 979,1425 957,1412 955,1412 952,1412 949,1412 842,1423 731,1406 729,1406 180,1406 180,1452"/>
+        <Baseline points="180,1452 1956,1495"/>
+        <TextEquiv>
+          <Unicode>our instruction, that by steadfastness and by the encouragement of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6add4d5c" >
+        <Coords points="180,1554 177,1576 998,1581 1003,1562 998,1506 454,1514 180,1498 180,1554"/>
+        <Baseline points="180,1554 1003,1562"/>
+        <TextEquiv>
+          <Unicode>scriptures we might have hope.&quot;²</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2b479e52" >
+        <Coords points="373,1659 371,1670 610,1692 613,1692 707,1681 713,1681 721,1681 831,1697 834,1697 920,1686 930,1686 955,1686 1173,1705 1175,1705 1248,1694 1259,1694 1264,1694 1291,1708 1294,1708 1296,1708 1380,1700 1401,1697 1428,1700 1517,1713 1520,1716 1974,1716 1977,1697 1974,1643 855,1627 850,1624 834,1611 831,1611 828,1611 826,1611 624,1619 602,1619 591,1619 484,1603 481,1603 373,1614 373,1659"/>
+        <Baseline points="373,1659 1977,1697"/>
+        <TextEquiv>
+          <Unicode>Dr. Robert L. Ottley, in a discussion of hope,³ refers to it as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_89babfd6" >
+        <Coords points="169,1756 166,1767 1964,1810 1969,1799 1966,1753 1826,1735 1824,1735 1748,1745 1280,1721 1278,1721 772,1721 726,1708 723,1708 721,1708 169,1708 169,1756"/>
+        <Baseline points="169,1756 1969,1799"/>
+        <TextEquiv>
+          <Unicode>a Scriptural virtue, like faith and love. He feels that in both Testa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_043f5ad4" >
+        <Coords points="166,1856 164,1872 1985,1920 1991,1901 1991,1856 166,1802 166,1856"/>
+        <Baseline points="166,1856 1991,1901"/>
+        <TextEquiv>
+          <Unicode>ments hope is based on the revealed character of God: (a) as omnipotent</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba0fcfc9" >
+        <Coords points="1956,1952 1894,1939 1891,1939 1888,1939 1886,1939 1869,1950 1861,1939 1859,1939 1859,1936 1856,1936 1853,1936 1851,1936 1770,1950 1765,1950 1762,1950 1743,1934 1740,1934 1738,1934 1735,1934 1657,1947 1652,1947 1641,1947 1541,1928 1539,1928 1043,1931 1014,1931 1006,1931 879,1912 877,1912 723,1923 699,1907 696,1907 694,1907 691,1907 688,1907 686,1907 664,1920 538,1904 535,1904 384,1915 271,1896 269,1896 166,1909 166,1955 164,1977 1961,2020 1966,2001 1964,1979 1956,1952"/>
+        <Baseline points="166,1955 1966,2001"/>
+        <TextEquiv>
+          <Unicode>and able to fulkill his promises; (b) as specially pledged to be Savior</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0672949" >
+        <Coords points="166,2055 164,2079 1837,2117 1843,2095 1843,2039 166,2004 166,2055"/>
+        <Baseline points="166,2055 1843,2095"/>
+        <TextEquiv>
+          <Unicode>and Sanctifier of his elect people; and (c) as the righteous moral</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_937fa791" >
+        <Coords points="161,2157 158,2170 1853,2213 1859,2200 1859,2149 1019,2135 976,2122 968,2119 965,2119 963,2119 952,2119 906,2130 852,2117 847,2117 844,2117 842,2117 839,2117 836,2117 817,2127 710,2114 688,2111 686,2111 672,2111 586,2122 449,2106 443,2106 441,2106 438,2106 373,2117 161,2098 161,2157"/>
+        <Baseline points="161,2157 1859,2200"/>
+        <TextEquiv>
+          <Unicode>Governor and Judge of mankind whose ways are destined to be finally</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0e77fb00" >
+        <Coords points="161,2259 158,2283 443,2283 446,2264 446,2200 161,2195 161,2259"/>
+        <Baseline points="161,2259 446,2264"/>
+        <TextEquiv>
+          <Unicode>vindicated.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d022b54c" >
+        <Coords points="1915,2345 1536,2345 1479,2332 1447,2326 1444,2326 1442,2326 1431,2329 1407,2340 1396,2329 1391,2324 1388,2324 1385,2324 1382,2324 1302,2326 1143,2334 987,2318 952,2316 949,2316 901,2316 648,2324 546,2308 543,2308 433,2318 355,2302 355,2367 352,2386 1923,2407 1929,2399 1926,2356 1915,2345"/>
+        <Baseline points="355,2367 1929,2399"/>
+        <TextEquiv>
+          <Unicode>The Bible uses the idea of hope as a desire closely related to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3edc7e42" >
+        <Coords points="156,2461 153,2474 1921,2528 1926,2504 1926,2455 156,2404 156,2461"/>
+        <Baseline points="156,2461 1926,2504"/>
+        <TextEquiv>
+          <Unicode>faith. Hope is a desire for some future good, accompanied by faith in</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_62ab2add"  >
+      <Coords points="1899,2816 1619,2859 139,2827 161,2754 320,2776 355,2614 1148,2625 1267,2722 1867,2754 1899,2816"/>
+      <TextLine id="eSc_line_6e08fde2" >
+        <Coords points="1156,2633 371,2617 349,2633 349,2665 347,2673 1162,2692 1167,2684 1165,2641 1156,2633"/>
+        <Baseline points="349,2665 1167,2684"/>
+        <TextEquiv>
+          <Unicode>¹Ephesians 2:12. ²Romans 15:4.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_624d5c04" >
+        <Coords points="1859,2754 1778,2749 1778,2749 1773,2746 1746,2746 1724,2746 1697,2743 1670,2743 1643,2741 1635,2741 1603,2746 1587,2749 1579,2746 1557,2735 1555,2735 1552,2735 1366,2738 1229,2741 1216,2733 1202,2727 1200,2727 1197,2727 1119,2730 1014,2735 995,2727 990,2722 987,2722 984,2722 982,2722 955,2724 901,2733 882,2722 879,2719 877,2719 874,2719 871,2719 782,2719 478,2722 465,2711 465,2708 462,2708 460,2708 457,2708 454,2708 408,2719 355,2706 352,2762 349,2776 621,2800 624,2800 869,2794 955,2794 990,2800 1054,2811 1057,2811 1060,2811 1089,2802 1113,2797 1135,2805 1159,2813 1162,2813 1165,2813 1167,2813 1194,2808 1226,2800 1878,2829 1883,2800 1878,2784 1859,2754"/>
+        <Baseline points="352,2762 1883,2800"/>
+        <TextEquiv>
+          <Unicode>³Robert Laurence Ottley, D. D., &quot;The Christian Hope,&quot; Encyclo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d27e4af8" >
+        <Coords points="312,2773 287,2770 164,2768 150,2781 150,2813 147,2859 177,2864 180,2864 182,2864 185,2864 188,2862 207,2846 266,2862 282,2867 285,2867 287,2867 290,2867 304,2864 352,2851 435,2867 443,2867 446,2867 454,2867 527,2854 540,2870 543,2870 543,2872 546,2872 548,2872 551,2872 600,2870 702,2864 780,2875 812,2878 815,2878 817,2878 826,2875 869,2859 1041,2878 1043,2878 1205,2864 1302,2864 1329,2886 1331,2889 1334,2889 1337,2889 1339,2889 1342,2889 1345,2889 1345,2886 1361,2875 1415,2889 1417,2889 1420,2889 1423,2889 1426,2889 1428,2889 1485,2875 1598,2891 1603,2843 1603,2800 312,2770 312,2773"/>
+        <Baseline points="150,2813 1603,2843"/>
+        <TextEquiv>
+          <Unicode>pedia of Religion and Ethics (1913), Vol. VI. pp. 779-780.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0aaa487a"  >
+      <Coords points="1043,2883 1095,2894 1095,2924 1033,2945 1043,2883"/>
+      <TextLine id="eSc_line_2094ce97" >
+        <Coords points="1046,2891 1046,2891 1043,2932 1043,2956 1062,2956 1062,2932 1062,2926 1046,2891"/>
+        <Baseline points="1043,2932 1062,2932"/>
+        <TextEquiv>
+          <Unicode>17</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_95870279"  >
+      <Coords points="1011,430 1054,419 1232,419 1264,470 1011,481 1011,430"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_8d9e9f58" >
+        <Coords points="1008,489 1256,503 1261,484 1261,416 1221,400 1218,400 1216,400 1121,408 1049,414 1014,400 1011,481 1008,489"/>
+        <Baseline points="1013,484 1264,486"/>
+        <TextEquiv>
+          <Unicode>Chapter 3</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

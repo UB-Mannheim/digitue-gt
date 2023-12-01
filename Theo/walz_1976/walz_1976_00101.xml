@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00101.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.251381+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.251393+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00101.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_e232ba05"  >
+      <Coords points="2017,642 1878,710 1964,763 1964,965 1087,965 1318,997 1033,997 976,1073 1964,1076 1996,1108 1996,1331 2050,1366 2061,1449 925,1471 675,1579 352,1611 2017,1635 2039,1718 1974,1880 2050,2001 2061,2203 1953,2259 1953,2364 2050,2816 1985,2840 1974,2902 1899,2913 226,2902 215,1635 269,1600 215,1535 226,1172 408,1116 322,1086 441,1073 226,1041 236,365 384,355 430,279 1988,258 2050,290 2007,365 2039,387 2017,642"/>
+      <TextLine id="eSc_line_82fe1a62" >
+        <Coords points="2020,322 2001,282 1915,269 1913,269 1756,279 1719,282 1697,279 1619,266 1617,266 1466,277 1404,279 1385,274 1353,266 1350,266 1348,266 1345,266 1342,266 1331,274 1326,279 1291,274 1243,266 1240,266 1213,266 1186,269 1159,269 1132,269 1105,269 1092,269 1027,271 834,277 753,274 729,274 702,274 675,274 648,274 621,274 594,277 567,277 540,277 513,277 487,277 460,277 435,277 435,317 433,341 2028,352 2034,328 2028,317 2020,322"/>
+        <Baseline points="435,317 2034,328"/>
+        <TextEquiv>
+          <Unicode>Lastly, the concept of the understanding of existence is also a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1d5f856d" >
+        <Coords points="231,419 228,430 2004,435 2009,425 2009,381 1972,365 1969,365 1966,365 1964,365 1913,379 1913,381 1590,381 1579,376 1555,365 1552,365 1549,365 1504,373 1485,379 1469,373 1444,365 1442,365 1439,365 1436,365 1434,365 1423,373 1412,381 1127,381 1087,371 1057,363 1054,363 1052,363 1049,363 1046,363 1038,368 1027,376 992,368 963,363 960,363 855,365 643,376 538,363 530,363 527,363 524,363 476,376 368,363 365,363 363,363 330,376 231,360 231,419"/>
+        <Baseline points="231,419 2009,425"/>
+        <TextEquiv>
+          <Unicode>heuristic medium of this kind. Here the phenomena of past history are</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b502e038" >
+        <Coords points="234,521 234,540 1345,540 1361,540 1479,554 1482,554 2004,540 2007,529 2004,476 234,476 234,521"/>
+        <Baseline points="234,521 2007,529"/>
+        <TextEquiv>
+          <Unicode>interpreted and brought to consciousness on the basis of the possibil-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c93f31fd" >
+        <Coords points="231,621 228,640 1999,645 2004,629 2004,586 1966,570 1964,570 1961,570 1635,583 1571,583 1533,581 1380,567 1377,567 1374,567 1372,567 1356,581 1350,581 231,570 231,621"/>
+        <Baseline points="231,621 2004,629"/>
+        <TextEquiv>
+          <Unicode>ities of man&#x27;s understandings of existence. The historian is then not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f3bd8f2" >
+        <Coords points="226,739 1826,747 1832,731 1829,688 1108,669 1105,669 1035,675 947,680 898,672 869,667 866,667 777,669 586,677 556,667 551,664 548,664 546,664 500,664 274,675 231,661 228,718 226,739"/>
+        <Baseline points="228,718 1832,731"/>
+        <TextEquiv>
+          <Unicode>so much interested in the events themselves and their causal or</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e41907de" >
+        <Coords points="231,820 228,833 1950,844 1956,833 1953,788 231,774 231,820"/>
+        <Baseline points="231,820 1956,833"/>
+        <TextEquiv>
+          <Unicode>tendentious connections with other events but rather in the historic</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_461bf065" >
+        <Coords points="228,925 226,936 263,952 266,952 269,952 758,941 801,954 804,954 807,954 1950,944 1953,933 1948,876 834,882 228,866 228,925"/>
+        <Baseline points="228,925 1953,933"/>
+        <TextEquiv>
+          <Unicode>character of the several existences that have been and in the possi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4570307d" >
+        <Coords points="223,1035 669,1051 672,1051 939,1038 941,1027 939,981 807,981 801,976 788,963 788,960 785,960 782,960 780,960 777,960 731,973 707,979 675,971 634,960 632,960 629,960 626,960 608,968 586,979 497,965 452,957 449,957 446,957 435,963 414,973 376,960 368,957 365,957 363,957 347,957 266,971 228,954 226,1022 223,1035"/>
+        <Baseline points="226,1022 941,1027"/>
+        <TextEquiv>
+          <Unicode>bilities of human existence.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_61e86d60" >
+        <Coords points="1969,1084 427,1078 427,1124 425,1148 1977,1148 1980,1135 1977,1092 1969,1084"/>
+        <Baseline points="427,1124 1980,1135"/>
+        <TextEquiv>
+          <Unicode>Summarily, it is not due merely to the defective range of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c89abb42" >
+        <Coords points="226,1223 226,1242 1229,1242 1237,1245 1269,1256 1272,1256 1275,1256 1528,1245 1555,1245 1568,1245 1687,1258 1689,1258 1926,1245 1929,1237 1923,1178 1633,1188 1592,1175 1590,1175 1587,1175 1565,1175 1278,1186 226,1170 226,1223"/>
+        <Baseline points="226,1223 1929,1237"/>
+        <TextEquiv>
+          <Unicode>human mind that history remains dark to it. This is due to history</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_387c214a" >
+        <Coords points="228,1323 226,1339 1977,1347 1982,1336 1982,1291 228,1266 228,1323"/>
+        <Baseline points="228,1323 1982,1336"/>
+        <TextEquiv>
+          <Unicode>itself, which has not yet reached its end and therefore cannot yet be</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_446b3c8f" >
+        <Coords points="2039,1388 226,1379 226,1425 223,1449 2047,1460 2052,1436 2050,1417 2039,1388"/>
+        <Baseline points="226,1425 2052,1436"/>
+        <TextEquiv>
+          <Unicode>resolved into historical knowledge. It is knowledge only in a proleptic</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95c7708a" >
+        <Coords points="223,1527 220,1538 707,1544 713,1533 707,1474 223,1476 223,1527"/>
+        <Baseline points="223,1527 713,1533"/>
+        <TextEquiv>
+          <Unicode>or fragmentary way.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4bfd4c7" >
+        <Coords points="2023,1683 1999,1635 223,1630 223,1681 223,1705 2023,1697 2026,1686 2023,1683 2023,1683"/>
+        <Baseline points="223,1681 2026,1686"/>
+        <TextEquiv>
+          <Unicode>Historiology. The question of historical heuristics leads of itself to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3dcd572b" >
+        <Coords points="223,1780 220,1794 1996,1807 2001,1788 1999,1735 223,1724 223,1780"/>
+        <Baseline points="223,1780 2001,1788"/>
+        <TextEquiv>
+          <Unicode>the problem of the philosophy of history. But how can a philosophy of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3649f5d4" >
+        <Coords points="217,1880 217,1901 1918,1899 1921,1888 1915,1831 1358,1842 1302,1829 1299,1829 1296,1829 217,1829 217,1880"/>
+        <Baseline points="217,1880 1921,1888"/>
+        <TextEquiv>
+          <Unicode>history be possible in the Greek sense of knowledge and of science?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4738f98f" >
+        <Coords points="217,1961 217,1977 215,1990 1996,2004 2001,1990 1999,1939 578,1939 556,1936 427,1923 425,1923 226,1934 217,1961"/>
+        <Baseline points="217,1977 2001,1990"/>
+        <TextEquiv>
+          <Unicode>J. Burckhardt says the essence of history is change, yet change is the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_51006270" >
+        <Coords points="2047,2052 2044,2041 217,2025 217,2082 217,2103 2050,2103 2052,2092 2050,2052 2047,2052"/>
+        <Baseline points="217,2082 2052,2092"/>
+        <TextEquiv>
+          <Unicode>direct opposite of essence. We see an often unconscious transition from</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_56abf4c2" >
+        <Coords points="217,2181 215,2197 2042,2208 2047,2192 2044,2146 217,2125 217,2181"/>
+        <Baseline points="217,2181 2047,2192"/>
+        <TextEquiv>
+          <Unicode>historical heuristics to philosophy of history. Ranke was constantly in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a75060d" >
+        <Coords points="217,2283 215,2294 1918,2308 1923,2291 1921,2246 217,2238 217,2283"/>
+        <Baseline points="217,2283 1923,2291"/>
+        <TextEquiv>
+          <Unicode>search of a &#x27;&#x27;general bond“ of history. In a similar way, Ferdinand</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_156851f7" >
+        <Coords points="217,2383 217,2404 1937,2404 1939,2391 1937,2345 217,2337 217,2383"/>
+        <Baseline points="217,2383 1939,2391"/>
+        <TextEquiv>
+          <Unicode>Christian Baur attempted to comprehend history as a universal whole.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2525e1ff" >
+        <Coords points="217,2482 215,2501 1942,2512 1948,2493 1948,2445 217,2423 217,2482"/>
+        <Baseline points="217,2482 1948,2493"/>
+        <TextEquiv>
+          <Unicode>For Johann Custav Droysen, the realm of the histortcal method is the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fbea01ed" >
+        <Coords points="1993,2574 1985,2544 217,2536 217,2582 215,2593 1991,2609 1996,2593 1993,2585 1993,2574"/>
+        <Baseline points="217,2582 1996,2593"/>
+        <TextEquiv>
+          <Unicode>cosmos of the moral world. To see this moral world in its development</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7736f74d" >
+        <Coords points="217,2684 215,2695 1988,2714 1993,2695 1991,2638 217,2638 217,2684"/>
+        <Baseline points="217,2684 1993,2695"/>
+        <TextEquiv>
+          <Unicode>and growth, in its successive movements, is to see it as history. For</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_09b13f41" >
+        <Coords points="2034,2749 1590,2749 1582,2741 1574,2733 1571,2733 1568,2733 1565,2733 1175,2735 672,2741 567,2727 554,2727 551,2727 535,2727 398,2738 215,2724 215,2784 212,2800 2039,2813 2044,2794 2042,2784 2034,2749"/>
+        <Baseline points="215,2784 2044,2794"/>
+        <TextEquiv>
+          <Unicode>Wilhelm Dilthey, history is a human science, and the human sciences rest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d15e38ab" >
+        <Coords points="215,2880 217,2918 252,2907 266,2918 266,2921 269,2921 271,2921 274,2924 460,2924 460,2921 462,2921 468,2918 489,2907 570,2918 594,2921 597,2921 613,2918 659,2907 688,2918 702,2924 704,2924 823,2926 826,2926 828,2926 831,2926 839,2918 847,2910 861,2918 879,2926 882,2926 885,2929 1011,2929 1011,2926 1014,2926 1046,2918 1073,2910 1089,2918 1111,2929 1113,2929 1116,2929 1256,2918 1321,2913 1380,2918 1539,2932 1541,2932 1654,2918 1673,2915 1678,2918 1716,2932 1719,2932 1722,2932 1724,2932 1775,2918 1791,2932 1791,2934 1794,2934 1797,2934 1800,2937 1896,2937 1896,2934 1899,2934 1964,2915 1966,2897 1961,2840 1681,2851 1657,2837 1654,2837 1652,2837 215,2837 215,2880"/>
+        <Baseline points="215,2880 1966,2897"/>
+        <TextEquiv>
+          <Unicode>on the relationship between life, expression, and understanding. All</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d7d651a6"  >
+      <Coords points="2020,172 2061,182 2061,234 1988,234 2020,172"/>
+      <TextLine id="eSc_line_3d1ad1ec" >
+        <Coords points="2015,177 1999,204 1996,225 2004,279 2058,252 2055,217 2042,177 2015,177"/>
+        <Baseline points="1996,225 2055,217"/>
+        <TextEquiv>
+          <Unicode>94</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_edac235e"  >
+      <Coords points="1439,989 1953,989 1964,1008 1643,1019 1439,989"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ad267428"  >
+      <Coords points="2042,516 2061,516 2061,535 2042,535 2042,516"/>
+    </TextRegion>
+  </Page>
+</PcGts>

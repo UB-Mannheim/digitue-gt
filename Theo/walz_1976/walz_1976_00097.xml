@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00097.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.198459+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.198470+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00097.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_da3db979"  >
+      <Coords points="2039,344 2039,481 2114,538 2104,610 2039,656 2028,868 2071,1008 2007,1054 2061,1406 1923,1449 1824,1560 2071,1646 2017,1764 2050,2213 1910,2453 1910,2558 1996,2657 2007,2808 2007,2902 1931,2999 796,2988 182,2934 226,1689 247,1646 387,1632 236,1568 279,279 1996,301 2039,344"/>
+      <TextLine id="eSc_line_ce452c0f" >
+        <Coords points="2009,317 831,285 823,285 796,285 769,285 742,285 715,285 688,282 661,282 634,282 608,282 581,282 554,282 527,282 500,282 473,279 446,279 419,279 392,279 365,279 339,279 312,279 285,279 285,320 282,347 2009,390 2015,376 2015,322 2009,317"/>
+        <Baseline points="285,320 2015,376"/>
+        <TextEquiv>
+          <Unicode>Criticism and crisis. Modern man&#x27;s epochal experience of history is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7481f6ca" >
+        <Coords points="277,425 274,438 2001,492 2007,476 2007,430 1738,425 1735,422 1724,411 1724,408 1722,408 1719,408 1716,408 1356,408 1291,408 1288,408 1261,395 1259,395 1256,395 1253,395 1213,406 1208,406 1194,406 1097,390 277,379 277,425"/>
+        <Baseline points="277,425 2007,476"/>
+        <TextEquiv>
+          <Unicode>grounded in the experience of infinitely new and overwhelming possi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c01d1d4f" >
+        <Coords points="2104,535 2082,519 2082,519 2079,519 1517,511 1326,511 1294,503 1229,489 1226,489 1224,489 1186,497 1165,503 1121,494 1084,489 1081,489 1008,492 887,494 871,486 863,478 861,478 858,478 855,478 799,481 713,489 696,478 691,473 688,473 686,473 274,462 274,521 274,546 597,546 721,556 799,564 801,564 828,559 861,554 869,562 877,567 879,567 882,567 885,567 952,562 1014,559 1041,564 1070,572 1073,572 1076,572 1105,567 1130,562 1167,567 1229,578 1232,578 1280,570 1302,567 1307,572 1315,578 1315,581 1318,581 1321,581 1754,594 1756,594 1824,583 1826,583 1829,583 1843,597 1845,597 1848,597 1851,597 1921,586 1923,586 1929,586 2017,602 2020,602 2101,589 2104,578 2104,570 2104,535"/>
+        <Baseline points="274,521 2104,578"/>
+        <TextEquiv>
+          <Unicode>bilities which cannot be mastered by the customary methods of his tradi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02afdbb0" >
+        <Coords points="271,624 269,632 1999,699 2004,680 2001,634 1875,616 1872,616 1789,624 1759,626 1617,618 1399,602 1396,602 1313,605 1202,607 1186,599 1175,591 1173,591 1170,591 1167,591 1127,597 1084,602 1041,594 1006,586 1003,586 957,589 874,597 799,583 769,578 766,578 729,581 605,589 530,572 519,570 516,570 508,570 438,583 271,562 271,624"/>
+        <Baseline points="271,624 2004,680"/>
+        <TextEquiv>
+          <Unicode>tions. It is in terms of crisis that history becomes perceptible to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_efe180d1" >
+        <Coords points="269,723 266,737 2017,793 2023,785 2023,737 1791,715 1789,715 1678,723 1668,723 1665,723 1649,710 1646,710 1643,710 269,675 269,723"/>
+        <Baseline points="269,723 2023,785"/>
+        <TextEquiv>
+          <Unicode>him. Historical criticism of his traditions is the offspring of this</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_12f3cc37" >
+        <Coords points="263,825 260,833 1982,903 1988,885 1985,839 963,790 960,790 893,790 745,796 729,785 726,782 723,782 721,782 718,782 694,782 597,790 581,780 581,777 578,777 575,777 573,777 554,777 433,785 263,766 263,825"/>
+        <Baseline points="263,825 1988,885"/>
+        <TextEquiv>
+          <Unicode>consciousness of crisis. All reflection on &quot;history&quot; by historians,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c4e477e" >
+        <Coords points="2061,976 2044,938 1816,917 1813,917 1810,917 1767,928 1754,930 1673,930 1665,925 1649,911 1646,911 1643,911 1641,911 1552,919 1514,922 1442,914 1337,903 1334,903 1269,909 1221,911 1213,906 1202,895 1200,895 1197,895 1194,895 1111,901 1046,906 917,893 796,882 793,882 764,887 726,895 260,868 260,925 258,936 2058,1000 2063,987 2061,976 2061,976"/>
+        <Baseline points="260,925 2063,987"/>
+        <TextEquiv>
+          <Unicode>sociologists, and philosophers of history on the continent of Europe in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_74cb689a" >
+        <Coords points="255,1043 1907,1094 1913,1081 1910,1030 1633,1030 1622,1016 1619,1016 1619,1014 1617,1014 1614,1014 1611,1014 1595,1016 1541,1024 1487,1011 1458,1003 1455,1003 1452,1003 1450,1003 1436,1008 1417,1016 1170,1014 1119,995 1108,992 1105,992 1103,992 1089,995 1038,1006 1019,992 1014,987 1011,987 1008,987 1006,987 914,987 562,989 476,968 473,968 470,968 468,968 460,968 336,981 260,960 258,1022 255,1043"/>
+        <Baseline points="258,1022 1913,1081"/>
+        <TextEquiv>
+          <Unicode>the nineteenth century has behind it the earthquake of the French</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8b5c18fb" >
+        <Coords points="255,1127 252,1137 1996,1202 2001,1186 2001,1137 255,1073 255,1127"/>
+        <Baseline points="255,1127 2001,1186"/>
+        <TextEquiv>
+          <Unicode>revolution and before it the incalculable consequences of that event.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5427d439" >
+        <Coords points="247,1226 244,1234 1977,1293 1982,1285 1980,1229 247,1172 247,1226"/>
+        <Baseline points="247,1226 1982,1285"/>
+        <TextEquiv>
+          <Unicode>With it there came an awareness of the totally historic character of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c5ddf8a8" >
+        <Coords points="2047,1350 2044,1339 1953,1323 1950,1323 1888,1334 1883,1334 1840,1331 1471,1307 1469,1307 1283,1310 1148,1310 244,1266 244,1328 242,1336 406,1358 408,1358 546,1350 567,1350 570,1350 597,1363 600,1363 602,1363 605,1363 629,1353 632,1353 648,1355 756,1369 1159,1374 1458,1377 1469,1388 1474,1393 1477,1393 1479,1393 1482,1393 1595,1393 1775,1390 1794,1401 1797,1404 1800,1404 1802,1404 2044,1409 2050,1388 2050,1371 2047,1350"/>
+        <Baseline points="244,1328 2050,1388"/>
+        <TextEquiv>
+          <Unicode>life as the total criticalness of man&#x27;s world. &quot;Crisis“ has ever since</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_37540cd5" >
+        <Coords points="242,1425 239,1447 1867,1490 1872,1479 1869,1431 242,1374 242,1425"/>
+        <Baseline points="242,1425 1872,1479"/>
+        <TextEquiv>
+          <Unicode>become the theme of historical research and the basic concept of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b6678e16" >
+        <Coords points="239,1527 236,1538 1248,1573 1253,1560 1253,1511 239,1476 239,1527"/>
+        <Baseline points="239,1527 1253,1560"/>
+        <TextEquiv>
+          <Unicode>reflection on the philosophy of history.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c610e1cf" >
+        <Coords points="2050,1686 2028,1640 1886,1622 1883,1622 1880,1622 1845,1632 1840,1635 1837,1632 1818,1619 1816,1619 1813,1619 1810,1619 1684,1627 1668,1627 1665,1627 1654,1616 1654,1614 1652,1614 1649,1614 1646,1614 1595,1624 1571,1627 1501,1619 1404,1608 1401,1608 1372,1614 1350,1619 1342,1614 1331,1603 1329,1603 1326,1603 1323,1603 1283,1611 1245,1616 438,1576 438,1635 435,1646 2055,1700 2061,1689 2052,1675 2050,1686"/>
+        <Baseline points="438,1635 2061,1689"/>
+        <TextEquiv>
+          <Unicode>The sense of history, the interest in history, and the necessity</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1440375" >
+        <Coords points="231,1729 228,1745 1937,1796 1942,1786 1939,1740 1861,1721 1859,1721 1789,1735 1778,1735 1619,1732 1614,1726 1600,1716 1598,1716 1595,1716 1592,1716 1420,1721 1380,1721 1361,1718 1272,1702 1269,1702 1267,1702 1221,1713 1210,1716 1049,1713 1041,1708 1019,1694 1017,1694 1014,1694 1011,1694 1008,1694 982,1705 974,1708 922,1702 718,1683 715,1683 659,1694 643,1697 634,1694 608,1681 605,1681 231,1681 231,1729"/>
+        <Baseline points="231,1729 1942,1786"/>
+        <TextEquiv>
+          <Unicode>to understand history always rise in critical times of unrest. New</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0200db5" >
+        <Coords points="228,1831 226,1848 2004,1901 2009,1891 2009,1845 1937,1845 1934,1839 1926,1829 1923,1829 1923,1826 1921,1826 1918,1826 1915,1826 1913,1826 1872,1839 1864,1839 1786,1839 1783,1834 1770,1823 1770,1821 1767,1821 1765,1821 1762,1821 1584,1829 1528,1829 1372,1826 1361,1818 1337,1807 1334,1807 1331,1807 1329,1807 1302,1818 1291,1821 1264,1815 1200,1802 1197,1802 1154,1813 1138,1815 1132,1810 1121,1802 1121,1799 1119,1799 1116,1799 1113,1799 1065,1807 1041,1813 1017,1807 995,1799 992,1799 990,1799 898,1802 796,1804 702,1794 602,1783 600,1783 597,1783 581,1788 565,1796 551,1788 538,1780 535,1780 532,1780 530,1780 527,1780 503,1786 484,1791 468,1786 449,1778 446,1778 228,1778 228,1831"/>
+        <Baseline points="228,1831 2009,1891"/>
+        <TextEquiv>
+          <Unicode>possibilities that were hitherto unknown and unsuspected begin to dawn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dbf449f4" >
+        <Coords points="223,1928 220,1950 2001,2009 2007,1987 2004,1942 223,1877 223,1928"/>
+        <Baseline points="223,1928 2007,1987"/>
+        <TextEquiv>
+          <Unicode>on the horizon: The crisis becomes one of universal world history and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45374e7b" >
+        <Coords points="217,2033 215,2041 1996,2111 2001,2092 1999,2047 1840,2028 1837,2028 1781,2036 1759,2039 1275,2025 1232,2014 1191,2006 1189,2006 1062,2006 877,2009 812,1998 785,1993 782,1993 745,1995 629,2001 554,1987 540,1985 538,1985 535,1985 530,1985 497,1995 468,1982 465,1982 462,1982 460,1982 452,1982 382,1993 217,1974 217,2033"/>
+        <Baseline points="217,2033 2001,2092"/>
+        <TextEquiv>
+          <Unicode>affects the whole existence of man and his world. Every crisis throws</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1796322f" >
+        <Coords points="2042,2146 217,2087 217,2133 215,2143 2039,2211 2044,2195 2044,2154 2042,2146"/>
+        <Baseline points="217,2133 2044,2195"/>
+        <TextEquiv>
+          <Unicode>up the question of the historic future. This means that for the present</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_221083da" >
+        <Coords points="209,2235 207,2246 1988,2305 1993,2291 1991,2246 209,2181 209,2235"/>
+        <Baseline points="209,2235 1993,2291"/>
+        <TextEquiv>
+          <Unicode>a decision has to be made which finds no precedent in the past and for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be60ccb6" >
+        <Coords points="207,2332 204,2342 1181,2391 1183,2391 1420,2386 1864,2412 1867,2412 1869,2412 1913,2399 1915,2388 1913,2345 1730,2326 1727,2326 1555,2332 1530,2332 1528,2332 1504,2318 1501,2318 1498,2318 1302,2324 1267,2324 1253,2321 1183,2308 1181,2308 1054,2316 1038,2316 1030,2305 1027,2305 1027,2302 1025,2302 1022,2302 1019,2302 817,2308 782,2308 769,2305 696,2291 694,2291 575,2299 562,2299 540,2286 538,2286 535,2286 532,2286 207,2286 207,2332"/>
+        <Baseline points="207,2332 1915,2388"/>
+        <TextEquiv>
+          <Unicode>which traditional custom no longer provides any rule. The decision</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1523ea47" >
+        <Coords points="204,2434 201,2447 1859,2501 1864,2490 1861,2445 1186,2423 1183,2421 1151,2407 1148,2407 756,2407 683,2407 669,2402 600,2388 204,2388 204,2434"/>
+        <Baseline points="204,2434 1864,2490"/>
+        <TextEquiv>
+          <Unicode>which is forced upon the present must arise from our dream of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca37b87b" >
+        <Coords points="201,2536 199,2544 1880,2598 1886,2590 1886,2542 1216,2507 1213,2507 1146,2517 1135,2517 1121,2515 1046,2501 1043,2501 1041,2501 1017,2512 1011,2512 877,2496 874,2496 807,2507 793,2507 766,2504 610,2488 201,2488 201,2536"/>
+        <Baseline points="201,2536 1886,2590"/>
+        <TextEquiv>
+          <Unicode>future. Since 1789, the land of &quot;utopia&quot; no longer lies somewhere</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eb9eb0c0" >
+        <Coords points="1974,2636 196,2587 196,2636 193,2644 1974,2703 1980,2695 1980,2644 1974,2636"/>
+        <Baseline points="196,2636 1980,2695"/>
+        <TextEquiv>
+          <Unicode>beyond the seas, but by means of the belief in history and the idea of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f43a05e" >
+        <Coords points="193,2741 191,2749 1969,2808 1974,2797 1972,2749 1025,2706 1022,2706 920,2714 912,2714 909,2714 877,2700 874,2700 871,2700 869,2700 826,2711 820,2711 801,2711 618,2692 193,2692 193,2741"/>
+        <Baseline points="193,2741 1974,2797"/>
+        <TextEquiv>
+          <Unicode>progress it is shifted to the future which is possible. For the first</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d1cd6b8" >
+        <Coords points="193,2837 191,2848 298,2867 301,2867 352,2856 368,2870 371,2870 373,2870 376,2870 460,2859 500,2872 503,2872 505,2872 508,2872 548,2862 645,2878 648,2878 801,2870 844,2883 847,2883 850,2883 852,2883 874,2872 1635,2907 1638,2907 1993,2902 1996,2891 1996,2846 193,2778 193,2837"/>
+        <Baseline points="193,2837 1996,2891"/>
+        <TextEquiv>
+          <Unicode>time, history is subjected to the influence of an apocalyptic millenar-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bbcb4624" >
+        <Coords points="1915,2948 1864,2934 1861,2934 1859,2934 1668,2942 1625,2942 1617,2940 1592,2924 1590,2924 1587,2924 1584,2924 1477,2934 1461,2937 1455,2934 1436,2921 1434,2921 1431,2921 1428,2921 1374,2932 1358,2934 1339,2932 1259,2915 1256,2915 1253,2915 1216,2926 1205,2929 1186,2926 1073,2907 1070,2907 968,2918 952,2921 947,2918 936,2907 933,2907 930,2907 928,2907 858,2915 855,2915 836,2899 834,2899 831,2899 828,2899 769,2910 683,2894 680,2894 678,2894 626,2907 618,2910 589,2907 435,2889 433,2889 306,2897 295,2937 271,2934 244,2934 215,2937 196,2934 191,2937 191,2975 247,2959 624,2991 680,2993 683,2993 702,2993 836,2977 871,2999 874,2999 877,2999 879,2999 882,2999 885,2999 930,2980 1043,3004 1052,3004 1054,3004 1057,3004 1060,3004 1105,2988 1240,3010 1259,3012 1261,3012 1318,3012 1751,3007 1913,3031 1918,2993 1918,2991 1915,2948"/>
+        <Baseline points="191,2937 1918,2993"/>
+        <TextEquiv>
+          <Unicode>ianism and an apocalyptic enthusiasm of spirit, for which the end is</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f48c35cb"  >
+      <Coords points="2114,287 2042,298 2063,225 2114,236 2114,287"/>
+      <TextLine id="eSc_line_334a27f5" >
+        <Coords points="2104,234 2077,228 2052,244 2047,274 2044,290 2106,295 2112,279 2112,242 2104,234"/>
+        <Baseline points="2047,274 2112,279"/>
+        <TextEquiv>
+          <Unicode>90</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

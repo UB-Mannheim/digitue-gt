@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00107.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.327417+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.327429+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00107.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_d6f2e648"  >
+      <Coords points="1977,225 2071,225 2050,298 2082,355 2071,621 2039,675 1931,699 1996,710 1996,761 678,739 503,793 1899,796 1985,828 2071,1032 2061,1579 2007,1646 2007,1794 1878,1912 2007,2152 1953,2332 1888,2356 1985,2388 1996,2504 1910,2550 1867,2730 1738,2762 1985,2786 2007,2988 204,2967 215,2872 387,2859 363,2827 215,2827 204,2784 215,2076 365,2041 226,2030 215,1966 226,925 258,860 408,836 344,807 484,793 236,750 236,312 1813,312 1974,301 1977,225"/>
+      <TextLine id="eSc_line_5e83fd5a" >
+        <Coords points="2058,247 2031,225 2004,225 1977,225 1977,260 1974,271 2063,287 2069,263 2066,231 2058,247"/>
+        <Baseline points="1980,263 2071,264"/>
+        <TextEquiv>
+          <Unicode>100</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b66c9d87" >
+        <Coords points="1213,312 1186,312 1159,312 1132,312 1105,312 1078,312 1052,312 1025,312 998,312 971,312 944,312 917,312 890,312 863,312 836,312 809,312 782,312 756,312 729,312 702,312 675,312 648,312 621,312 594,312 567,312 540,312 513,312 487,312 460,312 433,312 406,312 379,312 352,312 325,312 298,312 271,312 244,312 244,338 242,355 2055,390 2061,368 2061,325 1235,312 1213,312"/>
+        <Baseline points="244,338 2061,368"/>
+        <TextEquiv>
+          <Unicode>of a divine mission which transcends the bounds of the humanly possible.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4bb1ba7f" >
+        <Coords points="242,438 239,459 1913,478 1918,468 1918,422 242,384 242,438"/>
+        <Baseline points="242,438 1918,468"/>
+        <TextEquiv>
+          <Unicode>Man attains to knowledge of himself by discovering the discrepancy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_002654d2" >
+        <Coords points="2071,516 242,484 242,540 239,564 2069,578 2074,564 2074,546 2071,516"/>
+        <Baseline points="242,540 2074,564"/>
+        <TextEquiv>
+          <Unicode>between the divine mission and his own being. Hence the answer received</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55aae171" >
+        <Coords points="242,642 239,656 438,675 441,675 594,664 608,664 629,664 863,680 866,680 995,672 1027,669 1033,672 1046,683 1049,683 1052,683 2012,688 2017,667 2015,613 242,597 242,642"/>
+        <Baseline points="242,642 2017,667"/>
+        <TextEquiv>
+          <Unicode>to man&#x27;s question about himself and his human nature runs: &quot;I will be</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb7b7f86" >
+        <Coords points="236,745 236,766 527,753 530,737 521,685 244,699 236,745"/>
+        <Baseline points="236,745 530,737"/>
+        <TextEquiv>
+          <Unicode>with thee.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1bfb2cf0" >
+        <Coords points="438,796 438,847 435,858 1931,885 1937,868 1937,817 460,793 438,796"/>
+        <Baseline points="438,847 1937,868"/>
+        <TextEquiv>
+          <Unicode>The theory of world-transforming, future-seeking missionary</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4512d3c" >
+        <Coords points="234,903 234,944 231,954 2009,981 2015,971 2015,917 236,898 234,903"/>
+        <Baseline points="234,944 2015,971"/>
+        <TextEquiv>
+          <Unicode>practice does not search for eternal orders in the existing reality of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63f4e36b" >
+        <Coords points="236,1043 234,1054 2052,1084 2058,1073 2055,1022 1100,1014 944,997 877,992 874,992 836,995 737,1006 726,992 723,992 723,989 721,989 718,989 715,989 680,992 573,1003 538,989 530,987 527,987 524,987 521,987 513,989 473,1000 236,984 236,1043"/>
+        <Baseline points="236,1043 2058,1073"/>
+        <TextEquiv>
+          <Unicode>the world but for possibilities that exist in the world in the direction</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e0e398f" >
+        <Coords points="231,1145 228,1167 2052,1188 2058,1172 2058,1116 231,1100 231,1145"/>
+        <Baseline points="231,1145 2058,1172"/>
+        <TextEquiv>
+          <Unicode>of the promised future. The call to obedient molding of the world would</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2f4f073" >
+        <Coords points="228,1248 226,1266 2047,1293 2052,1275 2050,1223 228,1194 228,1248"/>
+        <Baseline points="228,1248 2052,1275"/>
+        <TextEquiv>
+          <Unicode>have no object if this world were immutable. The man who is summoned by</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ec191d3" >
+        <Coords points="231,1345 228,1366 1980,1385 1985,1371 1982,1326 231,1299 231,1345"/>
+        <Baseline points="231,1345 1985,1371"/>
+        <TextEquiv>
+          <Unicode>the divine promise to the transforming of the world falls outside the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bcd9c87f" >
+        <Coords points="226,1449 223,1468 2020,1484 2026,1476 2026,1428 226,1401 226,1449"/>
+        <Baseline points="226,1449 2026,1476"/>
+        <TextEquiv>
+          <Unicode>sphere of Greek cosmic thinking. He has here &quot;no continuing city,&quot; for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1cf1c98b" >
+        <Coords points="226,1549 223,1565 2039,1595 2044,1573 2042,1527 226,1501 226,1549"/>
+        <Baseline points="226,1549 2044,1573"/>
+        <TextEquiv>
+          <Unicode>he seeks &#x27;&#x27;the coming city of God.&quot; For him, the world can be changed by</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_903e3997" >
+        <Coords points="226,1651 223,1659 1969,1692 1974,1675 1972,1619 226,1597 226,1651"/>
+        <Baseline points="226,1651 1974,1675"/>
+        <TextEquiv>
+          <Unicode>the God of his hope and to that extent also by the obedience to which</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08490be1" >
+        <Coords points="223,1748 220,1770 1991,1796 1996,1775 1996,1732 223,1700 223,1748"/>
+        <Baseline points="223,1748 1996,1775"/>
+        <TextEquiv>
+          <Unicode>this hope moves him. His experience and his expectation of history is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_adb447bd" >
+        <Coords points="220,1850 217,1874 1872,1891 1878,1874 1875,1829 220,1799 220,1850"/>
+        <Baseline points="220,1850 1878,1874"/>
+        <TextEquiv>
+          <Unicode>both opened up and tied down by the future promises of the God he</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_452e3fd6" >
+        <Coords points="217,1950 215,1961 452,1966 457,1955 457,1909 217,1896 217,1950"/>
+        <Baseline points="217,1950 457,1955"/>
+        <TextEquiv>
+          <Unicode>believes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b7ea43cd" >
+        <Coords points="414,2052 411,2071 1907,2084 1913,2063 1910,2020 414,1995 414,2052"/>
+        <Baseline points="414,2052 1630,2073 1913,2063"/>
+        <TextEquiv>
+          <Unicode>We can speak of &quot;the tradition of the eschatological hope.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65397057" >
+        <Coords points="1988,2127 215,2103 215,2152 212,2173 1985,2189 1991,2178 1991,2133 1988,2127"/>
+        <Baseline points="215,2152 1991,2178"/>
+        <TextEquiv>
+          <Unicode>Christian proclamation begins with the raising of the crucified Christ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1169720" >
+        <Coords points="215,2251 212,2262 1934,2297 1939,2278 1934,2216 1775,2230 1606,2213 1576,2211 1574,2211 1555,2213 1477,2224 1095,2221 1043,2208 1006,2203 1003,2203 968,2208 928,2216 866,2208 801,2200 799,2200 734,2208 702,2211 694,2208 675,2197 672,2197 669,2197 597,2205 562,2211 546,2205 513,2195 511,2195 508,2195 419,2205 392,2208 390,2205 382,2195 379,2195 379,2192 376,2192 373,2192 371,2192 215,2203 215,2251"/>
+        <Baseline points="215,2251 1939,2278"/>
+        <TextEquiv>
+          <Unicode>and his exultation to be Lord of the coming world of God. Christian</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_097eb104" >
+        <Coords points="212,2356 209,2367 1835,2388 1840,2377 1837,2324 212,2305 212,2356"/>
+        <Baseline points="212,2356 1840,2377"/>
+        <TextEquiv>
+          <Unicode>proclamation is not a tradition of wisdom and truth in doctrinal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_90cbb9b1" >
+        <Coords points="1974,2421 212,2396 212,2458 209,2472 1980,2501 1985,2485 1985,2447 1974,2421"/>
+        <Baseline points="212,2458 1985,2485"/>
+        <TextEquiv>
+          <Unicode>principles nor is it a tradition of ways and means of living according</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_10f73263" >
+        <Coords points="212,2555 209,2566 1880,2590 1886,2579 1883,2533 1512,2515 1509,2515 1372,2525 1331,2528 1286,2525 1140,2509 1138,2509 1135,2509 1097,2523 1092,2523 1078,2523 982,2509 979,2509 530,2515 449,2515 443,2515 400,2499 398,2499 395,2499 212,2509 212,2555"/>
+        <Baseline points="212,2555 1886,2579"/>
+        <TextEquiv>
+          <Unicode>to the law. It is the announcing, revealing, and publishing of an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d9021396" >
+        <Coords points="207,2657 204,2668 1853,2695 1859,2679 1853,2620 1657,2630 1635,2617 1633,2617 1630,2617 1627,2617 1608,2617 1452,2628 1423,2617 1417,2614 1415,2614 1412,2614 1374,2617 1237,2625 1014,2614 890,2609 887,2609 885,2609 869,2614 847,2620 839,2614 831,2606 828,2606 826,2606 823,2606 207,2609 207,2657"/>
+        <Baseline points="207,2657 1859,2679"/>
+        <TextEquiv>
+          <Unicode>eschatological event. Christian proclamation shares with the Old</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d187e231" >
+        <Coords points="209,2754 207,2776 1568,2794 1574,2776 1571,2733 209,2703 209,2754"/>
+        <Baseline points="209,2754 1574,2776"/>
+        <TextEquiv>
+          <Unicode>Testament tradition its orientation toward the future.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43a97d12" >
+        <Coords points="406,2859 403,2878 1977,2891 1982,2878 1982,2827 406,2811 406,2859"/>
+        <Baseline points="406,2859 1982,2878"/>
+        <TextEquiv>
+          <Unicode>The new aspect in the Christian proclamation, however, lies in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ee24db4" >
+        <Coords points="1996,2926 204,2910 204,2956 204,2983 387,2977 417,2988 433,2993 435,2993 438,2993 470,2988 519,2980 532,2991 538,2993 540,2993 543,2993 710,2996 713,2996 715,2996 726,2993 758,2983 925,2996 1003,3002 1006,3002 1068,2999 1189,2991 1202,3002 1205,3004 1208,3004 1210,3004 1213,3004 1286,3002 1474,2993 1512,3007 1517,3007 1520,3007 1522,3007 1525,3007 1530,3007 1574,2993 1654,3007 1670,3010 1673,3010 1684,3010 1743,2996 1996,3012 2001,2980 2001,2937 1996,2926"/>
+        <Baseline points="204,2956 2001,2980"/>
+        <TextEquiv>
+          <Unicode>its universal mission to all peoples. Christian &quot;tradition&quot; is mission</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

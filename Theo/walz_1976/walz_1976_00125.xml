@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00125.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.577101+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.577112+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00125.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_e456c461"  >
+      <Coords points="1996,505 1910,742 1996,871 2007,965 1087,987 1000,997 955,1084 236,1084 226,301 1931,301 2028,333 2061,470 1996,505"/>
+      <TextLine id="eSc_line_64f2b47d" >
+        <Coords points="223,347 220,360 1942,368 1948,360 1945,314 223,301 223,347"/>
+        <Baseline points="223,347 1948,360"/>
+        <TextEquiv>
+          <Unicode>fixed in static terms once and for all but are a living history. It</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70a7dd4a" >
+        <Coords points="2042,414 1442,414 1374,403 1323,398 1321,398 1261,403 1173,408 1121,400 1089,395 1087,395 1003,398 847,406 734,395 702,392 699,392 664,395 530,403 489,392 481,390 478,390 476,390 435,390 247,400 228,387 223,446 220,465 2042,473 2047,462 2044,422 2042,414"/>
+        <Baseline points="223,446 2047,462"/>
+        <TextEquiv>
+          <Unicode>begins with the sending and delivering up of the Son, continues with his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_85a3e396" >
+        <Coords points="220,546 217,559 815,578 817,578 1057,567 1076,567 1081,567 1135,581 1138,581 1140,581 1366,570 1377,570 1412,583 1415,583 1417,583 1630,572 1700,586 1703,586 1964,572 1966,562 1964,516 220,500 220,546"/>
+        <Baseline points="220,546 1966,562"/>
+        <TextEquiv>
+          <Unicode>resurrection and the transference of the rule of God to him. It only</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0c9f048" >
+        <Coords points="223,648 220,659 1894,683 1899,661 1899,618 1859,602 1856,602 1853,602 1606,616 1568,616 1565,616 1533,599 1530,599 1382,599 1380,599 1377,599 1374,599 1374,602 1364,613 1337,599 1334,599 1331,599 1329,599 1286,610 1278,613 1248,610 1095,597 1092,597 976,607 949,610 933,607 863,594 861,594 858,594 855,594 836,607 831,607 772,594 769,594 766,594 723,605 713,607 527,607 524,605 508,591 505,591 503,591 500,591 497,591 457,602 449,605 223,602 223,648"/>
+        <Baseline points="223,648 1899,661"/>
+        <TextEquiv>
+          <Unicode>ends when the Son hands over this rule to the Father. There is no</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a524f67a" >
+        <Coords points="220,750 217,763 1872,769 1878,761 1875,712 220,694 220,750"/>
+        <Baseline points="220,750 1878,761"/>
+        <TextEquiv>
+          <Unicode>loneliness and no rejection which he has not taken to himself and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_626270ce" >
+        <Coords points="217,847 215,868 1942,885 1948,860 1948,817 1896,801 1894,801 1891,801 1888,801 1853,815 1851,815 1845,815 1724,801 1722,801 1654,812 1638,815 1627,812 1584,798 1582,798 1579,798 1415,809 1353,812 1323,807 1253,796 1251,796 1054,804 912,809 893,801 874,793 871,793 869,793 734,798 575,807 551,796 538,790 535,790 360,790 357,790 355,790 352,790 349,793 333,804 217,793 217,847"/>
+        <Baseline points="217,847 1948,860"/>
+        <TextEquiv>
+          <Unicode>assumed in the cross of Jesus. The godforsaken and rejected man can</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba2ff99f" >
+        <Coords points="1991,960 1964,960 1937,960 1926,917 217,895 217,949 215,963 258,979 260,979 263,979 796,971 925,971 944,973 992,984 995,984 1178,976 1280,973 1323,979 1380,987 1382,989 1993,989 1996,963 1991,960 1991,960"/>
+        <Baseline points="217,949 1996,963"/>
+        <TextEquiv>
+          <Unicode>accept himself when he comes to know the crucified God who is with him</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_564cef00" >
+        <Coords points="220,1049 217,1067 955,1067 957,1057 955,1011 220,1003 220,1049"/>
+        <Baseline points="220,1049 957,1057"/>
+        <TextEquiv>
+          <Unicode>and has already accepted him.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_36be3713"  >
+      <Coords points="1008,1205 1008,1256 753,1266 742,1301 2028,1334 2007,1396 1942,1409 1974,1420 1964,1654 2050,1721 1953,2345 2039,2582 1996,2977 204,2967 215,1398 395,1345 365,1312 699,1299 269,1266 215,1234 226,1151 965,1162 1008,1205"/>
+      <TextLine id="eSc_line_20b57ccb" >
+        <Coords points="971,1170 949,1159 785,1159 782,1159 780,1156 597,1156 594,1156 591,1154 242,1151 217,1164 217,1199 215,1226 976,1234 982,1210 976,1175 971,1170"/>
+        <Baseline points="217,1199 982,1210"/>
+        <TextEquiv>
+          <Unicode>Ways towards the Psychological</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dcfbee61" >
+        <Coords points="271,1256 271,1285 707,1283 707,1250 702,1213 269,1210 271,1256"/>
+        <Baseline points="271,1256 707,1250"/>
+        <TextEquiv>
+          <Unicode>Liberation of Man</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5d7e8f47" >
+        <Coords points="2004,1331 1977,1331 1950,1331 1923,1331 1896,1328 1869,1328 1843,1328 1816,1328 1789,1326 1762,1326 1735,1326 1708,1326 1681,1323 1654,1323 1627,1323 1600,1323 1574,1320 1547,1320 1520,1320 1493,1320 1466,1318 1439,1318 1412,1318 1385,1318 1366,1315 417,1310 417,1353 414,1377 2017,1377 2020,1363 2012,1345 2004,1331"/>
+        <Baseline points="417,1353 2020,1363"/>
+        <TextEquiv>
+          <Unicode>Here Moltmann asks the question, &#x27;&#x27;Who is man in the face of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7b0c6d36" >
+        <Coords points="215,1452 212,1460 1915,1479 1921,1466 1918,1406 215,1406 215,1452"/>
+        <Baseline points="215,1452 1921,1466"/>
+        <TextEquiv>
+          <Unicode>rejected Son of Man who was raised up in the freedom of God?“ This</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94c690f2" >
+        <Coords points="215,1554 212,1576 1934,1587 1939,1565 1937,1517 215,1498 215,1554"/>
+        <Baseline points="215,1554 1939,1565"/>
+        <TextEquiv>
+          <Unicode>leads into a dialogue with the anthropological science which is also</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e362eaa8" >
+        <Coords points="212,1654 209,1673 1937,1678 1942,1667 1942,1622 212,1603 212,1654"/>
+        <Baseline points="212,1654 1942,1667"/>
+        <TextEquiv>
+          <Unicode>concerned with the therapy of sick men. Here he first refers to the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_68b0e8ff" >
+        <Coords points="207,1756 204,1778 2034,1788 2039,1767 2036,1718 546,1697 543,1697 207,1708 207,1756"/>
+        <Baseline points="207,1756 2039,1767"/>
+        <TextEquiv>
+          <Unicode>psychoanalysis of Sigmund Freud whose criticism of religion is important</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b3f29c23" >
+        <Coords points="212,1856 209,1866 2034,1880 2039,1869 2036,1818 212,1807 212,1856"/>
+        <Baseline points="212,1856 2039,1869"/>
+        <TextEquiv>
+          <Unicode>for critical theology. We need a psychological hermeneutics of the word</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_23df03c2" >
+        <Coords points="209,1955 207,1974 1961,1979 1966,1969 1966,1923 1923,1907 1921,1907 1918,1907 1678,1917 1617,1920 1603,1917 1560,1904 1557,1904 1555,1904 1372,1915 1291,1917 1280,1912 1261,1904 1259,1904 1256,1904 1078,1909 912,1915 877,1907 844,1899 842,1899 839,1899 745,1904 640,1912 608,1904 594,1899 591,1899 589,1899 586,1899 578,1901 559,1912 209,1899 209,1955"/>
+        <Baseline points="209,1955 1966,1969"/>
+        <TextEquiv>
+          <Unicode>of the cross. The theology of Paul and the Reformation speaks of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_515f6efc" >
+        <Coords points="212,2057 209,2068 1982,2087 1988,2065 1985,2014 492,2014 212,1998 212,2057"/>
+        <Baseline points="212,2057 1988,2065"/>
+        <TextEquiv>
+          <Unicode>liberation of man by faith from the obsession of works. Psychological</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_74478dc4" >
+        <Coords points="212,2157 209,2176 1958,2189 1964,2170 1961,2122 212,2103 212,2157"/>
+        <Baseline points="212,2157 1964,2170"/>
+        <TextEquiv>
+          <Unicode>hermeneutics discovers a point of correspondence to this obsession in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e7754a70" >
+        <Coords points="1961,2254 1948,2216 212,2208 212,2256 209,2270 1958,2289 1964,2264 1961,2248 1961,2254"/>
+        <Baseline points="212,2256 1964,2264"/>
+        <TextEquiv>
+          <Unicode>the obsessive ideas and actions of sick people and seeks to free them</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6db5893b" >
+        <Coords points="209,2372 1447,2377 1452,2367 1450,2321 1043,2321 1038,2313 1030,2308 1030,2305 1027,2305 1025,2305 1022,2305 844,2310 626,2316 578,2305 562,2302 559,2302 495,2305 250,2313 215,2299 212,2359 209,2372"/>
+        <Baseline points="212,2359 1452,2367"/>
+        <TextEquiv>
+          <Unicode>for love and for unrestrained sympathy with life.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8579fa14" >
+        <Coords points="408,2458 406,2469 1961,2488 1966,2469 1964,2421 408,2402 408,2458"/>
+        <Baseline points="408,2458 1966,2469"/>
+        <TextEquiv>
+          <Unicode>Sigmund Freud developed psychoanalysis in the therapy of sick</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1f0b3d6" >
+        <Coords points="209,2558 207,2568 2007,2582 2012,2571 2009,2517 209,2507 209,2558"/>
+        <Baseline points="209,2558 2012,2571"/>
+        <TextEquiv>
+          <Unicode>individuals. Although he was very careful in transferring the patterns</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e3acee83" >
+        <Coords points="204,2657 201,2676 2028,2684 2034,2668 2031,2622 204,2611 204,2657"/>
+        <Baseline points="204,2657 2034,2668"/>
+        <TextEquiv>
+          <Unicode>of individual illnesses to society, he kept their determining conditions</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_619871d1" >
+        <Coords points="209,2759 207,2770 1980,2784 1985,2773 1982,2722 209,2714 209,2759"/>
+        <Baseline points="209,2759 1985,2773"/>
+        <TextEquiv>
+          <Unicode>under constant investigation. This caution is less detectable in some</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dfe1da4a" >
+        <Coords points="207,2859 204,2870 2001,2880 2007,2870 2004,2824 207,2813 207,2859"/>
+        <Baseline points="207,2859 2007,2870"/>
+        <TextEquiv>
+          <Unicode>of his followers. The transference of patterns of individual illnesses</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fba75a05" >
+        <Coords points="1980,2969 1953,2969 1942,2926 1797,2913 1794,2913 1477,2921 1382,2924 1369,2921 1337,2910 1334,2910 1331,2910 1108,2918 979,2921 874,2915 731,2905 729,2905 726,2905 702,2913 683,2918 672,2913 664,2905 661,2905 659,2905 656,2905 653,2905 637,2910 618,2918 207,2907 207,2959 207,2991 495,2980 521,2993 524,2993 527,2993 530,2993 562,2980 616,2993 626,2996 629,2996 632,2996 651,2993 718,2983 734,2993 734,2996 737,2996 739,2996 1980,2999 1985,2972 1982,2969 1980,2969"/>
+        <Baseline points="207,2959 1985,2972"/>
+        <TextEquiv>
+          <Unicode>to society as a whole is no more meaningful than the transference of a</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3989752e"  >
+      <Coords points="1956,215 2050,215 2050,266 1956,266 1956,215"/>
+      <TextLine id="eSc_line_35b8c999" >
+        <Coords points="2007,215 1980,215 1956,258 1956,274 2050,274 2050,252 2034,215 2007,215"/>
+        <Baseline points="1956,258 2050,252"/>
+        <TextEquiv>
+          <Unicode>118</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

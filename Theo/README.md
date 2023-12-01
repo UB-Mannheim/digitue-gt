@@ -24,5 +24,6 @@ processed to remove empty lines:
 
 #### Books
 - [Konrad Summenhart (1877)](http://idb.ub.uni-tuebingen.de/opendigi/linsenmann1877) (19 pages / 478 lines) – italic script
+- [The use of Moltmann's Theology of hope in parish preaching (1976)](https://opendigi.ub.uni-tuebingen.de/opendigi/walz_1976) (71 pages / 2028 lines) - modern typewriter
 
 Total 196 pages / 6943 lines.

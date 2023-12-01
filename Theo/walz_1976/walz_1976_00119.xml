@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00119.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.493748+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.493759+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00119.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_e6f15495"  >
+      <Coords points="1985,373 2028,451 2028,868 2007,954 1942,1000 1942,1116 2017,1151 2028,1245 1956,1266 1931,1331 1942,1406 2028,1463 2039,1546 2017,1643 1891,1654 1845,1708 1867,1815 1942,1893 1910,2009 2007,2065 2017,2138 1974,2181 1730,2192 1705,2224 2007,2291 2050,2633 2028,2773 1974,2816 2028,2840 2039,2945 204,2945 193,1786 333,1710 204,1697 193,1654 193,387 373,355 398,279 1923,258 2007,312 1985,373"/>
+      <TextLine id="eSc_line_40c55015" >
+        <Coords points="1931,266 591,274 578,277 551,277 524,277 497,277 470,277 443,277 417,277 390,293 392,325 392,349 1939,328 1942,314 1934,266 1931,266"/>
+        <Baseline points="392,325 1942,314"/>
+        <TextEquiv>
+          <Unicode>In this chapter Moltmann attempts to understand Christ in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b4682f6" >
+        <Coords points="1982,371 1829,360 1826,360 1705,373 1684,376 242,376 215,381 188,381 191,433 191,454 1988,430 1991,416 1985,381 1982,371"/>
+        <Baseline points="191,433 1991,416"/>
+        <TextEquiv>
+          <Unicode>light of his life and ministry. By &quot;trial“ he does not mean simply his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80e3017b" >
+        <Coords points="191,532 191,546 2012,538 2015,513 2009,470 1232,462 1229,462 1143,476 1140,476 1138,476 1014,465 1011,465 1008,465 968,478 965,478 949,478 785,468 782,468 715,481 704,481 675,481 449,470 446,470 443,470 411,484 406,486 188,486 191,532"/>
+        <Baseline points="191,532 2015,513"/>
+        <TextEquiv>
+          <Unicode>appearance before the Sanhedrin or Pilate but his struggle for the truth</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8aede2bd" >
+        <Coords points="191,629 191,645 2012,632 2015,616 2007,556 1907,570 1816,556 1800,556 1797,556 1754,559 1539,572 1477,562 1444,556 1442,556 1380,562 1264,575 1156,564 1113,562 1111,562 1108,562 1100,567 1078,578 831,578 761,570 694,562 691,562 688,562 659,570 634,578 600,572 556,564 554,564 551,564 527,572 500,581 446,572 379,564 376,564 188,575 191,629"/>
+        <Baseline points="191,629 2015,616"/>
+        <TextEquiv>
+          <Unicode>of God in which he was a witness and his trial in the judgment of God in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_439ab54a" >
+        <Coords points="191,731 191,747 1708,747 1708,745 1722,745 1808,731 2009,742 2015,715 2009,672 1738,659 1735,659 1622,672 1619,672 1517,661 1514,661 1412,675 1399,675 1366,675 1103,664 1100,664 1097,664 1073,677 1068,680 188,680 191,731"/>
+        <Baseline points="191,731 2015,715"/>
+        <TextEquiv>
+          <Unicode>which his witnesses speak up on his behalf. The crucified Christ is the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_25329257" >
+        <Coords points="193,833 193,858 2012,831 2015,817 2007,774 204,785 193,833"/>
+        <Baseline points="193,833 2015,817"/>
+        <TextEquiv>
+          <Unicode>key for all the divine secrets of Christian theology. His preaching was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c171e1a" >
+        <Coords points="193,933 193,946 1993,938 1996,914 1991,871 1479,860 1477,860 1474,860 1442,874 1436,874 1221,863 1218,863 1216,863 1183,876 1175,876 979,866 976,866 974,866 944,879 941,879 922,879 704,868 702,868 699,868 696,868 678,882 675,882 656,882 454,871 452,871 204,885 193,933"/>
+        <Baseline points="193,933 1996,914"/>
+        <TextEquiv>
+          <Unicode>eschatological preaching like that of Paul. Jesus preached the kingdom</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af86b07e" >
+        <Coords points="191,1032 191,1046 1921,1038 1921,1019 1915,979 1226,968 1224,968 1143,981 1132,981 1108,981 912,971 909,971 906,971 871,981 863,987 188,987 191,1032"/>
+        <Baseline points="191,1032 1921,1019"/>
+        <TextEquiv>
+          <Unicode>of God; Paul preached the righteousness of God. In the one case the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1aa3c97" >
+        <Coords points="196,1132 196,1154 1913,1143 1915,1121 1910,1078 193,1076 196,1132"/>
+        <Baseline points="196,1132 1915,1121"/>
+        <TextEquiv>
+          <Unicode>future is just beginning and in the other case it has already begun.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eeba7301" >
+        <Coords points="196,1234 196,1250 2017,1237 2020,1215 2012,1172 217,1178 215,1178 212,1178 193,1186 196,1234"/>
+        <Baseline points="196,1234 2020,1215"/>
+        <TextEquiv>
+          <Unicode>Jesus preached the traditions of contemporary Judaism. His announcement</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b135426" >
+        <Coords points="193,1336 193,1342 1880,1331 1880,1320 1875,1277 1547,1264 1544,1264 1541,1264 1539,1264 1539,1266 1525,1280 1401,1280 1364,1264 1361,1264 1358,1264 1356,1264 1310,1280 1304,1280 1135,1266 1132,1266 1068,1280 1038,1266 1035,1266 1033,1266 939,1283 936,1283 473,1272 470,1272 468,1272 433,1285 236,1275 234,1275 231,1275 204,1285 193,1336"/>
+        <Baseline points="193,1336 1880,1320"/>
+        <TextEquiv>
+          <Unicode>of the kingdom of God was so novel it led to his crucifixion. The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_85b80889" >
+        <Coords points="199,1433 199,1449 1923,1439 1926,1420 1921,1377 1775,1361 1773,1361 1770,1361 1767,1361 1751,1374 1619,1363 1617,1363 1614,1363 1571,1377 1563,1377 196,1377 199,1433"/>
+        <Baseline points="199,1433 1926,1420"/>
+        <TextEquiv>
+          <Unicode>content of his preaching also showed this change: he proclaimed the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6bb5030b" >
+        <Coords points="201,1535 201,1554 2023,1530 2023,1519 2017,1476 1800,1463 1797,1463 1722,1476 1713,1479 199,1482 201,1535"/>
+        <Baseline points="201,1535 2023,1519"/>
+        <TextEquiv>
+          <Unicode>righteousness of God as the law of grace. His preaching was tied to his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98b1dd50" >
+        <Coords points="199,1635 199,1648 2012,1648 2015,1619 2009,1570 812,1570 809,1570 699,1584 696,1584 694,1584 508,1573 505,1573 503,1573 500,1573 500,1576 497,1576 489,1587 484,1587 277,1576 274,1576 196,1589 199,1635"/>
+        <Baseline points="199,1635 2015,1619"/>
+        <TextEquiv>
+          <Unicode>own person and with his hour, and his hour with the hour of his kingdom.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e7a5acc" >
+        <Coords points="403,1735 403,1748 1824,1735 1826,1721 1818,1675 400,1675 403,1735"/>
+        <Baseline points="403,1735 1826,1721"/>
+        <TextEquiv>
+          <Unicode>The historical and hermeneutic question is how Jesus who</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_78901e97" >
+        <Coords points="199,1839 199,1850 1851,1839 1853,1823 1845,1778 196,1783 199,1839"/>
+        <Baseline points="199,1839 1853,1823"/>
+        <TextEquiv>
+          <Unicode>preached became Christ who is preached. The basic christological</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c747e7e" >
+        <Coords points="1910,1866 199,1877 201,1936 201,1958 1926,1942 1926,1923 1918,1874 1910,1866"/>
+        <Baseline points="201,1936 1926,1923"/>
+        <TextEquiv>
+          <Unicode>question is how the dead Jesus became the living; the crucified, the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_78eecd33" >
+        <Coords points="201,2039 201,2055 1880,2036 1883,2025 1878,1982 199,1982 201,2039"/>
+        <Baseline points="201,2039 1883,2025"/>
+        <TextEquiv>
+          <Unicode>resurrected; and the humiliated, the exalted. This eschatological</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a6f6b68" >
+        <Coords points="201,2141 201,2154 1999,2138 2001,2125 1993,2071 199,2090 201,2141"/>
+        <Baseline points="201,2141 2001,2125"/>
+        <TextEquiv>
+          <Unicode>mystery lies in the faithfulness of God who manifests himself to be the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d3f46de6" >
+        <Coords points="201,2238 201,2248 1643,2235 1643,2224 1638,2184 199,2184 201,2238"/>
+        <Baseline points="201,2238 1643,2224"/>
+        <TextEquiv>
+          <Unicode>same in the abandonment and in the resurrection of Jesus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0bb1bec" >
+        <Coords points="1961,2281 1934,2275 400,2291 403,2337 403,2361 718,2348 1977,2348 1982,2324 1974,2283 1961,2281"/>
+        <Baseline points="403,2337 1982,2324"/>
+        <TextEquiv>
+          <Unicode>Scarcely any historian now doubts that Jesus of Nazareth lived</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a4bb5a09" >
+        <Coords points="201,2442 201,2455 1980,2439 1982,2423 1977,2377 1756,2364 1754,2364 1638,2377 1635,2380 199,2388 201,2442"/>
+        <Baseline points="201,2442 1982,2423"/>
+        <TextEquiv>
+          <Unicode>at the beginning of our era. The question of the meaning of his death</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62af3deb" >
+        <Coords points="204,2539 204,2552 2007,2550 2009,2525 2004,2482 565,2477 562,2477 559,2477 532,2490 255,2480 252,2480 250,2480 201,2493 204,2539"/>
+        <Baseline points="204,2539 2009,2525"/>
+        <TextEquiv>
+          <Unicode>on the cross, however, remains open. His life and death are accessible</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_235c12dc" >
+        <Coords points="207,2641 207,2657 2031,2641 2031,2622 2023,2574 360,2595 242,2585 239,2585 236,2585 204,2595 207,2641"/>
+        <Baseline points="207,2641 2031,2622"/>
+        <TextEquiv>
+          <Unicode>to us in the sources only in the context of the interpretations in which</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ed3f46be" >
+        <Coords points="204,2741 204,2751 2009,2743 2009,2724 2004,2681 1407,2671 1404,2671 1401,2671 1345,2684 1331,2687 1321,2684 1256,2673 1253,2673 1189,2687 1183,2687 1181,2687 1167,2673 1165,2673 1162,2673 1159,2673 1156,2673 1105,2687 1092,2690 1043,2687 904,2679 901,2679 710,2690 653,2692 648,2690 621,2679 618,2679 616,2679 201,2692 204,2741"/>
+        <Baseline points="204,2741 2009,2724"/>
+        <TextEquiv>
+          <Unicode>his death was understood and recounted. His death cannot be understood</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65caf194" >
+        <Coords points="204,2843 204,2856 1934,2837 1937,2827 1931,2781 1646,2768 1643,2768 201,2786 204,2843"/>
+        <Baseline points="204,2843 1937,2827"/>
+        <TextEquiv>
+          <Unicode>without his life. His life cannot be understood without the one for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5ab9d29" >
+        <Coords points="2023,2872 217,2891 207,2940 207,2980 255,2985 258,2985 260,2985 263,2985 269,2980 304,2961 446,2975 449,2975 452,2975 511,2959 594,2980 616,2983 618,2983 715,2977 930,2967 957,2977 965,2980 968,2980 971,2980 974,2980 976,2980 979,2977 995,2964 1025,2975 1027,2975 1030,2975 1033,2975 1119,2953 1350,2953 1407,2975 1415,2977 1417,2977 1420,2977 1423,2977 1431,2975 1485,2950 1678,2972 1684,2972 1687,2972 1689,2972 1748,2948 1845,2948 1888,2972 1891,2972 1894,2972 1896,2972 1899,2972 1902,2972 1950,2956 2031,2969 2034,2924 2026,2872 2023,2872"/>
+        <Baseline points="207,2940 2034,2924"/>
+        <TextEquiv>
+          <Unicode>whom he lived, his God and Father, and the gospel of the kingdom for the</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b85e8893"  >
+      <Coords points="2017,223 1913,223 1923,172 2007,172 2017,223"/>
+      <TextLine id="eSc_line_df057467" >
+        <Coords points="1996,172 1969,172 1942,172 1929,182 1918,215 1918,244 2009,234 2009,209 2007,207 1996,172"/>
+        <Baseline points="1918,215 2009,209"/>
+        <TextEquiv>
+          <Unicode>112</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00094.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.158765+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.158776+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00094.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_b0cf03de"  >
+      <Coords points="2071,667 2017,957 2071,1043 2071,1213 2039,1256 1902,1266 1738,1406 2061,1452 2061,1525 1974,1581 1942,1678 2050,1753 2050,1815 1845,1923 1342,1923 976,2009 215,1987 215,1517 236,1474 408,1449 312,1428 352,1396 226,1374 269,290 1910,333 1942,387 1921,578 2071,667"/>
+      <TextLine id="eSc_line_80d0a089" >
+        <Coords points="1902,330 1875,330 1848,330 1821,330 1794,328 1767,328 1740,328 1713,328 1687,325 1660,325 1633,325 1606,325 1579,322 1552,322 1525,322 1498,322 1471,320 1444,320 1417,320 1391,317 1364,317 1337,317 1310,317 1283,314 1256,314 1229,314 1202,314 1175,312 1148,312 1121,312 1095,312 1068,309 1041,309 1014,309 987,309 960,306 933,306 906,306 879,303 852,303 826,303 799,303 772,301 745,301 718,301 691,301 664,298 637,298 610,298 583,298 556,295 530,295 503,295 476,295 449,293 422,293 395,293 368,293 341,290 314,290 287,290 285,285 260,285 260,338 258,349 1904,403 1910,384 1907,336 1902,330"/>
+        <Baseline points="260,338 1910,384"/>
+        <TextEquiv>
+          <Unicode>Paul as God&#x27;s faithfulness in communal relationships, as an event</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6496b293" >
+        <Coords points="1923,484 1913,438 1738,438 1732,433 1703,419 1700,419 1697,419 1461,425 1358,425 1353,419 1348,411 1345,411 1345,408 1342,408 1339,408 1337,408 1294,416 1283,419 1275,416 1245,406 1243,406 1240,406 1237,406 1205,414 1186,419 1159,414 1124,403 1121,403 1119,403 906,403 659,406 640,395 634,390 632,390 629,390 626,390 573,392 454,400 382,387 355,381 352,381 336,384 285,395 263,381 260,381 258,441 255,449 454,470 457,473 1035,473 1049,484 1049,486 1052,486 1054,486 1057,489 1611,489 1630,503 1633,503 1635,503 1638,503 1719,492 1845,508 1848,508 1929,494 1931,486 1929,476 1923,484"/>
+        <Baseline points="258,441 1931,486"/>
+        <TextEquiv>
+          <Unicode>brought about by God and as an event from which there arises a new</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08a2c651" >
+        <Coords points="255,543 252,562 1875,602 1880,586 1878,532 255,489 255,543"/>
+        <Baseline points="255,543 1880,586"/>
+        <TextEquiv>
+          <Unicode>creation and a new life. Paul sees this divine righteousness as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3bc2a14b" >
+        <Coords points="2031,642 255,583 250,597 250,642 247,656 2047,712 2052,691 2050,653 2031,642"/>
+        <Baseline points="250,642 2052,691"/>
+        <TextEquiv>
+          <Unicode>revealed in the gospel (Romans 1:17) and grasped in faith. This divine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d82afd1b" >
+        <Coords points="2036,750 1948,731 1945,731 1856,745 1759,728 1756,728 1498,731 1474,718 1471,718 1469,718 1466,718 1399,731 1345,715 1342,715 1339,715 1337,715 1288,728 1286,728 1243,712 1240,712 1237,712 1108,723 1100,723 1097,723 1062,707 1060,707 1057,707 591,707 532,707 511,704 339,685 336,685 250,696 250,745 247,755 2042,807 2047,796 2044,790 2036,750"/>
+        <Baseline points="250,745 2047,796"/>
+        <TextEquiv>
+          <Unicode>righteousness has its ground both in the event of the cross and in that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_209dfb4d" >
+        <Coords points="242,847 239,858 1996,903 2001,893 2001,844 242,801 242,847"/>
+        <Baseline points="242,847 2001,893"/>
+        <TextEquiv>
+          <Unicode>of the resurrection. The divine righteousness which is here revealed</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd489c09" >
+        <Coords points="242,946 239,954 1966,1003 1972,995 1969,949 1598,941 1595,936 1590,928 1587,928 1587,925 1584,925 1582,925 1291,925 1049,925 1025,914 1011,909 1008,909 1006,909 976,911 930,919 917,911 914,906 912,906 909,906 906,906 828,906 626,911 540,898 527,895 524,895 516,895 452,906 242,887 242,946"/>
+        <Baseline points="242,946 1972,995"/>
+        <TextEquiv>
+          <Unicode>finds its measure not in the sin it forgives but in that new life in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_367efff3" >
+        <Coords points="242,1049 239,1067 2061,1110 2066,1097 2052,1046 242,989 242,1049"/>
+        <Baseline points="242,1049 2066,1097"/>
+        <TextEquiv>
+          <Unicode>the glory of the risen and exalted Christ which it promises and to which</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2a84a0f" >
+        <Coords points="236,1151 234,1172 2050,1215 2055,1199 2052,1151 1945,1132 1942,1132 1735,1137 1654,1140 1646,1135 1635,1124 1633,1124 1630,1124 1627,1124 1530,1132 1477,1135 1466,1129 1452,1119 1450,1119 1447,1119 1444,1119 1391,1127 1345,1132 944,1124 914,1110 904,1105 901,1105 898,1105 796,1105 460,1108 430,1092 427,1092 425,1092 422,1092 417,1092 339,1105 236,1086 236,1151"/>
+        <Baseline points="236,1151 2055,1199"/>
+        <TextEquiv>
+          <Unicode>it points. The divine righteousness is present in faith and in baptism,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0453195c" >
+        <Coords points="231,1213 231,1250 228,1266 812,1288 815,1288 852,1280 869,1277 885,1280 914,1291 917,1291 920,1291 922,1291 952,1283 965,1280 992,1283 1084,1296 1087,1296 1245,1288 1269,1288 1275,1288 1294,1301 1296,1301 1299,1301 1302,1301 1461,1293 1469,1293 1471,1293 1509,1307 1512,1307 1514,1307 1832,1299 1835,1291 1835,1245 1087,1213 1084,1213 998,1223 982,1223 960,1221 852,1207 850,1207 793,1218 785,1218 769,1205 766,1205 764,1205 234,1205 231,1213"/>
+        <Baseline points="231,1250 1835,1291"/>
+        <TextEquiv>
+          <Unicode>yet in such a way that it is engaged in a process which will be</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae04185c" >
+        <Coords points="231,1347 228,1358 1264,1385 1269,1374 1269,1328 231,1301 231,1347"/>
+        <Baseline points="231,1347 1269,1374"/>
+        <TextEquiv>
+          <Unicode>completed only at the parousia of Christ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_40ec97eb" >
+        <Coords points="2039,1447 427,1398 427,1455 425,1476 750,1476 963,1490 1111,1498 1113,1498 1116,1498 1140,1492 1162,1487 1186,1492 1216,1501 1218,1501 1956,1519 1958,1519 2052,1506 2055,1495 2042,1449 2039,1447"/>
+        <Baseline points="427,1455 2055,1495"/>
+        <TextEquiv>
+          <Unicode>Justification means not only that the unjust is given a right to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6116922a" >
+        <Coords points="223,1546 220,1568 1942,1608 1948,1589 1948,1549 223,1501 223,1546"/>
+        <Baseline points="223,1546 1560,1589 1948,1589"/>
+        <TextEquiv>
+          <Unicode>stand before God and to endure the judgment, but it has also a theo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c4bdc8d" >
+        <Coords points="223,1651 220,1673 1891,1716 1896,1697 1896,1651 223,1597 223,1651"/>
+        <Baseline points="223,1651 1896,1697"/>
+        <TextEquiv>
+          <Unicode>logical meaning--namely, in this event God attains his rights over</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ccdf47d1" >
+        <Coords points="217,1753 215,1775 2036,1823 2042,1799 2042,1756 217,1700 217,1753"/>
+        <Baseline points="217,1753 2042,1799"/>
+        <TextEquiv>
+          <Unicode>against his creation. If in the justification of the sinner God attains</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_992badf1" >
+        <Coords points="217,1853 215,1877 1861,1907 1867,1893 1867,1848 1318,1818 1315,1818 1237,1829 1221,1831 1127,1831 1121,1826 1103,1813 1100,1813 1097,1813 1095,1813 1035,1823 1027,1826 1022,1823 990,1810 987,1810 984,1810 909,1821 895,1823 893,1821 879,1810 879,1807 877,1807 874,1807 871,1807 785,1818 774,1818 764,1818 634,1802 632,1802 629,1802 602,1813 594,1815 565,1813 438,1796 435,1796 433,1796 392,1807 384,1810 373,1807 330,1794 328,1794 325,1794 217,1802 217,1853"/>
+        <Baseline points="217,1853 1867,1893"/>
+        <TextEquiv>
+          <Unicode>to his rights, then this justification is the beginning and fore-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_60354320" >
+        <Coords points="212,1952 209,1974 893,1982 895,1985 936,1998 939,1998 941,1998 1000,1985 1003,1977 1003,1928 212,1901 212,1952"/>
+        <Baseline points="212,1952 1003,1977"/>
+        <TextEquiv>
+          <Unicode>shadowing of his sole lordship.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5c6bc415"  >
+      <Coords points="2031,247 2082,247 2093,277 2020,298 2031,247"/>
+      <TextLine id="eSc_line_c0d856ab" >
+        <Coords points="2026,287 2026,320 2079,309 2079,287 2079,234 2026,231 2026,287"/>
+        <Baseline points="2026,287 2079,287"/>
+        <TextEquiv>
+          <Unicode>87</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d36e20a1"  >
+      <Coords points="1985,2170 1835,2238 1888,2291 1899,2472 1813,2507 1985,2550 1964,2719 707,2733 793,2743 782,2794 828,2819 1867,2840 1910,2862 1910,2924 1555,2956 193,2924 182,2614 352,2571 376,2539 344,2528 387,2515 290,2482 290,2324 355,2259 204,2224 226,2044 1974,2087 1985,2170"/>
+      <TextLine id="eSc_line_71950bc8" >
+        <Coords points="1966,2103 1458,2079 1455,2079 1259,2082 1095,2082 1068,2073 1046,2068 1043,2068 1041,2068 1014,2073 971,2079 643,2060 583,2057 581,2057 556,2057 349,2063 212,2047 212,2106 209,2133 626,2149 629,2149 721,2143 820,2135 895,2146 960,2154 963,2154 998,2146 1030,2141 1068,2149 1121,2160 1124,2160 1202,2152 1243,2146 1272,2152 1337,2165 1339,2165 1722,2160 1767,2160 1775,2160 1880,2181 1883,2181 1980,2162 1982,2152 1980,2141 1966,2103"/>
+        <Baseline points="212,2106 1982,2152"/>
+        <TextEquiv>
+          <Unicode>The future of life. What sort of expectation of life and what sort of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_333f574b" >
+        <Coords points="204,2168 204,2205 201,2216 1762,2254 1767,2243 1767,2197 212,2149 204,2168"/>
+        <Baseline points="204,2205 1767,2243"/>
+        <TextEquiv>
+          <Unicode>experience of death were quickened by the promises of Israel?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_262d9324" >
+        <Coords points="406,2310 403,2318 1867,2361 1872,2348 1872,2299 1851,2289 1848,2289 1845,2289 1843,2289 1770,2299 1754,2286 1751,2286 1748,2286 1746,2286 1662,2297 1630,2283 1627,2283 1625,2283 1622,2283 1574,2294 1417,2278 1415,2278 1353,2289 1350,2289 1348,2289 1307,2275 1304,2275 1302,2275 1251,2286 1248,2286 1245,2286 1216,2273 1213,2273 1210,2273 1148,2283 1138,2283 1119,2283 990,2267 987,2267 984,2267 952,2278 947,2278 933,2264 930,2264 928,2264 925,2264 844,2273 826,2275 796,2273 702,2259 699,2259 406,2259 406,2310"/>
+        <Baseline points="406,2310 1872,2348"/>
+        <TextEquiv>
+          <Unicode>It is surprising that for long the Jews had no thoughts or</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06f3d00a" >
+        <Coords points="1670,2345 1665,2342 1590,2342 1590,2342 1563,2342 1549,2340 1495,2340 1482,2340 1455,2340 1436,2337 1404,2337 1401,2337 1374,2337 1361,2334 1313,2334 1294,2334 1267,2334 1245,2332 1218,2332 1213,2332 1186,2332 1159,2332 1132,2329 1127,2329 1105,2329 1078,2329 1052,2329 1025,2326 998,2326 971,2326 944,2326 917,2324 890,2324 863,2324 836,2324 809,2321 782,2321 756,2321 729,2321 702,2318 675,2318 648,2318 621,2318 594,2316 567,2316 540,2316 513,2316 487,2313 460,2313 433,2313 406,2313 403,2308 304,2305 298,2313 298,2356 295,2367 1864,2410 1869,2396 1867,2351 1681,2345 1670,2345"/>
+        <Baseline points="298,2356 1869,2396"/>
+        <TextEquiv>
+          <Unicode>dreams about che last agony. They were as much a this-worldly</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0fffd3e6" >
+        <Coords points="301,2410 298,2431 371,2423 408,2437 417,2439 419,2439 422,2439 425,2439 433,2437 476,2426 734,2442 769,2445 772,2445 826,2445 1089,2442 1130,2450 1165,2458 1167,2458 1170,2458 1183,2453 1202,2445 1218,2453 1240,2461 1243,2461 1245,2461 1345,2455 1428,2450 1501,2458 1595,2469 1598,2469 1869,2464 1872,2450 1872,2407 301,2359 301,2410"/>
+        <Baseline points="301,2410 1872,2450"/>
+        <TextEquiv>
+          <Unicode>people as the Greeks, and yet their life was incomparably more</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_320766a1" >
+        <Coords points="1294,2437 1267,2437 1240,2434 1213,2434 1186,2434 1159,2434 1132,2431 1105,2431 1078,2431 1052,2431 1025,2429 998,2429 971,2429 944,2429 917,2426 890,2426 863,2426 836,2426 809,2423 782,2423 756,2423 729,2423 707,2421 632,2421 621,2421 618,2418 298,2418 298,2461 295,2472 1302,2490 1307,2474 1302,2437 1294,2437"/>
+        <Baseline points="298,2461 1019,2480 1307,2474"/>
+        <TextEquiv>
+          <Unicode>vigorously determined by future goals. 30</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e498d045" >
+        <Coords points="1977,2563 1964,2552 1786,2533 1783,2533 1689,2547 1676,2547 1625,2544 1251,2520 1248,2520 1170,2533 1165,2533 1156,2533 1095,2517 1092,2517 1089,2517 1087,2517 1043,2531 1038,2531 726,2525 723,2523 702,2507 699,2507 696,2507 694,2507 691,2507 648,2520 645,2520 610,2507 608,2507 605,2507 390,2512 390,2560 387,2574 1982,2620 1988,2601 1985,2555 1977,2552 1977,2563"/>
+        <Baseline points="390,2560 1988,2601"/>
+        <TextEquiv>
+          <Unicode>All dead things represented for Israel the acme of uncleanness.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0d7429b" >
+        <Coords points="212,2603 185,2611 185,2655 182,2665 295,2684 1953,2714 1958,2700 1956,2646 747,2625 616,2606 602,2606 600,2606 591,2606 497,2617 234,2598 212,2603"/>
+        <Baseline points="185,2655 1958,2700"/>
+        <TextEquiv>
+          <Unicode>All pollutions of this kind involve exclusion from the service of God.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1635e3c2" >
+        <Coords points="390,2854 387,2870 1143,2910 1146,2910 1186,2905 1226,2897 1275,2907 1313,2915 1315,2915 1318,2915 1339,2910 1372,2902 1722,2910 1746,2926 1748,2926 1751,2926 1754,2926 1756,2926 1797,2915 1813,2929 1813,2932 1816,2932 1818,2932 1821,2934 1899,2934 1902,2902 1899,2862 1781,2843 1778,2843 1775,2843 1735,2854 1730,2854 1724,2854 1643,2837 1641,2837 1512,2846 1482,2846 1479,2843 1469,2835 1469,2832 1466,2832 1463,2832 1461,2832 1216,2832 1065,2832 390,2800 390,2854"/>
+        <Baseline points="390,2854 1902,2902"/>
+        <TextEquiv>
+          <Unicode>30 quoted in Moltmann, Theology of Hope from Ernst Bloch, Das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0c22aed0" >
+        <Coords points="1501,2891 1487,2889 1369,2897 182,2859 182,2905 180,2929 376,2953 575,2956 578,2956 581,2956 618,2942 629,2940 645,2942 729,2961 731,2961 831,2948 861,2945 885,2950 925,2959 928,2959 990,2953 1014,2950 1022,2953 1062,2972 1065,2972 1068,2972 1070,2972 1103,2956 1108,2953 1132,2956 1256,2977 1259,2977 1261,2977 1307,2961 1318,2959 1350,2961 1477,2980 1479,2980 1547,2967 1549,2942 1549,2902 1525,2891 1501,2891"/>
+        <Baseline points="182,2905 1549,2942"/>
+        <TextEquiv>
+          <Unicode>Prinzip Hoffnung (Frankfurt: Suhrkamp, 1959), p. 1323.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

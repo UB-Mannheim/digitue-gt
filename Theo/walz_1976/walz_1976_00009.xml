@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00009.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.381899+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.381917+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00009.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_2c45a796"  >
+      <Coords points="2071,395 1966,416 2007,449 1899,513 1116,516 1953,548 1921,578 516,546 344,589 247,567 247,236 290,215 1910,225 1966,290 2050,290 2071,395"/>
+      <TextLine id="eSc_line_81100da9" >
+        <Coords points="1921,244 1904,231 277,217 255,231 255,263 252,274 1923,290 1929,279 1926,247 1921,244"/>
+        <Baseline points="255,263 1929,279"/>
+        <TextEquiv>
+          <Unicode>Jürgen Moltmann. We will examine his major works available in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eb3599c5" >
+        <Coords points="252,376 554,395 556,395 2050,392 2052,381 2047,320 556,320 489,306 487,306 295,317 258,303 255,365 252,376"/>
+        <Baseline points="255,365 2052,381"/>
+        <TextEquiv>
+          <Unicode>English language, including an articulation of his theology and several</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2e15fee3" >
+        <Coords points="252,462 250,492 1945,492 1948,476 1945,433 252,411 252,462"/>
+        <Baseline points="252,462 1948,476"/>
+        <TextEquiv>
+          <Unicode>sermons in which he communicates his theology to worshipping commu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77bec936" >
+        <Coords points="414,564 403,521 349,505 347,505 344,505 263,521 252,559 252,564 250,594 387,586 390,589 403,599 403,602 406,602 408,602 411,602 414,602 417,602 438,586 441,570 435,562 414,564"/>
+        <Baseline points="252,564 441,570"/>
+        <TextEquiv>
+          <Unicode>nities.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2b64f71d"  >
+      <Coords points="1953,901 1148,914 1641,954 247,976 247,699 427,677 441,645 398,624 1536,613 2007,624 2082,645 2082,696 1996,720 2017,750 1953,901"/>
+      <TextLine id="eSc_line_ced04524" >
+        <Coords points="2044,634 2023,626 944,616 941,618 914,618 887,618 861,618 834,618 807,618 780,618 753,618 726,618 699,618 672,621 645,621 618,621 591,621 565,621 538,621 511,621 484,621 457,621 457,667 454,677 688,696 691,696 1003,691 1116,688 1138,694 1181,702 1183,702 1286,696 1369,691 2066,710 2071,685 2069,640 2044,634"/>
+        <Baseline points="457,667 2071,685"/>
+        <TextEquiv>
+          <Unicode>In keeping with the ultimate purpose of this dissertation, we go</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_647b1446" >
+        <Coords points="250,763 247,780 1966,796 1972,785 1969,734 250,715 250,763"/>
+        <Baseline points="250,763 1972,785"/>
+        <TextEquiv>
+          <Unicode>on to call attention to homiletical possibilities in the theology of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_108ecfa3" >
+        <Coords points="247,882 532,901 535,901 538,901 562,890 734,890 801,890 804,890 831,903 834,903 836,903 1948,901 1950,885 1948,828 538,828 492,812 489,812 487,812 481,812 290,823 252,809 250,868 247,882"/>
+        <Baseline points="250,868 1950,885"/>
+        <TextEquiv>
+          <Unicode>hope and provide suggested sermon outlines for consideration by the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc3d13ea" >
+        <Coords points="247,968 244,981 395,1000 398,1000 788,992 791,973 788,928 247,917 247,968"/>
+        <Baseline points="247,968 791,973"/>
+        <TextEquiv>
+          <Unicode>modern parish pastor.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_40fe77e1"  >
+      <Coords points="1942,1560 1942,1751 1910,1775 2039,1839 2050,2009 2007,2127 1878,2181 1921,2289 2017,2345 2071,2504 1921,2582 1974,2614 1985,2719 1878,2743 1824,2913 226,2880 226,2345 430,2278 395,2224 236,2203 226,2160 236,1807 430,1772 247,1740 236,1334 427,1312 452,1226 710,1215 2050,1258 2071,1417 2039,1503 1942,1560"/>
+      <TextLine id="eSc_line_5a0c939f" >
+        <Coords points="2009,1256 1982,1256 1956,1253 1929,1253 1902,1253 1875,1250 1848,1250 1821,1250 1794,1248 1767,1248 1740,1248 1713,1248 1687,1245 1660,1245 1633,1245 1606,1242 1579,1242 1552,1242 1525,1240 1498,1240 1471,1240 1455,1237 987,1237 901,1221 890,1221 887,1221 879,1221 869,1221 713,1232 610,1218 608,1218 497,1229 478,1223 476,1223 449,1229 449,1272 446,1288 2015,1307 2020,1291 2017,1256 2009,1256"/>
+        <Baseline points="449,1272 2020,1291"/>
+        <TextEquiv>
+          <Unicode>The material available in the field of hope theology is indeed</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71329b8a" >
+        <Coords points="2058,1339 290,1326 269,1328 242,1331 242,1371 239,1396 2061,1406 2066,1390 2063,1366 2058,1339"/>
+        <Baseline points="242,1371 2066,1390"/>
+        <TextEquiv>
+          <Unicode>great. Although we have given consideration to other proponents of &quot;the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd50b1a0" >
+        <Coords points="244,1471 242,1487 2012,1509 2017,1492 2015,1447 1886,1431 1883,1431 1754,1441 1746,1441 1743,1441 1730,1428 1727,1428 1724,1428 1722,1428 1662,1441 1654,1441 1643,1439 1590,1428 1587,1428 1428,1436 1374,1439 1366,1436 1342,1423 1339,1423 1337,1423 1189,1433 1132,1436 930,1436 912,1428 871,1417 869,1417 866,1417 863,1417 831,1428 817,1431 772,1425 651,1414 648,1414 645,1414 610,1425 594,1428 578,1423 551,1414 548,1414 546,1414 543,1414 524,1423 513,1428 462,1423 382,1412 379,1412 244,1417 244,1471"/>
+        <Baseline points="244,1471 2017,1492"/>
+        <TextEquiv>
+          <Unicode>school of hope,&quot; it has been necessary to limit ourselves primarily to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b700016" >
+        <Coords points="244,1573 242,1581 1886,1600 1891,1592 1891,1546 1832,1530 1829,1530 1826,1530 1711,1544 1689,1544 1687,1541 1662,1527 1660,1527 1657,1527 1654,1527 1477,1538 1423,1541 1404,1538 1348,1525 1345,1525 1243,1535 1197,1538 1162,1533 1111,1525 1108,1525 1022,1530 955,1535 244,1519 244,1573"/>
+        <Baseline points="244,1573 1891,1592"/>
+        <TextEquiv>
+          <Unicode>the chief Protestant proponent of hope theology. Even here I was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2dfdbb99" >
+        <Coords points="242,1675 239,1686 1923,1713 1929,1692 1929,1643 242,1616 242,1675"/>
+        <Baseline points="242,1675 1929,1692"/>
+        <TextEquiv>
+          <Unicode>Limited to Moltmann&#x27;s works that have been translated into English.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_193ec252" >
+        <Coords points="441,1778 438,1788 1859,1804 1864,1794 1861,1748 441,1724 441,1778"/>
+        <Baseline points="441,1778 1864,1794"/>
+        <TextEquiv>
+          <Unicode>Throughout the course of the study the focus has been on</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_26c5758e" >
+        <Coords points="2023,1848 236,1823 236,1877 234,1888 774,1907 777,1907 874,1896 882,1896 885,1896 914,1909 917,1909 920,1909 1514,1904 1587,1917 1590,1917 1778,1907 1810,1920 1813,1920 1816,1920 2034,1907 2036,1899 2031,1872 2023,1848"/>
+        <Baseline points="236,1877 2036,1899"/>
+        <TextEquiv>
+          <Unicode>material that can be used by the parish pastor in his work of preparing</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_265c601f" >
+        <Coords points="236,1977 234,1987 2028,2004 2034,1993 2031,1942 236,1931 236,1977"/>
+        <Baseline points="236,1977 2034,1993"/>
+        <TextEquiv>
+          <Unicode>sermons. Although we have attempted to provide as varied and extensive</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_279d7bef" >
+        <Coords points="234,2073 231,2098 944,2098 982,2103 1052,2111 1054,2111 1116,2103 1143,2100 1162,2103 1213,2114 1216,2114 1353,2106 1396,2103 1401,2106 1417,2117 1420,2117 1423,2117 1426,2117 1520,2106 1536,2106 1574,2106 1861,2122 1864,2122 1980,2108 1982,2098 1980,2052 1789,2033 1786,2033 1643,2047 1625,2047 1622,2047 1592,2030 1590,2030 1587,2030 1434,2044 1415,2044 1412,2044 1393,2028 1391,2028 1388,2028 1385,2028 1259,2041 1240,2041 1216,2041 1008,2022 1006,2022 1003,2022 949,2036 947,2036 941,2036 815,2020 812,2020 809,2020 758,2033 756,2033 750,2033 594,2017 591,2017 589,2017 586,2017 570,2030 567,2030 234,2028 234,2073"/>
+        <Baseline points="234,2073 1982,2098"/>
+        <TextEquiv>
+          <Unicode>a treatment of the theology of hope as possible, we have consistently</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98cb508d" >
+        <Coords points="239,2178 236,2189 877,2211 879,2211 1770,2203 1773,2192 1770,2143 239,2122 239,2178"/>
+        <Baseline points="239,2178 1773,2192"/>
+        <TextEquiv>
+          <Unicode>tried to work within the scope of the topic under discussion.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ff661cb" >
+        <Coords points="433,2299 1035,2299 1119,2305 1272,2316 1275,2316 1404,2308 1434,2305 1439,2308 1466,2318 1469,2318 1471,2318 1649,2308 1668,2308 1673,2308 1722,2321 1724,2321 1727,2321 1880,2308 1883,2297 1880,2235 1057,2238 769,2221 766,2221 645,2232 618,2219 616,2219 613,2219 610,2219 476,2230 438,2216 435,2278 433,2299"/>
+        <Baseline points="435,2278 1883,2297"/>
+        <TextEquiv>
+          <Unicode>Even though it would have been possible to provide entire</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f26c2eaf" >
+        <Coords points="260,2332 234,2340 234,2380 231,2391 2001,2412 2007,2402 2004,2356 274,2326 260,2332"/>
+        <Baseline points="234,2380 2007,2402"/>
+        <TextEquiv>
+          <Unicode>sermons incorporating the principles of hope theology, we are limiting</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54847936" >
+        <Coords points="2047,2450 1786,2437 1783,2437 1579,2447 1539,2447 1528,2445 1479,2434 1477,2434 1474,2434 1143,2442 1100,2442 1089,2442 1006,2429 1003,2429 600,2437 532,2437 527,2437 495,2423 492,2423 489,2423 231,2431 231,2480 231,2507 1490,2507 1512,2509 1579,2520 1582,2520 1762,2509 1786,2509 1805,2509 1937,2523 1939,2523 2055,2509 2058,2499 2055,2472 2047,2450"/>
+        <Baseline points="231,2480 2058,2499"/>
+        <TextEquiv>
+          <Unicode>ourselves to what will be seminal suggestions for the task of the modern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d3f666b6" >
+        <Coords points="231,2585 228,2598 1851,2614 1856,2598 1853,2542 565,2542 556,2528 554,2528 554,2525 551,2525 548,2525 546,2525 538,2525 427,2536 231,2523 231,2585"/>
+        <Baseline points="231,2585 1856,2598"/>
+        <TextEquiv>
+          <Unicode>preacher. Each pastor can then adapt his message to the type of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_178a3a6f" >
+        <Coords points="1972,2649 231,2628 231,2684 228,2706 1974,2716 1980,2703 1980,2665 1972,2649"/>
+        <Baseline points="231,2684 1980,2703"/>
+        <TextEquiv>
+          <Unicode>audience he must envision as he prepares to preach. We have provided</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7cbce009" >
+        <Coords points="1848,2751 1536,2738 1533,2738 1428,2746 1369,2749 1348,2743 1315,2735 1313,2735 1310,2735 1087,2738 852,2743 772,2733 737,2730 734,2730 680,2733 513,2741 505,2730 503,2730 503,2727 500,2727 497,2727 495,2727 460,2727 271,2738 234,2724 231,2784 228,2802 1848,2811 1853,2800 1851,2789 1848,2751"/>
+        <Baseline points="231,2784 1853,2800"/>
+        <TextEquiv>
+          <Unicode>outlines that incorporate the main thoughts in the biblical text</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8d8b6c4a"  >
+      <Coords points="850,1086 1501,1086 1522,1137 861,1148 850,1086"/>
+      <TextLine id="eSc_line_515ff7ef" >
+        <Coords points="1469,1086 1442,1086 1415,1086 1388,1086 1361,1086 1334,1086 1307,1086 1280,1086 1253,1086 1226,1086 1200,1086 1173,1086 1146,1086 1119,1086 1092,1086 1065,1086 1038,1086 1011,1086 984,1086 957,1086 930,1086 904,1086 877,1086 855,1105 850,1127 847,1151 1493,1151 1495,1132 1493,1086 1469,1086"/>
+        <Baseline points="850,1127 1495,1132"/>
+        <TextEquiv>
+          <Unicode>LIMITATIONS OF THIS STUDY</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2be437a5"  >
+      <Coords points="2042,190 2052,180 2052,161 2071,180 2042,190"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_e6889b8b" >
+        <Coords points="2042,236 2077,236 2077,174 2077,121 2044,112 2042,174 2042,236"/>
+        <Baseline points="2044,176 2078,176"/>
+        <TextEquiv>
+          <Unicode>2</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f40b6c58" >
+        <Coords points="247,2891 244,2929 301,2921 314,2934 320,2937 320,2940 322,2940 325,2940 328,2942 446,2942 446,2940 449,2940 452,2940 452,2937 454,2934 465,2926 495,2934 511,2940 513,2940 516,2940 570,2937 737,2924 774,2940 782,2942 785,2942 788,2942 823,2940 947,2926 995,2942 1006,2945 1008,2945 1011,2945 1014,2945 1017,2945 1019,2942 1041,2929 1065,2942 1070,2945 1073,2945 1380,2948 1382,2948 1393,2945 1466,2929 1498,2945 1501,2945 1504,2945 1565,2932 1590,2948 1592,2948 1595,2948 1598,2948 1600,2948 1756,2932 1808,2950 1816,2905 1813,2856 247,2829 247,2891"/>
+        <Baseline points="249,2894 1818,2907"/>
+        <TextEquiv>
+          <Unicode>together with suggestions for a development of each main point.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

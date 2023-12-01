@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00128.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.618044+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.618055+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00128.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_f9532409"  >
+      <Coords points="2028,408 2071,556 1942,804 804,882 1695,893 1824,925 1783,1000 1974,1011 1985,1084 1888,1105 1953,1108 1931,1148 1985,1151 2007,1215 2028,1665 1880,1697 1921,1721 1899,1772 581,1772 492,1796 513,1869 236,1869 226,1000 438,989 398,965 419,903 667,890 322,847 322,462 430,398 1022,384 236,352 236,290 1436,301 1447,373 1243,395 2028,408"/>
+      <TextLine id="eSc_line_bd313947" >
+        <Coords points="1439,317 1417,301 960,301 955,295 928,295 901,295 874,295 847,295 820,293 799,293 747,295 739,293 739,293 713,293 686,293 659,293 632,293 605,293 578,293 551,293 524,290 497,290 470,290 443,290 417,290 390,290 363,290 336,290 309,290 282,290 263,290 255,290 252,285 231,277 228,333 226,355 1436,368 1442,347 1439,325 1439,317"/>
+        <Baseline points="228,333 1442,347"/>
+        <TextEquiv>
+          <Unicode>becomes true man.“13 According to one reviewer,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f26efcfb" >
+        <Coords points="2015,406 1988,406 1961,406 1934,406 1907,406 1880,406 1861,403 1759,403 1746,403 1719,403 1713,400 645,390 643,392 616,392 589,392 562,392 535,395 508,395 481,395 454,395 427,398 427,438 425,446 2023,465 2028,451 2026,422 2015,406"/>
+        <Baseline points="427,438 2028,451"/>
+        <TextEquiv>
+          <Unicode>He examines a variety of secular definitions and holds each one</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f087d4c" >
+        <Coords points="330,454 330,489 328,497 1837,511 1843,500 1840,457 341,446 330,454"/>
+        <Baseline points="330,489 1843,500"/>
+        <TextEquiv>
+          <Unicode>in turn up to the light of the love of the crucified Christ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_876f8267" >
+        <Coords points="2050,503 325,494 325,540 322,562 2055,570 2061,548 2058,529 2050,503"/>
+        <Baseline points="325,540 2061,548"/>
+        <TextEquiv>
+          <Unicode>Looking at answers proposed by biological, cultural, religious, and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5aef09aa" >
+        <Coords points="325,589 322,597 2015,610 2020,602 2017,559 325,543 325,589"/>
+        <Baseline points="325,589 2020,602"/>
+        <TextEquiv>
+          <Unicode>Christian anthropolgy, Moltmann finds in the first three categories</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7af480a5" >
+        <Coords points="2020,645 1999,607 328,594 328,637 325,648 2017,661 2023,650 2020,645 2020,645"/>
+        <Baseline points="328,637 2023,650"/>
+        <TextEquiv>
+          <Unicode>valid, if limited, answers, and in the context of these disciplines</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9f378777" >
+        <Coords points="1913,650 1886,650 1859,650 1832,650 1805,650 1778,650 1751,650 1724,650 1697,650 1689,648 325,645 325,691 322,699 1921,715 1926,702 1923,650 1913,650"/>
+        <Baseline points="325,691 1926,702"/>
+        <TextEquiv>
+          <Unicode>he underscores man as a being whose very nature drives him to a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d6d138b" >
+        <Coords points="1966,742 1956,704 325,696 325,742 322,753 1964,761 1969,750 1966,739 1966,742"/>
+        <Baseline points="325,742 1969,750"/>
+        <TextEquiv>
+          <Unicode>constant, future-oriented redefinition and completion of himself.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_52fb94e1" >
+        <Coords points="322,790 320,804 355,820 357,820 360,820 680,807 839,823 842,823 906,809 941,823 944,823 947,823 1331,812 1361,825 1364,825 1366,825 1369,825 1372,825 1388,812 1420,825 1423,825 1426,825 1428,825 1458,812 1485,825 1487,825 1490,825 1869,809 1872,798 1869,758 347,745 322,790"/>
+        <Baseline points="322,790 1872,798"/>
+        <TextEquiv>
+          <Unicode>Moltmann challenges, the established church as well as secular</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9321c15a" >
+        <Coords points="834,793 807,793 780,793 756,793 729,793 702,793 675,793 648,793 634,793 427,798 384,793 379,793 352,793 325,793 325,841 322,852 847,855 852,836 844,793 834,793"/>
+        <Baseline points="325,841 750,847 852,836"/>
+        <TextEquiv>
+          <Unicode>definitions of man. 14</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ce2a3300" >
+        <Coords points="1791,917 1765,909 1762,906 468,898 446,901 419,901 419,941 417,960 1794,963 1800,952 1797,917 1791,917"/>
+        <Baseline points="419,941 1800,952"/>
+        <TextEquiv>
+          <Unicode>Man no longer lives so much in the realm of nature but</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_99efa1b6" >
+        <Coords points="1948,1008 1945,1006 322,992 306,995 279,995 252,997 226,1008 226,1041 223,1054 1969,1076 1974,1051 1969,1035 1948,1008"/>
+        <Baseline points="226,1041 1974,1051"/>
+        <TextEquiv>
+          <Unicode>increasingly in the surroundings of his own works, organizations, and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55a2d876" >
+        <Coords points="223,1143 220,1156 239,1170 242,1170 244,1170 247,1170 1875,1167 1878,1148 1875,1105 223,1094 223,1143"/>
+        <Baseline points="223,1143 1878,1148"/>
+        <TextEquiv>
+          <Unicode>techniques. In the course of his release from the uncomprehended</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8fd1e3cc" >
+        <Coords points="1993,1194 231,1194 226,1210 223,1242 220,1258 1993,1261 1999,1250 1996,1199 1993,1194"/>
+        <Baseline points="223,1242 1999,1250"/>
+        <TextEquiv>
+          <Unicode>powers of nature, man comes at once into a new dependence upon his own</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b9d2462f" >
+        <Coords points="220,1345 217,1355 1966,1366 1972,1355 1969,1299 220,1293 220,1345"/>
+        <Baseline points="220,1345 1972,1355"/>
+        <TextEquiv>
+          <Unicode>works and organizations. Technical progress is regarded as identical</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e1d6d93" >
+        <Coords points="220,1441 217,1455 1969,1466 1974,1452 1972,1409 1539,1409 1520,1401 1490,1393 1487,1393 1485,1393 1294,1398 1111,1404 1060,1396 1027,1390 1025,1390 912,1393 661,1401 640,1390 634,1388 632,1388 629,1388 583,1388 376,1398 220,1385 220,1441"/>
+        <Baseline points="220,1441 1974,1452"/>
+        <TextEquiv>
+          <Unicode>with human progress. It is believed that everything that can be done</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_23158638" >
+        <Coords points="217,1544 215,1554 1985,1576 1991,1554 1991,1506 1132,1506 1108,1495 1097,1490 1095,1490 1092,1490 971,1492 667,1501 648,1487 645,1487 643,1487 640,1487 605,1487 417,1498 217,1484 217,1544"/>
+        <Baseline points="217,1544 1991,1554"/>
+        <TextEquiv>
+          <Unicode>also should be done, just because it is technically possible to do it.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9162c91f" >
+        <Coords points="220,1643 217,1662 2017,1665 2023,1654 2023,1608 220,1592 220,1643"/>
+        <Baseline points="220,1643 2023,1654"/>
+        <TextEquiv>
+          <Unicode>Finally, it is believed that maximum technical efficiency and unlimited</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e3b068d" >
+        <Coords points="220,1745 217,1761 244,1775 247,1775 250,1778 1896,1778 1899,1753 1896,1710 220,1702 220,1745"/>
+        <Baseline points="220,1745 1899,1753"/>
+        <TextEquiv>
+          <Unicode>economic, technical, and military growth in strength are values in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b75602df" >
+        <Coords points="487,1799 217,1788 217,1845 215,1861 500,1866 505,1850 500,1829 487,1799"/>
+        <Baseline points="217,1845 505,1850"/>
+        <TextEquiv>
+          <Unicode>themselves.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4677b7ca"  >
+      <Coords points="2050,2073 1996,2130 1985,2227 2017,2568 731,2590 707,2676 664,2690 731,2776 965,2786 1043,2862 1791,2872 1899,2883 1910,2945 215,2988 226,2894 373,2905 408,2870 333,2837 363,2805 279,2805 406,2773 215,2751 215,2001 236,1958 373,1947 333,1915 419,1904 2050,1915 2050,2073"/>
+      <TextLine id="eSc_line_713fcc17" >
+        <Coords points="417,1950 414,1961 2039,1977 2044,1958 2031,1912 417,1904 417,1950"/>
+        <Baseline points="417,1950 2044,1958"/>
+        <TextEquiv>
+          <Unicode>Following the crucified Jesus creates the distance of Christians</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62f2dfd7" >
+        <Coords points="217,2052 217,2065 2031,2068 2034,2052 2031,1995 1945,2012 1638,2012 1603,1998 1595,1995 1592,1995 1590,1995 1587,1995 1584,1995 1584,1998 1571,2009 1528,1998 1512,1995 1509,1995 1506,1995 1498,1998 1469,2012 1006,2012 992,2001 984,1995 982,1995 979,1995 976,1995 217,2006 217,2052"/>
+        <Baseline points="217,2052 2034,2052"/>
+        <TextEquiv>
+          <Unicode>from this &quot;passing world&quot; which one can only have &quot;as if one had it not&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b382b628" >
+        <Coords points="217,2152 215,2162 1966,2170 1972,2160 1969,2100 217,2095 217,2152"/>
+        <Baseline points="217,2152 1972,2160"/>
+        <TextEquiv>
+          <Unicode>(I Corinthians 7:29). Following the crucified Jesus also creates the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cbd6fba0" >
+        <Coords points="215,2248 215,2273 1966,2273 1969,2259 1966,2208 672,2208 667,2205 629,2192 626,2192 624,2192 226,2203 215,2248"/>
+        <Baseline points="215,2248 1969,2259"/>
+        <TextEquiv>
+          <Unicode>strength for the incarnation of love in those possibilities which one</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79a7aba4" >
+        <Coords points="215,2351 212,2361 1964,2372 1969,2361 1964,2305 226,2305 215,2351"/>
+        <Baseline points="215,2351 1969,2361"/>
+        <TextEquiv>
+          <Unicode>has or finds. This love grips this life as if it were everything and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9fd72750" >
+        <Coords points="212,2453 212,2472 1991,2469 1993,2461 1991,2402 212,2402 212,2453"/>
+        <Baseline points="212,2453 1993,2461"/>
+        <TextEquiv>
+          <Unicode>yet at the same time knows that that which is is not all there is. It</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d830ad68" >
+        <Coords points="2004,2507 226,2507 215,2552 212,2566 688,2587 691,2587 1076,2574 1113,2590 1116,2590 1119,2590 1539,2577 1560,2593 1563,2593 1565,2593 1568,2593 1633,2579 1969,2593 1972,2593 1974,2593 2012,2577 2015,2563 2012,2531 2004,2507"/>
+        <Baseline points="215,2552 2015,2563"/>
+        <TextEquiv>
+          <Unicode>finds God in the concrete, and yet it knows that everything concrete is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_28e2655a" >
+        <Coords points="215,2646 212,2665 696,2671 702,2655 699,2609 226,2603 215,2646"/>
+        <Baseline points="215,2646 702,2655"/>
+        <TextEquiv>
+          <Unicode>transcended by God.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_83b83f23" >
+        <Coords points="952,2784 925,2784 898,2781 863,2789 850,2792 847,2789 844,2781 842,2781 842,2778 839,2778 836,2778 834,2778 715,2781 591,2786 570,2776 559,2768 556,2768 554,2768 551,2768 414,2768 414,2827 411,2840 974,2851 979,2837 979,2802 952,2784"/>
+        <Baseline points="414,2827 979,2837"/>
+        <TextEquiv>
+          <Unicode>13Moltman, Man, p. 20.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_57825fb4" >
+        <Coords points="1896,2897 1880,2886 1014,2867 1011,2867 982,2870 901,2878 804,2864 785,2864 782,2864 742,2864 470,2872 419,2859 417,2915 414,2945 616,2940 704,2953 750,2961 753,2961 785,2956 847,2942 869,2956 877,2964 879,2964 882,2964 885,2964 920,2959 960,2950 1140,2961 1267,2969 1269,2969 1272,2969 1291,2964 1348,2948 1366,2964 1366,2967 1369,2967 1372,2967 1374,2967 1377,2967 1380,2967 1426,2953 1845,2953 1896,2975 1904,2934 1902,2907 1896,2897"/>
+        <Baseline points="417,2915 1904,2934"/>
+        <TextEquiv>
+          <Unicode>14Marianna Forde, &quot;Man,“ Dialog, Vol. 14, No. 4, Fall 1975,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ec19292" >
+        <Coords points="209,2977 209,3007 524,2991 524,2972 519,2926 207,2918 209,2977"/>
+        <Baseline points="209,2977 524,2972"/>
+        <TextEquiv>
+          <Unicode>pp. 311-312.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_72e91c9f"  >
+      <Coords points="1977,193 2050,204 2050,255 1956,255 1977,193"/>
+      <TextLine id="eSc_line_6b12d9b0" >
+        <Coords points="1958,234 1958,247 1961,309 2050,314 2050,242 2034,201 1974,201 1958,234"/>
+        <Baseline points="1958,247 2050,242"/>
+        <TextEquiv>
+          <Unicode>121</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

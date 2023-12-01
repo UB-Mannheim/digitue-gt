@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00003.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.242452+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.242478+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00003.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_2d6e10e8"  >
+      <Coords points="1848,279 2028,301 1974,546 1996,642 2061,699 2061,804 1985,836 2071,871 2082,965 1945,987 1867,1073 699,1094 591,1116 546,1170 258,1170 247,204 1802,204 1848,279"/>
+      <TextLine id="eSc_line_393ca2a5" >
+        <Coords points="247,250 247,260 1797,258 1800,244 1791,204 244,207 247,250"/>
+        <Baseline points="247,250 1800,244"/>
+        <TextEquiv>
+          <Unicode>dear friend and former pastor, Lt. Col. J. Karl Jung, for his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ade0c83" >
+        <Coords points="1996,295 1151,287 1148,287 1146,287 1143,287 1124,301 301,293 298,293 295,293 247,306 250,352 250,365 2023,355 2023,341 2015,317 1996,295"/>
+        <Baseline points="250,352 2023,341"/>
+        <TextEquiv>
+          <Unicode>enthusiastic support throughout the whole project; to Julie Earick for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d16beedb" >
+        <Coords points="250,454 250,465 1972,451 1972,441 1964,384 1617,400 1304,390 1302,390 1299,390 1269,403 247,398 250,454"/>
+        <Baseline points="250,454 1972,441"/>
+        <TextEquiv>
+          <Unicode>the use of her books on contemporary poetry and songs; to the Church</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3218a51d" >
+        <Coords points="250,551 250,564 1948,562 1950,546 1945,503 1113,489 1111,489 1108,489 1065,503 279,492 277,492 274,492 247,503 250,551"/>
+        <Baseline points="250,551 1950,546"/>
+        <TextEquiv>
+          <Unicode>Council of Redeemer Lutheran Church for its gracious provision of a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b534fce4" >
+        <Coords points="250,653 252,677 282,664 1966,669 1972,645 1964,586 1824,599 1525,591 1447,589 1444,589 1442,589 1428,591 1382,602 1097,597 901,591 898,591 852,599 809,607 247,607 250,653"/>
+        <Baseline points="250,653 1972,645"/>
+        <TextEquiv>
+          <Unicode>study leave to pursue this work; and--last but not least--to my dear</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac025332" >
+        <Coords points="247,753 247,766 2042,761 2044,742 2036,696 1832,699 1826,696 1805,685 1802,685 1800,685 1797,685 1794,685 1781,696 1775,702 1528,702 1520,699 1498,688 1495,688 1493,688 1490,688 1458,699 1452,702 1428,702 1261,685 1259,685 1256,685 1200,702 1148,685 1146,685 1143,685 1140,685 1111,699 863,688 861,688 858,688 809,704 777,694 774,694 772,694 634,707 629,707 589,691 586,691 583,691 478,707 414,691 411,691 408,691 244,710 247,753"/>
+        <Baseline points="247,753 2044,742"/>
+        <TextEquiv>
+          <Unicode>wife Vivian for her faith in my ability to complete such a task and for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_602b0c7a" >
+        <Coords points="252,855 252,874 1937,871 1939,847 1934,804 1479,788 1477,788 1374,804 1369,804 1366,804 1356,793 1356,790 1353,790 1350,790 1348,790 1008,804 982,804 976,804 917,790 914,790 828,804 809,807 801,804 769,793 766,793 764,793 250,804 252,855"/>
+        <Baseline points="252,855 1939,847"/>
+        <TextEquiv>
+          <Unicode>her meticulous effort in typing the final copy of the dissertation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_847f3662" >
+        <Coords points="2058,893 1154,906 1062,903 817,895 815,895 710,909 696,909 659,909 274,898 271,898 269,898 244,909 247,960 247,981 524,992 527,992 530,992 578,979 602,973 626,979 667,989 669,989 672,989 675,989 678,989 691,979 704,971 774,971 801,979 844,989 847,989 850,992 1008,992 1008,989 1011,989 1014,989 1033,976 1038,971 1138,971 1165,973 1243,987 1245,987 1323,973 1356,968 1385,973 1479,987 1482,987 1485,987 1536,971 1549,965 1754,965 1808,968 2028,984 2031,984 2034,984 2071,965 2071,949 2063,901 2058,893"/>
+        <Baseline points="247,960 2071,949"/>
+        <TextEquiv>
+          <Unicode>Above all, I want to acknowledge the steady influence of the Holy Spirit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f19f5836" >
+        <Coords points="247,1057 247,1102 363,1105 365,1105 368,1105 376,1102 446,1078 495,1102 530,1119 532,1119 535,1119 538,1119 589,1100 621,1089 651,1100 672,1108 675,1108 678,1108 680,1108 713,1100 793,1076 839,1089 842,1089 844,1089 974,1076 995,1089 998,1089 1000,1089 1003,1089 1060,1081 1078,1094 1100,1116 1103,1116 1105,1116 1108,1119 1310,1119 1310,1116 1313,1116 1315,1116 1315,1113 1337,1092 1356,1073 1431,1073 1452,1092 1458,1094 1458,1097 1461,1097 1463,1097 1466,1097 1495,1092 1555,1078 1579,1092 1598,1100 1600,1100 1603,1100 1687,1089 1697,1089 1700,1089 1751,1113 1754,1113 1756,1113 1759,1113 1805,1089 1816,1084 1872,1086 1875,1049 1869,1006 1555,989 1552,989 1415,1003 1388,989 1385,989 1382,989 1304,1006 1181,992 1178,992 1089,1006 1060,992 1057,992 1054,992 909,1006 799,992 796,992 793,992 791,992 791,995 774,1008 473,995 470,995 468,995 438,1008 422,995 419,995 417,995 414,995 333,1008 285,995 282,995 279,995 277,995 244,1008 247,1057"/>
+        <Baseline points="247,1057 1875,1049"/>
+        <TextEquiv>
+          <Unicode>who moved me to begin this project and enabled me to bring it to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_67278985" >
+        <Coords points="250,1140 252,1159 252,1197 341,1186 430,1199 433,1199 435,1199 438,1199 438,1197 454,1183 535,1199 540,1154 532,1100 260,1108 250,1140"/>
+        <Baseline points="252,1159 540,1154"/>
+        <TextEquiv>
+          <Unicode>completion!</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0e31f57b"  >
+      <Coords points="2071,137 1977,147 1977,96 2061,96 2071,137"/>
+      <TextLine id="eSc_line_18430ef0" >
+        <Coords points="2034,96 2007,96 1980,96 1980,134 1980,185 2058,172 2058,134 2055,129 2034,96"/>
+        <Baseline points="1981,137 2060,137"/>
+        <TextEquiv>
+          <Unicode>iii</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

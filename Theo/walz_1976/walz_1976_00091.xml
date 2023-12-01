@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00091.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.119454+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.119466+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00091.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_30f77173"  >
+      <Coords points="2017,642 1748,836 556,839 1641,890 215,901 226,333 1813,365 1848,430 1996,473 2017,642"/>
+      <TextLine id="eSc_line_d13c7111" >
+        <Coords points="758,344 747,341 686,341 678,341 651,341 624,341 597,338 594,338 570,338 543,338 516,338 489,338 462,336 435,336 408,336 382,336 355,336 328,333 301,333 274,333 247,333 220,328 220,371 217,381 247,395 250,395 252,395 497,390 594,406 597,406 669,395 713,408 715,408 718,408 1151,408 1159,419 1162,419 1162,422 1165,422 1167,422 1170,422 1321,414 1450,430 1452,430 1810,425 1813,416 1810,373 780,344 758,344"/>
+        <Baseline points="220,371 1813,416"/>
+        <TextEquiv>
+          <Unicode>elsewhere. What &quot;resurrection of the dead“ really is, and what</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e5c90829" >
+        <Coords points="1985,473 1778,454 1775,454 1773,454 1732,465 1724,468 1722,465 1700,451 1697,451 1695,451 1692,451 1689,451 1652,462 1643,465 1638,462 1617,449 1614,449 1611,449 1608,449 1555,459 1536,462 998,449 987,441 974,430 971,430 968,430 965,430 912,438 877,443 788,443 777,433 769,425 766,425 764,425 761,425 632,430 508,433 460,422 414,414 411,414 408,414 387,419 363,427 228,416 228,468 226,494 871,500 965,511 1062,521 1065,521 1116,516 1154,511 1350,519 1805,543 1808,543 1988,532 1991,519 1991,478 1985,473"/>
+        <Baseline points="228,468 1991,519"/>
+        <TextEquiv>
+          <Unicode>&quot;actually happened“ in the raising of Jesus, is thus a thing which not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_938d185b" >
+        <Coords points="2004,578 1705,556 1703,556 1611,567 1592,554 1590,554 1587,554 1584,554 1509,564 1504,564 1485,564 1105,540 1103,540 1014,551 1006,551 995,551 904,535 212,529 212,572 209,586 2007,634 2012,621 2009,591 2004,578"/>
+        <Baseline points="212,572 2012,621"/>
+        <TextEquiv>
+          <Unicode>even the New Testament Easter narratives profess to know. They use the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c5a890e" >
+        <Coords points="209,675 207,688 1878,737 1883,720 1883,664 209,629 209,675"/>
+        <Baseline points="209,675 1883,720"/>
+        <TextEquiv>
+          <Unicode>term &quot;raising“ to express not only a judgment about something that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_89d0843b" >
+        <Coords points="209,777 207,793 1746,841 1751,817 1751,761 209,723 209,777"/>
+        <Baseline points="209,777 1751,817"/>
+        <TextEquiv>
+          <Unicode>happened to Jesus but at the same time also an eschatological</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_19d4c62e" >
+        <Coords points="204,882 204,898 476,909 478,909 481,909 516,893 516,876 511,833 244,820 242,820 239,820 201,833 204,882"/>
+        <Baseline points="204,882 516,876"/>
+        <TextEquiv>
+          <Unicode>expectation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9e1e86cd"  >
+      <Coords points="1931,968 1953,1041 2017,1065 2028,1148 1931,1277 1253,1312 1256,1345 1813,1366 2007,1441 2007,1944 1738,1958 1856,2022 1835,2084 1931,2108 1964,2173 1974,2289 1899,2356 1899,2794 634,2805 699,2883 836,2915 804,2977 365,2967 341,2880 150,2848 161,2108 341,2055 387,1987 269,1955 279,1398 408,1331 193,1299 193,1043 226,1000 363,989 387,968 333,946 408,936 1867,957 1931,968"/>
+      <TextLine id="eSc_line_b2cbac3f" >
+        <Coords points="403,984 400,997 1921,1049 1926,1024 1923,979 403,938 403,984"/>
+        <Baseline points="403,984 1926,1024"/>
+        <TextEquiv>
+          <Unicode>The disciples&#x27; proclamation that he was raised from the dead</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f4f28ee1" >
+        <Coords points="2007,1081 1633,1059 1630,1059 1372,1059 1165,1059 1151,1051 1143,1046 1140,1046 1138,1046 1135,1046 1035,1049 869,1051 850,1041 842,1038 839,1038 836,1038 799,1041 691,1046 600,1032 578,1030 575,1030 532,1030 295,1035 204,1019 196,1035 196,1078 193,1089 417,1110 419,1110 742,1110 831,1110 866,1113 963,1127 965,1127 968,1127 995,1119 1006,1116 1022,1119 1060,1129 1062,1129 1065,1129 1068,1129 1087,1121 1097,1119 1116,1124 1151,1132 1154,1132 1156,1135 1409,1135 1727,1135 2015,1154 2020,1129 2017,1119 2007,1081"/>
+        <Baseline points="196,1078 2020,1129"/>
+        <TextEquiv>
+          <Unicode>does not arise from peculiar powers of imagination or from a unique kind</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55cf5d5e" >
+        <Coords points="1956,1178 196,1124 196,1180 193,1191 298,1210 301,1210 503,1202 925,1226 928,1226 1412,1226 1442,1240 1444,1240 1447,1240 1964,1237 1966,1226 1964,1215 1956,1178"/>
+        <Baseline points="196,1180 1966,1226"/>
+        <TextEquiv>
+          <Unicode>of inspiration. It arises from the comparing of the two contradictory</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_23c22881" >
+        <Coords points="193,1280 191,1299 1151,1320 1156,1304 1156,1256 406,1223 403,1223 204,1232 193,1280"/>
+        <Baseline points="193,1280 1156,1304"/>
+        <TextEquiv>
+          <Unicode>experiences which they have of Christ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb029f29" >
+        <Coords points="390,1339 390,1385 387,1396 1783,1431 1789,1420 1789,1377 395,1328 390,1339"/>
+        <Baseline points="390,1385 1789,1420"/>
+        <TextEquiv>
+          <Unicode>The experience of the cross of Jesus means for them the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f2de0c8" >
+        <Coords points="287,1390 287,1431 285,1441 1980,1501 1985,1479 1985,1436 290,1388 287,1390"/>
+        <Baseline points="287,1431 1985,1479"/>
+        <TextEquiv>
+          <Unicode>experience of the god-forsakenness of God&#x27;s ambassador--that is, an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_211bec7a" >
+        <Coords points="1985,1484 1380,1474 1377,1471 1361,1463 1334,1463 1318,1460 1278,1468 1267,1468 1261,1468 1240,1457 1226,1457 1208,1457 1156,1466 1146,1466 1143,1466 1124,1455 1119,1455 1092,1455 1065,1455 1062,1452 960,1460 930,1460 904,1457 807,1447 796,1447 772,1447 750,1455 745,1455 731,1455 626,1441 608,1441 581,1441 559,1439 285,1441 285,1487 282,1495 2001,1541 2007,1530 2001,1501 1985,1484"/>
+        <Baseline points="285,1487 2007,1530"/>
+        <TextEquiv>
+          <Unicode>absolute nihil embracing also God. The experience of the appearance</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46e7c769" >
+        <Coords points="285,1533 282,1546 1999,1595 2004,1579 2004,1535 285,1490 285,1533"/>
+        <Baseline points="285,1533 2004,1579"/>
+        <TextEquiv>
+          <Unicode>of the crucified one as the living Lord therefore means for them the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_13ba0039" >
+        <Coords points="282,1584 279,1595 1926,1640 1931,1627 1929,1584 282,1538 282,1584"/>
+        <Baseline points="282,1584 1931,1627"/>
+        <TextEquiv>
+          <Unicode>experience of the nearness of God in the god-forsaken one, of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c3369d4e" >
+        <Coords points="282,1635 279,1646 1953,1686 1958,1678 1958,1635 282,1589 282,1635"/>
+        <Baseline points="282,1635 1958,1678"/>
+        <TextEquiv>
+          <Unicode>divineness of God in the crucified and dead Christ--that is, a new</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33e1a0ab" >
+        <Coords points="282,1683 279,1697 1894,1745 1899,1724 1896,1681 282,1640 282,1683"/>
+        <Baseline points="282,1683 1899,1724"/>
+        <TextEquiv>
+          <Unicode>totality which annihilates the total nihil. The two experiences</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92ef71c3" >
+        <Coords points="844,1700 839,1697 777,1697 764,1697 737,1697 710,1694 707,1694 683,1694 656,1694 629,1694 602,1692 575,1692 548,1692 521,1692 495,1689 468,1689 441,1689 414,1689 387,1686 360,1686 333,1686 306,1686 279,1683 279,1732 277,1745 1985,1802 1991,1786 1991,1743 850,1700 844,1700"/>
+        <Baseline points="279,1732 1991,1786"/>
+        <TextEquiv>
+          <Unicode>stand in a radical contradiction to each other, like death and life,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f25f1b2c" >
+        <Coords points="1918,1786 1913,1783 277,1743 277,1783 274,1794 1921,1839 1926,1829 1926,1786 1918,1786"/>
+        <Baseline points="277,1783 1926,1829"/>
+        <TextEquiv>
+          <Unicode>nothing and everything, godlessness and the divinity of God. But</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02b6295b" >
+        <Coords points="761,1799 753,1796 694,1796 680,1796 672,1794 610,1794 600,1794 573,1794 554,1791 527,1791 519,1791 492,1791 473,1788 443,1788 438,1788 411,1788 384,1788 357,1786 330,1786 304,1786 277,1786 277,1834 274,1848 1945,1888 1950,1877 1948,1837 777,1799 761,1799"/>
+        <Baseline points="277,1834 1950,1877"/>
+        <TextEquiv>
+          <Unicode>how can it be possible to identify both experiences in one and the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47c54c04" >
+        <Coords points="277,1888 274,1904 1991,1942 1996,1931 1996,1885 277,1845 277,1888"/>
+        <Baseline points="277,1888 1996,1931"/>
+        <TextEquiv>
+          <Unicode>same person without resolving either the one experience or the other</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5f651f07" >
+        <Coords points="1027,1907 1000,1907 974,1907 947,1907 920,1904 893,1904 866,1904 839,1904 812,1901 785,1901 758,1901 731,1901 704,1899 678,1899 651,1899 624,1899 600,1896 581,1896 570,1896 543,1896 516,1896 500,1893 427,1893 408,1893 403,1891 274,1891 274,1939 271,1950 495,1969 497,1969 1041,1966 1043,1950 1041,1907 1027,1907"/>
+        <Baseline points="274,1939 1043,1950"/>
+        <TextEquiv>
+          <Unicode>and making it of no account?28</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bead4e6b" >
+        <Coords points="371,2006 371,2041 368,2052 1813,2092 1818,2079 1816,2022 376,1990 371,2006"/>
+        <Baseline points="371,2041 1818,2079"/>
+        <TextEquiv>
+          <Unicode>The Easter appearances involved not only visions but also</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fdac2b54" >
+        <Coords points="1942,2138 215,2090 193,2098 166,2106 166,2135 164,2149 1937,2195 1942,2184 1942,2141 1942,2138"/>
+        <Baseline points="166,2135 1942,2184"/>
+        <TextEquiv>
+          <Unicode>auditions as well. Without the speaking and hearing of words it would</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_100f69da" >
+        <Coords points="164,2238 161,2248 503,2273 505,2273 508,2273 535,2262 1065,2286 1956,2294 1961,2281 1958,2221 1848,2232 1436,2224 1407,2211 1401,2208 1399,2208 1396,2208 1372,2211 1288,2219 1205,2205 1173,2203 1170,2203 1100,2205 952,2211 879,2200 831,2195 164,2189 164,2238"/>
+        <Baseline points="164,2238 1961,2281"/>
+        <TextEquiv>
+          <Unicode>have been unlikely--indeed impossible--to identify the one who appeared</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ba7c022" >
+        <Coords points="161,2337 158,2359 371,2356 575,2369 694,2377 696,2377 742,2372 796,2367 817,2375 834,2380 836,2380 839,2380 871,2375 901,2369 912,2375 920,2383 922,2383 925,2383 928,2383 960,2377 987,2372 1035,2377 1116,2388 1119,2388 1186,2380 1213,2377 1216,2380 1221,2388 1224,2388 1224,2391 1226,2391 1229,2391 1794,2404 1797,2404 1859,2391 1861,2380 1861,2334 161,2283 161,2337"/>
+        <Baseline points="161,2337 1861,2380"/>
+        <TextEquiv>
+          <Unicode>with the crucified Jesus. It is surely a fact that the appearances</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_627b7ab9" >
+        <Coords points="158,2439 156,2455 1902,2496 1907,2482 1904,2431 158,2394 158,2439"/>
+        <Baseline points="158,2439 1907,2482"/>
+        <TextEquiv>
+          <Unicode>themselves hardly provided the possibility of identifying the one who</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d51a4419" >
+        <Coords points="156,2539 153,2552 1899,2595 1904,2582 1904,2539 1719,2520 1716,2520 1713,2520 1689,2533 1687,2533 1662,2517 1660,2517 1657,2517 1654,2517 1218,2520 1151,2520 1135,2517 1022,2501 1019,2501 1017,2501 987,2515 852,2515 850,2512 815,2496 812,2496 156,2496 156,2539"/>
+        <Baseline points="156,2539 1904,2582"/>
+        <TextEquiv>
+          <Unicode>appeared with the one who was crucified. So we have to look for what</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ff43f8f4" >
+        <Coords points="153,2611 153,2641 150,2657 1851,2695 1856,2684 1856,2628 158,2593 153,2611"/>
+        <Baseline points="153,2641 1856,2684"/>
+        <TextEquiv>
+          <Unicode>was said by the one who appeared. What he said must have contained</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c23c9f0" >
+        <Coords points="150,2741 147,2759 260,2778 263,2778 511,2773 519,2773 583,2794 586,2794 589,2794 715,2778 723,2778 750,2794 753,2794 756,2794 758,2794 761,2794 791,2781 796,2778 812,2781 917,2802 920,2805 1143,2805 1143,2802 1146,2802 1167,2792 1175,2789 1191,2792 1259,2811 1261,2811 1264,2811 1267,2811 1318,2797 1339,2792 1358,2797 1380,2805 1382,2805 1385,2805 1388,2805 1409,2800 1428,2794 1436,2800 1458,2816 1461,2816 1463,2816 1466,2816 1617,2805 1678,2802 1775,2802 1786,2811 1802,2824 1805,2824 1808,2824 1810,2824 1896,2813 1899,2784 1896,2741 150,2690 150,2741"/>
+        <Baseline points="150,2741 1899,2784"/>
+        <TextEquiv>
+          <Unicode>something in the nature of a self-identification (&quot;It is I&quot;). We can</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46ea861a" >
+        <Coords points="828,2926 801,2907 785,2902 774,2902 756,2897 756,2897 753,2897 651,2905 621,2907 347,2889 344,2910 344,2940 341,2964 828,2980 834,2959 834,2915 831,2915 828,2926"/>
+        <Baseline points="344,2940 834,2959"/>
+        <TextEquiv>
+          <Unicode>28Moltmann, p. 198.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_db37a9a4"  >
+      <Coords points="1977,279 2039,279 2050,320 1977,330 1977,279"/>
+      <TextLine id="eSc_line_51d6bfbe" >
+        <Coords points="2026,279 1999,279 1977,317 1977,341 2042,341 2042,312 2039,303 2026,279"/>
+        <Baseline points="1977,317 2042,312"/>
+        <TextEquiv>
+          <Unicode>84</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

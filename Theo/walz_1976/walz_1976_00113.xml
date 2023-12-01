@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00113.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.409794+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.409805+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00113.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_2db3f2e6"  >
+      <Coords points="2007,301 2017,825 774,804 546,850 1899,860 2028,893 2028,1546 1888,1568 2028,1581 2039,1665 1931,1721 1964,2073 1878,2324 1996,2367 2028,2461 1902,2493 1845,2625 1878,2751 1974,2819 1953,2870 785,2859 634,2880 621,2945 182,2934 193,1689 226,1624 355,1611 215,1600 204,979 226,936 387,911 312,890 333,871 462,858 215,825 236,269 1974,269 2007,301"/>
+      <TextLine id="eSc_line_cdb80554" >
+        <Coords points="1977,277 1323,271 1302,271 1275,271 1248,271 1221,271 1194,271 1167,271 1140,271 1113,271 1087,271 1060,271 1033,271 1006,271 979,271 952,271 925,271 898,271 871,271 844,271 817,271 791,271 764,271 737,271 710,271 683,271 656,271 629,271 602,271 575,271 548,271 521,271 495,271 468,271 441,271 414,271 387,271 360,271 333,271 306,271 279,271 252,271 250,258 226,258 226,303 223,314 406,333 408,333 632,325 680,325 691,328 731,338 734,338 737,338 920,333 1011,330 1017,336 1025,341 1025,344 1027,344 1030,344 1033,344 1253,341 1447,338 1977,357 1982,333 1982,282 1977,277"/>
+        <Baseline points="226,303 1982,333"/>
+        <TextEquiv>
+          <Unicode>en eschatological and universal future, the word of God points beyond</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d14cc6bf" >
+        <Coords points="226,406 226,408 223,422 1950,449 1956,435 1956,387 1662,371 1660,371 1657,371 1627,381 1619,384 1617,381 1598,368 1595,368 1592,368 1590,368 1587,368 1547,381 1544,381 1541,381 1514,368 1512,368 1509,368 1506,368 1504,368 1504,371 1493,379 1490,381 1474,379 1393,368 1391,368 1291,376 1267,379 1251,376 1173,363 1170,363 788,371 747,371 731,371 573,352 570,352 236,363 226,406"/>
+        <Baseline points="226,408 1956,435"/>
+        <TextEquiv>
+          <Unicode>itself, forward to coming events and outward into the breadth of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80091148" >
+        <Coords points="223,508 220,519 384,538 387,538 1138,538 1681,559 1684,559 1837,548 1907,562 1910,562 2001,548 2004,538 2001,478 1843,489 1670,473 1646,473 1643,473 1625,473 1517,484 1038,478 1030,468 1025,465 1025,462 1022,462 1019,462 223,462 223,508"/>
+        <Baseline points="223,508 2004,538"/>
+        <TextEquiv>
+          <Unicode>world to which the promised coming events are coming. The word of God</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_519ec072" >
+        <Coords points="223,613 223,634 702,634 726,640 774,648 777,648 874,640 914,637 920,640 930,650 933,650 936,650 939,650 1052,642 1089,640 1097,642 1111,653 1113,653 1116,653 1119,653 1232,645 1259,642 1280,645 1361,656 1364,656 1409,645 1415,645 1417,645 1447,659 1450,659 1452,659 1582,648 1595,648 1608,648 1800,664 1802,664 1972,650 1974,640 1974,591 223,564 223,613"/>
+        <Baseline points="223,613 1974,640"/>
+        <TextEquiv>
+          <Unicode>is itself an eschatological gift. In it the hidden future of God for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d701b7d" >
+        <Coords points="223,712 220,723 2017,753 2023,742 2017,683 1888,694 1727,680 1700,677 1697,677 1678,677 1582,688 1522,677 1506,675 1504,675 1479,677 1407,685 1191,675 1043,667 223,667 223,712"/>
+        <Baseline points="223,712 2023,742"/>
+        <TextEquiv>
+          <Unicode>the world is already present. It is present in the form of promise and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_60d1e774" >
+        <Coords points="217,815 215,833 578,839 583,820 581,774 217,769 217,815"/>
+        <Baseline points="217,815 583,820"/>
+        <TextEquiv>
+          <Unicode>awakened hope.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_acf26dfe" >
+        <Coords points="419,919 417,941 1991,960 1996,941 1996,893 1945,876 1942,876 1939,876 1646,890 1614,890 1608,890 1557,871 1555,871 1552,871 1275,882 1208,866 1205,866 1202,866 1100,882 1097,882 1073,866 1070,866 1068,866 1065,866 1062,866 1027,882 1025,882 922,882 920,879 898,863 895,863 893,863 890,863 887,863 836,876 688,876 556,876 556,874 508,858 505,858 503,858 419,871 419,919"/>
+        <Baseline points="419,919 1996,941"/>
+        <TextEquiv>
+          <Unicode>Baptism, too, is &quot;ahead of itself.&quot; In baptizing men into the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62895a07" >
+        <Coords points="212,957 212,1016 209,1032 2039,1054 2044,1041 2042,979 1248,981 215,954 212,957"/>
+        <Baseline points="212,1016 2044,1041"/>
+        <TextEquiv>
+          <Unicode>past death of Christ, it seals men for the future of the kingdom that is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07e520be" >
+        <Coords points="212,1116 209,1137 1991,1156 1996,1145 1996,1100 1818,1084 1816,1084 1724,1092 1692,1094 1687,1092 1676,1081 1673,1081 1670,1081 1668,1081 1579,1089 1533,1092 1517,1086 1490,1078 1487,1078 1485,1078 1348,1084 1235,1086 1210,1078 1189,1073 1186,1073 1183,1073 1124,1078 1046,1084 1025,1076 1011,1070 1008,1070 1006,1070 917,1073 739,1078 707,1067 699,1065 696,1065 694,1065 632,1065 387,1073 212,1057 212,1116"/>
+        <Baseline points="212,1116 1996,1145"/>
+        <TextEquiv>
+          <Unicode>being brought by the risen Christ. Likewise, the Lord&#x27;s Supper is not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae5383da" >
+        <Coords points="212,1215 209,1237 1988,1264 1993,1242 1991,1199 212,1164 212,1215"/>
+        <Baseline points="212,1215 1993,1242"/>
+        <TextEquiv>
+          <Unicode>to be regarded in terms of mystery and cult but eschatologically. The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5fafb6e7" >
+        <Coords points="209,1293 209,1318 207,1339 2031,1363 2036,1342 2034,1288 217,1269 209,1293"/>
+        <Baseline points="209,1318 2036,1342"/>
+        <TextEquiv>
+          <Unicode>congregation at the Table is not in possession of the sacral presence of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d713c05" >
+        <Coords points="209,1414 207,1428 930,1455 933,1457 2012,1457 2015,1441 2012,1393 209,1363 209,1414"/>
+        <Baseline points="209,1414 2015,1441"/>
+        <TextEquiv>
+          <Unicode>the Absolute but is a waiting, expectant congregation seeking communion</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c6b77c41" >
+        <Coords points="204,1519 201,1527 565,1549 567,1549 745,1538 747,1527 747,1482 710,1468 707,1468 704,1468 443,1479 414,1479 411,1479 379,1463 376,1463 373,1463 204,1474 204,1519"/>
+        <Baseline points="204,1519 747,1527"/>
+        <TextEquiv>
+          <Unicode>with the coming Lord.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a460e2b" >
+        <Coords points="2020,1584 2017,1581 2015,1581 2012,1581 2009,1581 1853,1595 1837,1595 1810,1595 1557,1576 1555,1576 1469,1587 1442,1589 1436,1587 1428,1579 1428,1576 1426,1576 1423,1576 1420,1576 1197,1581 1030,1584 406,1565 406,1622 403,1643 2031,1665 2036,1643 2036,1640 2020,1584"/>
+        <Baseline points="406,1622 2036,1643"/>
+        <TextEquiv>
+          <Unicode>The Christian church which follows Christ&#x27;s mission to the world</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e7374d5" >
+        <Coords points="204,1721 201,1732 1829,1761 1835,1743 1832,1686 1043,1686 1025,1673 1022,1673 1019,1673 1017,1673 1006,1673 871,1683 815,1670 812,1670 809,1670 799,1670 613,1681 556,1667 554,1667 551,1667 411,1678 204,1662 204,1721"/>
+        <Baseline points="204,1721 1835,1743"/>
+        <TextEquiv>
+          <Unicode>is engaged also in following Christ&#x27;s service to the world. Its</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dca3f422" >
+        <Coords points="201,1821 199,1839 1923,1856 1929,1842 1929,1796 201,1772 201,1821"/>
+        <Baseline points="201,1821 1929,1842"/>
+        <TextEquiv>
+          <Unicode>existence is completely bound to the fulfilling of its service. For</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a02bcaad" >
+        <Coords points="201,1923 199,1942 1853,1955 1859,1947 1856,1896 201,1872 201,1923"/>
+        <Baseline points="201,1923 1859,1947"/>
+        <TextEquiv>
+          <Unicode>this reason it is nothing in itself, but all that it is, it is in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8f17726" >
+        <Coords points="199,2022 196,2036 1945,2063 1950,2047 1950,1998 199,1974 199,2022"/>
+        <Baseline points="199,2022 1950,2047"/>
+        <TextEquiv>
+          <Unicode>existing for others. The Christian church is not to serve mankind in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_489be365" >
+        <Coords points="196,2125 193,2135 1918,2168 1923,2149 1921,2103 196,2073 196,2125"/>
+        <Baseline points="196,2125 1923,2149"/>
+        <TextEquiv>
+          <Unicode>order that this world may remain what it is but in order that it may</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20fc3abb" >
+        <Coords points="196,2224 193,2235 1872,2256 1878,2246 1875,2203 196,2181 196,2224"/>
+        <Baseline points="196,2224 1878,2246"/>
+        <TextEquiv>
+          <Unicode>transform itself and become what it is promised to be. It aims at</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c94949d" >
+        <Coords points="196,2324 193,2345 1843,2359 1848,2348 1845,2299 196,2275 196,2324"/>
+        <Baseline points="196,2324 1848,2348"/>
+        <TextEquiv>
+          <Unicode>reconciliation with God, at forgiveness of sins, and abolition of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5ed6968" >
+        <Coords points="2007,2402 191,2375 191,2429 188,2450 2015,2461 2020,2450 2017,2426 2007,2402"/>
+        <Baseline points="191,2429 2020,2450"/>
+        <TextEquiv>
+          <Unicode>godlessness. But salvation must also be understood as shalom in the Old</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45f6556a" >
+        <Coords points="191,2528 188,2547 1856,2571 1861,2552 1859,2504 191,2477 191,2528"/>
+        <Baseline points="191,2528 1861,2552"/>
+        <TextEquiv>
+          <Unicode>Testament sense. This does not mean merely salvation of the soul,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b4c77bc" >
+        <Coords points="191,2622 188,2644 1791,2660 1797,2646 1794,2590 191,2577 191,2622"/>
+        <Baseline points="191,2622 1797,2646"/>
+        <TextEquiv>
+          <Unicode>individual rescue from the evil world, comfort for the troubled</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3e70159" >
+        <Coords points="188,2724 185,2735 1835,2759 1840,2749 1837,2690 1724,2700 1660,2687 1652,2687 188,2679 188,2724"/>
+        <Baseline points="188,2724 1840,2749"/>
+        <TextEquiv>
+          <Unicode>conscience but also the realization of the eschatological hope of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1c2c4815" >
+        <Coords points="1956,2840 1934,2794 1929,2792 1926,2792 1923,2792 1921,2792 1837,2805 1835,2805 1770,2792 1767,2792 1608,2802 1592,2802 1590,2802 1557,2786 1555,2786 1552,2786 1393,2800 1372,2800 1366,2800 1331,2784 1329,2784 1326,2784 1035,2794 974,2794 955,2792 877,2778 874,2778 815,2789 799,2792 772,2789 664,2776 661,2776 659,2776 613,2786 602,2789 586,2786 538,2773 535,2773 532,2773 530,2773 497,2784 492,2786 484,2784 438,2773 435,2773 433,2773 430,2773 427,2773 414,2784 408,2786 387,2784 312,2770 309,2770 182,2778 182,2827 185,2859 220,2846 250,2859 255,2862 258,2862 260,2862 309,2859 524,2848 581,2862 610,2867 801,2870 804,2870 807,2870 809,2870 817,2862 828,2854 882,2854 895,2862 904,2870 906,2870 909,2870 1017,2872 1019,2872 1108,2862 1170,2856 1186,2862 1216,2875 1218,2875 1221,2875 1442,2864 1501,2862 1506,2864 1520,2878 1522,2878 1525,2878 1528,2878 1530,2878 1565,2864 1568,2864 1608,2880 1611,2880 1614,2880 1719,2870 1765,2883 1767,2883 1770,2883 1961,2864 1964,2851 1961,2840 1956,2840"/>
+        <Baseline points="182,2827 1964,2851"/>
+        <TextEquiv>
+          <Unicode>justice, the humanizing of man, the socializing of humanity, and peace</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eba587e0" >
+        <Coords points="185,2926 182,2953 392,2945 408,2953 433,2964 435,2964 438,2964 441,2964 478,2950 484,2950 492,2950 575,2964 578,2964 581,2964 624,2948 626,2932 621,2875 185,2878 185,2926"/>
+        <Baseline points="185,2926 626,2932"/>
+        <TextEquiv>
+          <Unicode>for all creation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d5af9fbf"  >
+      <Coords points="2061,234 1966,244 1977,182 2050,193 2061,234"/>
+      <TextLine id="eSc_line_100692f1" >
+        <Coords points="2039,228 2012,231 1991,196 1956,196 1961,236 1961,298 2055,285 2055,231 2050,204 2039,228"/>
+        <Baseline points="1961,236 2055,231"/>
+        <TextEquiv>
+          <Unicode>106</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

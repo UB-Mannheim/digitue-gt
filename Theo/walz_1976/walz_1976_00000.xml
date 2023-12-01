@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00000.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.169907+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.169938+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00000.jpg" imageWidth="3077" imageHeight="3594">
+    <TextRegion id="eSc_textblock_32923f96"  >
+      <Coords points="1258,994 2250,1006 2250,1063 1258,1051 1258,994"/>
+      <TextLine id="eSc_line_ea1facfe" >
+        <Coords points="2214,1003 2184,1003 2154,1003 2124,1003 2094,1003 2064,1003 2034,1003 2004,1003 1974,1000 1944,1000 1914,1000 1884,1000 1854,1000 1824,1000 1794,1000 1764,1000 1734,997 1704,997 1674,997 1644,997 1614,997 1584,997 1554,997 1525,997 1495,994 1465,994 1435,994 1405,994 1375,994 1345,994 1315,994 1285,994 1255,988 1255,1033 1252,1063 1537,1090 1539,1090 1542,1090 1581,1078 1608,1069 1863,1090 1971,1096 1974,1096 1989,1093 2055,1078 2091,1099 2100,1102 2103,1102 2106,1105 2244,1105 2247,1054 2238,1036 2214,1003"/>
+        <Baseline points="1255,1033 2247,1054"/>
+        <TextEquiv>
+          <Unicode>THE USE OF MOLTMANN&#x27;S THEOLOGY OF HOPE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_72314862"  >
+      <Coords points="1534,1102 2034,1114 2034,1159 1522,1159 1534,1102"/>
+      <TextLine id="eSc_line_f7e2c571" >
+        <Coords points="1971,1111 1941,1111 1911,1111 1881,1108 1851,1108 1821,1108 1791,1108 1761,1105 1731,1105 1701,1105 1671,1105 1641,1102 1611,1102 1581,1102 1551,1102 1528,1117 1522,1147 1519,1165 1641,1186 1644,1186 1731,1171 1764,1192 1767,1192 1770,1192 1773,1192 2019,1171 2022,1153 2001,1111 1971,1111"/>
+        <Baseline points="1522,1147 2022,1153"/>
+        <TextEquiv>
+          <Unicode>IN PARISH PREACHING</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_06171600"  >
+      <Coords points="1581,1257 1926,1269 1926,1314 1569,1314 1581,1257"/>
+      <TextLine id="eSc_line_a8d0359e" >
+        <Coords points="1902,1266 1872,1266 1842,1266 1812,1263 1782,1263 1752,1263 1722,1260 1692,1260 1662,1257 1632,1257 1602,1257 1575,1290 1572,1299 1569,1341 1641,1344 1644,1344 1647,1344 1650,1344 1650,1341 1653,1341 1674,1323 1734,1338 1773,1347 1776,1347 1914,1332 1917,1305 1914,1266 1902,1266"/>
+        <Baseline points="1572,1299 1917,1305"/>
+        <TextEquiv>
+          <Unicode>ERWIN G. WALZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_139a557a"  >
+      <Coords points="1749,1198 1794,1209 1806,1230 1749,1242 1749,1198"/>
+      <TextLine id="eSc_line_7a1015ab" >
+        <Coords points="1770,1203 1755,1174 1740,1174 1740,1224 1740,1266 1791,1278 1794,1224 1791,1212 1770,1203"/>
+        <Baseline points="1742,1225 1796,1225"/>
+        <TextEquiv>
+          <Unicode>by</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

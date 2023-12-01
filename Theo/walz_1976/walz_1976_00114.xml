@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00114.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.422540+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.422552+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00114.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_0818bd66"  >
+      <Coords points="2039,312 2071,406 2017,462 1985,667 1999,720 2071,731 2082,804 1859,847 1770,911 1364,911 1662,954 1417,954 1275,1019 2028,1054 2050,1708 1867,1815 2061,1861 2028,2375 1985,2431 2039,2558 312,2579 312,1893 430,1807 226,1772 236,1119 417,1076 505,1000 236,965 258,322 1996,333 1999,247 2093,269 2039,312"/>
+      <TextLine id="eSc_line_82da36d1" >
+        <Coords points="2069,279 2039,258 2012,250 2009,244 1985,242 1991,293 1991,320 2082,320 2082,285 2079,277 2069,279"/>
+        <Baseline points="1991,293 2082,285"/>
+        <TextEquiv>
+          <Unicode>107</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_15232f96" >
+        <Coords points="2044,341 1283,328 1283,328 1256,328 1229,328 1202,328 1175,328 1148,328 1121,325 1095,325 1068,325 1041,325 1014,325 987,325 960,325 933,325 906,325 879,325 852,325 826,325 799,325 772,325 745,325 718,325 691,325 664,322 637,322 610,322 583,322 556,322 530,322 503,322 476,322 449,322 422,322 395,322 368,322 341,322 314,322 287,322 260,322 260,360 258,387 1078,408 1081,408 1191,398 1237,392 1248,398 1278,411 1280,411 1283,411 1286,411 1321,398 1331,395 1369,398 1471,408 1474,408 1544,400 1563,398 1568,400 1582,414 1584,414 1587,414 1590,414 1856,403 1869,403 1875,403 1958,419 1961,419 2055,403 2058,390 2055,371 2044,341"/>
+        <Baseline points="260,360 2058,390"/>
+        <TextEquiv>
+          <Unicode>The calling of Christians in society. The coming lordship of the risen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eec555bf" >
+        <Coords points="255,457 252,468 521,489 524,489 591,478 925,497 928,497 1003,486 1057,500 1060,500 1062,500 1065,500 1111,489 1253,503 1256,503 1434,494 1458,494 1461,494 1493,508 1495,508 1498,508 1557,497 1563,497 1590,511 1592,511 1595,511 1993,505 1996,492 1996,449 1861,430 1859,430 1670,441 1646,441 1638,441 1584,425 1582,425 1579,425 1426,435 1407,435 1388,435 1259,419 1256,419 1119,427 1089,430 1084,427 1065,414 1062,414 1060,414 1057,414 1000,427 990,427 974,425 879,411 877,411 874,411 839,422 828,425 255,411 255,457"/>
+        <Baseline points="255,457 1996,492"/>
+        <TextEquiv>
+          <Unicode>Christ cannot be merely hoped for and awaited. The life of the body,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d77d663a" >
+        <Coords points="255,559 252,572 1974,605 1980,591 1977,529 1853,543 1832,529 1829,529 1826,529 1824,529 1576,538 1509,521 1501,521 1498,521 1487,521 1404,535 1165,532 1132,519 1119,513 1116,513 1113,513 1089,516 1041,527 1022,516 1019,513 1017,513 1014,513 1011,513 965,516 834,524 780,513 750,508 747,508 745,508 731,513 707,521 675,511 653,505 651,505 648,505 645,505 643,505 637,511 626,519 255,508 255,559"/>
+        <Baseline points="255,559 1980,591"/>
+        <TextEquiv>
+          <Unicode>including also social and public life, is expected as a sacrifice in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2b3d518" >
+        <Coords points="250,656 247,667 1948,704 1953,694 1953,650 1829,632 1826,632 1708,642 1705,642 1584,626 1582,626 1471,637 1469,637 1466,637 1417,624 1415,624 1412,624 1350,634 1348,634 1337,634 1081,616 1078,616 1076,616 1033,626 861,626 858,624 842,610 839,610 836,610 250,610 250,656"/>
+        <Baseline points="250,656 1953,694"/>
+        <TextEquiv>
+          <Unicode>day-to-day obedience (Romans 12:1–2) . The hope of the gospel has a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0e2a0130" >
+        <Coords points="2077,763 2066,747 247,715 247,761 244,782 2071,809 2077,796 2077,766 2077,763"/>
+        <Baseline points="247,761 2077,796"/>
+        <TextEquiv>
+          <Unicode>polemic and liberating relation not only to the religions and ideologies</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4582d13c" >
+        <Coords points="1789,841 244,809 244,860 242,874 1791,914 1797,890 1794,876 1789,841"/>
+        <Baseline points="244,860 1797,890"/>
+        <TextEquiv>
+          <Unicode>of men but still more to the practical life of men and to the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af5a4cb9" >
+        <Coords points="247,960 244,981 1302,992 1307,981 1307,930 1286,919 1283,919 1280,919 1278,919 1275,919 1221,933 1216,933 1205,933 1041,914 1038,914 941,925 912,928 895,925 863,914 861,914 858,914 817,922 793,925 247,906 247,960"/>
+        <Baseline points="247,960 1307,981"/>
+        <TextEquiv>
+          <Unicode>relationships in which this life is lived.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02eda25d" >
+        <Coords points="2004,1051 1977,1051 1950,1049 1923,1049 1896,1046 1869,1046 1843,1043 1816,1043 1789,1041 1762,1041 1740,1038 1705,1038 1681,1038 1673,1035 481,1016 470,1027 454,1038 443,1065 441,1081 2012,1108 2017,1094 2017,1051 2004,1051"/>
+        <Baseline points="443,1065 2017,1094"/>
+        <TextEquiv>
+          <Unicode>The Reformers&#x27; rediscovery of the &quot;universal priesthood of all</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f816e8ff" >
+        <Coords points="266,1110 239,1116 239,1162 236,1172 2007,1213 2012,1197 2012,1145 285,1105 266,1110"/>
+        <Baseline points="239,1162 2012,1197"/>
+        <TextEquiv>
+          <Unicode>believers“ made it plan that the call of the gospel is issued to every</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cb9ea117" >
+        <Coords points="236,1264 234,1285 1958,1315 1964,1293 1961,1234 1670,1245 1436,1242 1412,1226 1409,1226 1407,1226 1404,1226 1377,1226 1181,1237 1068,1223 1019,1218 1017,1218 968,1221 866,1232 834,1221 817,1215 815,1215 812,1215 774,1221 710,1229 672,1218 651,1213 648,1213 645,1213 643,1213 626,1218 605,1226 562,1218 519,1210 516,1210 236,1213 236,1264"/>
+        <Baseline points="236,1264 1964,1293"/>
+        <TextEquiv>
+          <Unicode>man. Everyone who believes and hopes is called and has to offer his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75019e2d" >
+        <Coords points="2036,1350 1848,1336 1845,1336 1595,1339 1439,1342 1404,1336 1366,1328 1364,1328 1329,1334 1286,1339 1202,1331 1135,1323 1132,1323 1027,1326 858,1331 842,1320 839,1318 836,1318 834,1318 831,1318 761,1318 548,1326 234,1307 234,1366 231,1379 2034,1414 2039,1398 2039,1385 2036,1350"/>
+        <Baseline points="234,1366 2039,1398"/>
+        <TextEquiv>
+          <Unicode>life in the service of God. The call according to the New Testament is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_96a64f84" >
+        <Coords points="231,1460 228,1482 2052,1511 2058,1498 2055,1436 1937,1449 1878,1433 1875,1433 1872,1433 1676,1444 1514,1428 1512,1428 1415,1439 1353,1423 1348,1423 1345,1423 1342,1423 1339,1423 1334,1423 1280,1436 1070,1420 1008,1414 1006,1414 976,1417 890,1428 844,1414 831,1412 828,1412 826,1412 777,1414 634,1423 231,1406 231,1460"/>
+        <Baseline points="231,1460 2058,1498"/>
+        <TextEquiv>
+          <Unicode>once for all, irrevocable and immuitable, and has its eschatological goal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3aab887c" >
+        <Coords points="234,1565 231,1579 2042,1622 2047,1603 2044,1544 1923,1554 1759,1538 1756,1538 1673,1549 1654,1535 1652,1535 1649,1535 1646,1535 1641,1535 1401,1544 1356,1530 1353,1530 1350,1530 1348,1530 1014,1535 960,1522 957,1522 955,1522 952,1522 890,1533 861,1519 858,1519 855,1519 847,1519 753,1530 718,1517 715,1517 713,1517 696,1517 500,1525 234,1509 234,1565"/>
+        <Baseline points="234,1565 2047,1603"/>
+        <TextEquiv>
+          <Unicode>in the hope to which God calls us. Our callings, however, are historic,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_224d8342" >
+        <Coords points="231,1665 228,1681 2026,1716 2031,1700 2031,1654 231,1611 231,1665"/>
+        <Baseline points="231,1665 2031,1700"/>
+        <TextEquiv>
+          <Unicode>changing, changeable, temporally limited, and therefore to be shaped in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf689a57" >
+        <Coords points="231,1764 228,1791 1302,1802 1313,1807 1342,1818 1345,1818 1695,1826 1697,1826 1816,1813 1818,1799 1818,1756 231,1718 231,1764"/>
+        <Baseline points="231,1764 1818,1799"/>
+        <TextEquiv>
+          <Unicode>the process of being accepted in terms of call, hope, and love.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a4ca9bf6" >
+        <Coords points="2044,1856 2042,1853 430,1818 430,1869 427,1888 2044,1920 2050,1901 2047,1856 2044,1856"/>
+        <Baseline points="430,1869 2050,1901"/>
+        <TextEquiv>
+          <Unicode>This world is not the heaven of self-realization, as it was said</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a714ce0" >
+        <Coords points="322,1883 322,1917 320,1928 2031,1971 2036,1950 2036,1907 333,1874 322,1883"/>
+        <Baseline points="322,1917 2036,1950"/>
+        <TextEquiv>
+          <Unicode>to be in Idealism. This world is not the hell of self-estrangement,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_93b2d491" >
+        <Coords points="322,1969 320,1977 2017,2014 2023,2006 2020,1963 322,1926 322,1969"/>
+        <Baseline points="322,1969 2023,2006"/>
+        <TextEquiv>
+          <Unicode>as it is said to be in romanticist and existentialist writing. The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_540019c4" >
+        <Coords points="1181,1990 1175,1987 1081,1987 1073,1987 1070,1985 971,1985 965,1985 939,1985 925,1982 863,1982 858,1982 831,1982 820,1979 753,1979 750,1979 723,1979 696,1979 675,1977 645,1977 643,1977 616,1977 589,1977 570,1974 535,1974 535,1974 508,1974 481,1974 454,1974 427,1971 400,1971 373,1971 347,1971 320,1969 320,2017 317,2030 1840,2068 1845,2049 1843,2006 1189,1990 1181,1990"/>
+        <Baseline points="320,2017 1845,2049"/>
+        <TextEquiv>
+          <Unicode>world is not yet finished, but is understood as engaged in a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0218ece" >
+        <Coords points="834,2030 828,2028 739,2028 726,2028 721,2025 634,2025 618,2025 591,2025 575,2022 530,2022 511,2022 484,2022 457,2022 430,2020 425,2020 403,2020 376,2020 349,2020 322,2020 322,2065 320,2082 1988,2111 1993,2100 1991,2060 842,2030 834,2030"/>
+        <Baseline points="322,2065 1993,2100"/>
+        <TextEquiv>
+          <Unicode>history. It is therefore the world of possibilities, the world in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e9bd33ef" >
+        <Coords points="317,2119 314,2130 2012,2170 2017,2149 2017,2106 317,2076 317,2119"/>
+        <Baseline points="317,2119 2017,2149"/>
+        <TextEquiv>
+          <Unicode>which we can serve the future, promised truth and righteousness and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa4dff90" >
+        <Coords points="320,2173 317,2184 1910,2208 1915,2200 1913,2160 320,2130 320,2173"/>
+        <Baseline points="320,2173 1915,2200"/>
+        <TextEquiv>
+          <Unicode>peace. This is an age of diaspora, of sowing in hope, of self-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1030fef0" >
+        <Coords points="320,2219 317,2230 1961,2262 1966,2248 1964,2205 320,2178 320,2219"/>
+        <Baseline points="320,2219 1966,2248"/>
+        <TextEquiv>
+          <Unicode>surrender and sacrifice, for it is an age which stands within the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_14b0ea55" >
+        <Coords points="317,2267 314,2278 2007,2310 2012,2299 2012,2259 317,2221 317,2267"/>
+        <Baseline points="317,2267 2012,2299"/>
+        <TextEquiv>
+          <Unicode>horizon of a new future. Thus self-expenditure in this world, day-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1f68ee3" >
+        <Coords points="317,2318 314,2329 2007,2372 2012,2353 2009,2310 317,2275 317,2318"/>
+        <Baseline points="317,2318 2012,2353"/>
+        <TextEquiv>
+          <Unicode>to-day love in hope, becomes possible and becomes human within that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dcc96a67" >
+        <Coords points="1956,2353 1929,2353 1902,2353 1886,2351 1832,2351 1821,2351 1794,2351 1767,2351 1748,2348 1705,2348 1687,2348 1660,2348 1633,2348 1611,2345 1579,2345 1552,2345 1525,2345 1498,2345 1474,2342 1452,2342 1444,2342 1417,2342 1391,2342 1364,2342 1339,2340 1326,2340 1310,2340 1283,2340 1256,2340 1229,2340 1202,2337 1200,2337 1175,2337 1148,2337 1121,2337 1100,2334 1073,2334 1068,2334 1041,2334 1014,2334 987,2334 963,2332 947,2332 933,2332 906,2332 879,2332 852,2332 826,2329 820,2329 799,2329 772,2329 745,2329 718,2329 691,2326 664,2326 637,2326 610,2326 583,2326 556,2324 530,2324 503,2324 476,2324 449,2324 422,2321 395,2321 368,2321 341,2321 314,2318 314,2367 312,2377 1956,2415 1961,2404 1958,2353 1956,2353"/>
+        <Baseline points="314,2367 1961,2404"/>
+        <TextEquiv>
+          <Unicode>horizon of expectation which transcends this world. The glory of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f85318d" >
+        <Coords points="312,2421 309,2431 1929,2461 1934,2450 1931,2407 330,2380 312,2421"/>
+        <Baseline points="312,2421 1934,2450"/>
+        <TextEquiv>
+          <Unicode>self-realization and the misery of self-estrangement alike arise</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6344a9b4" >
+        <Coords points="312,2472 309,2482 1956,2520 1961,2501 1958,2461 333,2429 312,2472"/>
+        <Baseline points="312,2472 1961,2501"/>
+        <TextEquiv>
+          <Unicode>from hopelessness in a world of lost horizons. To disclose to it</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03332107" >
+        <Coords points="2017,2512 314,2477 314,2517 312,2533 373,2550 376,2550 713,2547 791,2547 796,2550 817,2566 820,2566 823,2566 826,2566 930,2552 963,2550 998,2555 1084,2571 1087,2571 1143,2560 1154,2558 1162,2560 1205,2577 1208,2577 1210,2577 1426,2568 1439,2568 1442,2568 1485,2582 1487,2582 1490,2582 1493,2582 1525,2571 1530,2568 1541,2571 1576,2585 1579,2585 1756,2587 1759,2587 1762,2587 1794,2579 1826,2571 1848,2579 1869,2590 1872,2590 1875,2590 1878,2590 1880,2590 1894,2582 1907,2574 2028,2585 2034,2550 2034,2542 2017,2512"/>
+        <Baseline points="314,2517 1536,2550 2034,2550"/>
+        <TextEquiv>
+          <Unicode>the horizon of the, future of the crucified Christ is the task of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_341a610b" >
+        <Coords points="793,2531 766,2531 739,2531 713,2528 686,2528 659,2528 632,2528 309,2528 312,2577 312,2593 425,2593 430,2595 452,2609 454,2609 457,2609 460,2609 519,2598 554,2590 581,2598 602,2606 605,2606 608,2606 799,2603 799,2571 793,2531 793,2531"/>
+        <Baseline points="312,2577 799,2571"/>
+        <TextEquiv>
+          <Unicode>Christian Church. 34</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_14760656"  >
+      <Coords points="890,2999 408,2988 419,2926 869,2937 890,2999"/>
+      <TextLine id="eSc_line_b251952f" >
+        <Coords points="836,2934 809,2934 782,2934 772,2934 761,2937 742,2940 573,2929 567,2929 540,2929 513,2926 487,2926 460,2926 433,2926 430,2918 406,2918 406,2969 403,2999 457,3020 460,3020 462,3020 465,3020 468,3020 492,3004 575,3023 578,3023 581,3023 634,3007 656,3026 656,3028 659,3028 661,3028 726,3031 820,3034 823,3034 826,3034 885,3012 887,2985 887,2945 852,2934 836,2934"/>
+        <Baseline points="406,2969 887,2985"/>
+        <TextEquiv>
+          <Unicode>34Moltmann, p. 338.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

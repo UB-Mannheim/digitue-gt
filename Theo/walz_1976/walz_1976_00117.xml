@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00117.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.464109+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.464120+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00117.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_41993bd9"  >
+      <Coords points="2039,581 2042,527 2071,538 2061,868 1974,987 408,976 449,1011 417,1041 258,1062 258,290 1931,301 1996,387 1996,556 2039,581"/>
+      <TextLine id="eSc_line_f8004ece" >
+        <Coords points="1522,298 1509,295 1479,295 1477,295 1428,306 1423,306 1415,306 1377,295 1361,295 1348,295 1299,303 1294,303 1291,303 1275,295 1253,295 1226,295 1200,295 1173,295 1146,295 1135,295 1073,298 1062,298 1052,293 1038,293 1011,293 984,293 957,293 930,293 904,293 877,293 850,293 823,293 796,293 793,293 780,293 769,293 742,293 715,293 688,293 661,290 634,290 608,290 581,290 554,290 527,290 500,290 473,290 446,290 419,290 392,290 365,290 339,290 312,290 285,290 258,328 255,347 1931,381 1937,363 1934,317 1536,298 1522,298"/>
+        <Baseline points="258,328 1937,363"/>
+        <TextEquiv>
+          <Unicode>cross. Radical Christian faith, however, can only mean committing</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c1e658d7" >
+        <Coords points="252,427 250,446 1977,478 1982,459 1982,411 1845,411 1840,408 1808,392 1805,392 1802,392 1800,392 1767,406 1765,406 1689,392 1687,392 1600,403 1595,403 1592,403 1547,387 1544,387 1541,387 1307,398 1294,398 1261,381 1259,381 1256,381 1159,395 1156,395 1121,379 1119,379 974,376 971,376 898,390 653,387 559,387 556,384 395,365 392,365 263,379 252,427"/>
+        <Baseline points="252,427 1982,459"/>
+        <TextEquiv>
+          <Unicode>oneself without reserve to the &quot;crucified God.&quot; There is nothing so</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0916c000" >
+        <Coords points="252,524 250,546 1950,581 1956,564 1956,519 1713,497 1711,497 1633,511 1625,511 1619,511 1576,497 1574,497 1571,497 1399,503 1372,489 1369,489 1216,486 1213,486 1210,486 1186,500 1167,484 1165,484 1162,484 1159,484 947,494 936,494 925,494 766,476 764,476 263,478 252,524"/>
+        <Baseline points="252,524 1956,564"/>
+        <TextEquiv>
+          <Unicode>scandalous and unpopular as the &quot;religion of the cross,&quot; even among</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b24c40d6" >
+        <Coords points="258,621 255,642 2069,677 2074,661 2074,605 1267,599 1251,591 1229,583 1226,583 1224,583 1173,591 1140,594 1130,589 1111,581 1108,581 1105,581 1041,589 1008,591 1000,589 987,578 984,578 982,578 979,578 909,586 887,589 885,586 874,578 874,575 871,575 869,575 866,575 785,583 766,586 761,583 747,572 745,572 742,572 739,572 562,581 546,581 543,581 505,567 503,567 500,567 269,575 258,621"/>
+        <Baseline points="258,621 2074,661"/>
+        <TextEquiv>
+          <Unicode>&quot;coreligionists&quot; in one&#x27;s own circle. It is a symbol which leads out of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98164114" >
+        <Coords points="250,728 247,747 1974,777 1980,758 1980,712 250,677 250,728"/>
+        <Baseline points="250,728 1980,758"/>
+        <TextEquiv>
+          <Unicode>the church into fellowship with the oppressed and abandoned. On the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7b510963" >
+        <Coords points="247,828 244,836 2042,879 2047,863 2044,817 1888,815 1886,812 1853,796 1851,796 1848,796 1845,796 1786,812 1781,812 1773,812 1727,798 1724,798 1722,798 1652,809 1641,809 1638,809 1617,790 1614,790 1611,790 1608,790 1528,807 1517,807 1493,807 1331,790 1329,790 1267,801 1261,801 1256,801 1205,785 1202,785 1200,785 1121,798 1111,798 1097,798 941,777 939,777 866,793 861,793 852,793 742,777 739,777 675,790 667,790 664,790 632,772 629,772 527,769 524,769 247,780 247,828"/>
+        <Baseline points="247,828 2047,863"/>
+        <TextEquiv>
+          <Unicode>other hand, it is the symbol which calls the oppressed and godless into</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7638b4e9" >
+        <Coords points="244,928 242,946 1972,984 1977,963 1974,903 1711,911 1670,898 1668,898 1665,898 1474,906 1331,890 1310,890 1307,890 1291,890 1183,901 244,874 244,928"/>
+        <Baseline points="244,928 1977,963"/>
+        <TextEquiv>
+          <Unicode>the church and through the church into fellowship with the crucified</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d40b09e" >
+        <Coords points="242,1030 242,1043 355,1046 357,1030 355,946 242,971 242,1030"/>
+        <Baseline points="242,1030 357,1030"/>
+        <TextEquiv>
+          <Unicode>God.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dece854f"  >
+      <Coords points="1964,1248 1964,1331 2071,1431 2071,1675 1996,1839 2061,2084 2017,2130 2028,2299 1899,2334 1921,2450 2028,2528 1964,2687 1087,2687 1011,2698 998,2762 643,2786 718,2851 688,2883 836,2905 847,2967 430,2967 408,2894 581,2872 226,2837 462,2794 204,2751 226,1237 247,1151 430,1127 301,1097 441,1086 1953,1086 2028,1119 2028,1213 1964,1248"/>
+      <TextLine id="eSc_line_192648a2" >
+        <Coords points="551,1086 524,1086 497,1086 470,1086 443,1086 443,1135 441,1151 2012,1175 2017,1162 2015,1116 573,1086 551,1086"/>
+        <Baseline points="443,1135 2017,1162"/>
+        <TextEquiv>
+          <Unicode>The church has produced &quot;the cult of the cross,&quot; making Christ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_592220a2" >
+        <Coords points="236,1234 234,1253 688,1253 704,1261 710,1266 713,1266 715,1266 718,1266 756,1261 804,1256 933,1264 1062,1272 1065,1272 1068,1272 1087,1266 1100,1261 1121,1266 1162,1275 1165,1275 1261,1266 1310,1264 1391,1269 1617,1283 1619,1283 1748,1272 1754,1272 1770,1285 1773,1285 1775,1285 1778,1285 1918,1272 1921,1264 1921,1218 1442,1197 1439,1197 1202,1205 1159,1205 1156,1205 1143,1191 1140,1191 1138,1191 1135,1191 1046,1202 1035,1202 1025,1202 965,1188 963,1188 742,1197 696,1197 669,1194 543,1180 540,1180 236,1186 236,1234"/>
+        <Baseline points="236,1234 1921,1264"/>
+        <TextEquiv>
+          <Unicode>present in the sacrifice of the mass. The church suppressed pagan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_17ce323e" >
+        <Coords points="234,1334 231,1353 1937,1374 1942,1363 1942,1307 234,1280 234,1334"/>
+        <Baseline points="234,1334 1942,1363"/>
+        <TextEquiv>
+          <Unicode>sacrificial actions and cultic drama but replaced them with its own</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d76b442c" >
+        <Coords points="2055,1417 1076,1404 1068,1401 995,1388 234,1388 234,1433 231,1447 2055,1479 2061,1466 2061,1423 2055,1417"/>
+        <Baseline points="234,1433 2061,1466"/>
+        <TextEquiv>
+          <Unicode>cult. Jesus died &quot;once for all.&quot; His death is not a sacrifice that can</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b66b97df" >
+        <Coords points="234,1533 231,1546 2009,1576 2015,1562 2015,1506 234,1482 234,1533"/>
+        <Baseline points="234,1533 2015,1562"/>
+        <TextEquiv>
+          <Unicode>be repeated. Cultic religion must be replaced by the spreading of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0ff8223e" >
+        <Coords points="228,1632 226,1640 2052,1686 2058,1667 2055,1611 228,1584 228,1632"/>
+        <Baseline points="228,1632 2058,1667"/>
+        <TextEquiv>
+          <Unicode>word of the cross and the practical following of Jesus. Through his own</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e985c3a0" >
+        <Coords points="2017,1716 231,1686 231,1732 228,1751 2023,1775 2028,1764 2026,1748 2017,1716"/>
+        <Baseline points="231,1732 2028,1764"/>
+        <TextEquiv>
+          <Unicode>abandonment on the cross Jesus brings God to those who are abandoned by</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d82c41e" >
+        <Coords points="226,1834 223,1842 1945,1880 1950,1866 1948,1815 226,1778 226,1834"/>
+        <Baseline points="226,1834 1950,1866"/>
+        <TextEquiv>
+          <Unicode>God. Through his suffering he brings salvation to those who suffer.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c8069047" >
+        <Coords points="226,1936 223,1944 1974,1974 1980,1966 1980,1920 226,1888 226,1936"/>
+        <Baseline points="226,1936 1980,1966"/>
+        <TextEquiv>
+          <Unicode>Through his death he brings eternal life to those who are dying. The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42ee78d9" >
+        <Coords points="2039,2017 223,1982 223,2033 220,2044 2047,2076 2052,2065 2047,2047 2039,2017"/>
+        <Baseline points="223,2033 2052,2065"/>
+        <TextEquiv>
+          <Unicode>church has abused the theology of the cross in behalf of those who cause</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_12c16c64" >
+        <Coords points="220,2135 217,2146 1921,2176 1926,2165 1926,2122 220,2087 220,2135"/>
+        <Baseline points="220,2135 1926,2165"/>
+        <TextEquiv>
+          <Unicode>suffering. Too often peasants, Indians, and black slaves have been</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d345d3bc" >
+        <Coords points="2017,2251 2012,2219 217,2184 217,2232 215,2246 2017,2278 2023,2267 2017,2238 2017,2251"/>
+        <Baseline points="217,2232 2023,2267"/>
+        <TextEquiv>
+          <Unicode>called upon by representatives of the dominant religion to accept their</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_651791fe" >
+        <Coords points="217,2337 215,2359 1829,2375 1835,2364 1835,2308 217,2291 217,2337"/>
+        <Baseline points="217,2337 1835,2364"/>
+        <TextEquiv>
+          <Unicode>sufferings as &quot;their cross&quot; and not rebel against them.³ Jesus&#x27;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1eec0ff9" >
+        <Coords points="215,2439 212,2450 1888,2477 1894,2466 1891,2404 1756,2415 1649,2402 1646,2402 1582,2412 215,2386 215,2439"/>
+        <Baseline points="215,2439 1894,2466"/>
+        <TextEquiv>
+          <Unicode>sufferings and humiliation came from his preaching of a kingdom of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc3822f4" >
+        <Coords points="2001,2520 1565,2501 1563,2501 1452,2512 1436,2512 1434,2512 1423,2501 1423,2499 1420,2499 1417,2499 1415,2499 1315,2509 1299,2509 1278,2509 1116,2493 1113,2493 990,2504 968,2504 939,2501 788,2488 785,2488 215,2488 215,2539 212,2550 2012,2587 2017,2571 2012,2544 2001,2520"/>
+        <Baseline points="215,2539 2017,2571"/>
+        <TextEquiv>
+          <Unicode>unconditional grace and from his table-fellowship with &quot;sinners and tax</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7028ee8b" >
+        <Coords points="209,2638 207,2663 686,2663 761,2671 847,2679 850,2679 917,2671 955,2668 984,2673 1035,2681 1038,2681 1089,2673 1108,2671 1124,2673 1165,2684 1167,2684 1170,2684 1232,2676 1248,2673 1267,2676 1345,2687 1348,2687 1412,2676 1426,2676 1458,2676 1662,2692 1665,2692 1778,2681 1781,2681 1816,2695 1818,2695 1821,2695 1961,2681 1964,2668 1961,2622 1635,2601 1633,2601 1630,2601 1627,2601 1608,2614 1606,2614 1342,2614 1334,2611 1275,2595 1272,2595 1269,2595 1267,2595 1232,2609 1229,2609 974,2606 974,2603 930,2590 928,2590 925,2590 922,2590 920,2590 901,2603 890,2603 791,2590 788,2590 731,2601 723,2601 715,2601 653,2585 651,2585 648,2585 565,2598 556,2598 554,2598 519,2582 516,2582 513,2582 406,2595 395,2595 392,2595 371,2579 368,2579 365,2579 363,2579 209,2590 209,2638"/>
+        <Baseline points="209,2638 1964,2668"/>
+        <TextEquiv>
+          <Unicode>collectors.&quot; By becoming a &quot;friend of sinners and tax collectors&quot; he</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dfb230a3" >
+        <Coords points="995,2706 209,2681 209,2738 207,2770 320,2759 355,2778 357,2778 360,2778 484,2781 487,2781 489,2781 495,2781 551,2765 602,2781 608,2784 610,2784 613,2784 626,2784 737,2768 995,2789 1000,2754 1000,2746 995,2706"/>
+        <Baseline points="209,2738 1000,2754"/>
+        <TextEquiv>
+          <Unicode>made their enemies his enemies.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98294624" >
+        <Coords points="820,2907 503,2889 500,2889 427,2897 411,2918 411,2942 408,2959 519,2980 521,2980 581,2972 605,2967 613,2972 621,2980 621,2983 624,2983 626,2983 629,2983 675,2977 726,2969 836,2985 842,2953 836,2926 820,2907"/>
+        <Baseline points="411,2942 842,2953"/>
+        <TextEquiv>
+          <Unicode>³Moltmann, p. 49.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_898c7fe7"  >
+      <Coords points="2093,255 1999,277 1999,215 2082,215 2093,255"/>
+      <TextLine id="eSc_line_956f4b0d" >
+        <Coords points="2069,252 2039,215 2012,215 2009,201 1985,193 1991,260 1991,285 2085,285 2085,255 2079,250 2069,252"/>
+        <Baseline points="1991,260 2085,255"/>
+        <TextEquiv>
+          <Unicode>110</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_90a708a1"  >
+      <Coords points="247,1097 277,1097 277,1105 247,1105 247,1097"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_262cda4c"  >
+      <Coords points="1964,1041 1076,1041 731,1011 1953,1011 1964,1041"/>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00018.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.562945+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.562957+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00018.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_f3030857"  >
+      <Coords points="1587,589 1522,642 215,621 215,258 1921,269 1942,513 1536,546 1587,589"/>
+      <TextLine id="eSc_line_17390260" >
+        <Coords points="930,263 904,263 898,260 694,260 688,260 661,260 634,260 608,260 581,260 554,260 535,258 449,258 446,258 419,258 392,258 365,258 339,258 312,258 285,258 258,258 231,258 228,255 204,255 204,301 201,320 1923,341 1929,320 1926,274 941,263 930,263"/>
+        <Baseline points="204,301 1929,320"/>
+        <TextEquiv>
+          <Unicode>communication and movement. He explores the urban landscape through</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ff279143" >
+        <Coords points="1915,363 1684,371 1525,357 1498,355 1495,355 1493,355 1487,355 1434,368 1173,352 1124,349 1121,349 1100,349 971,363 949,349 949,347 947,347 944,347 941,347 922,349 831,360 815,347 812,347 809,347 807,347 801,347 715,360 645,344 637,344 634,344 629,344 565,357 244,357 209,338 207,400 204,411 1921,433 1926,419 1921,376 1915,363"/>
+        <Baseline points="207,400 1926,419"/>
+        <TextEquiv>
+          <Unicode>essays, photographs, and poetry. One of the poems, written by Roger</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f91ea02a" >
+        <Coords points="1918,513 1891,511 1864,513 1853,470 1487,454 1485,454 1286,465 1245,468 1240,465 1224,451 1221,451 1218,451 1216,451 1119,465 1105,465 1070,465 855,451 852,451 788,462 777,462 772,462 739,449 737,449 734,449 731,449 729,449 710,459 707,462 675,459 554,449 551,449 548,449 516,459 513,459 511,459 492,446 489,446 487,446 484,446 199,454 199,503 196,519 417,535 419,535 497,524 543,538 546,538 548,538 1923,532 1926,516 1921,513 1918,513"/>
+        <Baseline points="199,503 1926,516"/>
+        <TextEquiv>
+          <Unicode>McGough, brings out the impersonalness of urban life and serves as a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bb3c085e" >
+        <Coords points="199,602 196,632 336,634 339,634 341,634 344,634 360,621 430,634 443,637 446,637 449,637 457,634 500,624 597,637 605,637 608,637 610,637 613,637 626,624 659,637 661,637 664,637 683,637 1087,629 1186,642 1208,645 1210,648 1536,648 1539,618 1536,572 1315,556 199,556 199,602"/>
+        <Baseline points="199,602 1539,618"/>
+        <TextEquiv>
+          <Unicode>prophecy of what the future of the city could become.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a84459fd"  >
+      <Coords points="1598,1043 1598,1094 1482,1148 1415,1234 1232,1288 1501,1355 1479,1417 1393,1452 1393,1611 1555,1646 1576,1686 1264,1804 1374,1850 1705,1850 1845,1915 1835,1977 1719,1987 1695,2095 1619,2138 1791,2173 1773,2259 1921,2270 1921,2310 2017,2377 1974,2525 1493,2547 1608,2579 1426,2633 182,2622 182,2259 373,2238 365,2173 516,2138 355,2095 365,828 850,804 570,793 548,720 1662,742 1619,804 1361,796 1501,839 1490,1019 1598,1043"/>
+      <TextLine id="eSc_line_7cdda85e" >
+        <Coords points="1625,739 1598,739 1571,739 1544,739 1517,737 1490,737 1463,737 1436,737 1409,737 1382,737 1356,734 1329,734 1302,734 1275,734 1248,734 1221,731 1194,731 1167,731 1140,731 1113,731 1087,728 1060,728 1033,728 1006,728 979,728 952,726 925,726 898,726 871,726 844,726 817,723 791,723 764,723 737,723 710,723 683,720 656,720 629,720 602,720 575,720 554,731 548,755 546,772 1643,790 1649,766 1638,750 1625,739"/>
+        <Baseline points="548,755 1649,766"/>
+        <TextEquiv>
+          <Unicode>MOTHER, THE WARDROBE IS FULL OF INFANTRYMEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a234b3bf" >
+        <Coords points="1458,823 591,815 589,815 562,817 535,817 508,820 481,820 454,823 427,823 400,825 373,825 373,858 371,868 1463,879 1469,868 1466,825 1458,823"/>
+        <Baseline points="373,858 1469,868"/>
+        <TextEquiv>
+          <Unicode>Mother, the wardrobe is full of infantrymen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d788c776" >
+        <Coords points="858,863 831,863 804,863 777,863 750,863 723,863 696,863 669,863 643,860 616,860 589,860 562,860 535,860 508,860 481,860 454,860 427,860 417,860 373,868 376,911 376,922 863,919 866,906 861,863 858,863"/>
+        <Baseline points="376,911 866,906"/>
+        <TextEquiv>
+          <Unicode>i did, i asked them</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87d2de56" >
+        <Coords points="400,911 373,911 373,960 371,979 1463,992 1469,973 1466,928 1135,911 1132,911 1081,917 1035,922 1025,917 1017,909 1014,909 1011,909 1008,909 804,911 422,914 411,911 400,911"/>
+        <Baseline points="373,960 1469,973"/>
+        <TextEquiv>
+          <Unicode>but they snarled saying it was a man&#x27;s life</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3df41cff" >
+        <Coords points="1582,1038 1555,1032 1528,1027 1501,1022 1498,1019 1498,1019 1495,1019 1493,1019 1455,1035 1452,1035 1447,1035 1388,1016 1385,1016 1382,1016 1235,1030 1208,1032 1205,1030 1189,1016 1189,1014 1186,1014 1183,1014 1181,1014 1113,1027 1103,1030 1078,1027 949,1011 947,1011 858,1024 828,1027 809,1022 756,1008 753,1008 750,1008 747,1008 721,1022 718,1022 710,1022 634,1008 632,1008 629,1008 597,1019 578,1024 371,1016 371,1065 368,1086 1584,1100 1590,1081 1587,1038 1582,1038"/>
+        <Baseline points="371,1065 1590,1081"/>
+        <TextEquiv>
+          <Unicode>Mother, there is a centurion tank in the parlour</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77261a52" >
+        <Coords points="373,1116 371,1135 1035,1135 1038,1124 1035,1078 373,1070 373,1116"/>
+        <Baseline points="373,1116 1038,1124"/>
+        <TextEquiv>
+          <Unicode>i did, i asked the officer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ab81604" >
+        <Coords points="371,1167 368,1183 1428,1199 1434,1180 1431,1135 371,1121 371,1167"/>
+        <Baseline points="371,1167 1434,1180"/>
+        <TextEquiv>
+          <Unicode>but he laughed saying queen&#x27;s regulations,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac221519" >
+        <Coords points="368,1221 365,1242 1084,1248 1089,1226 1087,1183 368,1178 368,1221"/>
+        <Baseline points="368,1221 1089,1226"/>
+        <TextEquiv>
+          <Unicode>piano was out of tune anyway</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a78b413" >
+        <Coords points="1310,1307 1283,1301 1256,1293 1248,1291 368,1272 368,1326 365,1336 1307,1347 1313,1336 1313,1307 1310,1307"/>
+        <Baseline points="368,1326 1313,1336"/>
+        <TextEquiv>
+          <Unicode>Mother, polish your identity bracelet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a9af380" >
+        <Coords points="1477,1350 1466,1345 651,1331 643,1331 616,1331 605,1328 511,1328 508,1328 481,1328 454,1328 427,1328 400,1328 373,1328 373,1374 371,1385 1482,1406 1487,1390 1485,1371 1477,1350"/>
+        <Baseline points="373,1374 1487,1390"/>
+        <TextEquiv>
+          <Unicode>there is a mushroom cloud in the back garden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_517c21e1" >
+        <Coords points="371,1428 368,1436 1235,1447 1240,1436 1237,1393 371,1385 371,1428"/>
+        <Baseline points="371,1428 1240,1436"/>
+        <TextEquiv>
+          <Unicode>i did, i tried to bring in the cat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_219c8690" >
+        <Coords points="1229,1436 1210,1436 1065,1441 505,1431 503,1431 476,1431 449,1431 422,1431 395,1431 368,1428 368,1476 365,1498 1361,1498 1364,1484 1358,1431 1229,1433 1229,1436"/>
+        <Baseline points="368,1476 1364,1484"/>
+        <TextEquiv>
+          <Unicode>but it simply came to pieces in my hand</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94cdcc31" >
+        <Coords points="371,1530 368,1538 1356,1549 1361,1541 1358,1495 371,1482 371,1530"/>
+        <Baseline points="371,1530 1361,1541"/>
+        <TextEquiv>
+          <Unicode>i did, i tried to whitewash the windows</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e711bee" >
+        <Coords points="879,1538 852,1535 826,1535 799,1535 772,1535 745,1535 718,1535 691,1535 664,1535 637,1535 610,1533 583,1533 556,1533 530,1533 503,1533 476,1533 449,1533 422,1533 395,1533 368,1533 368,1579 365,1595 901,1600 906,1584 904,1538 879,1538"/>
+        <Baseline points="368,1579 906,1584"/>
+        <TextEquiv>
+          <Unicode>but there weren&#x27;t any</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa6c101a" >
+        <Coords points="368,1627 365,1638 1356,1646 1361,1635 1358,1592 368,1584 368,1627"/>
+        <Baseline points="368,1627 1361,1635"/>
+        <TextEquiv>
+          <Unicode>i did, i tried to hide under the stairs</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_99ce6a3c" >
+        <Coords points="1549,1643 1547,1640 1046,1635 1038,1635 1035,1632 874,1632 850,1632 823,1632 796,1632 769,1632 742,1632 715,1632 688,1630 661,1630 634,1630 608,1630 581,1630 554,1630 527,1630 500,1630 473,1630 446,1630 419,1630 392,1630 365,1627 365,1678 363,1689 1555,1697 1560,1686 1557,1681 1549,1643"/>
+        <Baseline points="365,1678 1560,1686"/>
+        <TextEquiv>
+          <Unicode>but i couldn&#x27;t get in for civil defence leaders</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0a11911" >
+        <Coords points="368,1729 365,1740 1283,1753 1288,1740 1286,1694 368,1683 368,1729"/>
+        <Baseline points="368,1729 1288,1740"/>
+        <TextEquiv>
+          <Unicode>i did, i tried ringing Candid Camera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03ed9a41" >
+        <Coords points="365,1780 363,1799 1108,1807 1113,1791 1111,1745 365,1732 365,1780"/>
+        <Baseline points="365,1780 1113,1791"/>
+        <TextEquiv>
+          <Unicode>but they crossed their hearts</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a88f287" >
+        <Coords points="1549,1850 1522,1850 1495,1850 1469,1850 1442,1850 1415,1850 1388,1850 1366,1845 651,1831 648,1831 605,1831 400,1842 368,1829 365,1885 363,1896 1705,1909 1711,1896 1708,1853 1574,1850 1549,1850"/>
+        <Baseline points="365,1885 1711,1896"/>
+        <TextEquiv>
+          <Unicode>i went for a policeman but they were looting the town</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_81751258" >
+        <Coords points="1821,1904 731,1891 715,1891 710,1888 548,1888 527,1888 500,1888 473,1888 446,1888 419,1888 392,1888 365,1888 365,1936 363,1947 1835,1963 1840,1947 1837,1936 1821,1904"/>
+        <Baseline points="365,1936 1840,1947"/>
+        <TextEquiv>
+          <Unicode>i went out for a fire engine but they were all upside down</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd4a8d03" >
+        <Coords points="363,1987 360,2001 1678,2014 1684,2004 1681,1950 363,1942 363,1987"/>
+        <Baseline points="363,1987 1684,2004"/>
+        <TextEquiv>
+          <Unicode>1 went for a priest but they were all on their knees</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_efd428ff" >
+        <Coords points="365,2039 363,2047 1576,2057 1582,2049 1579,2006 365,1993 365,2039"/>
+        <Baseline points="365,2039 1582,2049"/>
+        <TextEquiv>
+          <Unicode>mother don&#x27;t just lie there say something please</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb6e269d" >
+        <Coords points="1574,2049 1547,2049 1520,2049 1493,2049 1466,2049 1439,2049 1412,2049 1385,2049 1358,2049 1331,2049 1304,2049 1278,2049 1251,2047 1224,2047 1197,2047 1170,2047 1143,2047 1116,2047 1089,2047 1062,2047 1035,2047 1008,2047 982,2047 955,2044 928,2044 901,2044 874,2044 847,2044 820,2044 793,2044 766,2044 739,2044 713,2044 686,2044 659,2041 632,2041 605,2041 578,2041 551,2041 524,2041 497,2041 470,2041 443,2041 417,2041 390,2041 363,2041 363,2092 363,2114 1638,2108 1638,2092 1638,2041 1576,2041 1574,2049"/>
+        <Baseline points="363,2092 1638,2092"/>
+        <TextEquiv>
+          <Unicode>mother don&#x27;t just lie there say something please¹⁰</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_96548a2c" >
+        <Coords points="1781,2205 1756,2165 1746,2162 1568,2146 1565,2146 1563,2146 1520,2162 1514,2162 1506,2162 1434,2143 1294,2143 1291,2143 1288,2143 1245,2160 1240,2162 1108,2162 1103,2157 1089,2143 1087,2143 1084,2143 1081,2143 1000,2157 992,2157 987,2157 952,2141 949,2141 947,2141 944,2141 893,2154 882,2157 661,2157 656,2152 621,2138 618,2138 554,2138 551,2138 548,2138 546,2138 532,2152 527,2154 443,2152 438,2154 411,2160 384,2168 384,2200 382,2216 1781,2227 1786,2211 1781,2200 1781,2205"/>
+        <Baseline points="384,2200 1786,2211"/>
+        <TextEquiv>
+          <Unicode>Many of the modern songs bring out the feeling of human</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_17cff12c" >
+        <Coords points="1907,2267 1880,2264 1853,2264 1826,2262 1800,2259 1773,2259 1770,2254 325,2240 320,2243 293,2246 266,2248 239,2251 212,2254 185,2254 185,2294 182,2308 371,2324 373,2324 376,2324 379,2324 392,2310 395,2310 419,2310 602,2326 605,2326 869,2318 922,2332 925,2332 928,2332 1907,2326 1910,2313 1907,2267 1907,2267"/>
+        <Baseline points="185,2294 1910,2313"/>
+        <TextEquiv>
+          <Unicode>lostness. The book entitled Sounds of Silence consists of poems and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f688433a" >
+        <Coords points="1991,2364 1197,2348 1194,2348 957,2359 944,2359 914,2345 912,2345 909,2345 193,2353 182,2396 180,2418 2001,2429 2007,2410 2001,2386 1991,2364"/>
+        <Baseline points="182,2396 2007,2410"/>
+        <TextEquiv>
+          <Unicode>songs about loneliness. Betsy Ryan is the editor. We want to quote two</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4be619ac" >
+        <Coords points="180,2499 177,2515 1950,2536 1956,2509 1953,2466 180,2447 180,2499"/>
+        <Baseline points="180,2499 1956,2509"/>
+        <TextEquiv>
+          <Unicode>of the songs as modern expressions of loneliness. The first one is by</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd970f21" >
+        <Coords points="182,2601 180,2630 1469,2630 1471,2609 1471,2563 1428,2547 1426,2547 1423,2547 1353,2563 1248,2563 1235,2550 1235,2547 1232,2547 1229,2547 1226,2547 1017,2558 995,2544 992,2544 990,2544 987,2544 613,2558 497,2542 495,2542 252,2555 212,2542 209,2542 207,2542 204,2542 201,2542 196,2542 182,2601"/>
+        <Baseline points="182,2601 1471,2609"/>
+        <TextEquiv>
+          <Unicode>two of the Beatles, John Lennon and Paul McCartney:</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_980c9de2"  >
+      <Coords points="2028,223 1966,234 1966,182 2028,182 2028,223"/>
+      <TextLine id="eSc_line_2823354d" >
+        <Coords points="1996,182 1969,182 1969,220 1969,236 2028,234 2028,220 2023,217 1996,182"/>
+        <Baseline points="1970,222 2031,222"/>
+        <TextEquiv>
+          <Unicode>11</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7827c197"  >
+      <Coords points="965,2902 172,2880 182,2840 373,2840 387,2776 1888,2786 1964,2808 1964,2848 965,2902"/>
+      <TextLine id="eSc_line_d742a101" >
+        <Coords points="1948,2802 1945,2800 1479,2800 1444,2792 1393,2781 1391,2781 1253,2786 1135,2792 1121,2784 1116,2778 1113,2778 1111,2778 1108,2778 1052,2784 952,2792 920,2781 912,2778 898,2778 882,2778 836,2789 535,2776 532,2776 530,2776 489,2786 419,2776 414,2776 387,2776 387,2821 384,2846 562,2867 565,2867 567,2867 610,2851 753,2870 756,2870 758,2870 799,2854 909,2854 936,2854 1033,2875 1466,2880 1469,2880 1471,2880 1509,2867 1592,2880 1595,2880 1598,2880 1600,2880 1600,2878 1619,2862 1743,2864 1767,2883 1770,2883 1773,2883 1775,2883 1778,2883 1781,2883 1813,2864 1953,2864 1956,2843 1953,2802 1948,2802"/>
+        <Baseline points="387,2821 987,2840 1956,2843"/>
+        <TextEquiv>
+          <Unicode>¹⁰Michael E. Eliot Hurst, I Came to the city (Boston: Houghton</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d9b36d81"  >
+      <Coords points="1622,2571 1630,2571 1630,2579 1622,2579 1622,2571"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_96fef4bd" >
+        <Coords points="930,2837 904,2837 877,2835 850,2835 823,2835 815,2832 438,2840 177,2824 177,2886 174,2905 949,2915 955,2894 952,2837 930,2837"/>
+        <Baseline points="178,2888 956,2895"/>
+        <TextEquiv>
+          <Unicode>Mifflin Company, 1975), p. 354.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

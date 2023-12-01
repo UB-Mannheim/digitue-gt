@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00099.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.224526+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.224537+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00099.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_655ff840"  >
+      <Coords points="1953,365 1953,513 1921,578 581,589 610,632 546,675 226,675 215,312 258,301 1899,301 1953,365"/>
+      <TextLine id="eSc_line_9662d9de" >
+        <Coords points="242,303 217,309 217,347 215,365 1891,373 1896,357 1894,312 263,301 242,303"/>
+        <Baseline points="217,347 1896,357"/>
+        <TextEquiv>
+          <Unicode>engaged in a twofold movement which derives first from the process</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_220cae5b" >
+        <Coords points="215,449 212,459 1934,473 1939,459 1939,414 1896,398 1894,398 1891,398 1888,398 1886,398 1867,411 1748,398 1746,398 1590,408 1541,411 1495,408 1372,395 1369,395 1213,403 1124,408 1084,403 1027,392 1025,392 842,400 659,406 632,398 613,390 610,390 608,390 605,390 583,395 554,403 215,392 215,449"/>
+        <Baseline points="215,449 1939,459"/>
+        <TextEquiv>
+          <Unicode>character of all past life and secondly from the continual change in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6eed0d30" >
+        <Coords points="215,548 212,564 1913,572 1918,559 1915,513 215,500 215,548"/>
+        <Baseline points="215,548 1918,559"/>
+        <TextEquiv>
+          <Unicode>the man who contemplates history and is himself subject to historic</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9009375f" >
+        <Coords points="215,650 215,667 524,675 527,650 527,605 419,605 419,602 368,578 365,578 269,578 266,578 263,578 215,599 215,650"/>
+        <Baseline points="215,650 527,650"/>
+        <TextEquiv>
+          <Unicode>development.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1bf2e7dc"  >
+      <Coords points="1985,1334 1996,1428 1931,1495 1974,1632 1054,1654 1856,1708 882,1697 879,1751 2028,1775 2039,1848 1956,1858 1878,2009 2017,2055 2039,2138 1931,2184 1899,2364 1705,2399 1845,2442 1931,2539 1942,2719 2028,2765 2028,2837 1923,2859 1910,2934 204,2934 215,753 1974,774 1985,1073 1942,1310 1985,1334"/>
+      <TextLine id="eSc_line_c7f52450" >
+        <Coords points="1937,772 1910,772 1883,772 1856,772 1829,772 1802,772 1775,772 1748,769 1722,769 1695,769 1668,769 1641,769 1614,769 1587,769 1560,769 1533,769 1506,766 1479,766 1452,766 1426,766 1399,766 1372,766 1345,766 1318,766 1291,763 1264,763 1237,763 1210,763 1183,763 1156,763 1130,763 1103,763 1076,761 1049,761 1022,761 995,761 968,761 941,761 914,761 887,761 861,758 834,758 807,758 780,758 753,758 726,758 699,758 672,758 645,755 618,755 591,755 565,755 538,755 511,755 484,755 457,755 430,753 403,753 376,753 349,753 322,753 295,753 269,753 242,753 215,753 215,801 212,831 753,836 756,836 758,836 761,836 761,833 764,831 782,817 1958,831 1964,812 1961,772 1937,772"/>
+        <Baseline points="215,801 1964,812"/>
+        <TextEquiv>
+          <Unicode>Historical heuristics. The historical method does not only work with</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b711a6c5" >
+        <Coords points="212,901 212,928 1961,928 1964,911 1961,868 212,847 212,901"/>
+        <Baseline points="212,901 1964,911"/>
+        <TextEquiv>
+          <Unicode>destructive criticism of past pictures of history, in order to inves-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_475bc085" >
+        <Coords points="215,1006 212,1022 1958,1035 1964,1016 1961,968 215,957 215,1006"/>
+        <Baseline points="215,1006 1964,1016"/>
+        <TextEquiv>
+          <Unicode>tigate the &#x27;&#x27;bare“ facts, but must itself approach the source material</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_553889e4" >
+        <Coords points="209,1105 209,1127 1956,1127 1958,1113 1958,1065 209,1054 209,1105"/>
+        <Baseline points="209,1105 1958,1113"/>
+        <TextEquiv>
+          <Unicode>with its own problems and plans. The natural scientist in his exper-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bfcd8aa6" >
+        <Coords points="209,1221 226,1232 228,1232 231,1232 234,1232 1937,1223 1939,1213 1937,1156 791,1164 726,1151 723,1151 715,1151 250,1162 215,1148 212,1205 209,1221"/>
+        <Baseline points="212,1205 1939,1213"/>
+        <TextEquiv>
+          <Unicode>iments must isolate his object, eliminate factors which do not enter</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54c6d9f0" >
+        <Coords points="212,1307 209,1318 1883,1331 1888,1315 1886,1264 212,1261 212,1307"/>
+        <Baseline points="212,1307 1888,1315"/>
+        <TextEquiv>
+          <Unicode>into the question, and disregard other problems if he is to attain</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20fb6c03" >
+        <Coords points="207,1406 204,1417 1980,1428 1985,1417 1980,1361 664,1366 640,1353 637,1353 634,1353 632,1353 309,1363 207,1350 207,1406"/>
+        <Baseline points="207,1406 1985,1417"/>
+        <TextEquiv>
+          <Unicode>unequivocal results. This is very difficult in the case of historical</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70f32985" >
+        <Coords points="207,1509 204,1519 1861,1533 1867,1519 1867,1466 207,1466 207,1509"/>
+        <Baseline points="207,1509 1867,1519"/>
+        <TextEquiv>
+          <Unicode>objects because here we have always to do with highly complicated</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f56513a" >
+        <Coords points="1956,1587 1950,1568 207,1554 207,1611 204,1627 1221,1643 1224,1643 1956,1630 1958,1616 1956,1589 1956,1587"/>
+        <Baseline points="207,1611 1958,1616"/>
+        <TextEquiv>
+          <Unicode>structures whose isolation destroys the fact of their being so multi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa55f7cb" >
+        <Coords points="207,1713 207,1729 772,1729 772,1713 772,1670 207,1657 207,1713"/>
+        <Baseline points="207,1713 772,1713"/>
+        <TextEquiv>
+          <Unicode>fariously conditioned.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87e00126" >
+        <Coords points="2023,1772 408,1761 408,1810 406,1831 2028,1839 2034,1818 2031,1802 2023,1772"/>
+        <Baseline points="408,1810 2034,1818"/>
+        <TextEquiv>
+          <Unicode>When historical science moves on from isolated, individual facts</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_397e9842" >
+        <Coords points="207,1912 204,1923 1902,1931 1907,1920 1907,1872 207,1869 207,1912"/>
+        <Baseline points="207,1912 1907,1920"/>
+        <TextEquiv>
+          <Unicode>to more general statements embracing historic processes, then there</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_792d882d" >
+        <Coords points="204,2009 201,2033 1829,2044 1835,2020 1835,1974 1781,1961 1778,1961 1775,1961 1514,1971 1490,1971 1479,1971 1382,1958 1380,1958 1138,1966 1049,1969 1041,1966 1019,1955 1017,1955 204,1955 204,2009"/>
+        <Baseline points="204,2009 1835,2020"/>
+        <TextEquiv>
+          <Unicode>arises the problem of the forming of historical concepts. These</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_68f231a4" >
+        <Coords points="2017,2073 204,2071 204,2114 204,2138 2028,2138 2031,2122 2028,2100 2017,2073"/>
+        <Baseline points="204,2114 2031,2122"/>
+        <TextEquiv>
+          <Unicode>concepts acquire their binding force from the standpoint and perspective</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3bb52d08" >
+        <Coords points="201,2211 199,2224 1902,2232 1907,2221 1904,2178 201,2162 201,2211"/>
+        <Baseline points="201,2211 1907,2221"/>
+        <TextEquiv>
+          <Unicode>of the moment. Therefore they cannot claim to reflect the historic</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dac0d540" >
+        <Coords points="201,2316 201,2337 1902,2337 1904,2324 1902,2275 201,2270 201,2316"/>
+        <Baseline points="201,2316 1904,2324"/>
+        <TextEquiv>
+          <Unicode>processes as such but are heuristic modes of contemplating historic</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a59afe9" >
+        <Coords points="201,2386 201,2421 201,2439 1649,2431 1649,2421 1646,2361 207,2369 201,2386"/>
+        <Baseline points="201,2421 1649,2421"/>
+        <TextEquiv>
+          <Unicode>processes and means of explaining and understanding them.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62968f83" >
+        <Coords points="400,2515 398,2528 425,2542 427,2542 430,2542 1479,2536 1487,2547 1490,2547 1490,2550 1493,2550 1495,2550 1498,2550 1859,2536 1861,2525 1859,2480 400,2458 400,2515"/>
+        <Baseline points="400,2515 1861,2525"/>
+        <TextEquiv>
+          <Unicode>One such means is the &#x27;historical law.“ An event becomes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2e89fe1" >
+        <Coords points="1926,2577 1068,2577 1033,2566 1000,2560 998,2560 734,2563 226,2571 207,2558 201,2617 199,2628 1923,2633 1929,2622 1929,2582 1926,2577"/>
+        <Baseline points="201,2617 1929,2622"/>
+        <TextEquiv>
+          <Unicode>explicable when its causes can be seen. We can certainly argue from</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef8a029c" >
+        <Coords points="201,2716 201,2738 1926,2735 1929,2724 1929,2679 1896,2665 1894,2665 1891,2665 780,2673 750,2660 747,2660 745,2660 201,2671 201,2716"/>
+        <Baseline points="201,2716 1929,2724"/>
+        <TextEquiv>
+          <Unicode>effects to causes but hardly ever from causes to effects. Hence the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1219aeb2" >
+        <Coords points="201,2819 199,2840 2020,2848 2026,2827 2026,2784 1888,2768 1886,2768 201,2768 201,2819"/>
+        <Baseline points="201,2819 2026,2827"/>
+        <TextEquiv>
+          <Unicode>really historic factor lies in the concept of possibility rather than in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1613672" >
+        <Coords points="201,2918 199,2942 217,2956 220,2956 223,2956 226,2956 796,2945 949,2942 984,2948 1057,2959 1060,2961 1221,2961 1221,2959 1224,2959 1226,2959 1235,2950 1240,2945 1251,2950 1267,2959 1269,2959 1272,2961 1625,2961 1625,2959 1627,2959 1635,2956 1662,2945 1896,2959 1902,2924 1899,2880 201,2870 201,2918"/>
+        <Baseline points="201,2918 1902,2924"/>
+        <TextEquiv>
+          <Unicode>that of necessity: we never find all the possibilities turned into</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_52e25e2b"  >
+      <Coords points="1977,215 2039,215 2039,255 1977,266 1977,215"/>
+      <TextLine id="eSc_line_536eb708" >
+        <Coords points="2028,250 2001,215 1982,209 1974,209 1974,252 1974,306 2034,312 2036,252 2034,217 2028,250"/>
+        <Baseline points="1977,254 2037,254"/>
+        <TextEquiv>
+          <Unicode>92</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

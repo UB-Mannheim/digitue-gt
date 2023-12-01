@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00089.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.090111+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.090122+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00089.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_60a2e08b"  >
+      <Coords points="1974,699 1974,750 882,728 847,782 1996,807 1985,1363 1450,1385 1469,1417 1407,1385 1286,1449 1310,1495 1899,1506 1923,1560 2050,1603 2050,1804 1921,1829 2050,1883 2028,2472 1331,2482 1226,2493 1264,2547 965,2571 1824,2603 1880,2679 2017,2711 1996,2870 1902,2891 1888,2977 226,2967 215,2668 312,2636 226,2622 215,2568 215,1592 236,1549 344,1535 236,1506 365,1484 215,1449 215,925 236,860 398,836 236,796 441,782 226,750 226,301 1977,279 2039,344 2028,664 1181,677 1974,699"/>
+      <TextLine id="eSc_line_894a0363" >
+        <Coords points="2001,309 1988,295 939,290 925,290 898,290 871,293 844,293 817,293 791,293 764,293 737,293 710,293 683,293 656,295 629,295 602,295 575,295 548,295 521,295 495,295 468,295 441,295 414,298 387,298 360,298 333,298 306,298 279,298 252,298 228,298 228,330 226,341 2001,352 2007,344 2004,309 2001,309"/>
+        <Baseline points="228,330 2007,344"/>
+        <TextEquiv>
+          <Unicode>of expectations, hopes, and questions about the promised future. What</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_18b3976a" >
+        <Coords points="2020,392 667,392 664,390 648,373 645,373 643,373 640,373 637,373 634,373 610,390 608,390 594,390 473,373 470,373 231,387 231,435 231,459 2028,454 2031,443 2028,414 2020,392"/>
+        <Baseline points="231,435 2031,443"/>
+        <TextEquiv>
+          <Unicode>is spotlighted in the resurrection appearances is expounded in terms of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f8affca" >
+        <Coords points="228,532 226,548 2001,564 2007,543 2001,494 1143,494 1127,492 1084,478 1081,478 1078,478 1025,489 1011,492 979,489 839,478 836,478 718,489 680,492 659,489 583,476 581,476 578,476 554,489 551,489 513,476 511,476 508,476 228,486 228,532"/>
+        <Baseline points="228,532 2007,543"/>
+        <TextEquiv>
+          <Unicode>the earlier promises. This exposition in turn takes place in the form</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94e44f89" >
+        <Coords points="226,634 226,661 2023,659 2026,645 2023,594 704,594 699,591 680,578 678,578 675,578 672,578 236,589 226,634"/>
+        <Baseline points="226,634 2026,645"/>
+        <TextEquiv>
+          <Unicode>of prophetic proclamation of the future of Christ which was spotlighted</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_263eb909" >
+        <Coords points="231,739 231,761 764,753 764,734 761,694 699,677 696,677 694,677 484,694 244,680 242,680 239,680 236,680 236,683 234,683 228,685 231,739"/>
+        <Baseline points="231,739 764,734"/>
+        <TextEquiv>
+          <Unicode>in these appearances.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa633e9f" >
+        <Coords points="1958,807 1931,807 1904,807 1878,804 1851,804 1824,804 1797,804 1770,804 1743,801 1716,801 1689,801 1662,801 1466,801 1458,796 1447,796 1420,796 1393,793 1366,793 1339,793 1313,793 1286,790 1259,790 1232,790 1224,790 944,796 887,785 871,782 869,782 855,782 799,782 508,793 425,780 425,782 425,839 422,852 1974,858 1980,847 1977,807 1958,807"/>
+        <Baseline points="425,839 1980,847"/>
+        <TextEquiv>
+          <Unicode>Christian eschatology differs from Old Testament faith in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_84240439" >
+        <Coords points="226,936 223,957 1974,971 1980,949 1972,887 1939,901 1851,887 1845,887 1843,887 1835,887 1716,901 1649,887 1630,885 1627,885 1606,887 1544,898 1528,887 1525,885 1522,885 1520,885 1517,885 1487,887 1409,898 1399,887 1396,887 1396,885 1393,885 1391,885 1278,882 1275,882 1237,887 1186,898 930,898 909,887 890,882 887,882 885,882 834,887 793,893 782,887 766,879 764,879 761,879 648,887 616,890 608,887 567,876 565,876 562,876 559,876 538,887 532,890 524,887 476,876 473,876 470,876 468,876 443,887 438,890 226,890 226,936"/>
+        <Baseline points="226,936 1980,949"/>
+        <TextEquiv>
+          <Unicode>promise, as also from prophetic and apocalyptic eschatology, by being</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_89c2e10e" >
+        <Coords points="226,1035 223,1051 1057,1067 1060,1067 1178,1057 1194,1057 1205,1057 1278,1070 1280,1070 1563,1059 1579,1059 1582,1059 1649,1073 1652,1073 1974,1059 1977,1049 1974,1000 226,987 226,1035"/>
+        <Baseline points="226,1035 1977,1049"/>
+        <TextEquiv>
+          <Unicode>Christian eschatology and speaking of &quot;Christ and his future.&quot; It is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6cae181e" >
+        <Coords points="223,1137 223,1162 1996,1162 1999,1148 1993,1086 1937,1100 1657,1086 1654,1086 1652,1086 1598,1100 1541,1084 1539,1084 1536,1084 1533,1084 1243,1097 1097,1081 1095,1081 1092,1081 1089,1081 1068,1094 912,1081 909,1081 906,1081 904,1081 885,1097 704,1097 669,1078 667,1078 664,1078 661,1078 352,1092 223,1076 223,1137"/>
+        <Baseline points="223,1137 1999,1148"/>
+        <TextEquiv>
+          <Unicode>related in content to the person of Jesus of Nazareth and the event of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_56f64cb4" >
+        <Coords points="223,1234 220,1253 1972,1258 1977,1248 1972,1188 1910,1202 1867,1188 1864,1188 1861,1188 1853,1188 1595,1199 1571,1188 1565,1186 1563,1186 1560,1186 1557,1186 1552,1188 1530,1199 1385,1188 1342,1186 1339,1186 1323,1188 1275,1199 1224,1188 1194,1183 1191,1183 1189,1183 1186,1183 1186,1186 1181,1188 1173,1197 1132,1188 1100,1183 1097,1183 1095,1183 1078,1188 1052,1197 990,1188 920,1180 917,1180 839,1188 793,1194 782,1188 766,1180 764,1180 761,1180 707,1188 678,1194 645,1188 594,1180 591,1180 589,1180 586,1180 586,1183 578,1188 573,1194 223,1191 223,1234"/>
+        <Baseline points="223,1234 1977,1248"/>
+        <TextEquiv>
+          <Unicode>his raising. It speaks of the future for which the ground is laid in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a3d4d9b" >
+        <Coords points="226,1336 226,1363 1969,1361 1972,1347 1969,1304 1759,1288 1756,1288 1611,1296 1539,1301 1522,1296 1495,1285 1493,1285 1490,1285 1304,1293 1140,1299 1116,1291 1100,1283 1097,1283 1095,1283 955,1288 713,1296 664,1283 653,1280 651,1280 648,1280 600,1283 398,1293 384,1283 384,1280 382,1280 379,1280 226,1277 226,1336"/>
+        <Baseline points="226,1336 1972,1347"/>
+        <TextEquiv>
+          <Unicode>this person and this event. Christian eschatology is at heart Chris-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46b255b8" >
+        <Coords points="226,1441 223,1457 1229,1471 1235,1447 1232,1398 226,1393 226,1441"/>
+        <Baseline points="226,1441 1235,1447"/>
+        <TextEquiv>
+          <Unicode>tology in an eschatological perspective.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21183586" >
+        <Coords points="1878,1506 1622,1506 1617,1503 1608,1501 1606,1501 1579,1498 1552,1498 1525,1498 1498,1498 1471,1498 1450,1495 1356,1501 1313,1501 1299,1498 1235,1487 1232,1487 1052,1498 1017,1498 1008,1495 971,1484 968,1484 965,1484 817,1495 796,1495 785,1495 718,1482 715,1482 422,1490 422,1538 419,1557 1896,1562 1902,1552 1899,1519 1878,1506"/>
+        <Baseline points="422,1538 1902,1552"/>
+        <TextEquiv>
+          <Unicode>What God made manifest, according to the statements of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a47efb36" >
+        <Coords points="220,1640 217,1657 2042,1667 2047,1648 2044,1603 220,1595 220,1640"/>
+        <Baseline points="220,1640 2047,1648"/>
+        <TextEquiv>
+          <Unicode>Easter narratives, was not the course of history, not the secrets of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f162f8aa" >
+        <Coords points="217,1743 215,1753 2039,1770 2044,1753 2034,1705 217,1697 217,1743"/>
+        <Baseline points="217,1743 2044,1753"/>
+        <TextEquiv>
+          <Unicode>higher world of heaven, not the outcome of the future world judgment but</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2c27318" >
+        <Coords points="223,1842 220,1850 1843,1869 1848,1856 1845,1810 223,1796 223,1842"/>
+        <Baseline points="223,1842 1848,1856"/>
+        <TextEquiv>
+          <Unicode>the future of the crucified Christ for the world. When Jesus is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11fad617" >
+        <Coords points="217,1944 215,1952 2039,1963 2044,1955 2042,1896 217,1891 217,1944"/>
+        <Baseline points="217,1944 2044,1955"/>
+        <TextEquiv>
+          <Unicode>described as &quot;the firstfruits of them that slept,&quot; then that goes beyond</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6e233b9" >
+        <Coords points="220,2044 217,2055 1993,2065 1999,2055 1996,2009 220,1998 220,2044"/>
+        <Baseline points="220,2044 1999,2055"/>
+        <TextEquiv>
+          <Unicode>the bounds of apocalyptic inasmuch as it means that the raising of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34382bc8" >
+        <Coords points="217,2143 215,2152 1988,2173 1993,2157 1991,2108 1673,2108 1660,2103 1627,2092 1625,2092 1622,2092 1439,2098 1310,2103 1294,2098 1278,2090 1275,2090 1272,2090 1033,2092 683,2098 591,2087 570,2084 567,2084 535,2084 371,2095 217,2082 217,2143"/>
+        <Baseline points="217,2143 1993,2157"/>
+        <TextEquiv>
+          <Unicode>dead has already taken place in this one case for all. It means, too,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf0cbe49" >
+        <Coords points="2039,2197 1132,2205 1062,2192 1060,2192 271,2200 220,2186 217,2243 217,2262 1100,2262 1124,2262 1235,2275 1237,2275 1544,2264 1571,2264 1574,2264 1592,2278 1595,2278 1598,2278 1600,2278 2039,2264 2042,2254 2039,2197"/>
+        <Baseline points="217,2243 2042,2254"/>
+        <TextEquiv>
+          <Unicode>that the raising was performed not on one faithful to the law but on one</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8c13a66d" >
+        <Coords points="215,2345 212,2356 2015,2375 2020,2356 2015,2297 226,2299 215,2345"/>
+        <Baseline points="215,2345 2020,2356"/>
+        <TextEquiv>
+          <Unicode>who was crucified. Consequently, future resurrection is to be expected</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29760fc7" >
+        <Coords points="217,2442 215,2455 2012,2472 2017,2453 2012,2396 1587,2407 1458,2394 1450,2394 1447,2394 1426,2394 1121,2404 1100,2391 1097,2391 1095,2391 217,2391 217,2442"/>
+        <Baseline points="217,2442 2017,2453"/>
+        <TextEquiv>
+          <Unicode>not from obedience to the law but from the justification of sinners and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c506006d" >
+        <Coords points="215,2550 215,2574 756,2571 756,2550 756,2504 226,2504 215,2550"/>
+        <Baseline points="215,2550 756,2550"/>
+        <TextEquiv>
+          <Unicode>from faith in Christ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_252d9712" >
+        <Coords points="1840,2630 1821,2609 414,2593 414,2646 411,2660 1840,2668 1845,2657 1840,2630 1840,2630"/>
+        <Baseline points="414,2646 1845,2657"/>
+        <TextEquiv>
+          <Unicode>The Christian hope for the future comes from observing a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7cca705c" >
+        <Coords points="1996,2708 223,2706 212,2738 212,2749 209,2759 2009,2768 2015,2757 2012,2724 1996,2708"/>
+        <Baseline points="212,2749 2015,2757"/>
+        <TextEquiv>
+          <Unicode>specific, unique event--that of the resurrection and appearing of Jesus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_318fdef7" >
+        <Coords points="212,2848 209,2862 1985,2878 1991,2856 1985,2800 1428,2811 1304,2797 1299,2797 1296,2797 1278,2797 834,2808 809,2794 807,2794 804,2794 212,2794 212,2848"/>
+        <Baseline points="212,2848 1991,2856"/>
+        <TextEquiv>
+          <Unicode>Christ. To recognize the resurrection of Christ means to recognize in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bfe11172" >
+        <Coords points="215,2945 212,2969 320,2985 322,2985 325,2985 360,2972 373,2967 419,2972 487,2980 489,2980 492,2980 511,2972 519,2969 530,2972 565,2988 567,2988 570,2988 696,2975 739,2969 750,2975 782,2988 785,2988 788,2988 1052,2975 1156,2972 1181,2977 1251,2993 1253,2996 1407,2996 1407,2993 1409,2993 1450,2977 1463,2975 1487,2980 1563,2993 1565,2993 1635,2980 1652,2977 1657,2980 1689,2996 1692,2996 1695,2996 1886,2980 1888,2959 1883,2902 1576,2913 1487,2899 1485,2899 1275,2910 215,2891 215,2945"/>
+        <Baseline points="215,2945 1888,2959"/>
+        <TextEquiv>
+          <Unicode>this event the future of God for the world. Christian eschatology</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a1b6fb9e"  >
+      <Coords points="1988,193 2050,193 2061,234 1988,255 1988,193"/>
+      <TextLine id="eSc_line_820d5067" >
+        <Coords points="2007,209 1996,209 1996,239 1996,266 2050,266 2050,239 2050,234 2023,236"/>
+        <Baseline points="1996,239 2050,239"/>
+        <TextEquiv>
+          <Unicode>82</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fd83c2e6"  >
+      <Coords points="1514,1409 1555,1409 1555,1417 1514,1417 1514,1409"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9c2bc629"  >
+      <Coords points="1654,1409 1738,1409 1738,1417 1654,1417 1654,1409"/>
+    </TextRegion>
+  </Page>
+</PcGts>

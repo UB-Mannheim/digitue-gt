@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00019.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.580647+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.580659+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00019.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_e9e25faa"  >
+      <Coords points="1393,707 1148,720 1501,807 1479,911 914,933 793,976 1382,1000 1428,1076 1501,1097 1501,1159 1415,1215 1393,1320 1253,1342 1407,1431 1641,1452 1652,1503 871,1535 772,1579 1213,1592 1385,1689 1598,1700 1662,1848 1536,1893 1888,1904 1942,1926 1931,1966 1654,1987 1738,2020 1705,2063 1608,2073 193,2030 204,1979 373,1969 387,1883 578,1872 591,1592 699,1568 591,1503 602,989 710,965 602,879 645,718 613,696 624,376 1243,387 1364,484 1630,505 1608,567 1428,578 1393,707"/>
+      <TextLine id="eSc_line_693e0fe5" >
+        <Coords points="1154,384 1127,384 1100,384 1073,381 1046,381 1019,381 992,381 965,381 939,381 912,379 885,379 858,379 831,379 804,379 777,379 750,376 723,376 696,376 669,376 643,376 640,363 616,363 616,416 613,425 1226,443 1232,430 1229,387 1159,384 1154,384"/>
+        <Baseline points="616,416 1232,430"/>
+        <TextEquiv>
+          <Unicode>He&#x27;s a real Nowhere Man,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c180e2d7" >
+        <Coords points="1318,449 1302,435 618,425 618,470 616,481 1323,500 1329,484 1323,454 1318,449"/>
+        <Baseline points="618,470 1329,484"/>
+        <TextEquiv>
+          <Unicode>Sitting in his Nowhere Land,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e6ea34a3" >
+        <Coords points="1611,503 1584,500 1557,497 1530,497 1504,494 1495,492 914,478 912,478 909,476 815,476 804,476 777,476 761,473 715,473 696,473 669,473 643,473 640,470 616,470 616,516 613,538 1619,559 1625,540 1619,511 1611,503"/>
+        <Baseline points="616,516 1625,540"/>
+        <TextEquiv>
+          <Unicode>Making all his nowhere plans for nobody.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3067725c" >
+        <Coords points="616,570 613,578 1348,599 1353,586 1353,538 616,519 616,570"/>
+        <Baseline points="616,570 1353,586"/>
+        <TextEquiv>
+          <Unicode>Doesn&#x27;t have a point of view;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_159dec2f" >
+        <Coords points="1342,586 1315,586 1288,586 1261,586 1235,586 1208,583 1181,583 1154,583 1127,583 1100,581 1073,581 1046,581 1019,581 992,581 965,578 939,578 912,578 885,578 863,575 815,575 804,575 777,575 750,575 737,572 640,572 618,599 616,618 613,632 1369,653 1374,634 1374,583 1342,581 1342,586"/>
+        <Baseline points="616,618 1374,634"/>
+        <TextEquiv>
+          <Unicode>Knows not where he&#x27;s going to.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_394561a6" >
+        <Coords points="1396,683 1372,637 1000,629 995,629 992,626 904,626 887,626 879,624 809,624 807,624 780,624 753,624 729,621 713,621 699,621 672,621 645,621 618,621 618,675 616,683 1393,699 1399,685 1396,683 1396,683"/>
+        <Baseline points="618,675 1399,685"/>
+        <TextEquiv>
+          <Unicode>Isn&#x27;t he a bit like you and me?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a80e184d" >
+        <Coords points="1286,755 1259,747 1232,742 1205,734 1197,731 1078,723 1076,723 1073,723 1049,728 1027,734 998,726 965,718 963,718 960,718 957,718 933,723 906,731 882,723 863,715 861,715 858,715 817,720 753,728 734,718 729,712 726,712 723,712 721,712 702,715 648,726 643,723 640,731 626,718 616,712 613,772 610,785 1294,796 1299,785 1288,755 1286,755"/>
+        <Baseline points="613,772 1299,785"/>
+        <TextEquiv>
+          <Unicode>Nowhere Man, please listen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ea3a265" >
+        <Coords points="1474,801 1471,798 634,780 616,809 613,823 610,831 1487,858 1493,847 1490,839 1474,801"/>
+        <Baseline points="613,823 1493,847"/>
+        <TextEquiv>
+          <Unicode>You don&#x27;t know what you&#x27;re missing,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b365fa92" >
+        <Coords points="1444,847 1417,847 1401,844 1348,844 1337,844 1310,844 1299,841 1224,841 1202,841 1194,839 632,828 610,844 610,874 608,895 1469,911 1474,890 1471,847 1444,847"/>
+        <Baseline points="610,874 1474,890"/>
+        <TextEquiv>
+          <Unicode>Nowhere Man. The world is at your</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e973009d" >
+        <Coords points="683,930 683,941 890,938 893,928 887,885 680,885 683,930"/>
+        <Baseline points="683,930 893,928"/>
+        <TextEquiv>
+          <Unicode>command.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d9436cfc" >
+        <Coords points="1278,995 1251,995 1224,992 1197,992 1170,989 1143,989 1116,987 1089,987 1062,987 1035,984 1008,984 995,981 949,981 928,981 917,979 661,971 659,973 632,981 605,984 605,1022 602,1032 1288,1054 1294,1038 1294,995 1278,995"/>
+        <Baseline points="605,1022 1294,1038"/>
+        <TextEquiv>
+          <Unicode>He&#x27;s as blind as he can be;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_abc3f8df" >
+        <Coords points="608,1076 605,1086 1385,1105 1391,1089 1388,1046 608,1032 608,1076"/>
+        <Baseline points="608,1076 1391,1089"/>
+        <TextEquiv>
+          <Unicode>Just sees what he wants to see.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c038c85" >
+        <Coords points="1474,1089 1052,1094 772,1081 766,1081 758,1078 715,1078 713,1078 686,1078 659,1078 632,1078 605,1076 605,1127 602,1137 1490,1159 1495,1143 1490,1092 1474,1089"/>
+        <Baseline points="605,1127 1495,1143"/>
+        <TextEquiv>
+          <Unicode>Nowhere Man, can you see me at all?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21afb3a2" >
+        <Coords points="605,1175 602,1183 1337,1202 1342,1191 1339,1145 605,1129 605,1175"/>
+        <Baseline points="605,1175 1342,1191"/>
+        <TextEquiv>
+          <Unicode>Doesn&#x27;t have a point of view;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1ad18443" >
+        <Coords points="602,1226 600,1237 1358,1261 1364,1242 1364,1199 602,1180 602,1226"/>
+        <Baseline points="602,1226 1364,1242"/>
+        <TextEquiv>
+          <Unicode>Knows not where he&#x27;s going to.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d44ad875" >
+        <Coords points="1356,1242 1329,1242 1315,1242 1243,1248 602,1229 602,1280 600,1299 1385,1304 1391,1293 1388,1237 1356,1237 1356,1242"/>
+        <Baseline points="602,1280 1391,1293"/>
+        <TextEquiv>
+          <Unicode>Isn&#x27;t he a bit like you and me?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_72a5a7c4" >
+        <Coords points="597,1390 1229,1404 1235,1390 1235,1345 979,1326 976,1326 850,1328 637,1331 602,1318 600,1377 597,1390"/>
+        <Baseline points="600,1377 1235,1390"/>
+        <TextEquiv>
+          <Unicode>Nowhere Man, don&#x27;t worry.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_557d5067" >
+        <Coords points="764,1382 737,1382 718,1379 688,1379 683,1379 656,1379 629,1379 602,1379 602,1428 600,1439 1302,1457 1307,1441 1307,1398 777,1382 764,1382"/>
+        <Baseline points="602,1428 1307,1441"/>
+        <TextEquiv>
+          <Unicode>Take your time; don&#x27;t hurry.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef20bb67" >
+        <Coords points="1622,1449 1619,1447 1041,1439 1030,1439 1025,1436 600,1431 600,1482 597,1495 1638,1519 1643,1495 1638,1479 1622,1449"/>
+        <Baseline points="600,1482 1643,1495"/>
+        <TextEquiv>
+          <Unicode>Leave it all till somebody else lends you</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf7411b0" >
+        <Coords points="831,1487 826,1484 669,1484 669,1530 669,1544 850,1546 852,1530 852,1487 831,1487"/>
+        <Baseline points="669,1530 852,1530"/>
+        <TextEquiv>
+          <Unicode>a hand.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c2593fc" >
+        <Coords points="621,1584 594,1589 594,1627 591,1638 1197,1657 1202,1640 1202,1595 643,1576 621,1584"/>
+        <Baseline points="594,1627 1202,1640"/>
+        <TextEquiv>
+          <Unicode>He&#x27;s a real Nowhere Man,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_049dd54d" >
+        <Coords points="594,1681 591,1692 1302,1710 1307,1689 1304,1646 594,1638 594,1681"/>
+        <Baseline points="594,1681 1307,1689"/>
+        <TextEquiv>
+          <Unicode>Sitting in his Nowhere Land,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5ed04b39" >
+        <Coords points="1590,1702 957,1686 941,1686 914,1686 887,1686 861,1686 834,1686 807,1683 780,1683 753,1683 726,1683 699,1683 672,1683 645,1683 618,1683 591,1681 591,1729 589,1737 1598,1767 1603,1751 1603,1721 1590,1702"/>
+        <Baseline points="591,1729 1603,1751"/>
+        <TextEquiv>
+          <Unicode>Making all his nowhere plans for nobody,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf374a30" >
+        <Coords points="1237,1745 1224,1743 1175,1743 1156,1743 1130,1743 1103,1743 1076,1740 1049,1740 1022,1740 995,1740 968,1737 941,1737 914,1737 887,1737 861,1737 834,1735 807,1735 780,1735 753,1735 726,1735 699,1732 672,1732 645,1732 618,1732 591,1732 591,1780 589,1796 1592,1821 1598,1802 1595,1756 1259,1745 1237,1745"/>
+        <Baseline points="591,1780 1598,1802"/>
+        <TextEquiv>
+          <Unicode>Making all his nowhere plans for nobody,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42159b2c" >
+        <Coords points="1633,1791 1600,1791 1595,1802 1568,1802 1541,1802 1514,1802 1487,1802 1461,1799 1450,1799 1388,1802 1380,1799 1380,1799 1353,1799 1326,1796 1299,1796 1272,1796 1245,1796 1226,1794 1143,1799 1135,1794 1111,1794 1084,1791 1057,1791 1030,1791 1027,1791 939,1796 656,1783 653,1783 626,1783 600,1783 600,1834 597,1856 1641,1858 1646,1839 1641,1807 1633,1791"/>
+        <Baseline points="600,1834 1280,1848 1646,1839"/>
+        <TextEquiv>
+          <Unicode>Making all his nowhere plans for nobody.11</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8c18060e" >
+        <Coords points="1921,1917 1896,1907 452,1877 441,1880 414,1883 387,1883 387,1926 384,1952 1633,1963 1635,1966 1652,1979 1654,1979 1657,1979 1660,1979 1773,1969 1778,1969 1781,1969 1816,1982 1818,1982 1821,1982 1931,1969 1934,1955 1931,1950 1921,1917"/>
+        <Baseline points="387,1926 1934,1955"/>
+        <TextEquiv>
+          <Unicode>The other modern song we offer here as a sample expression of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03c5160b" >
+        <Coords points="325,1971 298,1971 271,1974 244,1974 215,1977 193,2006 191,2022 188,2049 441,2065 443,2065 581,2057 618,2055 632,2057 694,2071 696,2071 750,2057 772,2055 801,2060 882,2073 885,2073 1130,2063 1189,2063 1210,2065 1323,2084 1326,2084 1439,2068 1447,2068 1450,2068 1493,2087 1495,2087 1498,2087 1501,2087 1533,2071 1697,2071 1703,2055 1703,2009 1576,1990 1574,1990 1017,1993 930,1977 928,1977 925,1977 922,1977 922,1979 909,1990 874,1977 871,1977 869,1977 704,1987 696,1987 694,1987 629,1971 626,1971 624,1971 621,1971 570,1985 567,1985 562,1985 406,1966 403,1966 400,1966 365,1979 333,1969 325,1971"/>
+        <Baseline points="191,2022 1703,2055"/>
+        <TextEquiv>
+          <Unicode>the emptiness and meaninglessness many feel is by Will Holt:</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ceb43fd6"  >
+      <Coords points="1299,2539 1630,2560 1641,2622 1353,2644 1361,2730 1318,2773 548,2751 559,2248 1151,2238 1264,2259 1321,2345 1598,2367 1565,2429 1202,2450 1299,2539"/>
+      <TextLine id="eSc_line_2a7259e7" >
+        <Coords points="1232,2251 1205,2248 1186,2243 901,2240 882,2240 855,2240 828,2243 801,2243 774,2243 747,2243 721,2243 694,2246 667,2246 640,2246 613,2246 586,2246 559,2246 559,2281 556,2291 1243,2316 1248,2297 1245,2254 1232,2251"/>
+        <Baseline points="559,2281 1248,2297"/>
+        <TextEquiv>
+          <Unicode>Hard to tell you how I feel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e5fc4996" >
+        <Coords points="554,2332 551,2342 1143,2359 1148,2348 1148,2305 554,2289 554,2332"/>
+        <Baseline points="556,2334 1151,2349"/>
+        <TextEquiv>
+          <Unicode>Everything is so unreal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6705fc19" >
+        <Coords points="1576,2399 1552,2361 1525,2359 1498,2359 1482,2356 556,2340 556,2388 554,2399 766,2418 769,2421 1590,2421 1592,2404 1582,2388 1576,2399"/>
+        <Baseline points="556,2388 1592,2404"/>
+        <TextEquiv>
+          <Unicode>Lord, but life is a hard thing to get to.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21265bd4" >
+        <Coords points="551,2488 548,2496 1189,2509 1194,2501 1194,2445 551,2431 551,2488"/>
+        <Baseline points="551,2488 1194,2501"/>
+        <TextEquiv>
+          <Unicode>Saw my shadow on the wall</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_38ea8a33" >
+        <Coords points="1170,2501 1143,2501 1116,2501 1089,2501 1070,2499 992,2499 982,2499 955,2499 947,2496 551,2493 551,2542 548,2550 1213,2558 1218,2550 1216,2501 1170,2499 1170,2501"/>
+        <Baseline points="551,2542 1218,2550"/>
+        <TextEquiv>
+          <Unicode>Saw my love nowhere at all</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97bcc0dd" >
+        <Coords points="1627,2574 1608,2560 820,2547 820,2547 793,2547 785,2544 686,2544 686,2544 659,2544 632,2544 605,2544 578,2544 575,2542 551,2542 551,2593 548,2606 616,2622 618,2622 842,2614 912,2614 1630,2636 1635,2609 1630,2582 1627,2574"/>
+        <Baseline points="551,2593 1635,2609"/>
+        <TextEquiv>
+          <Unicode>Saw my life as a hard thing to get through.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02e68041" >
+        <Coords points="548,2687 546,2698 1342,2714 1348,2703 1345,2649 548,2630 548,2687"/>
+        <Baseline points="548,2687 1348,2703"/>
+        <TextEquiv>
+          <Unicode>When you&#x27;re born they carry you</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87309f54" >
+        <Coords points="548,2741 546,2757 1313,2776 1318,2757 1318,2706 548,2698 548,2741"/>
+        <Baseline points="548,2741 1318,2757"/>
+        <TextEquiv>
+          <Unicode>When you&#x27;re gone they bury you</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5da5bb4f"  >
+      <Coords points="1213,2152 1243,2192 1224,2224 957,2203 968,2152 1213,2152"/>
+      <TextLine id="eSc_line_a642a4a1" >
+        <Coords points="1200,2154 1173,2154 1146,2154 1119,2154 1092,2154 1065,2154 1038,2154 1011,2154 984,2154 965,2165 957,2189 955,2208 1224,2211 1229,2197 1221,2170 1200,2154"/>
+        <Baseline points="957,2189 1229,2197"/>
+        <TextEquiv>
+          <Unicode>HOW I FEEL</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b6e0a59b"  >
+      <Coords points="204,2926 352,2937 376,2872 1856,2894 1953,2945 904,2956 761,2988 161,2967 204,2926"/>
+      <TextLine id="eSc_line_6d55ab36" >
+        <Coords points="1926,2945 1899,2945 1872,2945 1845,2945 1818,2945 1791,2945 1765,2945 1738,2945 1711,2945 1684,2948 1657,2948 1630,2948 1603,2948 1576,2948 1549,2948 1522,2948 1495,2948 1469,2948 1442,2948 1415,2945 1388,2945 1361,2945 1334,2945 1307,2945 1280,2945 1264,2905 1194,2889 1170,2883 1148,2883 1121,2883 1095,2880 1068,2880 1041,2880 1014,2880 987,2880 960,2880 933,2880 906,2878 879,2878 852,2878 831,2878 826,2880 793,2894 780,2878 772,2878 750,2878 710,2891 637,2875 610,2875 605,2875 551,2886 513,2872 503,2872 476,2872 449,2872 422,2872 395,2872 371,2886 368,2929 365,2953 376,2961 379,2961 382,2961 384,2961 387,2961 390,2961 411,2945 417,2942 589,2942 597,2948 632,2964 634,2964 637,2964 640,2964 643,2964 664,2948 669,2948 753,2948 761,2950 801,2972 804,2972 807,2972 1173,2967 1310,2983 1313,2985 1399,2985 1399,2983 1401,2983 1404,2983 1431,2961 1439,2961 1587,2988 1590,2988 1592,2988 1641,2967 1689,2983 1692,2983 1695,2983 1980,2969 1982,2961 1977,2907 1926,2924 1926,2945"/>
+        <Baseline points="371,2932 1983,2963"/>
+        <TextEquiv>
+          <Unicode>¹¹Betsy Ryan, ed. Sounds of Silence  (New York: Scholastic Book</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_33fafa4d"  >
+      <Coords points="581,2840 643,2840 643,2848 624,2859 581,2840"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_63a091da"  >
+      <Coords points="1296,330 1022,341 1000,290 1286,290 1296,330"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c7ad3863"  >
+      <Coords points="2050,244 1988,255 1999,204 2050,215 2050,244"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_250aa1cc" >
+        <Coords points="990,333 990,347 1307,341 1307,333 1307,274 990,260 990,333"/>
+        <Baseline points="992,334 1308,334"/>
+        <TextEquiv>
+          <Unicode>NOWHERE MAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b57f946a" >
+        <Coords points="1985,252 1985,279 2052,293 2055,252 2052,190 1985,193 1985,252"/>
+        <Baseline points="1986,253 2056,253"/>
+        <TextEquiv>
+          <Unicode>12</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c124aed" >
+        <Coords points="699,2937 672,2937 645,2937 618,2934 608,2934 591,2934 565,2934 538,2934 511,2934 484,2932 457,2932 430,2932 403,2932 376,2932 376,2918 161,2907 161,2969 158,2984 737,3004 753,2991 753,2937 747,2937 726,2937"/>
+        <Baseline points="163,2972 755,2993"/>
+        <TextEquiv>
+          <Unicode>Services, 1972), p. 12.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

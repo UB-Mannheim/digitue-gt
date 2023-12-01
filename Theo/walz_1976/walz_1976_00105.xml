@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00105.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.302325+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.302336+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00105.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_104447b3"  >
+      <Coords points="2071,322 2017,968 2061,1062 1964,1129 1910,1237 2050,1323 2050,1374 1974,1431 1985,1579 1942,1665 667,1686 578,1783 226,1794 215,1076 258,1032 365,1030 215,1008 226,290 1964,290 1988,204 2061,215 2071,322"/>
+      <TextLine id="eSc_line_0f520bb6" >
+        <Coords points="2039,209 2012,207 1985,209 1985,247 1985,263 2047,269 2050,247 2050,212 2039,209"/>
+        <Baseline points="1985,247 2050,247"/>
+        <TextEquiv>
+          <Unicode>98</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36e3041c" >
+        <Coords points="1243,290 1216,290 1189,290 1162,290 1135,290 1108,290 1081,290 1054,290 1027,290 1000,290 974,290 947,290 920,290 893,290 866,290 839,290 812,290 785,290 758,290 731,290 704,290 678,290 651,290 624,290 597,290 570,290 543,290 516,290 489,290 462,290 435,290 408,290 382,290 355,290 328,290 301,290 274,290 247,290 223,285 223,333 220,344 2047,365 2052,347 2050,298 1267,290 1243,290"/>
+        <Baseline points="223,333 2052,347"/>
+        <TextEquiv>
+          <Unicode>prove to be elastic concepts which themselves belong to history and make</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ee856a71" >
+        <Coords points="223,433 220,454 2047,465 2052,451 2050,403 791,381 788,381 785,381 756,392 726,381 721,379 718,379 715,379 686,379 521,390 223,373 223,433"/>
+        <Baseline points="223,433 2052,451"/>
+        <TextEquiv>
+          <Unicode>history. The universal concepts, which themselves belong to history and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33aaf8d2" >
+        <Coords points="2050,546 2039,505 1778,492 1775,492 1657,503 1638,503 1633,503 1598,489 1595,489 1592,489 1442,500 1417,500 1412,500 1377,486 1374,486 1372,486 1183,497 1148,497 1143,497 1113,484 1111,484 1108,484 766,492 704,492 686,492 591,478 589,478 511,489 500,489 495,489 457,476 454,476 452,476 223,484 223,532 220,543 2061,564 2066,554 2066,508 2052,505 2050,546"/>
+        <Baseline points="223,532 2066,554"/>
+        <TextEquiv>
+          <Unicode>are used by historians in an effort to grasp what man is, what the world.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f5062ad" >
+        <Coords points="223,634 220,650 680,667 683,667 836,659 874,656 885,659 925,669 928,669 930,669 1022,659 1033,659 1043,659 1121,672 1124,672 1264,661 1278,661 1291,661 1401,675 1404,675 1547,664 1557,664 1565,664 1657,677 1660,677 1762,667 1794,680 1797,680 1800,680 2015,667 2017,656 2015,610 1794,594 1791,594 1608,605 1574,605 1568,605 1536,591 1533,591 1530,591 1380,602 1353,602 1345,591 1342,591 1342,589 1339,589 1337,589 223,589 223,634"/>
+        <Baseline points="223,634 2017,656"/>
+        <TextEquiv>
+          <Unicode>is, and so on, arise only supposedly and only wrongly from abstraction.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d9b41dd" >
+        <Coords points="223,737 220,750 2020,763 2026,753 2026,707 223,680 223,737"/>
+        <Baseline points="223,737 2026,753"/>
+        <TextEquiv>
+          <Unicode>In actual fact they contain the note of prophecy and of mission towards</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_88e29d76" >
+        <Coords points="2012,807 1705,793 1703,793 1399,798 1165,801 1140,793 1121,788 1119,788 1116,788 1014,790 852,798 831,788 823,785 820,785 817,785 688,785 279,793 223,780 220,839 217,850 554,868 556,868 1662,866 1722,879 1724,879 1727,879 2020,866 2023,855 2020,828 2012,807"/>
+        <Baseline points="220,839 2023,855"/>
+        <TextEquiv>
+          <Unicode>the future land of the &quot;realized generic concept.“ They always contain</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d1e99261" >
+        <Coords points="217,936 215,952 1251,965 1256,954 1256,895 217,890 217,936"/>
+        <Baseline points="217,936 1256,954"/>
+        <TextEquiv>
+          <Unicode>a futuristically anticipated eschatology.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a955be7" >
+        <Coords points="2031,1006 2028,1003 1853,989 1851,989 1848,989 1808,1000 1797,1003 1794,1000 1781,989 1778,989 1775,989 1773,989 1711,1000 1681,1003 1665,997 1635,987 1633,987 1630,987 1444,995 1302,1000 1253,992 1210,984 1208,984 1205,984 1202,984 1194,989 1178,1000 885,1000 842,984 828,981 826,981 823,981 820,981 809,984 774,995 680,981 667,981 664,981 661,981 659,981 637,997 481,997 419,979 417,1041 414,1054 2042,1067 2047,1051 2042,1032 2031,1006"/>
+        <Baseline points="417,1041 2047,1051"/>
+        <TextEquiv>
+          <Unicode>What &quot;world&quot; history is, is decided by what is desired and hoped</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f622c93" >
+        <Coords points="215,1097 215,1137 212,1148 1918,1175 1923,1156 1923,1110 1678,1094 1676,1094 1522,1102 1436,1105 1412,1100 1382,1092 1380,1092 1377,1092 1186,1094 971,1100 957,1092 952,1086 949,1086 947,1086 944,1086 869,1089 715,1097 694,1086 691,1084 688,1084 686,1084 683,1084 602,1084 285,1092 223,1078 215,1097"/>
+        <Baseline points="215,1137 1923,1156"/>
+        <TextEquiv>
+          <Unicode>for as the one, future world. What the history of &quot;mankind“ is, is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_684022dc" >
+        <Coords points="217,1240 215,1261 1840,1264 1845,1256 1843,1210 217,1194 217,1240"/>
+        <Baseline points="217,1240 1845,1256"/>
+        <TextEquiv>
+          <Unicode>decided by what mankind one day should be and will be. Both are</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f4ce48de" >
+        <Coords points="2026,1310 1716,1310 1700,1304 1662,1293 1660,1293 1657,1293 1178,1296 583,1299 513,1285 505,1285 503,1285 478,1285 279,1296 215,1283 215,1342 212,1355 2036,1369 2042,1355 2039,1315 2026,1310"/>
+        <Baseline points="215,1342 2042,1355"/>
+        <TextEquiv>
+          <Unicode>directly related to present mission. Thus there exist only histories on</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07bf6785" >
+        <Coords points="215,1436 215,1441 212,1463 1937,1468 1942,1455 1939,1401 624,1401 616,1398 556,1385 554,1385 226,1396 215,1436"/>
+        <Baseline points="215,1441 1942,1455"/>
+        <TextEquiv>
+          <Unicode>the way to world history, but there is not yet a world history. The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6e51c5b" >
+        <Coords points="212,1544 209,1554 1958,1579 1964,1560 1964,1514 212,1498 212,1544"/>
+        <Baseline points="212,1544 1964,1560"/>
+        <TextEquiv>
+          <Unicode>lines on which these histories are on their way towards world history</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a95ca11" >
+        <Coords points="212,1643 209,1657 1913,1683 1918,1659 1915,1608 212,1597 212,1643"/>
+        <Baseline points="212,1643 1918,1659"/>
+        <TextEquiv>
+          <Unicode>are all maintained by the consciousness of having a mission towards</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55245acb" >
+        <Coords points="209,1745 207,1756 570,1764 575,1753 575,1708 330,1683 328,1683 209,1694 209,1745"/>
+        <Baseline points="209,1745 575,1753"/>
+        <TextEquiv>
+          <Unicode>world history.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2aa3d242"  >
+      <Coords points="1996,2030 1921,2087 1931,2213 2039,2259 2039,2342 2017,2429 1931,2485 1942,2665 1824,2690 1942,2722 1964,2924 204,2924 204,2829 387,2794 226,2773 193,2708 215,1839 1985,1861 1996,2030"/>
+      <TextLine id="eSc_line_fb5cf0b7" >
+        <Coords points="1966,1864 1452,1853 1426,1853 1399,1853 1372,1853 1345,1853 1334,1850 1315,1856 1286,1861 1278,1856 1272,1850 1264,1850 1237,1850 1210,1850 1191,1850 1121,1853 941,1858 920,1850 914,1848 914,1848 887,1848 866,1845 756,1848 352,1853 215,1839 215,1899 212,1920 925,1936 928,1936 1522,1926 1584,1926 1590,1926 1633,1939 1635,1939 1638,1939 1985,1926 1988,1912 1982,1893 1966,1864"/>
+        <Baseline points="215,1899 1988,1912"/>
+        <TextEquiv>
+          <Unicode>The hermeneutics of Christian mission. Among the presupposttions of a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b62e99c3" >
+        <Coords points="207,1998 204,2009 1977,2025 1982,2014 1977,1955 1754,1966 1695,1952 1684,1952 1681,1952 1635,1952 1391,1963 1348,1952 1334,1950 1331,1950 1329,1950 207,1950 207,1998"/>
+        <Baseline points="207,1998 1982,2014"/>
+        <TextEquiv>
+          <Unicode>rational Christian theology, hermeneutic reflections on the principles</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_10d66778" >
+        <Coords points="207,2098 204,2108 1886,2125 1891,2111 1891,2068 1590,2068 1584,2065 1557,2052 1555,2052 1552,2052 207,2052 207,2098"/>
+        <Baseline points="207,2098 1891,2111"/>
+        <TextEquiv>
+          <Unicode>of the understanding of biblical texts have today replaced the old</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e12ffcd8" >
+        <Coords points="207,2200 204,2219 1904,2227 1910,2213 1907,2168 207,2149 207,2200"/>
+        <Baseline points="207,2200 1910,2213"/>
+        <TextEquiv>
+          <Unicode>proofs of God which once constituted the prefatory remarks for what</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c47e6736" >
+        <Coords points="2015,2262 212,2246 204,2264 204,2302 204,2326 2031,2321 2034,2310 2031,2297 2015,2262"/>
+        <Baseline points="204,2302 2034,2310"/>
+        <TextEquiv>
+          <Unicode>Christianity says of God. This, however, is not by any means the end of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_52389f50" >
+        <Coords points="207,2399 204,2410 1996,2434 2001,2415 1999,2369 207,2351 207,2399"/>
+        <Baseline points="207,2399 2001,2415"/>
+        <TextEquiv>
+          <Unicode>these proofs of God which demonstrated the existence and nature of God.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b7725477" >
+        <Coords points="204,2501 201,2517 1859,2525 1864,2515 1861,2469 204,2455 204,2501"/>
+        <Baseline points="204,2501 1864,2515"/>
+        <TextEquiv>
+          <Unicode>On the contrary, they recur in all their conceivable forms in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f7ecf469" >
+        <Coords points="204,2601 201,2611 1926,2636 1931,2614 1926,2552 1716,2566 1635,2552 1633,2552 1630,2552 1600,2566 1576,2550 1574,2550 1571,2550 1568,2550 1547,2550 1342,2563 1294,2550 1291,2550 1288,2550 1272,2550 930,2560 731,2560 710,2547 707,2544 704,2544 702,2544 699,2544 683,2547 637,2558 605,2547 597,2544 594,2544 591,2544 589,2544 581,2547 551,2558 204,2547 204,2601"/>
+        <Baseline points="204,2601 1931,2614"/>
+        <TextEquiv>
+          <Unicode>hermeneutic reflections in which the exposition and preaching of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11ae8034" >
+        <Coords points="204,2700 201,2719 1740,2724 1746,2716 1743,2668 204,2646 204,2700"/>
+        <Baseline points="204,2700 1746,2716"/>
+        <TextEquiv>
+          <Unicode>biblical witness to God and his actions are formulated today.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b0f3ca0" >
+        <Coords points="406,2802 403,2824 1948,2829 1953,2816 1953,2765 1046,2765 947,2749 930,2749 928,2749 904,2749 745,2759 723,2746 721,2746 718,2746 715,2746 688,2746 470,2757 406,2743 406,2802"/>
+        <Baseline points="406,2802 1953,2816"/>
+        <TextEquiv>
+          <Unicode>The traditional proofs of God can be divided into three major</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2be0def5" >
+        <Coords points="199,2902 196,2924 301,2942 304,2942 390,2926 422,2921 433,2926 462,2942 465,2942 468,2942 470,2942 473,2942 487,2932 548,2945 551,2948 713,2948 713,2945 715,2945 758,2929 777,2924 863,2924 871,2929 895,2948 898,2948 901,2948 904,2948 1046,2932 1097,2926 1130,2932 1191,2945 1194,2945 1269,2934 1299,2929 1310,2934 1339,2948 1342,2948 1345,2948 1348,2948 1350,2948 1369,2934 1380,2929 1479,2929 1487,2934 1512,2950 1514,2950 1517,2950 1520,2950 1617,2937 1652,2932 1948,2937 1953,2915 1948,2856 212,2856 199,2902"/>
+        <Baseline points="199,2902 1953,2915"/>
+        <TextEquiv>
+          <Unicode>groups: (a) the proofs of God from the world, from the cosmos or the</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

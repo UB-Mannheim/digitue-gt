@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00104.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.288696+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.288707+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00104.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_b0fa41f3"  >
+      <Coords points="1921,624 1802,642 796,621 236,664 236,290 1974,290 2028,556 556,581 1921,624"/>
+      <TextLine id="eSc_line_4ad9b318" >
+        <Coords points="1956,298 1393,290 1382,290 1356,290 1329,290 1302,290 1275,290 1248,290 1221,290 1194,290 1167,290 1140,290 1113,290 1087,290 1060,290 1033,290 1006,290 979,290 952,290 925,290 898,290 871,290 844,290 817,290 791,290 764,290 737,290 710,290 683,290 656,290 629,290 602,290 575,290 548,290 521,290 495,290 468,290 441,290 414,290 387,290 360,290 333,290 306,290 279,290 252,290 250,277 228,274 228,330 226,349 1627,371 1630,371 1974,357 1977,344 1969,320 1956,298"/>
+        <Baseline points="228,330 1977,344"/>
+        <TextEquiv>
+          <Unicode>real perpetuum mobile of world history. In everything that is remem-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f9df891" >
+        <Coords points="226,430 223,451 1926,470 1931,454 1929,408 226,376 226,430"/>
+        <Baseline points="226,430 1931,454"/>
+        <TextEquiv>
+          <Unicode>bered as guilt there lurks something which is not yet over and done</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_039534e8" >
+        <Coords points="1996,551 1969,551 1942,551 1931,511 1789,511 1786,508 1773,494 1770,494 1767,494 1765,494 1598,505 1579,505 1576,505 1560,492 1557,492 1555,492 1552,492 1423,503 1409,503 1388,503 1113,486 1111,486 223,486 223,532 220,554 1121,572 1124,572 1294,564 1337,562 1412,564 1794,581 1797,581 2001,567 2004,554 1999,551 1996,551"/>
+        <Baseline points="223,532 2004,554"/>
+        <TextEquiv>
+          <Unicode>with. The past becomes determinative for the burdens and tasks of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_58fee4b3" >
+        <Coords points="223,637 223,656 435,650 435,637 433,583 223,583 223,637"/>
+        <Baseline points="223,637 435,637"/>
+        <TextEquiv>
+          <Unicode>present.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_72124d7d"  >
+      <Coords points="1985,1355 2007,1492 1964,1635 2017,1721 2007,2386 1964,2418 1493,2429 1404,2474 1415,2536 1372,2528 1374,2550 1985,2571 1985,2655 1942,2690 2028,2776 1985,2924 193,2913 204,1495 226,1452 365,1439 226,1406 204,1353 215,774 376,728 290,699 419,688 2050,710 1996,936 2050,1180 1985,1355"/>
+      <TextLine id="eSc_line_007d082d" >
+        <Coords points="2031,750 2007,707 1872,707 1845,707 1837,704 1727,704 1711,704 1684,704 1657,704 1641,702 1582,702 1576,702 1549,702 1522,702 1495,702 1469,702 1442,702 1415,699 1388,699 1361,699 1334,699 1307,699 1280,699 1253,699 1226,696 1200,696 1173,696 1146,696 1119,696 1092,696 1065,696 1038,696 1011,694 984,694 957,694 930,694 904,694 877,694 850,694 823,691 796,691 769,691 742,691 715,691 688,691 661,691 634,691 608,688 581,688 554,688 527,688 500,688 473,688 446,688 419,688 419,737 417,747 2039,780 2044,755 2034,739 2031,750"/>
+        <Baseline points="419,737 2044,755"/>
+        <TextEquiv>
+          <Unicode>What is true of guilt with regard to &quot;history as memory“ is also</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b70a223" >
+        <Coords points="220,836 217,855 1991,871 1996,860 1996,812 220,777 220,836"/>
+        <Baseline points="220,836 1996,860"/>
+        <TextEquiv>
+          <Unicode>true regarding death. This is always the hardest and the most certain</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a295a5e" >
+        <Coords points="217,936 215,954 1966,971 1972,960 1969,911 1899,898 1896,898 1829,906 1797,911 1778,906 1743,895 1740,895 1738,895 1635,903 1590,906 1582,901 1571,893 1568,893 1565,893 1563,893 1490,901 1431,906 1407,898 1382,890 1380,890 1377,890 1296,895 1194,903 1165,893 1148,887 1146,887 1143,887 1140,887 1121,893 1089,901 1017,890 979,885 976,885 939,887 850,898 817,885 807,882 804,882 801,882 799,882 796,882 793,885 780,895 694,882 680,882 678,882 675,882 672,882 626,895 422,895 400,879 398,879 395,879 217,874 217,936"/>
+        <Baseline points="217,936 1972,960"/>
+        <TextEquiv>
+          <Unicode>fact of past history. The historian&#x27;s reawakening of the dead, which</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a8bddd10" >
+        <Coords points="220,1038 217,1051 1964,1070 1969,1057 1966,1003 220,989 220,1038"/>
+        <Baseline points="220,1038 1969,1057"/>
+        <TextEquiv>
+          <Unicode>takes place only &quot;in a manner of speaking,&quot; means anticipating escha-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_60075784" >
+        <Coords points="2031,1110 217,1086 217,1140 215,1154 2039,1180 2044,1159 2042,1145 2031,1110"/>
+        <Baseline points="217,1140 2044,1159"/>
+        <TextEquiv>
+          <Unicode>tology and projecting upon history the last act of history. The &quot;reason</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20c9e29c" >
+        <Coords points="2004,1215 1896,1202 1894,1202 1891,1202 1861,1213 1856,1215 1851,1213 1802,1199 1800,1199 1797,1199 1738,1213 1730,1213 1719,1210 1654,1197 1652,1197 1649,1197 1608,1210 1603,1210 1600,1210 1582,1197 1579,1197 1576,1197 1574,1197 1272,1202 1121,1205 947,1202 944,1197 939,1188 936,1188 936,1186 933,1186 930,1186 928,1186 828,1194 756,1199 581,1199 567,1188 556,1180 554,1180 551,1180 548,1180 505,1188 462,1194 215,1183 215,1234 212,1258 293,1250 382,1264 408,1266 863,1272 866,1272 869,1272 887,1266 914,1258 941,1266 968,1275 971,1275 974,1275 1025,1266 1068,1261 1197,1269 1399,1280 1401,1280 1582,1272 1627,1269 1775,1269 1778,1272 1791,1285 1794,1285 1797,1285 1800,1285 1802,1285 1824,1275 1837,1288 1840,1288 1843,1288 1845,1288 2012,1272 2015,1261 2012,1253 2004,1215"/>
+        <Baseline points="215,1234 2015,1261"/>
+        <TextEquiv>
+          <Unicode>in history&quot; has a messianic light and shows things with all their flaws</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d210c38" >
+        <Coords points="215,1339 212,1350 1097,1363 1103,1353 1100,1307 215,1288 215,1339"/>
+        <Baseline points="215,1339 1103,1353"/>
+        <TextEquiv>
+          <Unicode>laid bare and ready for redemption.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d3463b4" >
+        <Coords points="411,1441 408,1466 1982,1471 1988,1457 1988,1406 1205,1406 1181,1393 1175,1390 1173,1390 1170,1390 1119,1393 939,1401 879,1388 871,1388 869,1388 855,1388 753,1398 600,1385 597,1385 594,1385 591,1385 489,1396 411,1382 411,1441"/>
+        <Baseline points="411,1441 1988,1457"/>
+        <TextEquiv>
+          <Unicode>It will no longer be possible to regard the past only archaeo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77831ffe" >
+        <Coords points="212,1541 209,1552 1948,1584 1953,1562 1953,1514 212,1495 212,1541"/>
+        <Baseline points="212,1541 1953,1562"/>
+        <TextEquiv>
+          <Unicode>logically and take it merely as the origin of the particular present.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aef507dd" >
+        <Coords points="212,1640 209,1657 1907,1681 1913,1662 1907,1603 1713,1614 1654,1600 1652,1600 1649,1600 1073,1605 1033,1592 1030,1592 1027,1592 427,1597 212,1581 212,1640"/>
+        <Baseline points="212,1640 1913,1662"/>
+        <TextEquiv>
+          <Unicode>The past will have to be examined in regard to its own future. All</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_295ef85e" >
+        <Coords points="204,1759 2001,1778 2007,1764 2004,1710 933,1705 890,1692 879,1689 877,1689 874,1689 831,1692 683,1700 637,1686 629,1686 626,1686 624,1686 600,1686 460,1697 363,1683 357,1683 355,1683 349,1683 236,1694 209,1681 207,1743 204,1759"/>
+        <Baseline points="207,1743 2007,1764"/>
+        <TextEquiv>
+          <Unicode>history is full of possibilities--possibilities that have been profited</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_df859955" >
+        <Coords points="204,1850 247,1866 250,1866 252,1866 796,1861 998,1877 1000,1877 1982,1874 1985,1866 1982,1815 1127,1796 1124,1796 1095,1799 998,1807 968,1796 960,1794 957,1794 955,1794 925,1796 804,1804 731,1791 721,1791 718,1791 707,1791 618,1802 605,1791 605,1788 602,1788 600,1788 597,1788 578,1788 454,1799 344,1786 341,1786 339,1786 336,1786 247,1796 209,1783 207,1842 204,1850"/>
+        <Baseline points="207,1842 1985,1866"/>
+        <TextEquiv>
+          <Unicode>by and not profited by, seized and blocked. Past ages will have to be</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ced7f6d9" >
+        <Coords points="207,1944 204,1963 1956,1977 1961,1966 1958,1912 207,1899 207,1944"/>
+        <Baseline points="207,1944 1961,1966"/>
+        <TextEquiv>
+          <Unicode>understood from the standpoint of their hopes. It is the open future</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cad8aa56" >
+        <Coords points="204,2044 201,2055 1974,2076 1980,2065 1980,2009 204,1993 204,2044"/>
+        <Baseline points="204,2044 1980,2065"/>
+        <TextEquiv>
+          <Unicode>that gives us a common front with earlier ages and a certain contempo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c1cc820" >
+        <Coords points="201,2146 199,2154 269,2170 271,2170 395,2160 403,2160 411,2160 492,2173 495,2173 887,2168 1076,2168 1087,2173 1097,2181 1100,2181 1103,2181 1105,2181 1181,2176 1237,2170 1974,2189 1980,2168 1977,2119 201,2092 201,2146"/>
+        <Baseline points="201,2146 1980,2168"/>
+        <TextEquiv>
+          <Unicode>raneity which makes it possible to enter into discussion with them, to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79136572" >
+        <Coords points="199,2248 196,2259 1996,2289 2001,2270 1999,2221 199,2200 199,2248"/>
+        <Baseline points="199,2248 2001,2270"/>
+        <TextEquiv>
+          <Unicode>criticize and accept them. The dialectic of past happening and present</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4671cced" >
+        <Coords points="199,2345 196,2367 1988,2391 1993,2369 1991,2318 199,2289 199,2345"/>
+        <Baseline points="199,2345 1993,2369"/>
+        <TextEquiv>
+          <Unicode>understanding is always motivated by anticipations of the future and by</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4bd75198" >
+        <Coords points="199,2447 196,2455 1382,2474 1388,2464 1385,2418 199,2399 199,2447"/>
+        <Baseline points="199,2447 1388,2464"/>
+        <TextEquiv>
+          <Unicode>the question of what makes the future possible.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77eaa2f5" >
+        <Coords points="196,2601 193,2625 1964,2641 1969,2620 1969,2571 196,2552 196,2601"/>
+        <Baseline points="196,2601 1969,2620"/>
+        <TextEquiv>
+          <Unicode>The peculiarity of the historian&#x27;s universal concepts. As long as our</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b8ac7cef" >
+        <Coords points="193,2700 191,2711 1894,2733 1899,2719 1899,2665 193,2657 193,2700"/>
+        <Baseline points="193,2700 1899,2719"/>
+        <TextEquiv>
+          <Unicode>reality has not yet &quot;completed&quot; itself and not yet become a rounded</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c0ee6b0d" >
+        <Coords points="2007,2770 193,2746 193,2797 191,2808 2015,2829 2020,2819 2017,2794 2007,2770"/>
+        <Baseline points="193,2797 2020,2819"/>
+        <TextEquiv>
+          <Unicode>whole, a metaphysic of the historical universe in the sense of the Greek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94a70d6d" >
+        <Coords points="1969,2915 1956,2870 196,2851 196,2899 193,2929 1966,2948 1972,2918 1969,2915 1969,2915"/>
+        <Baseline points="196,2899 1972,2918"/>
+        <TextEquiv>
+          <Unicode>logos is impossible. All the historian&#x27;s universal concepts therefore</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_60d7f413"  >
+      <Coords points="2050,255 1988,266 1988,204 2050,204 2050,255"/>
+      <TextLine id="eSc_line_becc1f6d" >
+        <Coords points="2015,204 1988,242 1988,279 2044,277 2044,242 2042,204 2015,204"/>
+        <Baseline points="1991,244 2047,244"/>
+        <TextEquiv>
+          <Unicode>97</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ed217180"  >
+      <Coords points="236,699 255,699 255,707 236,707 236,699"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4946fed7"  >
+      <Coords points="2042,556 2042,538 2052,527 2061,556 2042,556"/>
+    </TextRegion>
+  </Page>
+</PcGts>

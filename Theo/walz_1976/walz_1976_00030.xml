@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00030.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.773382+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.773394+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00030.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_93ed911a"  >
+      <Coords points="1921,398 2039,473 2071,653 2017,699 2039,1051 1974,1194 1985,1331 1899,1409 1899,1622 1985,1667 2007,1732 2017,2235 1910,2410 1974,2547 1845,2593 1878,2614 1848,2646 1974,2700 1964,2773 1899,2797 1888,2902 161,2902 172,2700 352,2711 355,2614 936,2601 172,2525 182,2022 365,1998 279,1966 287,1934 193,1934 172,1869 182,1345 215,1291 344,1288 193,1266 204,408 226,333 395,312 430,247 1910,258 2039,301 2017,384 1921,398"/>
+      <TextLine id="eSc_line_8b6f8ccd" >
+        <Coords points="2012,293 1985,282 1980,279 890,250 882,250 855,250 828,250 801,250 774,247 747,247 721,247 694,247 667,247 640,247 613,247 586,247 559,247 532,247 505,247 478,247 452,247 425,252 425,293 422,306 745,314 750,317 774,330 777,330 780,330 858,320 874,320 879,322 912,336 914,336 917,336 1003,325 1033,322 1100,328 1210,338 1213,338 1216,338 1235,333 1245,328 1253,333 1275,347 1278,347 1280,347 2012,355 2017,328 2015,293 2012,293"/>
+        <Baseline points="425,293 2017,328"/>
+        <TextEquiv>
+          <Unicode>There is a fine word study in the Theological Dictionary of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_224a4873" >
+        <Coords points="220,344 220,390 217,411 1859,446 1864,427 1861,365 1751,379 1625,363 1622,363 1530,373 1337,355 1323,355 1321,355 1318,355 1278,368 1235,355 1232,355 1229,355 1052,363 1022,349 1017,347 1014,347 1011,347 995,349 925,360 836,347 820,344 817,344 815,344 809,344 782,355 745,344 734,341 731,341 729,341 664,341 465,349 231,336 220,344"/>
+        <Baseline points="220,390 1864,427"/>
+        <TextEquiv>
+          <Unicode>New Testament¹⁸ on which the following remarks are largely based,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e6c79f1" >
+        <Coords points="217,492 215,503 2012,538 2017,527 2017,478 217,443 217,492"/>
+        <Baseline points="217,492 2017,527"/>
+        <TextEquiv>
+          <Unicode>although adapted for our particular purpose. The New Testament concept</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a481017a" >
+        <Coords points="2055,586 1974,586 1969,583 1945,567 1942,567 1939,567 1937,567 1730,575 1697,562 1695,562 1692,562 1689,562 1641,575 1635,575 1280,554 1278,554 1121,564 1022,548 1019,548 844,559 704,540 702,540 586,554 255,532 252,532 250,532 215,546 215,591 212,602 2058,642 2063,632 2063,607 2055,586"/>
+        <Baseline points="215,591 2063,632"/>
+        <TextEquiv>
+          <Unicode>of hope is essentially determined by the Old Testament. Only where it is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2fc8c78" >
+        <Coords points="212,691 209,707 1958,745 1964,723 1964,680 1818,661 1816,661 1735,675 1727,675 1722,675 1676,659 1673,659 1670,659 1598,672 1590,672 1582,672 1520,656 1517,656 1514,656 1407,667 1382,669 1380,667 1358,653 1356,653 1353,653 1350,653 1280,664 1267,667 1235,664 1076,648 1073,648 971,659 941,661 869,656 626,640 624,640 212,642 212,691"/>
+        <Baseline points="212,691 1964,723"/>
+        <TextEquiv>
+          <Unicode>a matter of secular hope do we see the element of expectation charac-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aabe1269" >
+        <Coords points="215,793 212,812 2007,850 2012,825 2012,782 215,745 215,793"/>
+        <Baseline points="215,793 2012,825"/>
+        <TextEquiv>
+          <Unicode>teristic of the Greek world, and always in such a way that it is expec-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2a78ba0" >
+        <Coords points="209,893 207,914 2004,949 2009,930 2007,874 209,836 209,893"/>
+        <Baseline points="209,893 2009,930"/>
+        <TextEquiv>
+          <Unicode>tation of something welcome. The Greek word 𝑒𝓁𝓅𝒾𝓏𝑒𝒾𝓃 means expectation</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d795ae78" >
+        <Coords points="2023,979 1549,979 1479,965 1423,957 1420,957 1380,963 1326,971 1302,960 1288,954 1286,954 1283,954 1280,954 1278,954 1269,960 1256,968 780,946 742,946 739,946 737,946 696,957 667,944 659,941 656,941 653,941 637,944 581,954 548,941 546,941 543,941 540,941 481,952 452,938 446,936 443,936 441,936 425,938 376,946 207,933 207,989 204,1003 2026,1051 2031,1030 2028,1006 2023,979"/>
+        <Baseline points="207,989 2031,1030"/>
+        <TextEquiv>
+          <Unicode>with the nuance of counting upon. An example of this is Luke 6:34, &quot;And</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f57a878" >
+        <Coords points="1993,1081 207,1041 207,1092 204,1102 446,1108 452,1110 476,1124 478,1124 481,1124 895,1124 1078,1124 1097,1129 1124,1137 1127,1137 1130,1137 1175,1132 1210,1127 1221,1132 1229,1140 1232,1140 1235,1140 1237,1140 1399,1137 1592,1135 1999,1154 2004,1129 2001,1121 1993,1081"/>
+        <Baseline points="207,1092 2004,1129"/>
+        <TextEquiv>
+          <Unicode>if you lend to those from whom you hope to receive, what credit is that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_da79a87a" >
+        <Coords points="204,1194 201,1213 1896,1237 1902,1213 1896,1167 1783,1180 1614,1164 1611,1164 1334,1172 1318,1159 1318,1156 1315,1156 1313,1156 1310,1156 1294,1156 1183,1170 1052,1154 1022,1151 1019,1151 995,1154 904,1164 788,1151 747,1145 745,1145 710,1148 624,1159 600,1148 589,1143 586,1143 583,1143 554,1145 487,1156 470,1145 465,1140 462,1140 460,1140 457,1140 204,1140 204,1194"/>
+        <Baseline points="204,1194 1579,1223 1902,1213"/>
+        <TextEquiv>
+          <Unicode>to you? Even sinners lend to sinners, to receive as much again.&quot;¹⁹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c6db41b5" >
+        <Coords points="403,1299 400,1312 1961,1355 1966,1334 1964,1280 403,1242 403,1299"/>
+        <Baseline points="403,1299 1966,1334"/>
+        <TextEquiv>
+          <Unicode>There is a stronger accent on hoping in Luke 23:8; Acts 24:26,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8961f28b" >
+        <Coords points="196,1393 193,1406 1835,1455 1840,1433 1840,1382 1794,1369 1791,1369 1789,1369 1646,1379 1619,1379 1614,1377 1579,1363 1576,1363 1574,1363 1458,1374 1436,1374 1431,1371 1401,1358 1399,1358 1396,1358 1329,1369 1315,1371 1313,1369 1294,1355 1291,1355 1288,1355 1286,1355 1049,1361 963,1363 939,1358 887,1347 885,1347 793,1355 742,1358 196,1339 196,1393"/>
+        <Baseline points="196,1393 1840,1433"/>
+        <TextEquiv>
+          <Unicode>27:20; and even more clearly in Romans 15:24; I Corinthians 16:7;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_72ba92b0" >
+        <Coords points="193,1492 191,1506 1888,1554 1894,1533 1891,1484 193,1439 193,1492"/>
+        <Baseline points="193,1492 1894,1533"/>
+        <TextEquiv>
+          <Unicode>Philippians 2:19, 23; Philemon 22; II John 12; and III John 14. In</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_66f02e94" >
+        <Coords points="193,1595 191,1614 1826,1643 1832,1632 1832,1587 1719,1587 1713,1581 1700,1568 1697,1568 1695,1568 1692,1568 1689,1568 1646,1579 1635,1581 1512,1581 1504,1576 1485,1562 1482,1562 1479,1562 1477,1562 1407,1573 1374,1576 1356,1570 1323,1560 1321,1560 1318,1560 1213,1565 1132,1570 1076,1562 1011,1552 1008,1552 955,1557 901,1565 893,1557 893,1554 890,1554 890,1552 887,1552 885,1552 882,1552 850,1554 780,1562 715,1552 688,1546 686,1546 624,1549 452,1554 433,1541 430,1538 427,1538 425,1538 422,1538 403,1541 349,1552 193,1535 193,1595"/>
+        <Baseline points="193,1595 1832,1632"/>
+        <TextEquiv>
+          <Unicode>I Corinthians 13:7 hope, like love, is obviously directed to men,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d7eebbb" >
+        <Coords points="1977,1675 1883,1686 1861,1673 1859,1670 1856,1670 1853,1670 1851,1670 1832,1673 1754,1683 1743,1670 1740,1670 1740,1667 1738,1667 1735,1667 1732,1667 1713,1670 1662,1681 1603,1667 1579,1665 1576,1665 1557,1667 1506,1678 1116,1670 1103,1662 1087,1654 1084,1654 1081,1654 1078,1654 1057,1659 1030,1667 990,1659 949,1651 947,1651 944,1651 925,1659 909,1665 809,1657 683,1646 680,1646 640,1654 624,1657 608,1654 546,1640 543,1640 489,1651 478,1654 468,1651 427,1638 425,1638 422,1638 188,1646 188,1697 185,1716 1980,1756 1985,1737 1982,1678 1977,1675"/>
+        <Baseline points="188,1697 1985,1737"/>
+        <TextEquiv>
+          <Unicode>although for Paul this attitude rests on the corresponding relationchip</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf59f084" >
+        <Coords points="191,1796 188,1807 309,1826 312,1826 427,1815 548,1831 551,1831 777,1823 796,1837 799,1837 801,1837 804,1837 879,1826 909,1839 912,1839 914,1839 1358,1837 1509,1853 1512,1853 1746,1845 1902,1861 1904,1861 1985,1848 1988,1837 1985,1775 1869,1786 1348,1764 1197,1759 1194,1759 1151,1761 1070,1767 1049,1759 1033,1753 1030,1753 1027,1753 974,1759 912,1764 718,1753 430,1740 427,1740 191,1745 191,1796"/>
+        <Baseline points="191,1796 1988,1837"/>
+        <TextEquiv>
+          <Unicode>to God, as shown by the natural transition from the one to the other in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6cf15a61" >
+        <Coords points="188,1896 185,1915 422,1915 425,1901 422,1837 188,1845 188,1896"/>
+        <Baseline points="188,1896 425,1901"/>
+        <TextEquiv>
+          <Unicode>verse 13.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fdc9cb5b" >
+        <Coords points="376,2014 1143,2041 1146,2041 1243,2030 1248,2030 1261,2041 1261,2044 1264,2044 1267,2044 1269,2044 1366,2033 1412,2047 1415,2047 1417,2047 1514,2036 1517,2036 1689,2052 1692,2052 1980,2041 1982,2030 1980,1985 1692,1958 1689,1958 1687,1958 1652,1974 1641,1977 1520,1977 1506,1969 1479,1955 1477,1955 1474,1955 1471,1955 1426,1966 1404,1971 1391,1966 1364,1952 1361,1952 1358,1952 1356,1952 1321,1963 1288,1971 1191,1971 1143,1958 1103,1947 1100,1947 1097,1947 1046,1955 965,1966 941,1950 936,1947 933,1947 930,1947 928,1947 895,1950 780,1961 758,1944 756,1942 753,1942 750,1942 747,1942 745,1942 734,1944 683,1961 621,1942 616,1939 613,1939 610,1939 581,1939 419,1947 382,1934 379,2001 376,2014"/>
+        <Baseline points="379,2001 1982,2030"/>
+        <TextEquiv>
+          <Unicode>nope fixed on God embraces at once the three elements of expec-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_86917f3c" >
+        <Coords points="182,2098 180,2108 1974,2146 1980,2135 1977,2079 182,2047 182,2098"/>
+        <Baseline points="182,2098 1980,2135"/>
+        <TextEquiv>
+          <Unicode>tation of the future, trust, and the patience of waiting. According to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6201b32a" >
+        <Coords points="180,2197 177,2216 1996,2256 2001,2235 2001,2178 180,2152 180,2197"/>
+        <Baseline points="180,2197 2001,2235"/>
+        <TextEquiv>
+          <Unicode>Romans 4:18, when we can no longer count on controllable factors we have</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a42b145" >
+        <Coords points="180,2299 177,2310 1894,2342 1899,2332 1899,2286 180,2246 180,2299"/>
+        <Baseline points="180,2299 1899,2332"/>
+        <TextEquiv>
+          <Unicode>to trust in the divine future. The term 𝑒𝓁𝓅𝒾𝓏𝑒𝒾𝓃 has the element of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e6b8a0ca" >
+        <Coords points="174,2388 174,2399 172,2410 1843,2450 1848,2429 1845,2377 1555,2377 1536,2372 1501,2361 1498,2361 1495,2361 1426,2369 1393,2375 1372,2369 1329,2359 1326,2359 1323,2359 1264,2369 1243,2372 1218,2369 1159,2356 1156,2356 1070,2367 1062,2367 1060,2367 1046,2353 1043,2353 1041,2353 1038,2353 828,2364 785,2364 774,2361 721,2348 718,2348 715,2348 640,2361 632,2361 629,2361 605,2345 602,2345 600,2345 597,2345 489,2359 481,2359 449,2342 446,2342 443,2342 352,2356 330,2340 328,2340 325,2340 322,2340 182,2353 174,2388"/>
+        <Baseline points="174,2399 1848,2429"/>
+        <TextEquiv>
+          <Unicode>sure confidence in such passages as I Corinthians 15:19; II Corin-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_643350f2" >
+        <Coords points="1950,2504 1942,2488 1735,2472 1732,2472 1471,2477 1361,2477 1350,2472 1323,2461 1321,2461 1318,2461 1315,2461 1313,2461 1313,2464 1302,2472 1299,2477 1205,2477 1191,2469 1178,2458 1175,2458 1173,2458 1170,2458 1113,2466 1087,2469 1041,2464 941,2453 939,2453 820,2458 702,2464 618,2453 556,2445 554,2445 465,2447 317,2455 260,2442 242,2439 239,2439 236,2439 228,2442 193,2453 180,2439 174,2499 172,2517 1964,2560 1969,2536 1964,2523 1950,2504"/>
+        <Baseline points="174,2499 1969,2536"/>
+        <TextEquiv>
+          <Unicode>thians 1:10; Philippians 1:20; and I Peter 1:21. The main stress is on</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0434390b" >
+        <Coords points="1931,2681 1851,2692 1808,2676 1797,2673 1794,2673 1791,2673 1789,2673 1786,2673 1783,2676 1767,2690 1689,2673 1670,2671 1668,2671 1665,2671 1660,2673 1633,2687 1568,2671 1560,2668 1557,2668 1555,2668 1536,2668 1428,2681 1404,2665 1401,2663 1399,2663 1396,2663 1283,2660 1280,2660 1278,2660 1269,2663 1224,2676 1208,2660 1205,2660 1205,2657 1202,2657 1200,2657 1111,2655 1108,2655 1070,2657 906,2668 879,2652 879,2649 877,2649 874,2649 871,2649 869,2649 866,2649 842,2665 696,2665 384,2638 384,2698 382,2724 1939,2765 1945,2738 1942,2684 1931,2681"/>
+        <Baseline points="384,2698 1945,2738"/>
+        <TextEquiv>
+          <Unicode>¹⁸Gerhard Kittel, ed., Geoffrey W. Bromiley, trans. Theological</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8efb50d5" >
+        <Coords points="164,2746 161,2781 1703,2800 1708,2786 1705,2749 1606,2730 164,2706 164,2746"/>
+        <Baseline points="166,2749 1412,2784 1711,2789"/>
+        <TextEquiv>
+          <Unicode>Dictionary of the New Testament (1971), Vol. II, pp. 517-535.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f45ad135" >
+        <Coords points="365,2848 363,2867 489,2889 492,2889 495,2889 497,2889 516,2872 626,2872 634,2875 769,2897 772,2897 920,2883 922,2883 1084,2905 1087,2905 1224,2891 1291,2910 1294,2910 1296,2910 1299,2910 1358,2894 1382,2913 1385,2913 1388,2913 1391,2913 1393,2913 1428,2897 1638,2899 1676,2921 1678,2921 1681,2921 1684,2921 1730,2905 1878,2905 1883,2889 1880,2832 1608,2837 1512,2824 1479,2819 1477,2819 1474,2819 1463,2821 1428,2832 1412,2821 1409,2819 1407,2819 1404,2819 1401,2819 1377,2821 1280,2829 1213,2816 1178,2811 1175,2811 1148,2816 1108,2824 1070,2813 1060,2811 1057,2811 1054,2811 1033,2813 974,2821 365,2800 365,2848"/>
+        <Baseline points="365,2848 1883,2889"/>
+        <TextEquiv>
+          <Unicode>¹⁹See alsο I Corinthians 9:10; II Corinthians 8:5; I Timothy</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_754db45a"  >
+      <Coords points="1988,182 2039,182 2050,234 1977,255 1988,182"/>
+      <TextLine id="eSc_line_a2ce6c2f" >
+        <Coords points="2036,190 2012,182 2007,182 1985,209 1982,228 1982,244 2042,244 2042,228 2039,212 2036,190"/>
+        <Baseline points="1982,228 2042,228"/>
+        <TextEquiv>
+          <Unicode>23</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6f68f1c6"  >
+      <Coords points="191,2622 182,2622 182,2614 191,2614 191,2622"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_cf38b4bb" >
+        <Coords points="166,2902 164,2926 521,2950 524,2950 696,2932 699,2910 699,2867 166,2848 166,2902"/>
+        <Baseline points="166,2902 699,2910"/>
+        <TextEquiv>
+          <Unicode>3:14; and Acts 16:19.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

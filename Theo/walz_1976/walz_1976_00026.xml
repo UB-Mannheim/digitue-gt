@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00026.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.694239+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.694251+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00026.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_24a1ca1d"  >
+      <Coords points="2039,850 2007,944 1816,944 1641,1030 204,997 226,247 1856,258 1964,247 1977,172 2028,182 2028,438 1985,494 2039,850"/>
+      <TextLine id="eSc_line_1d72d1a3" >
+        <Coords points="2009,177 1982,172 1982,215 1982,244 2017,239 2017,215 2017,180 2009,177"/>
+        <Baseline points="1982,215 2017,215"/>
+        <TextEquiv>
+          <Unicode>19</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7fcd345a" >
+        <Coords points="729,250 702,250 675,250 648,250 629,247 575,247 567,247 540,247 513,247 487,247 460,247 433,247 406,247 379,247 352,247 325,247 298,247 271,247 244,247 242,242 217,242 217,290 215,309 2004,330 2009,317 2007,269 753,250 729,250"/>
+        <Baseline points="217,290 2009,317"/>
+        <TextEquiv>
+          <Unicode>the subject of hope as employed in the Bible to mention that Dr. Ottley</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc3d65c3" >
+        <Coords points="212,390 209,403 1143,430 1146,430 1267,419 1272,419 1275,419 1315,433 1318,433 1321,433 1382,422 1474,435 1477,435 2009,427 2012,416 2012,357 939,357 930,349 925,344 925,341 922,341 920,341 917,341 826,347 785,349 780,347 753,333 750,333 747,333 497,344 435,347 430,344 395,328 392,328 390,328 212,341 212,390"/>
+        <Baseline points="212,390 2012,416"/>
+        <TextEquiv>
+          <Unicode>mentions two chief vices opposed to hope: (a) presumption, which is an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a383ad3" >
+        <Coords points="209,492 207,503 1929,535 1934,516 1931,470 1113,446 1111,446 995,449 788,454 734,443 718,441 715,441 634,441 274,446 209,433 209,492"/>
+        <Baseline points="209,492 1934,516"/>
+        <TextEquiv>
+          <Unicode>excess of hope and forgets that the promises of God are not uncondi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ee62db5" >
+        <Coords points="212,591 209,605 1095,632 1097,632 1210,621 1213,621 1267,634 1269,634 1272,634 1595,626 1603,626 1638,640 1641,640 1643,640 1958,629 1961,618 1958,556 1789,570 1695,554 1692,554 1689,554 1681,554 1506,564 1426,551 1404,548 1401,548 1372,551 1269,562 1251,548 1248,546 1245,546 1243,546 1240,546 1194,548 1089,559 936,559 922,548 917,540 914,540 912,540 909,540 861,546 809,554 704,546 605,538 602,538 212,540 212,591"/>
+        <Baseline points="212,591 1961,618"/>
+        <TextEquiv>
+          <Unicode>tional, and (b) despair, which springs from lack of confidence in God</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4971e499" >
+        <Coords points="209,694 207,710 2001,731 2007,720 2007,675 1821,656 1818,656 1740,669 1732,669 1724,669 1592,653 1590,653 1342,664 1307,664 1302,664 1280,648 1278,648 1275,648 1272,648 1148,661 1132,661 1130,661 1095,645 1092,645 1089,645 968,659 952,659 944,659 890,642 887,642 885,642 820,656 815,656 809,656 723,640 721,640 718,640 664,653 659,653 651,653 532,637 530,637 527,637 478,650 476,650 468,650 333,634 330,634 209,645 209,694"/>
+        <Baseline points="209,694 2007,720"/>
+        <TextEquiv>
+          <Unicode>and servile fear. He points out that the Hebrew word for despair is an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1da3d2a3" >
+        <Coords points="209,793 207,812 2001,833 2007,820 2007,772 209,737 209,793"/>
+        <Baseline points="209,793 2007,820"/>
+        <TextEquiv>
+          <Unicode>uncommon one (for instance, Ecclesiastes 2:20 and Job 6:26) . The Greek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cfc9a131" >
+        <Coords points="2020,868 204,847 204,893 201,911 2020,944 2026,919 2026,885 2020,868"/>
+        <Baseline points="204,893 2026,919"/>
+        <TextEquiv>
+          <Unicode>word for despair occurs in the New Testament only to be dismissed as not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80b703bc" >
+        <Coords points="207,992 204,1016 1633,1032 1638,1016 1638,968 207,944 207,992"/>
+        <Baseline points="207,992 1638,1016"/>
+        <TextEquiv>
+          <Unicode>in keeping with the Christian faith (II Corinthians 4:8).</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_71d6beec"  >
+      <Coords points="1953,1291 2007,1592 1964,1904 1996,2052 1942,2098 1953,2224 1673,2321 1382,2345 1770,2421 1824,2474 1826,2560 2007,2603 2007,2665 1813,2808 1813,2891 182,2913 193,1355 373,1334 398,1258 441,1248 1845,1258 1953,1291"/>
+      <TextLine id="eSc_line_16083481" >
+        <Coords points="1910,1277 1899,1272 419,1250 403,1256 403,1296 400,1310 1921,1331 1926,1318 1923,1280 1910,1277"/>
+        <Baseline points="403,1296 1926,1318"/>
+        <TextEquiv>
+          <Unicode>The idea of hope in the Old Testament is conveyed by several</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bcc1ca0f" >
+        <Coords points="196,1353 196,1396 193,1406 1942,1441 1948,1423 1948,1374 217,1350 196,1353"/>
+        <Baseline points="196,1396 1948,1423"/>
+        <TextEquiv>
+          <Unicode>Hebrew words with related meanings, rather than words clearly meaning</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_72e9686b" >
+        <Coords points="204,1492 201,1509 242,1522 244,1522 247,1522 406,1511 613,1527 616,1530 1845,1530 1848,1514 1845,1457 976,1457 955,1441 952,1441 949,1441 947,1441 944,1441 941,1441 909,1455 815,1441 812,1441 621,1452 602,1439 600,1439 597,1439 594,1439 449,1449 204,1431 204,1492"/>
+        <Baseline points="204,1492 1848,1514"/>
+        <TextEquiv>
+          <Unicode>&quot;hope.&quot; In fact, Walther Zimmerli⁶ points out that two lexicons⁷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a650088" >
+        <Coords points="196,1597 193,1619 1988,1635 1993,1624 1993,1579 1810,1562 1808,1562 1727,1573 1722,1573 1700,1560 1697,1560 1695,1560 1692,1560 1530,1570 1512,1570 1506,1570 1455,1554 1452,1554 1450,1554 1388,1568 1385,1568 1374,1568 1186,1552 1183,1552 1124,1565 1119,1565 1100,1549 1097,1549 1095,1549 1092,1549 1011,1562 1003,1565 941,1565 939,1562 920,1546 917,1546 914,1546 912,1546 772,1560 756,1560 750,1560 734,1546 731,1546 729,1546 726,1546 443,1554 395,1554 392,1554 363,1538 360,1538 357,1538 196,1549 196,1597"/>
+        <Baseline points="196,1597 1993,1624"/>
+        <TextEquiv>
+          <Unicode>conclude that for the verb &quot;to hope&quot; only a single Hebrew equivalent is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ffacd8b7" >
+        <Coords points="196,1700 193,1710 285,1726 287,1726 1374,1726 1614,1743 1617,1743 1848,1729 1851,1718 1848,1670 1517,1670 1509,1665 1474,1654 1471,1654 1469,1654 1278,1662 1229,1665 1213,1662 1140,1648 1138,1648 990,1659 957,1662 944,1659 890,1646 887,1646 885,1646 882,1646 844,1659 839,1659 826,1659 702,1646 699,1646 540,1657 513,1657 500,1657 411,1640 408,1640 196,1651 196,1700"/>
+        <Baseline points="196,1700 1851,1718"/>
+        <TextEquiv>
+          <Unicode>identified, namely 𝓈𝒷𝓇 in the intensive stem. This verb is twice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a365be2" >
+        <Coords points="1969,1778 193,1753 193,1799 191,1810 1964,1837 1969,1823 1969,1821 1969,1778"/>
+        <Baseline points="193,1799 1969,1823"/>
+        <TextEquiv>
+          <Unicode>verified as having the meaning &quot;to inspect, examine&quot; in the basic stem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97add4bb" >
+        <Coords points="193,1901 191,1915 1829,1944 1835,1926 1832,1880 1652,1861 1649,1861 1509,1872 1474,1874 1469,1872 1455,1858 1452,1858 1450,1858 1447,1858 1339,1869 1304,1872 1299,1869 1291,1861 1291,1858 1288,1858 1286,1858 1283,1858 1175,1866 1116,1869 987,1869 979,1861 971,1853 968,1853 965,1853 963,1853 842,1858 742,1864 680,1856 618,1848 193,1848 193,1901"/>
+        <Baseline points="193,1901 1835,1926"/>
+        <TextEquiv>
+          <Unicode>form. In the intensive stem the verb has the accent of &quot;waiting,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c669e1a" >
+        <Coords points="1977,1977 193,1947 193,2001 191,2017 204,2028 207,2028 209,2028 212,2028 357,2017 414,2030 417,2030 419,2030 640,2020 645,2020 906,2036 1982,2041 1988,2022 1985,2009 1977,1977"/>
+        <Baseline points="193,2001 1988,2022"/>
+        <TextEquiv>
+          <Unicode>hopeful watching.&quot; There are six examples of this usage. In Ruth 1:13</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_945bd118" >
+        <Coords points="191,2100 188,2117 1886,2135 1891,2125 1886,2065 949,2065 930,2052 928,2052 925,2052 922,2052 570,2060 191,2041 191,2100"/>
+        <Baseline points="191,2100 1891,2125"/>
+        <TextEquiv>
+          <Unicode>it should be translated &quot;waiting.&quot; In the other five instances the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5890a9ef" >
+        <Coords points="1934,2221 1929,2176 1334,2157 1331,2157 1165,2160 965,2165 947,2157 939,2152 936,2152 933,2152 882,2154 777,2162 761,2152 758,2149 756,2149 753,2149 750,2149 723,2152 645,2160 589,2149 575,2146 573,2146 543,2146 392,2157 188,2141 188,2200 185,2224 1931,2240 1937,2224 1934,2221 1934,2221"/>
+        <Baseline points="188,2200 1937,2224"/>
+        <TextEquiv>
+          <Unicode>emphasis is on &quot;hopeful watching,&quot; as in Psalm 145:15.⁸ Hebrew nouns</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2189de62" >
+        <Coords points="185,2302 182,2316 207,2329 209,2329 212,2329 476,2321 535,2321 543,2324 567,2334 570,2334 573,2334 659,2326 704,2324 1243,2342 1248,2318 1248,2273 185,2256 185,2302"/>
+        <Baseline points="185,2302 1248,2318"/>
+        <TextEquiv>
+          <Unicode>meaning &quot;hope&quot; are somewhat more numerous.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a4ecad7f" >
+        <Coords points="1789,2445 1600,2450 1528,2439 1498,2434 1495,2434 1471,2437 1415,2447 1401,2437 1396,2431 1393,2431 1391,2431 1388,2431 1385,2431 1382,2431 1382,2434 1380,2437 1369,2447 1243,2447 1197,2431 1183,2429 1181,2429 1178,2429 1105,2431 839,2439 702,2423 696,2423 694,2423 691,2423 608,2437 387,2418 387,2480 384,2496 922,2504 939,2509 1011,2523 1797,2525 1802,2499 1797,2450 1789,2445"/>
+        <Baseline points="387,2480 1802,2499"/>
+        <TextEquiv>
+          <Unicode>⁶Walther Zimmerli, Man and his Hope in the Old Testament</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_200d93ba" >
+        <Coords points="188,2531 185,2542 1194,2563 1200,2547 1197,2504 188,2488 188,2531"/>
+        <Baseline points="188,2531 1200,2547"/>
+        <TextEquiv>
+          <Unicode>(London: SCM Press Ltd., 1971), pp. 4-5.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0ceea3a" >
+        <Coords points="1985,2595 387,2566 387,2622 384,2638 1993,2671 1999,2646 1999,2601 1985,2595"/>
+        <Baseline points="387,2622 1999,2646"/>
+        <TextEquiv>
+          <Unicode>⁷L. Koehler-W. Baumgartner, Lexicon in Veteris Testamenti libros</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd3d61dd" >
+        <Coords points="1008,2633 793,2641 764,2641 758,2641 710,2628 707,2628 704,2628 594,2638 578,2638 573,2638 538,2625 535,2625 532,2625 185,2630 185,2673 182,2681 1923,2711 1929,2700 1929,2660 1011,2633 1008,2633"/>
+        <Baseline points="185,2673 1929,2700"/>
+        <TextEquiv>
+          <Unicode>(Leiden, Germany, 1953), and F. Brown, S. R. Driver and C. A. Briggs,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0706148d" >
+        <Coords points="182,2724 180,2751 1867,2773 1872,2749 1872,2703 182,2679 182,2724"/>
+        <Baseline points="182,2724 1872,2749"/>
+        <TextEquiv>
+          <Unicode>A Hebrew and English Lexicon of the Old Testament (Oxford, England,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e38ebca" >
+        <Coords points="936,2738 909,2735 901,2735 820,2746 804,2746 182,2735 182,2778 180,2786 963,2797 968,2789 968,2746 941,2738 936,2738"/>
+        <Baseline points="182,2778 968,2789"/>
+        <TextEquiv>
+          <Unicode>1907, reprinted 1953 and 1957).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_140813ea" >
+        <Coords points="382,2859 379,2878 516,2897 519,2897 589,2886 634,2902 637,2902 640,2905 640,2902 643,2902 688,2886 761,2905 764,2905 766,2905 917,2889 933,2889 941,2889 1008,2910 1011,2910 1280,2913 1283,2913 1286,2913 1288,2913 1288,2910 1304,2897 1307,2894 1321,2897 1404,2915 1407,2915 1409,2915 1458,2899 1471,2897 1622,2897 1633,2902 1673,2921 1676,2921 1678,2921 1800,2905 1802,2883 1802,2829 382,2808 382,2859"/>
+        <Baseline points="382,2859 1802,2883"/>
+        <TextEquiv>
+          <Unicode>⁸Cf. also Psalm 104:27; Psalm 119:166; Isaiah 38:18; and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3475183a" >
+        <Coords points="180,2907 177,2937 457,2945 462,2913 462,2867 180,2851 180,2907"/>
+        <Baseline points="180,2907 462,2913"/>
+        <TextEquiv>
+          <Unicode>Esther 9:1.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_da0484f0"  >
+      <Coords points="796,1129 850,1108 1458,1119 1469,1159 807,1170 796,1129"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_d9374936" >
+        <Coords points="793,1164 791,1172 1461,1175 1466,1170 1463,1110 793,1105 793,1164"/>
+        <Baseline points="795,1165 1469,1172"/>
+        <TextEquiv>
+          <Unicode>HOPE IN THE OLD TESTAMENT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

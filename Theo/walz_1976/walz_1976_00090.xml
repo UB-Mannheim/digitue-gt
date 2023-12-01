@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00090.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.104586+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.104598+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00090.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_8123f721"  >
+      <Coords points="1921,535 2007,570 1985,707 957,707 836,750 1996,785 2050,1245 1888,1323 1964,1557 1910,1611 1751,1622 1716,1675 1942,1700 2050,1979 2007,2184 2028,2321 301,2321 312,1721 419,1657 226,1611 247,850 430,793 387,763 645,742 247,707 269,258 1921,279 1974,312 2028,449 1921,535"/>
+      <TextLine id="eSc_line_1de42222" >
+        <Coords points="939,266 912,266 885,266 858,263 855,263 831,263 804,263 777,263 750,263 723,263 696,263 669,260 643,260 616,260 589,260 562,260 535,260 508,260 481,260 454,258 427,258 400,258 373,258 347,258 320,258 293,258 266,252 266,290 263,314 1934,349 1939,336 1937,293 952,266 939,266"/>
+        <Baseline points="266,290 1939,336"/>
+        <TextEquiv>
+          <Unicode>examines the inner tendency of the resurrection event, asking what</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d286cca" >
+        <Coords points="1999,390 1805,376 1802,376 1689,384 1622,387 1592,381 1547,371 1544,371 1471,379 1428,381 1417,376 1396,365 1393,365 1391,365 1299,373 1264,376 1256,373 1237,360 1235,360 1232,360 1229,360 1226,360 1197,371 1189,373 1178,371 1138,357 1135,357 1132,357 836,363 747,363 737,360 699,347 696,347 694,347 691,347 688,347 669,357 669,360 667,357 648,347 645,347 643,347 640,347 495,355 457,355 441,352 360,336 357,336 263,347 263,395 260,403 2004,462 2009,443 2009,414 1999,390"/>
+        <Baseline points="263,395 2009,443"/>
+        <TextEquiv>
+          <Unicode>rightly can and must be expected from the risen and exalted Lord. It</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c13fe395" >
+        <Coords points="260,494 258,508 1856,551 1861,540 1859,481 1786,492 1557,473 1477,468 1474,468 1426,470 1318,478 1299,468 1296,465 1294,465 1291,465 1288,465 1156,465 893,465 863,457 828,449 826,449 823,449 774,457 734,462 683,454 621,443 618,443 616,443 581,451 556,457 476,457 468,449 454,438 452,438 449,438 446,438 260,443 260,494"/>
+        <Baseline points="260,494 1861,540"/>
+        <TextEquiv>
+          <Unicode>recognizes as the outer tendency, or as the consequence of this</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae533ff1" >
+        <Coords points="258,591 255,602 282,618 285,618 952,624 1041,642 1043,642 1369,640 1385,653 1388,653 1391,653 1393,653 1705,650 1740,664 1743,664 1746,664 1826,653 1939,669 1942,669 2001,656 2004,645 2001,589 1915,599 1783,583 1740,578 1738,578 1716,581 1660,591 1565,578 1544,575 1541,575 1528,575 1479,586 1466,575 1461,570 1458,570 1455,570 1452,570 1399,572 1307,581 1291,570 1286,567 1283,567 1280,567 1278,567 1194,570 1052,572 1038,564 1027,556 1025,556 1022,556 1019,556 941,562 890,567 879,562 866,551 863,551 861,551 858,551 750,559 694,562 643,556 519,540 516,540 513,540 489,554 487,554 468,551 357,538 355,538 258,546 258,591"/>
+        <Baseline points="258,591 2004,645"/>
+        <TextEquiv>
+          <Unicode>tendency, its own mission: &quot;The gospel must first be preached to all</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f87df89f" >
+        <Coords points="252,696 250,707 809,723 815,710 815,664 252,640 252,696"/>
+        <Baseline points="252,696 815,710"/>
+        <TextEquiv>
+          <Unicode>nations“ (Mark 13:10).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e4c1aac6" >
+        <Coords points="505,753 478,755 452,755 452,801 449,817 457,825 457,828 460,828 462,828 465,828 909,828 939,841 941,841 944,841 1178,836 1404,855 1407,855 1477,844 1493,858 1495,858 1498,858 1501,858 1974,855 1977,844 1977,790 513,750 505,753"/>
+        <Baseline points="452,801 1977,844"/>
+        <TextEquiv>
+          <Unicode>One could say that Christian eschatology is the study of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b2278f4a" >
+        <Coords points="247,898 244,909 1993,963 1999,949 1996,901 247,847 247,898"/>
+        <Baseline points="247,898 1999,949"/>
+        <TextEquiv>
+          <Unicode>tendency of the resurrection and future of Christ and therefore leads</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e523376f" >
+        <Coords points="244,997 242,1011 1891,1065 1896,1043 1896,997 244,949 244,997"/>
+        <Baseline points="244,997 1896,1043"/>
+        <TextEquiv>
+          <Unicode>immediately to the practical knowledge of mission. The Christian</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae156ae9" >
+        <Coords points="242,1100 239,1113 807,1143 809,1143 885,1132 890,1132 901,1132 990,1148 992,1148 1073,1137 1078,1137 1087,1137 1175,1154 1178,1154 1261,1143 1264,1143 1269,1143 1361,1159 1364,1159 1450,1148 1455,1148 1461,1148 1643,1167 1646,1167 1880,1162 1929,1175 1931,1175 1934,1175 2015,1162 2017,1151 2017,1105 1915,1086 1913,1086 1767,1097 1748,1097 1746,1097 1711,1081 1708,1081 1705,1081 1587,1092 1576,1092 1574,1092 1552,1076 1549,1076 1547,1076 1544,1076 1469,1089 1458,1089 928,1076 925,1073 901,1057 898,1057 895,1057 893,1057 890,1057 839,1070 834,1070 823,1070 702,1051 699,1051 242,1051 242,1100"/>
+        <Baseline points="242,1100 2017,1151"/>
+        <TextEquiv>
+          <Unicode>consciousness of history is not a consciousness of the millenia of all</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95880af1" >
+        <Coords points="2026,1205 1732,1180 1730,1180 1662,1194 1657,1194 1646,1194 1528,1175 1525,1175 1461,1188 1452,1188 1450,1186 1434,1172 1431,1172 1428,1172 1426,1172 1294,1180 1259,1183 1232,1180 1170,1170 1167,1170 1165,1170 1146,1178 1135,1180 1130,1175 1116,1164 1113,1164 1111,1164 1108,1164 1057,1175 1030,1178 987,1172 920,1162 917,1162 877,1167 847,1172 788,1164 696,1154 694,1154 610,1159 532,1164 236,1148 236,1202 234,1215 2031,1272 2036,1250 2034,1240 2026,1205"/>
+        <Baseline points="236,1202 2036,1250"/>
+        <TextEquiv>
+          <Unicode>history, in some mysterious knowledge of a divine plan for history, but</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8d829b54" >
+        <Coords points="234,1299 231,1320 1778,1358 1783,1345 1783,1301 1606,1296 1606,1293 1587,1280 1584,1280 1582,1280 1579,1280 1520,1291 1517,1291 1514,1291 1399,1275 1396,1275 1331,1285 1323,1285 1304,1285 1140,1266 1138,1266 1081,1277 1076,1277 1057,1264 1054,1264 1052,1264 1049,1264 976,1275 963,1275 944,1272 863,1258 861,1258 815,1269 807,1269 234,1250 234,1299"/>
+        <Baseline points="234,1299 1783,1345"/>
+        <TextEquiv>
+          <Unicode>it is a missionary consciousness in the knowledge of a divine</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0e326cc" >
+        <Coords points="234,1401 231,1417 1878,1471 1883,1449 1883,1404 234,1353 234,1401"/>
+        <Baseline points="234,1401 1883,1449"/>
+        <TextEquiv>
+          <Unicode>commission. It is therefore a consciousness of the contradiction</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d80b015c" >
+        <Coords points="1939,1501 231,1447 231,1503 228,1517 861,1546 863,1546 922,1535 936,1546 936,1549 939,1549 941,1549 944,1549 1221,1544 1240,1544 1253,1544 1447,1562 1450,1562 1541,1552 1544,1552 1552,1552 1848,1573 1851,1573 1948,1560 1950,1549 1948,1525 1939,1501"/>
+        <Baseline points="231,1503 1950,1549"/>
+        <TextEquiv>
+          <Unicode>inherent in this unredeemed world and of the sign of the cross under</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fde25635" >
+        <Coords points="226,1603 223,1616 247,1630 250,1630 252,1630 309,1619 317,1630 320,1630 320,1632 322,1632 325,1632 328,1632 406,1622 411,1622 511,1638 513,1638 653,1630 683,1630 1660,1667 1665,1643 1665,1597 1280,1587 1243,1570 1240,1570 1237,1570 1183,1581 1167,1568 1165,1568 1162,1568 1159,1568 893,1573 793,1557 226,1557 226,1603"/>
+        <Baseline points="226,1603 1665,1643"/>
+        <TextEquiv>
+          <Unicode>which the Christian mission and the Christian hope stand.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc9593e8" >
+        <Coords points="427,1708 425,1716 1918,1764 1923,1751 1923,1705 427,1654 427,1708"/>
+        <Baseline points="427,1708 1923,1751"/>
+        <TextEquiv>
+          <Unicode>It is only in this context, too, that the question of &quot;true</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33a0ed10" >
+        <Coords points="1560,1743 1557,1740 1382,1737 1372,1737 1364,1735 1294,1735 1291,1735 1288,1732 1205,1732 1183,1732 1173,1729 1119,1729 1103,1729 1095,1726 1030,1726 1022,1726 995,1726 979,1724 941,1724 941,1724 914,1724 901,1721 852,1721 834,1721 807,1721 785,1718 764,1718 753,1718 726,1718 707,1716 675,1716 672,1716 645,1716 618,1716 591,1713 586,1713 565,1713 538,1713 513,1710 497,1710 484,1710 457,1710 430,1710 427,1708 330,1705 322,1710 322,1753 320,1761 1910,1821 1915,1802 1915,1753 1560,1743 1560,1743"/>
+        <Baseline points="322,1753 1915,1802"/>
+        <TextEquiv>
+          <Unicode>human nature&quot; arises--the question of what makes man to be true</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d6cc423" >
+        <Coords points="320,1807 317,1821 1937,1861 1942,1853 1939,1807 320,1761 320,1807"/>
+        <Baseline points="320,1807 1942,1853"/>
+        <TextEquiv>
+          <Unicode>man--and is answered by the disclosure of a way, a promise and a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_61d7c084" >
+        <Coords points="320,1856 317,1866 1988,1912 1993,1904 1993,1861 320,1813 320,1856"/>
+        <Baseline points="320,1856 1993,1904"/>
+        <TextEquiv>
+          <Unicode>future in which &quot;the truth&quot; comes to man and he himself is brought</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f5cb3cf4" >
+        <Coords points="320,1907 317,1917 1929,1971 1934,1952 1934,1907 320,1864 320,1907"/>
+        <Baseline points="320,1907 1934,1952"/>
+        <TextEquiv>
+          <Unicode>into the truth. Conmunion with Christ, the new being in Christ,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ffa7aeb" >
+        <Coords points="1910,1952 1883,1952 1856,1952 1829,1950 1802,1950 1775,1950 1748,1950 1722,1947 1695,1947 1668,1947 1641,1944 1614,1944 1587,1944 1560,1944 1533,1942 1506,1942 1479,1942 1452,1939 1426,1939 1399,1939 1372,1939 1345,1936 1318,1936 1291,1936 1264,1934 1237,1934 1210,1934 1183,1934 1156,1931 1130,1931 1103,1931 1076,1928 1049,1928 1022,1928 995,1928 968,1926 941,1926 914,1926 887,1923 861,1923 834,1923 807,1923 780,1920 753,1920 726,1920 699,1920 672,1917 645,1917 618,1917 591,1915 565,1915 538,1915 511,1915 484,1912 457,1912 430,1912 403,1909 376,1909 349,1909 322,1909 322,1958 320,1974 2023,2017 2028,2001 2026,1950 1913,1944 1910,1952"/>
+        <Baseline points="322,1958 2028,2001"/>
+        <TextEquiv>
+          <Unicode>proves to be the way for man to become man. In it true human nature</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8169efb6" >
+        <Coords points="2015,2009 573,1966 559,1966 551,1963 487,1963 478,1963 452,1963 433,1961 400,1961 398,1961 371,1961 344,1961 341,1958 317,1958 317,2006 314,2020 2028,2065 2034,2055 2031,2049 2015,2009"/>
+        <Baseline points="317,2006 2034,2055"/>
+        <TextEquiv>
+          <Unicode>emerges, and the still hidden and unfulfilled future of human nature</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b8ebf1e5" >
+        <Coords points="312,2055 309,2073 2028,2122 2034,2108 2031,2068 312,2017 312,2055"/>
+        <Baseline points="312,2055 2034,2108"/>
+        <TextEquiv>
+          <Unicode>can be sought in it. This is an openness of human existence towards</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0c768e84" >
+        <Coords points="312,2108 309,2119 1980,2173 1985,2154 1985,2111 312,2057 312,2108"/>
+        <Baseline points="312,2108 1985,2154"/>
+        <TextEquiv>
+          <Unicode>the world and towards the future--an openness grounded, manifested</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_96ca6046" >
+        <Coords points="309,2160 306,2170 1956,2213 1961,2205 1961,2162 309,2117 309,2160"/>
+        <Baseline points="309,2160 1961,2205"/>
+        <TextEquiv>
+          <Unicode>and kept alive by that openness of the revelation of God which is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87f3fb61" >
+        <Coords points="309,2205 306,2216 1950,2267 1956,2256 1956,2213 309,2162 309,2205"/>
+        <Baseline points="309,2205 1956,2256"/>
+        <TextEquiv>
+          <Unicode>announced in the event of the resurrection of Christ and in which</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d4c587e2" >
+        <Coords points="1950,2256 1923,2256 1896,2256 1869,2256 1843,2254 1816,2254 1789,2254 1762,2251 1735,2251 1708,2251 1681,2248 1654,2248 1627,2248 1600,2246 1574,2246 1547,2246 1520,2243 1493,2243 1466,2243 1439,2243 1412,2240 1385,2240 1358,2240 1334,2238 1318,2238 1304,2238 1278,2238 1261,2235 1218,2235 1197,2235 1186,2232 1116,2232 1116,2232 1089,2232 1078,2230 1017,2230 1008,2230 1003,2227 309,2211 309,2259 306,2273 2023,2329 2028,2310 2028,2256 1950,2254 1950,2256"/>
+        <Baseline points="309,2259 2028,2310"/>
+        <TextEquiv>
+          <Unicode>this event points beyond itself to an eschaton of the fulness of all</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c6f3f6eb" >
+        <Coords points="519,2267 492,2267 465,2264 438,2264 411,2264 384,2262 357,2262 330,2262 328,2256 301,2256 306,2313 306,2326 454,2337 457,2337 538,2321 538,2305 530,2267 519,2267"/>
+        <Baseline points="306,2313 538,2305"/>
+        <TextEquiv>
+          <Unicode>things.27</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_966df6b3"  >
+      <Coords points="2031,204 2093,204 2093,244 2020,255 2031,204"/>
+      <TextLine id="eSc_line_0285d687" >
+        <Coords points="2079,239 2052,204 2050,204 2026,225 2026,244 2026,325 2090,314 2090,244 2087,207 2079,239"/>
+        <Baseline points="2026,244 2090,244"/>
+        <TextEquiv>
+          <Unicode>83</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cbb0b7ef"  >
+      <Coords points="2017,2474 2017,2536 1964,2571 1953,2827 667,2816 753,2894 869,2915 879,2967 430,2977 376,2956 384,2880 204,2859 473,2819 193,2784 193,2421 1974,2453 2017,2474"/>
+      <TextLine id="eSc_line_55a2ab71" >
+        <Coords points="2004,2469 1996,2464 1011,2437 1008,2437 1006,2434 922,2434 901,2434 874,2434 847,2434 820,2431 793,2431 766,2431 739,2431 713,2431 686,2431 659,2429 632,2429 605,2429 578,2429 551,2429 524,2429 497,2426 470,2426 443,2426 417,2426 390,2426 363,2426 336,2423 309,2423 282,2423 255,2423 228,2423 201,2423 201,2458 199,2482 2004,2536 2009,2509 2007,2469 2004,2469"/>
+        <Baseline points="201,2458 2009,2509"/>
+        <TextEquiv>
+          <Unicode>The identity of the Lord who appears as risen with the crucified Christ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d87bb05" >
+        <Coords points="193,2558 191,2568 1921,2630 1926,2609 1923,2566 204,2517 193,2558"/>
+        <Baseline points="193,2558 1926,2609"/>
+        <TextEquiv>
+          <Unicode>Nowhere is the actual process of the raising of Jesus described in a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_99d1fd0e" >
+        <Coords points="193,2660 191,2679 1939,2727 1945,2714 1942,2652 1775,2660 1754,2646 1751,2646 1748,2646 1746,2646 1740,2646 1684,2657 1490,2641 1420,2636 1417,2636 1245,2636 987,2636 949,2630 898,2620 207,2614 193,2660"/>
+        <Baseline points="193,2660 1945,2714"/>
+        <TextEquiv>
+          <Unicode>historicizing or mythological way. It is covered by a term (&quot;raising</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e23d3db" >
+        <Coords points="191,2762 191,2784 363,2784 376,2789 408,2802 411,2802 414,2802 417,2802 454,2792 470,2786 478,2792 497,2805 500,2805 503,2805 505,2805 508,2805 551,2794 575,2789 610,2797 664,2808 667,2808 791,2802 912,2797 984,2808 1046,2819 1049,2819 1081,2813 1127,2802 1189,2816 1232,2824 1235,2824 1353,2821 1455,2819 1504,2827 1544,2832 1547,2832 1571,2829 1633,2816 1692,2832 1703,2835 1705,2835 1708,2835 1735,2835 1869,2824 1958,2840 1964,2808 1964,2757 1049,2741 1025,2727 1014,2722 1011,2722 1008,2722 960,2724 861,2733 815,2722 799,2716 796,2716 793,2716 766,2719 704,2727 438,2708 371,2706 368,2706 357,2706 306,2719 298,2708 295,2708 295,2706 293,2706 290,2706 191,2703 191,2762"/>
+        <Baseline points="191,2762 1964,2808"/>
+        <TextEquiv>
+          <Unicode>from the dead&quot;) for which there is no basis in experience hitherto and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8f962f9" >
+        <Coords points="869,2961 842,2961 815,2961 788,2961 777,2934 742,2934 721,2921 710,2913 707,2913 704,2913 702,2913 699,2913 696,2913 691,2918 678,2926 661,2915 640,2899 637,2899 634,2899 632,2899 583,2907 554,2913 543,2905 530,2894 527,2894 524,2894 521,2894 489,2899 454,2905 387,2891 387,2948 384,2969 452,2996 454,2996 546,2999 548,2999 551,2999 594,2977 600,2977 688,2993 691,2993 694,2993 723,2983 729,2980 734,2983 772,3002 774,3002 777,3002 869,2985 871,2967 869,2961 869,2961"/>
+        <Baseline points="387,2948 871,2967"/>
+        <TextEquiv>
+          <Unicode>27Mοltmann, p. 196.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

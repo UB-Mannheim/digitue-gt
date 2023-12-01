@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00022.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.635873+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.635885+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00022.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_8b971a0a"  >
+      <Coords points="1996,449 1964,470 1307,473 1985,494 1490,538 2007,602 1996,804 1899,922 1802,946 1996,1011 1985,1718 1910,2291 1985,2515 1867,2539 1931,2560 1867,2614 1931,2657 1931,2719 150,2687 182,2625 352,2614 365,2536 258,2493 279,1054 398,946 193,922 193,677 352,645 452,556 204,513 226,269 1985,312 1964,384 1996,387 1996,449"/>
+      <TextLine id="eSc_line_dbb9f1c4" >
+        <Coords points="1934,309 1907,309 1880,309 1853,306 1826,306 1800,306 1773,306 1746,303 1719,303 1692,303 1665,303 1638,303 1611,301 1584,301 1557,301 1530,301 1504,298 1477,298 1450,298 1423,298 1396,298 1369,295 1342,295 1315,295 1288,295 1261,293 1235,293 1208,293 1181,293 1154,290 1127,290 1100,290 1073,290 1046,290 1019,287 992,287 965,287 939,287 912,285 885,285 858,285 831,285 804,282 777,282 750,282 723,282 696,282 669,279 643,279 616,279 589,279 562,277 535,277 508,277 481,277 454,274 427,274 400,274 373,274 347,274 320,271 293,271 266,271 239,271 236,260 212,260 212,306 209,320 1956,368 1961,344 1958,309 1934,309"/>
+        <Baseline points="212,306 1961,344"/>
+        <TextEquiv>
+          <Unicode>He no longer has a clear and certain criterion for distinguishing the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e500b6f8" >
+        <Coords points="209,381 209,408 207,422 1977,462 1982,446 1982,400 217,357 209,381"/>
+        <Baseline points="209,408 1982,446"/>
+        <TextEquiv>
+          <Unicode>good from the bad. What he is being offered is a compass gone berserk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e6928886" >
+        <Coords points="209,508 207,519 1011,540 1017,529 1017,481 209,457 209,508"/>
+        <Baseline points="209,508 1017,529"/>
+        <TextEquiv>
+          <Unicode>and lights misplaced in the fog.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22d3723f" >
+        <Coords points="1993,599 1966,597 1942,594 1883,602 1837,586 1835,586 1832,586 1829,586 1778,599 1727,583 1724,583 1722,583 1719,583 1711,583 1630,597 1595,583 1590,581 1587,581 1584,581 1555,581 1401,591 1286,578 1237,572 1235,572 1159,575 1019,583 901,572 839,567 836,567 815,572 782,578 761,570 737,562 734,562 731,562 433,564 433,570 411,586 406,613 403,626 1993,659 1999,648 1993,599 1993,599"/>
+        <Baseline points="406,613 1999,648"/>
+        <TextEquiv>
+          <Unicode>When values have been reversed the person can no longer put any</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04529a6d" >
+        <Coords points="228,669 201,675 201,710 199,723 1993,769 1999,745 1999,702 236,667 228,669"/>
+        <Baseline points="201,710 1999,745"/>
+        <TextEquiv>
+          <Unicode>credence in values. There is no fixed landmark for knowing where he is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6360385b" >
+        <Coords points="199,807 196,825 1918,871 1923,847 1923,804 1856,788 1853,788 1724,798 1705,798 1700,798 1652,782 1649,782 1646,782 1643,782 1641,782 1625,796 1622,796 1619,796 1522,780 1520,780 1431,790 1428,790 1393,777 1391,777 1388,777 1385,777 1353,790 1350,790 1348,790 1326,774 1323,774 1321,774 1318,774 960,780 925,780 922,780 890,763 887,763 885,763 793,777 782,777 766,777 659,758 656,758 653,758 608,772 605,772 602,772 524,755 521,755 519,755 487,769 476,769 274,750 271,750 199,761 199,807"/>
+        <Baseline points="199,807 1923,847"/>
+        <TextEquiv>
+          <Unicode>and so he can no longer entertain a hope. In a telling statement he</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2afa334" >
+        <Coords points="196,909 193,930 1334,952 1415,968 1417,968 1635,957 1638,944 1638,901 861,868 858,868 696,868 309,868 196,852 196,909"/>
+        <Baseline points="196,909 1638,944"/>
+        <TextEquiv>
+          <Unicode>shows how the feeling of futility grips youth and adults:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ad1bcd4f" >
+        <Coords points="1985,1008 1969,1000 398,957 398,1016 395,1035 1985,1065 1991,1051 1988,1003 1985,1008"/>
+        <Baseline points="398,1016 1991,1051"/>
+        <TextEquiv>
+          <Unicode>The only difference between the adults without a future and the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2f8291a" >
+        <Coords points="1931,1051 1904,1051 1878,1051 1864,1049 1773,1049 1770,1049 1767,1046 306,1024 290,1038 290,1062 287,1076 1934,1113 1939,1102 1939,1051 1931,1051"/>
+        <Baseline points="290,1062 1939,1102"/>
+        <TextEquiv>
+          <Unicode>young people without a project is that the former are at pains to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5d9ece29" >
+        <Coords points="1853,1102 1826,1100 1800,1100 1773,1100 1746,1100 1722,1097 1703,1097 1692,1097 1665,1097 1638,1097 1611,1097 1590,1094 1547,1094 1530,1094 1504,1094 1493,1092 293,1073 293,1116 290,1127 1859,1164 1864,1151 1861,1102 1853,1102"/>
+        <Baseline points="293,1116 1864,1151"/>
+        <TextEquiv>
+          <Unicode>conceal from themselves what they are living, while the latter</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_32f546b9" >
+        <Coords points="290,1167 287,1175 1886,1215 1891,1199 1888,1159 290,1127 290,1167"/>
+        <Baseline points="290,1167 1891,1199"/>
+        <TextEquiv>
+          <Unicode>display it brazenly and make it a rule of life. When the young</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bdf6490c" >
+        <Coords points="1824,1199 1797,1199 1770,1199 1751,1197 1703,1197 1689,1197 1662,1197 1635,1197 1617,1194 1563,1194 1555,1194 1528,1194 1501,1194 1485,1191 1420,1191 1420,1191 1393,1191 1366,1191 1353,1188 1280,1188 1259,1188 1232,1188 1218,1186 1138,1186 1124,1186 1097,1186 1087,1183 995,1183 990,1183 963,1183 952,1180 855,1180 855,1180 828,1180 820,1178 713,1178 694,1178 688,1175 573,1175 559,1175 554,1172 430,1172 425,1172 422,1170 290,1170 290,1215 287,1232 1982,1264 1988,1253 1988,1202 1845,1199 1824,1199"/>
+        <Baseline points="290,1215 1988,1253"/>
+        <TextEquiv>
+          <Unicode>forcefully affirm the irrational, the more so when they live it and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1009bfe6" >
+        <Coords points="287,1266 285,1277 1805,1318 1810,1299 1808,1258 287,1226 287,1266"/>
+        <Baseline points="287,1266 1810,1299"/>
+        <TextEquiv>
+          <Unicode>operate in the communal manner, when they reject morality as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e909884" >
+        <Coords points="799,1280 793,1277 704,1277 691,1277 686,1275 600,1275 583,1275 556,1275 540,1272 495,1272 476,1272 449,1272 422,1272 395,1269 390,1269 368,1269 341,1269 314,1269 287,1269 287,1320 285,1331 1956,1366 1961,1353 1958,1310 809,1280 799,1280"/>
+        <Baseline points="287,1320 1961,1353"/>
+        <TextEquiv>
+          <Unicode>something without foundation and dead, a source of hypocrisy, when</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d3177115" >
+        <Coords points="290,1369 287,1379 1896,1423 1902,1404 1899,1363 290,1328 290,1369"/>
+        <Baseline points="290,1369 1902,1404"/>
+        <TextEquiv>
+          <Unicode>they reject reason as stiff, cold, inept, and in fact senseless,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb2dd20f" >
+        <Coords points="282,1423 279,1436 1974,1476 1980,1455 1977,1412 282,1379 282,1423"/>
+        <Baseline points="282,1423 1980,1455"/>
+        <TextEquiv>
+          <Unicode>when they take the plunge into the wellsprings of life and claim to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_00f902e5" >
+        <Coords points="1035,1439 1008,1439 992,1436 949,1436 928,1436 901,1436 874,1436 847,1433 820,1433 793,1433 766,1433 739,1433 713,1433 686,1431 659,1431 632,1431 605,1431 578,1431 551,1428 524,1428 497,1428 470,1428 443,1428 417,1425 390,1425 363,1425 336,1425 309,1425 282,1425 282,1471 279,1479 1902,1514 1907,1506 1904,1463 1043,1439 1035,1439"/>
+        <Baseline points="282,1471 1907,1506"/>
+        <TextEquiv>
+          <Unicode>open up the secrets of a marvelous new world, then what they are</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d3009c9d" >
+        <Coords points="1307,1495 1304,1492 1208,1492 1200,1492 1173,1492 1159,1490 1105,1490 1092,1490 1065,1490 1038,1490 1014,1487 1000,1487 984,1487 957,1487 930,1487 904,1484 898,1484 877,1484 850,1484 823,1484 796,1484 769,1482 742,1482 715,1482 688,1482 661,1482 634,1479 608,1479 581,1479 554,1479 527,1476 500,1476 473,1476 446,1476 419,1476 392,1474 365,1474 339,1474 312,1474 285,1474 285,1519 282,1533 1923,1565 1929,1554 1926,1511 1310,1495 1307,1495"/>
+        <Baseline points="285,1519 1929,1554"/>
+        <TextEquiv>
+          <Unicode>really doing is unmasking the actual situation of every person in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_463a4305" >
+        <Coords points="1923,1554 1896,1554 1869,1554 1843,1554 1816,1554 1789,1552 1762,1552 1735,1552 1708,1552 1681,1552 1654,1549 1627,1549 1600,1549 1574,1549 1549,1546 1533,1546 1520,1546 1493,1546 1466,1546 1439,1546 1415,1544 1396,1544 1385,1544 1358,1544 1331,1544 1304,1544 1280,1541 1256,1541 1251,1541 1224,1541 1197,1541 1170,1541 1148,1538 1116,1538 1116,1538 1089,1538 1062,1538 1049,1535 976,1535 955,1535 928,1535 914,1533 839,1533 820,1533 793,1533 780,1530 699,1530 686,1530 680,1527 559,1527 551,1527 548,1525 419,1525 417,1525 414,1522 282,1522 282,1573 279,1584 1948,1614 1953,1603 1953,1554 1923,1552 1923,1554"/>
+        <Baseline points="282,1573 1953,1603"/>
+        <TextEquiv>
+          <Unicode>this society. They are revealing this irrational which I tried to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7897de50" >
+        <Coords points="791,1584 764,1584 750,1581 691,1581 683,1581 656,1581 629,1581 602,1581 575,1579 548,1579 521,1579 495,1579 468,1579 441,1579 414,1576 387,1576 360,1576 333,1576 306,1576 279,1573 279,1622 277,1632 1824,1667 1829,1651 1826,1611 898,1587 793,1584 791,1584"/>
+        <Baseline points="279,1622 1829,1651"/>
+        <TextEquiv>
+          <Unicode>emphasize above: the contradiction between that which exists</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5bb3ada3" >
+        <Coords points="279,1673 277,1689 1961,1724 1966,1708 1966,1665 279,1630 279,1673"/>
+        <Baseline points="279,1673 1966,1708"/>
+        <TextEquiv>
+          <Unicode>objectively and the way man lives it, experiences it, and feels it,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1c663e9" >
+        <Coords points="279,1721 277,1735 1902,1767 1907,1756 1904,1716 279,1678 279,1721"/>
+        <Baseline points="279,1721 1907,1756"/>
+        <TextEquiv>
+          <Unicode>this man who, the more he is satiated the more he complains of a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_76d411bb" >
+        <Coords points="788,1735 782,1732 694,1732 680,1732 675,1729 589,1729 573,1729 546,1729 530,1726 484,1726 465,1726 438,1726 411,1726 384,1724 379,1724 357,1724 330,1724 304,1724 277,1721 277,1775 274,1786 1738,1813 1743,1802 1740,1759 799,1735 788,1735"/>
+        <Baseline points="277,1775 1743,1802"/>
+        <TextEquiv>
+          <Unicode>lack, the more he is reassured the more he is afraid, etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_76ecffb5" >
+        <Coords points="379,1823 376,1834 1945,1872 1950,1858 1950,1815 379,1780 379,1823"/>
+        <Baseline points="379,1823 1950,1858"/>
+        <TextEquiv>
+          <Unicode>These are basically irrational behavior patterns. In order to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_86c4e112" >
+        <Coords points="1859,1858 1832,1858 1821,1856 1743,1856 1724,1856 1716,1853 1619,1853 1617,1853 1590,1853 1579,1850 1498,1850 1482,1850 1477,1848 1374,1848 1374,1848 1348,1848 1339,1845 1251,1845 1240,1845 1235,1842 1130,1842 1105,1842 1097,1839 1006,1839 998,1839 992,1837 885,1837 863,1837 855,1834 761,1834 756,1834 753,1831 637,1831 621,1831 616,1829 516,1829 513,1829 511,1826 392,1826 379,1826 376,1823 271,1823 271,1872 269,1883 1864,1915 1869,1904 1867,1858 1859,1858"/>
+        <Baseline points="271,1872 1869,1904"/>
+        <TextEquiv>
+          <Unicode>ward off his insecurity, this man dives with his head down into</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ab9dc36f" >
+        <Coords points="274,1926 271,1936 1939,1969 1945,1955 1942,1912 274,1880 274,1926"/>
+        <Baseline points="274,1926 1945,1955"/>
+        <TextEquiv>
+          <Unicode>every religion and belief. He accepts every myth. But he doesn&#x27;t</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e727df42" >
+        <Coords points="1913,1955 1886,1955 1859,1955 1832,1955 1805,1955 1781,1952 1748,1952 1724,1952 1697,1952 1670,1952 1643,1952 1622,1950 1584,1950 1563,1950 1536,1950 1509,1950 1493,1947 1420,1947 1401,1947 1374,1947 1348,1947 1331,1944 1256,1944 1240,1944 1213,1944 1186,1944 1170,1942 1092,1942 1078,1942 1052,1942 1041,1939 928,1939 917,1939 890,1939 882,1936 764,1936 756,1936 753,1934 600,1934 594,1934 591,1931 435,1931 433,1931 430,1928 271,1928 271,1971 269,1982 1913,2022 1918,2009 1915,1955 1913,1955"/>
+        <Baseline points="271,1971 1918,2009"/>
+        <TextEquiv>
+          <Unicode>want it said openly. He wants to maintain his dignity as a fully</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63492299" >
+        <Coords points="271,2022 269,2030 1861,2065 1867,2057 1864,2017 271,1977 271,2022"/>
+        <Baseline points="271,2022 1867,2057"/>
+        <TextEquiv>
+          <Unicode>evolved man of the twentieth century. If he goes to a fortune-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_18ad5e24" >
+        <Coords points="1926,2063 271,2028 271,2076 269,2087 1926,2125 1931,2108 1929,2068 1926,2063"/>
+        <Baseline points="271,2076 1931,2108"/>
+        <TextEquiv>
+          <Unicode>teller and anxiously studies a horoscope, he will do it in secret.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8fd44f0" >
+        <Coords points="992,2092 965,2092 955,2090 890,2090 885,2090 858,2090 831,2090 809,2087 788,2087 777,2087 750,2087 723,2087 696,2087 669,2084 643,2084 616,2084 589,2084 562,2084 535,2082 508,2082 481,2082 454,2082 427,2082 400,2079 373,2079 373,2127 371,2135 1926,2181 1931,2162 1929,2117 995,2092 992,2092"/>
+        <Baseline points="373,2127 1931,2162"/>
+        <TextEquiv>
+          <Unicode>This irrational has not been laid bare by youth intentionally,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69c62396" >
+        <Coords points="1345,2152 1342,2149 1259,2149 1237,2149 1226,2146 1170,2146 1156,2146 1130,2146 1103,2146 1076,2143 1049,2143 1022,2143 995,2143 968,2141 941,2141 914,2141 887,2141 861,2141 834,2138 807,2138 780,2138 753,2138 726,2135 699,2135 672,2135 645,2135 618,2135 591,2133 565,2133 538,2133 511,2133 484,2130 457,2130 430,2130 403,2130 376,2130 371,2122 269,2119 269,2170 266,2189 1886,2224 1891,2208 1891,2168 1350,2152 1345,2152"/>
+        <Baseline points="269,2170 1891,2208"/>
+        <TextEquiv>
+          <Unicode>but their own irrational attitude is itself a laying bare of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2888ef02" >
+        <Coords points="645,2181 618,2181 605,2178 554,2178 538,2178 511,2178 492,2176 457,2176 457,2176 430,2176 403,2176 379,2173 363,2173 349,2173 322,2173 295,2173 269,2173 269,2224 266,2235 1886,2270 1891,2259 1888,2216 648,2181 645,2181"/>
+        <Baseline points="269,2224 1891,2259"/>
+        <TextEquiv>
+          <Unicode>inner conflict. They are, in point of fact, the children of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_685fdefc" >
+        <Coords points="269,2275 266,2289 1859,2316 1864,2308 1861,2262 269,2232 269,2275"/>
+        <Baseline points="269,2275 1864,2308"/>
+        <TextEquiv>
+          <Unicode>adults which we are. They have revealed to us the cause of our</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b90031b" >
+        <Coords points="565,2283 538,2283 524,2281 468,2281 457,2281 430,2281 403,2281 376,2278 368,2278 349,2278 322,2278 295,2278 269,2278 269,2326 266,2345 1872,2380 1878,2361 1878,2318 570,2283 565,2283"/>
+        <Baseline points="269,2326 1878,2361"/>
+        <TextEquiv>
+          <Unicode>inmost condition. Bearers of the future because they are young,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4718343e" >
+        <Coords points="1934,2377 1929,2367 266,2334 266,2377 263,2386 1934,2429 1939,2412 1939,2394 1934,2377"/>
+        <Baseline points="266,2377 1939,2412"/>
+        <TextEquiv>
+          <Unicode>they announce that they are without a future because their fathers</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65b80568" >
+        <Coords points="1313,2402 1310,2399 1200,2399 1178,2399 1170,2396 1084,2396 1070,2396 1043,2396 1030,2394 965,2394 963,2394 936,2394 909,2394 890,2391 847,2391 828,2391 801,2391 785,2388 731,2388 721,2388 694,2388 667,2388 645,2386 613,2386 613,2386 586,2386 559,2386 532,2386 505,2383 497,2383 478,2383 452,2383 425,2383 398,2383 371,2380 344,2380 317,2380 290,2380 263,2377 263,2429 260,2442 1902,2480 1907,2464 1904,2415 1318,2402 1313,2402"/>
+        <Baseline points="263,2429 1907,2464"/>
+        <TextEquiv>
+          <Unicode>have lived without a future. The young, for their part, glory in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a104a5f2" >
+        <Coords points="1961,2455 1907,2455 1904,2464 1878,2464 1851,2464 1824,2464 1797,2464 1770,2461 1743,2461 1716,2461 1689,2461 1662,2461 1635,2458 1608,2458 1582,2458 1555,2458 1528,2458 1501,2455 1474,2455 1447,2455 1420,2455 1393,2453 1366,2453 1339,2453 1313,2453 1286,2453 1259,2450 1232,2450 1205,2450 1178,2450 1151,2450 1124,2447 1097,2447 1070,2447 1043,2447 1017,2445 990,2445 963,2445 936,2445 909,2445 890,2442 831,2442 828,2442 801,2442 774,2442 764,2439 263,2434 263,2480 260,2490 1972,2523 1977,2501 1974,2482 1961,2455"/>
+        <Baseline points="263,2480 1810,2512 1977,2501"/>
+        <TextEquiv>
+          <Unicode>it. They cancel continuity and immerse themselves in the present.¹⁷</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50bb164b" >
+        <Coords points="355,2555 355,2582 352,2595 1826,2620 1832,2609 1832,2560 365,2528 355,2555"/>
+        <Baseline points="355,2582 1832,2609"/>
+        <TextEquiv>
+          <Unicode>Our brief look at man in search for identity does not make</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44758616" >
+        <Coords points="1926,2692 1913,2665 1657,2663 1638,2646 1635,2646 1633,2646 1630,2646 1627,2646 1576,2660 1571,2660 1286,2644 1283,2644 1280,2644 1256,2655 1154,2638 1151,2638 909,2649 893,2649 890,2649 836,2633 834,2633 831,2633 605,2644 597,2644 589,2644 414,2625 411,2625 172,2636 150,2665 150,2679 147,2703 220,2724 223,2724 226,2724 228,2724 274,2706 285,2703 290,2706 312,2724 314,2724 317,2724 320,2724 408,2708 435,2706 452,2711 511,2730 513,2730 516,2730 672,2716 723,2711 737,2716 777,2735 780,2735 782,2735 855,2719 879,2714 890,2719 925,2738 928,2738 930,2738 1060,2724 1105,2719 1127,2724 1183,2743 1186,2743 1189,2743 1364,2733 1439,2746 1442,2746 1536,2733 1590,2727 1622,2735 1676,2751 1678,2751 1681,2751 1746,2738 1765,2735 1923,2741 1929,2711 1926,2690 1926,2692"/>
+        <Baseline points="150,2679 1929,2711"/>
+        <TextEquiv>
+          <Unicode>pleasant reading. Nevertheless, we need a picture of the emptiness of</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5cc45f6d"  >
+      <Coords points="1966,204 2039,204 2039,244 1966,255 1966,204"/>
+      <TextLine id="eSc_line_fe7aacfb" >
+        <Coords points="2017,239 1988,204 1966,247 1966,271 2034,269 2034,242 2031,239 2017,239"/>
+        <Baseline points="1966,247 2034,242"/>
+        <TextEquiv>
+          <Unicode>15</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_874ba32d"  >
+      <Coords points="836,2913 398,2913 355,2902 355,2840 782,2851 836,2913"/>
+      <TextLine id="eSc_line_625dd646" >
+        <Coords points="812,2889 785,2859 777,2854 756,2848 753,2848 750,2848 373,2848 355,2891 352,2910 454,2934 457,2934 460,2934 462,2934 478,2918 543,2937 546,2937 548,2937 551,2937 554,2937 573,2921 600,2942 602,2942 605,2942 672,2945 675,2945 831,2929 834,2907 828,2902 812,2889"/>
+        <Baseline points="355,2891 834,2907"/>
+        <TextEquiv>
+          <Unicode>¹⁷Ellul, pp. 14-15.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

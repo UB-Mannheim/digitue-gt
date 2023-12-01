@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00108.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.340031+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.340043+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00108.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_75cc8576"  >
+      <Coords points="2039,901 2017,987 1942,1043 1931,1288 1802,1385 226,1374 247,290 1888,301 1996,387 2071,527 2007,634 2050,763 2039,901"/>
+      <TextLine id="eSc_line_94985509" >
+        <Coords points="1888,301 793,293 782,293 756,293 729,293 702,293 675,293 661,290 519,290 513,290 487,290 460,290 433,290 406,290 379,290 352,290 325,290 298,290 271,290 258,287 244,287 244,336 242,347 1888,371 1894,360 1891,303 1888,301"/>
+        <Baseline points="244,336 1894,360"/>
+        <TextEquiv>
+          <Unicode>that moves forward and outward. It does not ride the line of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fee66af0" >
+        <Coords points="239,392 239,438 236,457 1988,470 1993,462 1993,411 737,384 734,384 702,384 481,392 438,379 435,379 433,379 430,379 419,379 301,390 247,376 239,392"/>
+        <Baseline points="239,438 1993,462"/>
+        <TextEquiv>
+          <Unicode>generations from father to son but spreads outward to all men. It is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0ec9182" >
+        <Coords points="234,548 2015,575 2020,559 2017,513 796,484 793,484 758,486 659,494 640,484 637,481 634,481 632,481 417,478 414,478 400,478 277,489 239,476 236,535 234,548"/>
+        <Baseline points="236,535 2020,559"/>
+        <TextEquiv>
+          <Unicode>not through birth, but through rebirth, that faith is propagated. The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2756707" >
+        <Coords points="236,634 234,648 1956,672 1961,659 1961,616 1574,597 1571,597 1477,605 1417,607 1396,602 1372,594 1369,594 1366,594 1200,597 1006,602 979,594 968,589 965,589 963,589 874,591 664,597 600,583 586,583 583,583 565,583 452,594 430,581 427,581 425,581 422,581 417,581 349,591 236,578 236,634"/>
+        <Baseline points="236,634 1961,659"/>
+        <TextEquiv>
+          <Unicode>Christian mission has no cause to enter into an alliance with roman-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae380754" >
+        <Coords points="2028,712 236,696 236,742 234,755 2031,777 2036,766 2036,737 2028,712"/>
+        <Baseline points="236,742 2036,766"/>
+        <TextEquiv>
+          <Unicode>ticist nihilism against the revolutionary progressiveness of the modern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41a7bd9b" >
+        <Coords points="234,841 231,852 2028,882 2034,863 2031,812 1711,798 1708,798 1705,798 1703,798 1692,807 1684,812 1652,807 1576,796 1574,796 1490,807 1455,809 1423,804 1361,796 1358,796 1078,801 965,804 944,801 887,790 885,790 750,798 707,801 702,798 688,785 686,785 683,785 680,785 234,793 234,841"/>
+        <Baseline points="234,841 2034,863"/>
+        <TextEquiv>
+          <Unicode>age and to present its own tradition as a haven of tradicionalism for a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a579377c" >
+        <Coords points="231,938 228,952 2001,976 2007,965 2007,925 1643,903 1641,903 941,906 890,893 887,893 885,893 417,898 403,887 403,885 400,885 398,885 395,885 231,895 231,938"/>
+        <Baseline points="231,938 2007,965"/>
+        <TextEquiv>
+          <Unicode>contemporary world now grown uncertain and weary of hoping. We cannot</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8fd2dee2" >
+        <Coords points="231,1043 228,1054 1923,1076 1929,1065 1929,1022 1670,1003 1668,1003 1539,1014 1509,1014 1506,1011 1487,1000 1485,1000 1482,1000 1479,1000 1356,1008 1313,1011 1304,1008 1291,997 1288,997 1286,997 1283,997 1173,1006 1108,1008 231,987 231,1043"/>
+        <Baseline points="231,1043 1929,1065"/>
+        <TextEquiv>
+          <Unicode>turn our backs on the open horizons of modern history and return to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70a9dffc" >
+        <Coords points="228,1143 226,1156 1851,1178 1856,1167 1853,1116 887,1094 885,1094 793,1105 774,1105 772,1105 747,1092 745,1092 742,1092 610,1102 594,1102 586,1102 521,1089 519,1089 414,1100 411,1100 403,1089 400,1089 400,1086 398,1086 395,1086 392,1086 228,1097 228,1143"/>
+        <Baseline points="228,1143 1856,1167"/>
+        <TextEquiv>
+          <Unicode>perpetual orders and everlasting traditions. We must take these</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b145da8" >
+        <Coords points="228,1223 228,1245 226,1261 1921,1285 1926,1266 1926,1221 236,1199 228,1223"/>
+        <Baseline points="228,1245 1926,1266"/>
+        <TextEquiv>
+          <Unicode>horizons up into the eschatological horlzon of the resurrection and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c04c4c10" >
+        <Coords points="1813,1366 1800,1318 228,1291 228,1345 226,1363 1813,1388 1818,1369 1816,1363 1813,1366"/>
+        <Baseline points="228,1345 1818,1369"/>
+        <TextEquiv>
+          <Unicode>thereby disclose to modern history its true historic character.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_16ba5fb5"  >
+      <Coords points="226,1535 226,1441 535,1452 578,1503 535,1535 226,1535"/>
+      <TextLine id="eSc_line_d98d1812" >
+        <Coords points="546,1468 521,1449 223,1444 223,1492 220,1517 559,1533 565,1501 554,1476 546,1468"/>
+        <Baseline points="223,1492 565,1501"/>
+        <TextEquiv>
+          <Unicode>Exodus Church</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2c51cba2"  >
+      <Coords points="1945,2708 1910,2784 215,2784 204,1667 236,1592 2017,1624 2028,1891 1964,2033 2039,2205 2017,2687 1945,2708"/>
+      <TextLine id="eSc_line_a992e090" >
+        <Coords points="1993,1622 1966,1622 1939,1622 1913,1622 1907,1622 1880,1624 1802,1619 1778,1619 1751,1619 1724,1619 1697,1616 1670,1616 1643,1616 1617,1616 1590,1616 1563,1614 1549,1619 1479,1614 1455,1614 1428,1614 1401,1611 1374,1611 1356,1611 1331,1616 1323,1611 1321,1611 1294,1611 1267,1608 1240,1608 1200,1614 1175,1608 1159,1608 1132,1608 1105,1605 1078,1605 1052,1605 1025,1605 998,1605 971,1603 957,1603 955,1605 944,1611 922,1605 912,1603 890,1603 863,1603 836,1603 828,1600 804,1605 772,1608 659,1603 460,1595 460,1595 433,1595 406,1595 379,1592 352,1592 325,1592 298,1592 271,1592 244,1592 242,1592 217,1630 217,1643 215,1667 236,1681 239,1681 242,1681 1151,1694 1154,1697 1304,1697 1304,1694 1307,1694 1310,1694 1326,1681 2017,1686 2023,1670 2017,1611 1993,1611 1993,1622"/>
+        <Baseline points="217,1643 2023,1670"/>
+        <TextEquiv>
+          <Unicode>wodern soctety and the cult of the absolute., be nou ralse che question</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eccb774c" >
+        <Coords points="217,1743 215,1753 1948,1780 1953,1770 1950,1726 217,1689 217,1743"/>
+        <Baseline points="217,1743 1953,1770"/>
+        <TextEquiv>
+          <Unicode>of che concrete forn assumed by a 11ve eschatological hope in modern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4afb8c4f" >
+        <Coords points="217,1848 215,1866 2012,1880 2017,1872 2017,1826 217,1802 217,1848"/>
+        <Baseline points="217,1848 2017,1872"/>
+        <TextEquiv>
+          <Unicode>soclety. Here the title &#x27;&#x27;Exodus Church“ is meant to focus attention on</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e839636a" >
+        <Coords points="217,1944 215,1958 1961,1985 1966,1966 1958,1907 1904,1920 1883,1907 1880,1907 1878,1907 1875,1907 1670,1917 1649,1904 1646,1904 1643,1904 1641,1904 1557,1917 1533,1901 1530,1901 1528,1901 1525,1901 1517,1901 1108,1912 1087,1896 1084,1896 1081,1896 1078,1896 1076,1896 1073,1896 1052,1912 877,1912 785,1893 782,1893 780,1893 756,1907 739,1893 737,1893 734,1893 731,1893 729,1893 669,1907 586,1891 583,1891 581,1891 530,1904 360,1891 357,1891 298,1901 217,1885 217,1944"/>
+        <Baseline points="217,1944 1966,1966"/>
+        <TextEquiv>
+          <Unicode>che reality of christlanity as chat of che &#x27;pilgrin people of Cca&#x27; as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_14299858" >
+        <Coords points="215,2047 212,2055 1867,2076 1872,2068 1869,2025 1603,2022 1598,2017 1574,2006 1571,2006 1568,2006 1565,2006 1563,2006 1552,2017 1547,2020 1329,2020 1315,2012 1296,2004 1294,2004 1291,2004 1208,2009 1121,2014 1081,2006 1043,1998 1041,1998 992,2004 925,2012 831,2001 788,1995 785,1995 715,1998 503,2006 215,1987 215,2047"/>
+        <Baseline points="215,2047 1872,2068"/>
+        <TextEquiv>
+          <Unicode>described in che Episcle co che Hebrees: ⁴Let us go forch co him</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3508b084" >
+        <Coords points="212,2149 209,2170 1485,2178 1961,2200 1966,2178 1966,2130 212,2100 212,2149"/>
+        <Baseline points="212,2149 1966,2178"/>
+        <TextEquiv>
+          <Unicode>outside the camp, bearing abuse for hin. For here we have no 1ast ing</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_137abda3" >
+        <Coords points="212,2251 209,2262 2028,2283 2034,2275 2034,2230 1948,2213 1945,2213 1886,2224 1875,2227 1867,2224 1826,2211 1824,2211 1821,2211 1687,2221 1630,2224 1560,2219 1458,2208 1455,2208 1452,2208 1439,2216 1428,2221 1415,2213 1401,2205 1399,2205 1396,2205 1393,2205 1237,2211 1084,2216 1011,2205 968,2200 965,2200 922,2203 823,2213 659,2197 616,2195 613,2195 578,2197 417,2208 212,2189 212,2251"/>
+        <Baseline points="212,2251 2034,2275"/>
+        <TextEquiv>
+          <Unicode>city. but we scek the city ehich is to come.“33 uhat does this nean kor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e980816c" >
+        <Coords points="212,2351 209,2372 1982,2383 1988,2372 1985,2318 212,2305 212,2351"/>
+        <Baseline points="212,2351 1988,2372"/>
+        <TextEquiv>
+          <Unicode>the social shape of Christianity in modern soctety and for the task 1t</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a08e36b" >
+        <Coords points="209,2450 207,2461 1958,2485 1964,2474 1961,2426 1633,2426 1606,2418 1574,2410 1571,2410 1568,2410 1501,2415 1439,2421 1409,2412 1382,2407 1380,2407 1377,2407 1296,2412 1186,2418 1132,2407 1108,2404 1105,2404 1087,2407 1049,2415 1006,2404 990,2402 987,2402 984,2402 933,2404 799,2412 632,2399 600,2396 597,2396 573,2396 411,2407 209,2391 209,2450"/>
+        <Baseline points="209,2450 1964,2474"/>
+        <TextEquiv>
+          <Unicode>has there to fulfill in the field of social ethics? When we speak of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_67772383" >
+        <Coords points="217,2547 215,2558 2026,2595 2031,2577 2031,2533 217,2493 217,2547"/>
+        <Baseline points="217,2547 2031,2577"/>
+        <TextEquiv>
+          <Unicode>&quot;church&quot; and &quot;Christianity&quot; we mean the whole body of believers in every</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ee6716a1" >
+        <Coords points="207,2652 204,2663 2004,2687 2009,2673 2007,2630 207,2601 207,2652"/>
+        <Baseline points="207,2652 2009,2673"/>
+        <TextEquiv>
+          <Unicode>aspect of their lives. Christianity must continually present itself in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8d822f55" >
+        <Coords points="207,2751 207,2781 387,2770 411,2784 419,2786 422,2786 425,2786 449,2784 513,2773 600,2784 643,2789 645,2789 686,2784 756,2776 804,2786 839,2792 842,2792 844,2792 863,2786 879,2781 1019,2786 1339,2800 1342,2800 1455,2789 1482,2786 1514,2789 1646,2802 1649,2802 1904,2789 1907,2776 1904,2730 1264,2708 1261,2708 1210,2714 1154,2719 1124,2711 1103,2706 1100,2706 1097,2706 1043,2708 963,2716 909,2706 885,2703 882,2703 852,2706 777,2714 729,2703 718,2700 715,2700 713,2700 656,2700 419,2708 400,2695 398,2695 395,2695 392,2695 382,2695 285,2706 207,2692 207,2751"/>
+        <Baseline points="207,2751 1907,2776"/>
+        <TextEquiv>
+          <Unicode>the weekday obedience and the worldly callings of Christians and in</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_695704c1"  >
+      <Coords points="2071,255 1977,277 1977,215 2061,215 2071,255"/>
+      <TextLine id="eSc_line_9c229e96" >
+        <Coords points="2047,252 2017,215 1991,215 1988,207 1966,217 1969,260 1969,285 2063,277 2063,255 2061,250 2047,252"/>
+        <Baseline points="1969,260 2063,255"/>
+        <TextEquiv>
+          <Unicode>101</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d92ac1ce"  >
+      <Coords points="836,2905 890,2915 901,2967 408,2967 408,2905 836,2905"/>
+      <TextLine id="eSc_line_55274a46" >
+        <Coords points="869,2915 645,2905 624,2905 597,2905 570,2905 543,2905 516,2905 489,2905 462,2905 435,2905 408,2948 406,2967 602,2988 605,2988 890,2980 893,2961 887,2942 869,2915"/>
+        <Baseline points="408,2948 893,2961"/>
+        <TextEquiv>
+          <Unicode>33Hebrews 13:13-14.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_20df24cd"  >
+      <Coords points="226,2840 621,2840 675,2870 236,2859 226,2840"/>
+    </TextRegion>
+  </Page>
+</PcGts>

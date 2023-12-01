@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00093.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.144815+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.144826+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00093.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_d632693d"  >
+      <Coords points="2061,516 1996,581 2061,761 1964,774 2007,807 1985,890 2017,954 1565,979 1684,1011 1673,1062 236,1062 247,290 1931,290 1964,352 1921,384 2007,408 1996,481 2061,516"/>
+      <TextLine id="eSc_line_a7274c6e" >
+        <Coords points="1926,293 1256,290 1253,290 1226,290 1200,290 1173,290 1146,290 1119,290 1092,290 1065,290 1038,290 1011,290 984,290 957,290 930,290 904,290 877,290 850,290 823,290 796,290 769,290 742,290 715,290 688,290 661,290 634,290 608,290 581,290 554,290 527,290 500,290 473,290 446,290 419,290 392,290 365,290 339,290 312,290 285,290 258,290 255,282 234,282 234,330 234,355 1937,349 1939,338 1939,312 1926,293"/>
+        <Baseline points="234,330 1939,338"/>
+        <TextEquiv>
+          <Unicode>whose content is already lit up in certain outline by the prophetic</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e07d6dc" >
+        <Coords points="1980,400 1961,392 234,390 234,435 231,446 1985,451 1991,441 1988,400 1980,400"/>
+        <Baseline points="234,435 1991,441"/>
+        <TextEquiv>
+          <Unicode>expectations of the 0ld Testament but whose form is determined by the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c719e18e" >
+        <Coords points="2031,540 2007,494 231,484 231,535 231,556 2036,554 2039,543 2034,535 2031,540"/>
+        <Baseline points="231,535 2039,543"/>
+        <TextEquiv>
+          <Unicode>words, the suffering, and the death of Christ. Knowledge of the future</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_58f96ce1" >
+        <Coords points="1999,599 766,581 764,581 734,581 586,591 532,578 527,578 524,578 521,578 500,578 317,589 231,575 231,632 228,653 1999,659 2004,645 2001,607 1999,599"/>
+        <Baseline points="231,632 2004,645"/>
+        <TextEquiv>
+          <Unicode>has its stimulus nowhere else than in the riddle of Jesus of Nazareth.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e8e742d" >
+        <Coords points="2034,702 1689,702 1684,699 1652,685 1649,685 1646,685 1401,696 1358,696 1353,696 1326,683 1323,683 1321,683 231,685 231,734 228,750 2047,769 2052,747 2047,726 2034,702"/>
+        <Baseline points="231,734 2052,747"/>
+        <TextEquiv>
+          <Unicode>His future, in the light of which he can be recognized as to what he is,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6fbe6d56" >
+        <Coords points="234,836 231,852 1974,863 1980,847 1980,798 1964,785 1961,785 1958,785 1956,785 1598,798 1544,798 1530,796 1474,785 1471,785 1251,793 1165,796 1027,796 1022,790 1011,780 1008,780 1006,780 1003,780 1000,780 968,790 955,793 234,782 234,836"/>
+        <Baseline points="234,836 1980,847"/>
+        <TextEquiv>
+          <Unicode>is illuminated in advance by the promise of the righteousness of God,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a3f9d48" >
+        <Coords points="1982,893 1956,885 1953,885 1950,885 1948,885 1907,898 1904,901 1552,901 1434,893 1248,882 1245,882 1243,882 1240,882 1229,890 1218,895 1143,887 1078,882 1076,882 1073,882 1070,882 1065,887 1052,898 831,898 661,882 624,879 621,879 583,879 349,893 234,876 234,936 234,960 2007,960 2009,944 2004,928 1982,893"/>
+        <Baseline points="234,936 2009,944"/>
+        <TextEquiv>
+          <Unicode>the promise of life as a result of resurrection from the dead, and the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b1e0b65" >
+        <Coords points="1654,1003 1652,1000 228,992 228,1041 226,1057 581,1057 594,1067 594,1070 597,1070 600,1070 602,1070 1043,1059 1060,1073 1062,1073 1065,1073 1068,1073 1070,1073 1073,1073 1092,1059 1229,1073 1232,1073 1495,1062 1622,1076 1625,1076 1627,1076 1668,1059 1670,1051 1668,1041 1654,1003"/>
+        <Baseline points="228,1041 1670,1051"/>
+        <TextEquiv>
+          <Unicode>promise of the kingdom of God in a new totality of being.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8a17c06f"  >
+      <Coords points="247,1140 933,1151 955,1202 226,1202 247,1140"/>
+      <TextLine id="eSc_line_2812f2ca" >
+        <Coords points="933,1162 909,1148 258,1140 236,1167 234,1186 231,1215 468,1234 470,1234 648,1221 651,1221 653,1221 766,1237 769,1237 939,1221 941,1194 939,1172 933,1162"/>
+        <Baseline points="234,1186 941,1194"/>
+        <TextEquiv>
+          <Unicode>The future of righteousness.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_04ccc527"  >
+      <Coords points="2039,1872 1985,1958 2039,2138 1899,2173 2061,2227 2050,2267 1899,2281 2017,2324 1974,2399 2007,2421 2007,2568 1587,2593 1802,2625 1740,2700 1985,2711 1996,2773 505,2784 419,2773 419,2711 796,2690 226,2665 226,2313 1022,2289 419,2267 419,2205 602,2184 322,2160 322,1312 430,1248 1931,1258 1977,1334 2050,1355 2039,1665 1942,1786 2039,1872"/>
+      <TextLine id="eSc_line_0549c3f8" >
+        <Coords points="1910,1256 1883,1256 1856,1256 1829,1256 1802,1256 1775,1256 1748,1256 1722,1256 1695,1256 1668,1256 1641,1256 1614,1256 1587,1256 1560,1256 1533,1253 1506,1253 1479,1253 1452,1253 1426,1253 1399,1253 1372,1253 1345,1253 1318,1253 1291,1253 1264,1253 1237,1253 1210,1253 1183,1253 1156,1250 1130,1250 1103,1250 1076,1250 1049,1250 1022,1250 995,1250 968,1250 941,1250 914,1250 887,1250 861,1250 834,1250 807,1250 780,1248 753,1248 726,1248 699,1248 672,1248 645,1248 618,1248 591,1248 565,1248 538,1248 511,1248 484,1248 457,1248 430,1248 430,1291 427,1301 1923,1312 1929,1301 1926,1258 1910,1256"/>
+        <Baseline points="430,1291 1929,1301"/>
+        <TextEquiv>
+          <Unicode>Righteousness means &quot;being in order,“ standing in the right</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ff35b9d7" >
+        <Coords points="1923,1301 1896,1301 1869,1301 1843,1301 1816,1301 1789,1301 1762,1301 1735,1301 1708,1301 1681,1301 1654,1301 1627,1301 1600,1301 1574,1301 1547,1299 1544,1299 1520,1299 1493,1299 1466,1299 1439,1299 1412,1299 1385,1299 1358,1299 1331,1299 1304,1299 1278,1299 1251,1299 1224,1299 1197,1299 1170,1296 1143,1296 1116,1296 1089,1296 1062,1296 1035,1296 1008,1296 982,1296 955,1296 928,1296 901,1296 874,1296 847,1296 820,1296 796,1293 739,1293 739,1293 713,1293 686,1293 659,1293 632,1293 605,1293 578,1293 551,1293 524,1293 497,1293 470,1293 443,1293 441,1291 349,1291 339,1299 339,1342 336,1355 1945,1361 1950,1345 1948,1301 1923,1299 1923,1301"/>
+        <Baseline points="339,1342 1950,1345"/>
+        <TextEquiv>
+          <Unicode>relationship; it means correspondence and harmony and is to that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_67455ceb" >
+        <Coords points="815,1345 788,1345 761,1345 734,1345 707,1345 680,1345 653,1345 626,1345 600,1345 573,1345 546,1345 519,1345 492,1345 465,1345 438,1345 411,1345 384,1345 357,1345 352,1339 330,1339 330,1390 328,1401 2050,1412 2055,1401 2052,1358 820,1345 815,1345"/>
+        <Baseline points="330,1390 2055,1401"/>
+        <TextEquiv>
+          <Unicode>extent akin to &quot;truth.“ But righteousness also means &#x27;&#x27;being able to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf29998f" >
+        <Coords points="1996,1401 1969,1401 1942,1401 1915,1401 1888,1401 1861,1401 1835,1401 1808,1401 1781,1401 1754,1401 1727,1401 1700,1401 1673,1401 1646,1401 1619,1398 1592,1398 1565,1398 1539,1398 1512,1398 1485,1398 1458,1398 1431,1398 1404,1398 1377,1398 1350,1398 1323,1398 1296,1398 1269,1398 1243,1398 1216,1398 328,1398 328,1444 325,1452 1999,1463 2004,1452 2001,1401 1996,1401"/>
+        <Baseline points="328,1444 2004,1452"/>
+        <TextEquiv>
+          <Unicode>stand,“ having subsistence, finding a basis on which to exist, and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ead4c67d" >
+        <Coords points="1999,1452 1972,1452 1945,1452 1918,1452 1891,1452 1864,1452 1837,1452 1810,1452 1783,1452 1756,1452 1730,1452 1703,1452 1676,1452 1649,1452 1622,1452 1595,1452 1568,1452 1541,1452 1514,1452 1487,1452 1461,1452 1434,1449 1407,1449 1380,1449 1353,1449 1326,1449 1299,1449 1272,1449 1245,1449 1218,1449 1191,1449 1165,1449 1138,1449 1111,1449 1084,1449 1057,1449 1030,1449 1003,1449 976,1449 949,1449 922,1449 895,1449 869,1447 842,1447 815,1447 788,1447 761,1447 734,1447 707,1447 680,1447 653,1447 626,1447 600,1447 573,1447 546,1447 519,1447 492,1447 465,1447 438,1447 411,1447 384,1447 357,1447 330,1447 330,1492 328,1503 1999,1509 2004,1498 2001,1452 1999,1452"/>
+        <Baseline points="330,1492 2004,1498"/>
+        <TextEquiv>
+          <Unicode>is to that extent akin to existence as such. Righteousness in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a754efc8" >
+        <Coords points="597,1495 570,1495 543,1495 516,1495 489,1495 462,1495 435,1495 408,1495 382,1495 355,1495 328,1492 328,1541 325,1557 2050,1562 2055,1552 2052,1509 613,1495 597,1495"/>
+        <Baseline points="328,1541 2055,1552"/>
+        <TextEquiv>
+          <Unicode>0ld Testament does not mean agreement with an ideal norm or with the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d015d1ea" >
+        <Coords points="330,1592 328,1605 1921,1611 1926,1600 1923,1560 330,1546 330,1592"/>
+        <Baseline points="330,1592 1926,1600"/>
+        <TextEquiv>
+          <Unicode>logos of eternal being, but describes a historic communal rela-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fdd266da" >
+        <Coords points="328,1643 325,1654 2020,1662 2026,1651 2023,1608 328,1595 328,1643"/>
+        <Baseline points="328,1643 2026,1651"/>
+        <TextEquiv>
+          <Unicode>tionship which is founded on promise and faithfulness. When Israel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b90d838" >
+        <Coords points="1996,1654 328,1651 328,1697 325,1710 1999,1718 2004,1705 2001,1692 1996,1654"/>
+        <Baseline points="328,1697 2004,1705"/>
+        <TextEquiv>
+          <Unicode>praises the righteousness of God, then it thankfully remembers his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_73294019" >
+        <Coords points="1915,1705 1888,1705 1861,1705 1835,1705 1808,1705 1781,1705 1754,1705 1727,1705 1700,1705 1673,1705 1646,1705 1619,1705 1592,1705 1565,1705 1539,1705 1512,1705 1485,1705 1458,1705 1431,1702 1404,1702 1377,1702 1350,1702 1323,1702 1296,1702 1269,1702 1243,1702 1216,1702 1189,1702 1162,1702 1135,1702 1108,1702 1081,1702 1054,1702 1027,1702 1000,1702 974,1702 947,1702 920,1702 893,1702 874,1700 328,1700 328,1743 325,1753 1921,1767 1926,1756 1923,1705 1915,1705"/>
+        <Baseline points="328,1743 1926,1756"/>
+        <TextEquiv>
+          <Unicode>faithfulness to his covenant promises as it has taken practical</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a9548762" >
+        <Coords points="1888,1756 1861,1756 1835,1756 1808,1756 1781,1756 1754,1756 1727,1756 1700,1756 1673,1756 1646,1756 1619,1756 1608,1753 328,1751 328,1796 325,1815 1904,1815 1907,1804 1904,1756 1888,1756"/>
+        <Baseline points="328,1796 1907,1804"/>
+        <TextEquiv>
+          <Unicode>shape in the history of Israel. Yahweh&#x27;s righteousness is his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82baf73e" >
+        <Coords points="1835,1804 1808,1804 1781,1804 1754,1804 1727,1804 1700,1804 1673,1804 1646,1804 1619,1804 1592,1804 1565,1804 1539,1804 1512,1804 1485,1804 1458,1804 1431,1804 1404,1804 1377,1802 1350,1802 1323,1802 1296,1802 1269,1802 1243,1802 1216,1802 1189,1802 1162,1802 1135,1802 1108,1802 1081,1802 1054,1802 1027,1802 1000,1802 974,1802 947,1802 920,1802 893,1802 866,1802 839,1799 812,1799 785,1799 758,1799 731,1799 704,1799 678,1799 651,1799 624,1799 597,1799 570,1799 543,1799 516,1799 489,1799 462,1799 435,1799 408,1799 382,1799 355,1799 328,1799 328,1845 325,1858 1848,1866 1853,1850 1851,1804 1835,1804"/>
+        <Baseline points="328,1845 1853,1850"/>
+        <TextEquiv>
+          <Unicode>faithfulness to the covenant. That is why his righteousness</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd9a160b" >
+        <Coords points="2015,1861 756,1848 737,1848 710,1848 683,1848 656,1848 629,1848 602,1848 575,1848 548,1848 521,1848 495,1848 468,1848 441,1848 414,1848 387,1848 360,1848 333,1848 333,1891 330,1912 2023,1915 2028,1904 2026,1883 2015,1861"/>
+        <Baseline points="333,1891 2028,1904"/>
+        <TextEquiv>
+          <Unicode>&quot;happens,“ and why one can &quot;tell“ it and trust in it for the future</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53be3a36" >
+        <Coords points="325,1947 322,1966 1926,1966 1929,1955 1926,1912 325,1904 325,1947"/>
+        <Baseline points="325,1947 1929,1955"/>
+        <TextEquiv>
+          <Unicode>and expect &#x27;&#x27;salvation“ from this righteousness. In trusting in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8fe940c4" >
+        <Coords points="971,1952 944,1952 917,1952 890,1952 863,1952 852,1950 648,1950 648,1950 621,1950 594,1950 567,1950 540,1950 513,1950 487,1950 460,1950 433,1950 406,1950 379,1950 352,1950 325,1950 325,1995 322,2009 1948,2017 1953,2004 1950,1961 974,1952 971,1952"/>
+        <Baseline points="325,1995 1953,2004"/>
+        <TextEquiv>
+          <Unicode>God&#x27;s faithfulness to this covenant, and in living in accordance</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cbf63693" >
+        <Coords points="1913,2004 1886,2004 1859,2004 1832,2004 1805,2004 1778,2004 1751,2004 1724,2004 1697,2004 1670,2004 1643,2004 1617,2004 1590,2004 1563,2004 1536,2004 1509,2004 1482,2004 1455,2004 1428,2004 325,2004 325,2044 322,2055 1974,2068 1980,2055 1977,2004 1939,2004 1913,2004"/>
+        <Baseline points="325,2044 1980,2055"/>
+        <TextEquiv>
+          <Unicode>with his covenant in promise and statute, men do right by God and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e5cd9051" >
+        <Coords points="2020,2090 2009,2057 325,2055 325,2098 322,2108 400,2122 403,2122 406,2122 408,2122 408,2119 419,2111 422,2108 527,2108 535,2111 586,2125 589,2125 591,2125 675,2111 691,2108 764,2111 1111,2125 1113,2125 1280,2111 1294,2111 1302,2111 1380,2127 1382,2127 1385,2127 1417,2111 1420,2111 1439,2111 1649,2127 1652,2127 1724,2111 1732,2111 1743,2111 1835,2127 1837,2127 2023,2111 2026,2103 2023,2090 2020,2090"/>
+        <Baseline points="325,2098 2026,2103"/>
+        <TextEquiv>
+          <Unicode>are set right. They are set right not only in relation to God, but</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a01fe95f" >
+        <Coords points="1910,2103 1883,2103 1856,2103 1829,2103 1802,2103 1775,2103 1748,2103 1722,2103 1695,2103 1668,2103 1641,2103 1614,2103 1587,2103 1560,2103 1533,2103 1520,2103 341,2108 322,2152 322,2168 1921,2168 1921,2152 1918,2103 1910,2103"/>
+        <Baseline points="322,2152 1921,2152"/>
+        <TextEquiv>
+          <Unicode>also in their mutual relationships and in relation to things. 29</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0933024c" >
+        <Coords points="2042,2221 2015,2211 2012,2208 452,2200 427,2203 427,2246 425,2267 2044,2275 2050,2256 2047,2235 2042,2221"/>
+        <Baseline points="427,2246 2050,2256"/>
+        <TextEquiv>
+          <Unicode>The righteousness of God is the essence of the stability and the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1fa5f428" >
+        <Coords points="1996,2348 1972,2308 403,2305 382,2308 355,2308 328,2308 301,2310 274,2310 247,2310 220,2348 217,2361 1996,2367 2001,2356 1996,2348 1996,2348"/>
+        <Baseline points="220,2348 2001,2356"/>
+        <TextEquiv>
+          <Unicode>ground of the subsistence for the whole creation. Without his justice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_216bb245" >
+        <Coords points="220,2450 217,2472 1972,2474 1977,2458 1972,2404 231,2404 220,2450"/>
+        <Baseline points="220,2450 1977,2458"/>
+        <TextEquiv>
+          <Unicode>and faithfulness nothing can exist, but everything is swallowed up in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69d4f516" >
+        <Coords points="220,2547 217,2558 1993,2579 1999,2558 1996,2515 1563,2515 1560,2512 1549,2501 1549,2499 1547,2499 1544,2499 1541,2499 1178,2509 1148,2509 1146,2509 1097,2496 1095,2496 1092,2496 699,2507 683,2507 680,2507 610,2493 608,2493 231,2504 220,2547"/>
+        <Baseline points="220,2547 1999,2558"/>
+        <TextEquiv>
+          <Unicode>nothingness. Hence God&#x27;s righteousness is universal. With the coming</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b9018a94" >
+        <Coords points="1781,2649 1754,2617 1740,2614 1396,2614 1388,2611 1339,2598 1337,2598 1334,2598 1033,2609 1006,2609 1003,2609 968,2595 965,2595 963,2595 626,2606 613,2606 608,2606 513,2593 511,2593 231,2603 220,2649 217,2663 250,2676 252,2676 255,2676 503,2665 524,2665 532,2665 610,2679 613,2679 796,2671 852,2668 1781,2684 1786,2660 1781,2646 1781,2649"/>
+        <Baseline points="220,2649 1786,2660"/>
+        <TextEquiv>
+          <Unicode>of the righteousness of God we can expect also a new creation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1767e4bc" >
+        <Coords points="1982,2724 1964,2711 473,2706 449,2708 422,2708 422,2751 419,2770 487,2786 489,2786 793,2776 855,2776 874,2778 944,2789 947,2789 1218,2784 1401,2778 1442,2786 1477,2792 1479,2794 1991,2794 1993,2759 1991,2749 1982,2724"/>
+        <Baseline points="422,2751 1993,2759"/>
+        <TextEquiv>
+          <Unicode>In the New Testament the divine righteousness is understood by</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f2fdcaca"  >
+      <Coords points="2061,244 1999,244 1999,193 2050,193 2061,244"/>
+      <TextLine id="eSc_line_5a98695e" >
+        <Coords points="2044,199 2017,193 1996,204 1996,239 2001,303 2063,295 2061,234 2052,182 2042,182 2044,199"/>
+        <Baseline points="1996,239 2061,234"/>
+        <TextEquiv>
+          <Unicode>86</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1fe0154e"  >
+      <Coords points="1030,2915 1041,2967 419,2967 430,2905 624,2894 1030,2915"/>
+      <TextLine id="eSc_line_50bdebd4" >
+        <Coords points="1011,2913 984,2913 963,2910 939,2910 930,2910 925,2907 524,2897 500,2899 473,2902 446,2902 427,2918 419,2948 417,2972 433,2985 433,2988 435,2988 438,2988 441,2988 559,2972 570,2972 583,2975 669,2991 672,2991 807,2983 939,2977 1030,2993 1035,2956 1027,2929 1011,2913"/>
+        <Baseline points="419,2948 1035,2956"/>
+        <TextEquiv>
+          <Unicode>29Moltmann, pp. 203-204.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3fe3e75e"  >
+      <Coords points="581,2829 707,2870 387,2859 398,2840 581,2829"/>
+    </TextRegion>
+  </Page>
+</PcGts>

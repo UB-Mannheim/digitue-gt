@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00002.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.215703+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.215729+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00002.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_6bc92bdd"  >
+      <Coords points="1996,527 2082,591 2104,1094 2039,1215 2082,1514 1942,1753 2050,1829 2082,2030 2028,2063 2071,2065 2114,2141 2082,2289 1974,2345 2114,2431 2050,2560 2050,2794 279,2794 269,1420 312,1355 269,1288 258,688 279,613 427,602 484,516 1888,516 1996,527"/>
+      <TextLine id="eSc_line_00cdfd40" >
+        <Coords points="1972,524 1945,521 1918,519 1891,516 1864,516 1837,516 1810,516 1783,516 1756,516 1730,516 1703,516 1681,516 478,524 465,538 468,570 470,594 527,581 1991,589 1996,564 1988,524 1972,524"/>
+        <Baseline points="468,570 1996,564"/>
+        <TextEquiv>
+          <Unicode>My work as parish pastor brings me into a day-to-day concern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ea74b8e" >
+        <Coords points="322,607 301,607 293,610 269,637 271,667 271,680 2090,675 2093,661 2087,607 1485,602 1482,602 1434,613 1417,616 1399,613 1350,602 1348,602 1345,602 1310,613 1299,616 1278,613 1181,602 1178,602 1175,602 1127,616 1111,621 626,621 616,621 538,605 535,605 532,605 530,605 513,621 382,621 328,605 322,607"/>
+        <Baseline points="271,667 2093,661"/>
+        <TextEquiv>
+          <Unicode>with preaching. In the seminary the &quot;sermon&quot; was defined for me as &quot;the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02d49e8d" >
+        <Coords points="271,769 271,782 2066,777 2069,761 2061,702 1942,718 1673,718 1657,704 1657,702 1654,702 1652,702 1649,702 1606,704 1407,720 1299,720 1286,707 1286,704 1283,704 1280,704 1278,704 1256,707 1178,718 1154,707 1146,704 1143,704 1140,704 1138,704 1135,704 1132,707 1116,718 1043,707 1011,704 1008,704 963,710 858,720 836,710 831,707 828,707 826,707 799,710 721,720 269,715 271,769"/>
+        <Baseline points="271,769 2069,761"/>
+        <TextEquiv>
+          <Unicode>exposition and application of a portion of God&#x27;s Word.&quot; After fourteen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_630dd601" >
+        <Coords points="271,868 271,893 2023,876 2026,863 2017,807 1140,820 904,817 360,809 357,809 269,823 271,868"/>
+        <Baseline points="271,868 2026,863"/>
+        <TextEquiv>
+          <Unicode>years in one congregation I am constantly challenged with the task of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d743b944" >
+        <Coords points="274,971 274,984 780,997 782,997 869,981 879,981 887,981 949,995 952,995 1173,981 1181,981 1186,981 1323,995 1326,995 1329,995 1331,995 1353,981 1485,995 1487,995 1627,981 2063,992 2066,992 2069,992 2071,992 2096,976 2096,963 2087,903 2020,917 1805,906 1743,903 1740,903 1703,906 1617,917 1574,909 1544,903 1541,903 1493,909 1415,919 1382,911 1366,906 1364,906 1361,906 1280,911 1175,919 1081,914 947,906 944,906 941,906 901,917 874,922 756,917 530,909 527,909 460,922 452,922 446,922 408,909 406,909 403,909 271,922 274,971"/>
+        <Baseline points="274,971 2096,963"/>
+        <TextEquiv>
+          <Unicode>having something fresh and helpful to say that will &quot;expose&quot; the message</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5575ef9" >
+        <Coords points="274,1070 274,1086 2096,1078 2096,1062 2090,1019 890,1008 887,1008 823,1022 325,1011 322,1011 320,1011 271,1024 274,1070"/>
+        <Baseline points="274,1070 2096,1062"/>
+        <TextEquiv>
+          <Unicode>of the Gospel and &quot;apply&quot; it to the needs of the hearers. Preaching has</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d48a6332" >
+        <Coords points="274,1172 274,1197 2023,1180 2026,1164 2017,1110 271,1121 274,1172"/>
+        <Baseline points="274,1172 2026,1164"/>
+        <TextEquiv>
+          <Unicode>not become easier over the years, but my acquaintance with God&#x27;s Word</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f254b9b3" >
+        <Coords points="274,1269 274,1283 1235,1285 1237,1269 1237,1226 274,1226 274,1269"/>
+        <Baseline points="274,1269 1237,1269"/>
+        <TextEquiv>
+          <Unicode>and the needs of people has increased.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b2cb6dc7" >
+        <Coords points="476,1374 476,1393 2047,1388 2050,1366 2044,1323 473,1318 476,1374"/>
+        <Baseline points="476,1374 2050,1366"/>
+        <TextEquiv>
+          <Unicode>In our day a sense of hopelessness has enveloped the minds and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b84ad00b" >
+        <Coords points="2058,1409 269,1417 271,1476 271,1492 2069,1492 2071,1466 2063,1423 2058,1409"/>
+        <Baseline points="271,1476 2071,1466"/>
+        <TextEquiv>
+          <Unicode>hearts of people in our churches and society in general. A theology of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8093cc81" >
+        <Coords points="274,1576 274,1589 2044,1589 2044,1565 2036,1517 271,1527 274,1576"/>
+        <Baseline points="274,1576 2044,1565"/>
+        <TextEquiv>
+          <Unicode>hope, based solidly on Scripture and aware of the hurts and burdens of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_911b3168" >
+        <Coords points="274,1675 274,1697 1948,1683 1950,1670 1945,1627 373,1616 371,1616 271,1630 274,1675"/>
+        <Baseline points="274,1675 1950,1670"/>
+        <TextEquiv>
+          <Unicode>people, could conceivably be of immense help to those charged with</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9614e960" >
+        <Coords points="277,1778 277,1791 1875,1788 1878,1772 1872,1729 1657,1713 1654,1713 1652,1713 1649,1713 1649,1716 1635,1729 274,1729 277,1778"/>
+        <Baseline points="277,1778 1878,1772"/>
+        <TextEquiv>
+          <Unicode>leading worship and preaching. It has been my strong desire in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46d8ac07" >
+        <Coords points="277,1880 277,1893 2026,1883 2028,1869 2020,1815 274,1829 277,1880"/>
+        <Baseline points="277,1880 2028,1869"/>
+        <TextEquiv>
+          <Unicode>preparing this dissertation to acquaint myself with a Scripture-based</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c96a62de" >
+        <Coords points="277,1979 277,1993 2047,1990 2050,1969 2042,1926 274,1934 277,1979"/>
+        <Baseline points="277,1979 2050,1969"/>
+        <TextEquiv>
+          <Unicode>theology of hope that I can share with our people week-to-week. It is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3b21c13" >
+        <Coords points="274,2076 274,2092 1948,2098 1953,2071 1948,2012 1878,2012 1875,2012 1872,2012 1869,2012 1848,2030 1563,2030 1504,2017 1471,2012 1469,2012 1420,2017 1356,2028 1345,2020 1339,2014 1339,2012 1337,2012 1334,2012 1331,2012 1329,2012 1326,2012 1318,2020 1304,2030 1210,2030 1202,2022 1194,2014 1194,2012 1191,2012 1189,2012 1186,2012 1183,2012 1140,2022 1105,2033 726,2033 723,2028 707,2014 704,2014 702,2014 634,2014 632,2014 508,2030 492,2017 492,2014 489,2014 487,2014 333,2014 330,2014 328,2014 271,2030 274,2076"/>
+        <Baseline points="274,2076 1953,2071"/>
+        <TextEquiv>
+          <Unicode>my fond hope that the results of this study will also provide some</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_993489a0" >
+        <Coords points="277,2181 277,2200 2098,2186 2098,2168 2087,2108 2034,2122 1816,2111 1732,2108 1730,2108 1689,2114 1603,2127 1191,2127 1178,2122 1162,2114 1159,2114 1156,2114 1111,2122 1081,2127 1076,2122 1065,2114 1062,2114 1060,2114 1057,2114 1054,2114 1017,2125 984,2133 834,2133 823,2127 804,2117 801,2117 799,2117 796,2117 764,2127 750,2130 667,2127 365,2119 363,2119 274,2133 277,2181"/>
+        <Baseline points="277,2181 2098,2168"/>
+        <TextEquiv>
+          <Unicode>practical help for other pastors who share with me the high privilege of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_afe95f4f" >
+        <Coords points="277,2281 277,2294 2052,2291 2052,2267 2044,2213 274,2232 277,2281"/>
+        <Baseline points="277,2281 2052,2267"/>
+        <TextEquiv>
+          <Unicode>being present-day &quot;servants of Christ and stewards of the mysteries of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bca3dabd" >
+        <Coords points="277,2377 277,2391 917,2391 917,2377 914,2326 277,2326 277,2377"/>
+        <Baseline points="277,2377 917,2377"/>
+        <TextEquiv>
+          <Unicode>God&quot; (I Corinthians 4:1).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7fa3ed4d" >
+        <Coords points="2087,2423 1864,2423 1864,2421 1848,2407 1845,2407 1843,2407 1840,2407 1560,2421 1444,2429 1186,2429 1181,2421 1173,2415 1173,2412 1170,2412 1167,2412 1165,2412 1119,2421 1070,2429 1046,2421 1033,2415 1030,2415 1027,2415 1025,2415 1008,2421 982,2429 882,2421 823,2415 820,2415 817,2415 815,2415 809,2421 793,2431 761,2421 753,2418 750,2418 747,2418 745,2418 739,2421 718,2431 686,2421 680,2418 678,2418 675,2418 672,2418 669,2418 669,2421 656,2431 470,2421 473,2482 473,2496 2101,2488 2104,2469 2101,2450 2087,2423"/>
+        <Baseline points="473,2482 2104,2469"/>
+        <TextEquiv>
+          <Unicode>My gratitude is here warmly expressed to the California Graduate</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b555044" >
+        <Coords points="277,2585 277,2595 2028,2593 2031,2574 2023,2525 274,2533 277,2585"/>
+        <Baseline points="277,2585 2031,2574"/>
+        <TextEquiv>
+          <Unicode>School of Theology for stimulating me to undertake this task; to Dean</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f35914be" >
+        <Coords points="279,2681 279,2695 2026,2690 2028,2676 2023,2633 1937,2617 1934,2617 1861,2630 1859,2630 1853,2630 1689,2617 1687,2617 1625,2630 1617,2630 1608,2630 1522,2617 1520,2617 1286,2628 1226,2630 1221,2628 1197,2617 1194,2617 1191,2617 1189,2617 1156,2628 1138,2633 1065,2628 971,2620 968,2620 920,2628 874,2633 277,2625 279,2681"/>
+        <Baseline points="279,2681 2028,2676"/>
+        <TextEquiv>
+          <Unicode>Barry Beitzel for his initial encouragement to develop this topic; to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a5ceae8b" >
+        <Coords points="279,2784 279,2813 382,2824 384,2824 387,2824 390,2824 403,2813 414,2805 425,2813 433,2819 435,2819 438,2819 441,2819 489,2813 551,2805 570,2813 591,2821 594,2821 597,2821 645,2811 664,2808 680,2811 723,2824 726,2824 729,2824 731,2824 734,2824 753,2811 758,2805 874,2802 895,2811 928,2821 930,2821 933,2824 1100,2824 1100,2821 1189,2808 1218,2802 1224,2808 1237,2819 1240,2819 1243,2819 1326,2821 1329,2821 1331,2821 1364,2805 1366,2805 1404,2821 1407,2821 1409,2821 1485,2805 1512,2800 1794,2800 1808,2802 1861,2816 1864,2816 1867,2816 1869,2816 1921,2802 1929,2800 1937,2802 1993,2819 1996,2819 1999,2819 2001,2819 2047,2800 2047,2776 2039,2730 277,2735 279,2784"/>
+        <Baseline points="279,2784 2047,2776"/>
+        <TextEquiv>
+          <Unicode>Dr. Batrus Abd-al-Malik for his patience and help as my advisor; to my</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_164d2267"  >
+      <Coords points="1097,376 1286,376 1296,416 1097,427 1097,376"/>
+      <TextLine id="eSc_line_0592eb7c" >
+        <Coords points="1261,376 1235,376 1208,376 1181,376 1154,376 1127,376 1100,376 1100,411 1100,441 1283,441 1283,411 1280,379 1261,376"/>
+        <Baseline points="1101,412 1138,412 1286,413"/>
+        <TextEquiv>
+          <Unicode>PREFACE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6ff7dd2a"  >
+      <Coords points="1162,2840 1224,2840 1224,2880 1162,2880 1162,2840"/>
+      <TextLine id="eSc_line_a990e300" >
+        <Coords points="1189,2840 1170,2864 1167,2878 1173,2934 1218,2929 1216,2872 1210,2840 1189,2840"/>
+        <Baseline points="1167,2878 1216,2872"/>
+        <TextEquiv>
+          <Unicode>ii</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

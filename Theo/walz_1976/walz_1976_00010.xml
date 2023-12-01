@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00010.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.405096+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.405114+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00010.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_40e1ff64"  >
+      <Coords points="2082,449 1996,462 2061,494 1996,610 2071,677 2071,836 1759,922 1426,936 1471,968 1888,979 2017,1076 1996,1213 2071,1258 2082,1342 2007,1398 2050,1484 2039,1686 1942,1718 2028,1721 2050,1796 2028,1891 1953,1912 2028,1926 2050,1990 2039,2127 2093,2238 2061,2450 1428,2461 1393,2547 258,2547 247,1893 269,1839 406,1839 430,1807 269,1794 247,1697 247,1076 269,1032 419,1019 269,997 247,527 269,462 427,451 473,365 2093,387 2082,449"/>
+      <TextLine id="eSc_line_949fe464" >
+        <Coords points="2063,384 2036,384 2009,384 1982,384 1956,384 1929,384 1902,384 1875,381 1848,381 1821,381 1794,381 1767,381 1740,381 1713,381 1687,381 1660,379 1633,379 1606,379 1579,379 1552,379 1525,379 1498,379 1471,376 1444,376 1417,376 1391,376 1364,376 1337,376 1310,376 1283,376 1267,373 465,376 452,395 452,422 452,438 2079,438 2082,414 2074,384 2063,384"/>
+        <Baseline points="452,422 2082,414"/>
+        <TextEquiv>
+          <Unicode>After the plan for the study was developed, it became clear that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4972696a" >
+        <Coords points="260,484 260,516 258,535 1996,538 2001,524 1999,465 1635,462 1633,462 1630,462 1627,462 1625,465 1608,478 1547,465 1525,462 1522,462 1520,462 1506,465 1461,478 1417,468 1391,459 1388,459 1385,459 1382,459 1361,468 1339,473 1315,468 1288,459 1286,459 1283,459 1280,459 1278,459 1267,468 1251,478 1019,478 1008,468 1000,459 998,459 995,459 992,459 990,459 957,468 930,476 729,476 721,470 710,459 707,459 704,459 702,459 699,459 696,459 696,462 688,470 683,476 379,476 373,470 344,459 341,459 339,459 274,470 260,484"/>
+        <Baseline points="260,516 2001,524"/>
+        <TextEquiv>
+          <Unicode>there was a vast amount of literature related to this field of study.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b52959f0" >
+        <Coords points="255,624 255,642 1961,637 1964,618 1958,575 252,575 255,624"/>
+        <Baseline points="255,624 1964,618"/>
+        <TextEquiv>
+          <Unicode>A great number of modern songs, plays, essays, and poetry deal with</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75bcd56a" >
+        <Coords points="258,723 258,734 2058,739 2061,718 2055,675 1913,675 1886,656 1883,656 1880,656 1878,656 1875,656 1840,675 1520,675 1458,656 1455,656 1452,656 1450,656 1404,675 1267,675 1159,656 1156,656 1154,656 1151,656 1124,675 1049,661 1046,661 1043,661 1000,677 920,677 898,659 895,659 893,659 890,659 887,659 847,677 632,677 610,659 608,659 605,659 293,659 290,659 287,659 255,675 258,723"/>
+        <Baseline points="258,723 2061,718"/>
+        <TextEquiv>
+          <Unicode>feelings of despair, death, meaninglessness, and hopelessness. He have</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_638b0d94" >
+        <Coords points="258,823 258,852 384,836 626,836 669,850 672,850 675,850 766,836 1121,850 1151,850 1154,850 1162,850 1245,833 1391,847 1393,850 1436,850 1552,850 1552,847 1555,847 1557,847 1579,833 1635,847 1638,847 1641,847 1657,847 1923,833 2052,844 2055,817 2050,769 255,766 258,823"/>
+        <Baseline points="258,823 2055,817"/>
+        <TextEquiv>
+          <Unicode>been able to include only a few samples of this kind of literature that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ee3614cd" >
+        <Coords points="258,925 258,938 1167,933 1170,919 1165,876 255,868 258,925"/>
+        <Baseline points="258,925 1170,919"/>
+        <TextEquiv>
+          <Unicode>fit the purpose of the dissertation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_562a31bb" >
+        <Coords points="1859,976 1832,976 1805,976 1778,973 1751,973 1724,973 1697,973 1670,971 1643,971 1617,971 1590,971 460,971 460,1024 460,1049 1886,1038 1886,1024 1886,979 1859,976"/>
+        <Baseline points="460,1024 1886,1024"/>
+        <TextEquiv>
+          <Unicode>In the area of hope theology there are many sources that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e7dae4c" >
+        <Coords points="1993,1076 1027,1062 1025,1062 955,1067 858,1076 807,1067 782,1062 780,1062 777,1062 764,1065 729,1078 433,1078 344,1062 336,1062 333,1062 330,1062 304,1076 263,1062 260,1124 260,1140 2007,1140 2007,1124 2004,1100 1993,1076"/>
+        <Baseline points="260,1124 2007,1124"/>
+        <TextEquiv>
+          <Unicode>influenced members of the school of hope, there are numerous writings</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2721988e" >
+        <Coords points="258,1226 258,1245 1958,1234 1961,1221 1956,1178 1748,1162 1746,1162 1391,1172 1291,1175 1278,1172 1237,1162 1235,1162 1232,1162 1151,1172 1095,1178 1043,1170 998,1164 995,1164 914,1170 804,1178 255,1167 258,1226"/>
+        <Baseline points="258,1226 1961,1221"/>
+        <TextEquiv>
+          <Unicode>by proponents of hope theology, and there are many books and essays</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd25b23a" >
+        <Coords points="2061,1277 1821,1277 1816,1275 1775,1261 1773,1261 1770,1261 1767,1261 1727,1275 1722,1277 1364,1277 1348,1272 1299,1261 1296,1261 1151,1269 1041,1277 1019,1269 1003,1264 1000,1264 998,1264 944,1269 871,1277 815,1269 780,1264 777,1264 726,1269 621,1277 255,1266 258,1326 258,1339 1148,1353 1151,1353 1154,1353 1181,1339 1183,1339 2071,1339 2074,1320 2071,1318 2061,1277"/>
+        <Baseline points="258,1326 2074,1320"/>
+        <TextEquiv>
+          <Unicode>that analyze, evaluate, and build upon this modern theological movement.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75e7571f" >
+        <Coords points="258,1425 258,1439 1961,1444 1964,1425 1964,1382 258,1369 258,1425"/>
+        <Baseline points="258,1425 1964,1425"/>
+        <TextEquiv>
+          <Unicode>We have included only those works that met the purpose and remained</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d0d6cac" >
+        <Coords points="258,1527 258,1546 2034,1546 2034,1527 2034,1482 258,1468 258,1527"/>
+        <Baseline points="258,1527 2034,1527"/>
+        <TextEquiv>
+          <Unicode>within the scope of this project. The bibliography, however, provides</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c8632b62" >
+        <Coords points="258,1627 258,1648 2012,1646 2012,1627 2009,1579 258,1579 258,1627"/>
+        <Baseline points="258,1627 2012,1627"/>
+        <TextEquiv>
+          <Unicode>many sources that can be investigated by the reader who is interested</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_633a9746" >
+        <Coords points="260,1729 260,1743 1824,1751 1826,1729 1826,1678 1719,1665 1716,1665 1713,1665 1681,1675 1662,1683 1043,1683 1014,1670 998,1665 995,1665 992,1665 990,1665 979,1670 957,1678 895,1670 863,1665 861,1665 858,1665 847,1667 812,1681 777,1667 766,1665 764,1665 761,1665 758,1665 756,1665 753,1667 737,1681 629,1667 608,1665 605,1665 589,1667 505,1681 435,1665 430,1665 427,1665 425,1665 422,1665 422,1667 406,1681 260,1665 260,1729"/>
+        <Baseline points="260,1729 1826,1729"/>
+        <TextEquiv>
+          <Unicode>in a wider acquaintance with literature in this general field.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80c26676" >
+        <Coords points="457,1829 457,1842 2031,1845 2034,1829 2034,1778 457,1767 457,1829"/>
+        <Baseline points="457,1829 2034,1829"/>
+        <TextEquiv>
+          <Unicode>The personal involvement in this research and writing has been</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9bf1302d" >
+        <Coords points="258,1931 258,1950 1861,1952 1864,1931 1864,1885 258,1880 258,1931"/>
+        <Baseline points="258,1931 1864,1931"/>
+        <TextEquiv>
+          <Unicode>both a strenuous and a stimulating task. New vistas of helpful</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06cddb5e" >
+        <Coords points="260,2030 260,2049 2031,2041 2031,2030 2028,1971 260,1977 260,2030"/>
+        <Baseline points="260,2030 2031,2030"/>
+        <TextEquiv>
+          <Unicode>knowledge have been discovered and a whole new excitement to keep well</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f502efe" >
+        <Coords points="260,2133 260,2154 1985,2143 1985,2133 1982,2084 260,2084 260,2133"/>
+        <Baseline points="260,2133 1985,2133"/>
+        <TextEquiv>
+          <Unicode>informed regarding modern developments in theology has begun to grip</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9582189d" >
+        <Coords points="258,2227 258,2248 2058,2243 2061,2232 2058,2186 258,2181 258,2227"/>
+        <Baseline points="258,2227 2061,2232"/>
+        <TextEquiv>
+          <Unicode>me. It is my sincere hope that the availability of the results of this</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06011b99" >
+        <Coords points="2071,2281 255,2289 258,2334 258,2345 2079,2348 2082,2324 2077,2297 2071,2281"/>
+        <Baseline points="258,2334 2082,2324"/>
+        <TextEquiv>
+          <Unicode>study, as contained in this dissertation, will help stir up new interest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_edaa8236" >
+        <Coords points="2052,2383 260,2383 260,2431 260,2464 898,2453 920,2461 944,2469 947,2469 949,2469 1019,2458 1052,2455 1095,2458 1205,2469 1208,2469 1210,2469 1213,2469 1224,2458 1232,2453 1382,2453 1391,2455 1409,2469 1412,2469 1415,2469 1417,2472 1703,2472 1703,2469 1705,2469 1754,2455 1805,2469 1808,2469 1810,2469 1813,2469 1864,2453 1867,2453 1899,2469 1902,2469 1904,2469 1907,2469 1910,2469 1931,2453 1934,2453 2061,2453 2061,2431 2061,2410 2052,2383"/>
+        <Baseline points="260,2431 2061,2431"/>
+        <TextEquiv>
+          <Unicode>in Christian theology and provide some fruitful suggestions for further</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_56127c0a" >
+        <Coords points="1391,2477 258,2477 258,2533 260,2574 301,2552 414,2566 417,2566 495,2552 513,2568 516,2571 516,2574 519,2574 521,2574 524,2577 879,2577 879,2574 882,2574 914,2563 941,2552 1038,2555 1041,2560 1057,2574 1060,2574 1062,2574 1065,2574 1068,2574 1070,2574 1092,2558 1095,2558 1103,2558 1181,2574 1183,2574 1186,2574 1189,2574 1216,2558 1224,2552 1232,2558 1267,2574 1269,2574 1272,2574 1399,2552 1399,2533 1396,2528 1391,2477"/>
+        <Baseline points="258,2533 1399,2533"/>
+        <TextEquiv>
+          <Unicode>study and research on the part of the reader.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_547df2e2"  >
+      <Coords points="1544,266 807,277 817,225 1522,225 1544,266"/>
+      <TextLine id="eSc_line_0680d014" >
+        <Coords points="1504,260 1477,260 1450,260 1423,260 1396,260 1369,260 1342,263 1315,263 1288,263 1261,263 1235,263 1208,263 1181,263 1154,228 1146,225 1127,225 1100,225 1073,225 1046,225 1019,225 992,225 965,225 939,225 912,225 885,225 858,225 831,225 804,247 807,269 807,293 1525,282 1528,263 1525,260 1504,260"/>
+        <Baseline points="809,269 1530,265"/>
+        <TextEquiv>
+          <Unicode>REVIEW OF RELATED LITERATURE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_cf38f5df" >
+        <Coords points="2042,153 2042,180 2096,188 2098,153 2098,102 2042,102 2042,153"/>
+        <Baseline points="2043,155 2100,155"/>
+        <TextEquiv>
+          <Unicode>3</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

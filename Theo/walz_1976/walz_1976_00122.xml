@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00122.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.534052+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.534063+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00122.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_2dbe517d"  >
+      <Coords points="2007,750 2071,1000 2071,1073 1964,1162 2071,1431 2061,1880 2017,1936 2061,2033 2028,2130 2050,2289 2007,2375 828,2386 643,2493 481,2525 653,2539 696,2593 678,2646 1953,2657 2007,2722 2007,2827 675,2840 688,2915 1350,2915 1447,2948 1436,2999 1140,2999 430,2988 408,2915 591,2905 408,2870 470,2837 204,2805 215,2700 538,2633 204,2601 226,1334 258,1248 408,1223 290,1202 236,1148 269,279 1996,312 2007,750"/>
+      <TextLine id="eSc_line_30802c80" >
+        <Coords points="1977,309 1950,309 1923,309 1896,309 1869,309 1843,306 1816,306 1789,306 1762,306 1735,306 1708,306 1681,303 1654,303 1627,303 1600,303 1574,303 1547,301 1520,301 1493,301 1466,301 1439,301 1412,298 1385,298 1358,298 1331,298 1304,298 1278,298 1251,295 1224,295 1197,295 1170,295 1143,295 1116,293 1089,293 1062,293 1035,293 1008,293 982,290 955,290 928,290 901,290 874,290 847,290 820,287 793,287 766,287 739,287 713,287 686,285 659,285 632,285 605,285 578,285 551,282 524,282 497,282 470,282 443,282 417,282 390,279 363,279 336,279 309,279 282,279 279,274 255,274 255,325 252,341 1974,373 1980,352 1980,309 1977,309"/>
+        <Baseline points="255,325 1980,352"/>
+        <TextEquiv>
+          <Unicode>uation of this mortal life. Resurrection life is not a further like</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e1bc52f2" >
+        <Coords points="250,425 247,438 1904,462 1910,454 1910,411 1719,392 1716,392 1154,395 793,376 791,376 723,387 704,373 702,373 699,373 696,373 250,379 250,425"/>
+        <Baseline points="250,425 1910,454"/>
+        <TextEquiv>
+          <Unicode>after death, whether in the soul or the spirit, in children or in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca9234f1" >
+        <Coords points="1999,503 250,484 250,527 247,538 1614,572 1617,572 1999,562 2001,551 2001,532 1999,503"/>
+        <Baseline points="250,527 2001,551"/>
+        <TextEquiv>
+          <Unicode>reputation. It means the annihilation of death in the victory of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08ce6640" >
+        <Coords points="247,624 244,640 1969,669 1974,656 1974,605 247,562 247,624"/>
+        <Baseline points="247,624 1974,656"/>
+        <TextEquiv>
+          <Unicode>new, eternal life, as Paul declares in I Corinthians 15:55. The new</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1d1a01c" >
+        <Coords points="247,696 247,723 244,745 1969,777 1974,755 1974,710 255,672 247,696"/>
+        <Baseline points="247,723 1974,755"/>
+        <TextEquiv>
+          <Unicode>world of the righteousness and presence of God has already dawned in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e54b3841" >
+        <Coords points="244,825 242,847 2012,866 2017,852 2015,809 244,774 244,825"/>
+        <Baseline points="244,825 2017,852"/>
+        <TextEquiv>
+          <Unicode>this one person in the midst of our history of death. &quot;Whereas Jewish</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11db0bd3" >
+        <Coords points="242,925 239,936 1915,965 1921,954 1921,906 242,876 242,925"/>
+        <Baseline points="242,925 1921,954"/>
+        <TextEquiv>
+          <Unicode>apocalyptic says that men should wait for &#x27;the resurrection of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87b2d088" >
+        <Coords points="239,1027 236,1038 2058,1073 2063,1059 2061,1006 1934,1008 1921,1003 1907,992 1904,992 1902,992 1899,992 1896,992 1894,992 1883,1003 1875,1008 1762,1008 1738,1000 1705,989 1703,989 1700,989 1649,997 1622,1003 1617,997 1606,989 1606,987 1603,987 1600,987 1598,987 1420,995 1345,997 1315,992 1245,981 1243,981 1070,989 1000,992 963,987 869,976 866,976 761,984 737,987 731,984 718,973 715,973 713,973 710,973 645,984 634,984 624,984 543,968 540,968 239,976 239,1027"/>
+        <Baseline points="239,1027 2063,1059"/>
+        <TextEquiv>
+          <Unicode>dead,&#x27; Easter faith says that men should believe in &#x27;the resurrection of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_991db448" >
+        <Coords points="236,1076 239,1127 242,1154 285,1140 831,1140 834,1116 828,1067 242,1067 236,1076"/>
+        <Baseline points="239,1127 661,1132 834,1116"/>
+        <TextEquiv>
+          <Unicode>Jesus from the dead.&#x27;&quot;9</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e1ad293d" >
+        <Coords points="1977,1205 438,1180 438,1232 435,1245 1980,1266 1985,1256 1985,1226 1977,1205"/>
+        <Baseline points="438,1232 1985,1256"/>
+        <TextEquiv>
+          <Unicode>Early Christians understood the resurrection as a preparatory</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_738e3287" >
+        <Coords points="236,1301 236,1328 234,1339 1982,1369 1988,1358 1988,1301 244,1283 236,1301"/>
+        <Baseline points="236,1328 1988,1358"/>
+        <TextEquiv>
+          <Unicode>and preliminary action of God in Jesus for the good of themselves and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_57bb742f" >
+        <Coords points="234,1431 231,1439 2052,1468 2058,1460 2058,1412 234,1371 234,1431"/>
+        <Baseline points="234,1431 2058,1460"/>
+        <TextEquiv>
+          <Unicode>the world. His resurrection qualifies the one who has been crucified as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b3ab67fa" >
+        <Coords points="231,1552 2028,1570 2034,1560 2031,1514 1719,1511 1711,1506 1697,1495 1695,1495 1692,1495 1689,1495 1506,1501 1382,1503 1364,1498 1345,1490 1342,1490 1339,1490 1280,1495 1218,1501 1202,1492 1189,1487 1186,1487 1183,1487 1132,1492 1062,1498 1049,1490 1043,1484 1041,1484 1038,1484 1035,1484 984,1487 890,1495 766,1482 723,1479 721,1479 653,1479 414,1487 384,1474 382,1474 379,1474 373,1474 287,1484 236,1471 234,1530 231,1552"/>
+        <Baseline points="234,1530 2034,1560"/>
+        <TextEquiv>
+          <Unicode>the Christ and his suffering and death as a saving event for us and for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e9887dc" >
+        <Coords points="228,1630 226,1640 2047,1678 2052,1659 2052,1616 2017,1600 2015,1600 2012,1600 1913,1614 1902,1614 1740,1614 1735,1611 1689,1595 1687,1595 1684,1595 1608,1608 1603,1608 1584,1595 1582,1595 1579,1595 1576,1595 1426,1605 1396,1605 1393,1603 1377,1589 1374,1589 1372,1589 1369,1589 1310,1603 1302,1603 1278,1603 1060,1584 1057,1584 952,1595 930,1597 925,1595 893,1581 890,1581 887,1581 817,1595 804,1595 782,1592 675,1579 672,1579 669,1579 626,1589 613,1592 600,1589 538,1576 535,1576 228,1581 228,1630"/>
+        <Baseline points="228,1630 2052,1659"/>
+        <TextEquiv>
+          <Unicode>many. God himself was active with his own being in the dying Jesus. He</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a22b44be" >
+        <Coords points="226,1729 223,1751 1969,1770 1974,1759 1974,1713 226,1683 226,1729"/>
+        <Baseline points="226,1729 1974,1759"/>
+        <TextEquiv>
+          <Unicode>suffered with him. God suffered in Jesus, God himself died in Jesus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1b62122e" >
+        <Coords points="226,1829 223,1850 2044,1874 2050,1861 2050,1810 226,1775 226,1829"/>
+        <Baseline points="226,1829 2050,1861"/>
+        <TextEquiv>
+          <Unicode>for us. God is on the cross of Jesus &quot;for us.&quot; Through that he becomes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97866bab" >
+        <Coords points="223,1928 220,1947 1921,1969 1926,1955 1926,1907 223,1874 223,1928"/>
+        <Baseline points="223,1928 1926,1955"/>
+        <TextEquiv>
+          <Unicode>God and Father of the godless and the godforsaken. The true God is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29c4c0d3" >
+        <Coords points="2034,2012 223,1977 223,2030 220,2041 2039,2076 2044,2063 2042,2057 2034,2012"/>
+        <Baseline points="223,2030 2044,2063"/>
+        <TextEquiv>
+          <Unicode>therefore not recognized by his power and glory in the world but through</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e16c5d9" >
+        <Coords points="217,2130 215,2141 1934,2170 1939,2162 1937,2117 1794,2098 1791,2098 1670,2111 1654,2111 1652,2111 1635,2098 1633,2098 1630,2098 1627,2098 1544,2108 1533,2108 1520,2108 1420,2092 1417,2092 1025,2098 976,2098 971,2098 925,2082 922,2082 920,2082 858,2095 855,2095 850,2095 793,2079 791,2079 788,2079 683,2092 672,2092 669,2092 648,2076 645,2076 643,2076 640,2076 637,2076 634,2076 616,2090 613,2090 610,2090 360,2071 357,2071 217,2082 217,2130"/>
+        <Baseline points="217,2130 1939,2162"/>
+        <TextEquiv>
+          <Unicode>his helplessness and his death on the scandal of the cross of Jesus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_32e2a7d2" >
+        <Coords points="2036,2205 1132,2200 1108,2186 1103,2184 1100,2184 1097,2184 1073,2186 979,2195 823,2181 796,2178 793,2178 777,2178 675,2189 632,2176 629,2176 626,2176 621,2176 524,2186 503,2173 500,2173 497,2173 495,2173 489,2173 368,2184 215,2168 215,2230 212,2240 2036,2281 2042,2262 2042,2230 2036,2205"/>
+        <Baseline points="215,2230 2042,2262"/>
+        <TextEquiv>
+          <Unicode>Moltmann says, &quot;For Christ&#x27;s sake I am an atheist in respect to the gods</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3366b27" >
+        <Coords points="212,2332 209,2348 1985,2383 1991,2359 1988,2313 212,2281 212,2332"/>
+        <Baseline points="212,2332 1991,2359"/>
+        <TextEquiv>
+          <Unicode>of the world and world history, the Caesars and the political demigods</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8cf01a62" >
+        <Coords points="209,2434 209,2450 333,2464 336,2464 476,2445 489,2445 500,2445 586,2458 589,2458 713,2439 715,2423 710,2380 586,2364 583,2364 446,2386 266,2386 226,2372 223,2372 220,2372 217,2372 215,2372 215,2375 212,2375 207,2380 209,2434"/>
+        <Baseline points="209,2434 715,2423"/>
+        <TextEquiv>
+          <Unicode>who follow them.&quot;10</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_52315e17" >
+        <Coords points="643,2536 616,2536 589,2533 583,2531 212,2531 212,2585 209,2606 651,2614 656,2590 656,2547 643,2536"/>
+        <Baseline points="212,2585 656,2590"/>
+        <TextEquiv>
+          <Unicode>The Crucified God</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_59d90031" >
+        <Coords points="1966,2676 1958,2668 691,2646 675,2646 672,2644 478,2641 460,2646 433,2652 406,2657 406,2690 403,2703 1972,2727 1977,2716 1974,2687 1966,2676"/>
+        <Baseline points="406,2690 1977,2716"/>
+        <TextEquiv>
+          <Unicode>Moltmann goes on to develop the consequences of this theology.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b905239" >
+        <Coords points="204,2741 204,2781 201,2813 314,2816 317,2816 320,2816 322,2816 341,2802 379,2819 382,2819 384,2819 387,2819 390,2819 392,2819 446,2805 481,2821 487,2821 489,2821 492,2821 503,2821 573,2808 691,2824 699,2824 702,2824 704,2824 753,2811 774,2827 777,2827 780,2827 782,2827 793,2827 866,2813 1011,2829 1035,2832 1038,2832 1070,2832 1275,2821 1412,2837 1417,2837 1420,2837 1423,2837 1426,2837 1447,2824 1996,2848 2001,2816 1991,2768 209,2730 204,2741"/>
+        <Baseline points="204,2781 2001,2816"/>
+        <TextEquiv>
+          <Unicode>He feels that without new insight into the Christian faith Christianity</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5214c975" >
+        <Coords points="408,2932 408,2964 406,2996 578,2991 659,2996 809,3010 812,3010 815,3010 866,2993 869,2975 866,2918 430,2915 408,2932"/>
+        <Baseline points="408,2964 869,2975"/>
+        <TextEquiv>
+          <Unicode>9Moltmann, p. 171.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1038b18" >
+        <Coords points="1436,2983 1412,2940 1356,2924 1353,2924 1350,2924 1348,2924 1304,2934 1283,2940 1014,2915 1008,2915 982,2915 955,2915 955,2969 952,2988 1116,3015 1213,3018 1216,3018 1218,3018 1253,3002 1272,3018 1272,3020 1275,3020 1278,3020 1280,3020 1283,3020 1339,3007 1366,3023 1369,3023 1372,3023 1374,3023 1439,3007 1442,2985 1436,2975 1436,2983"/>
+        <Baseline points="955,2969 1442,2985"/>
+        <TextEquiv>
+          <Unicode>10Moltmann, p. 195.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a1797dea"  >
+      <Coords points="2071,266 1988,266 1999,204 2071,204 2071,266"/>
+      <TextLine id="eSc_line_d375cdaa" >
+        <Coords points="2061,204 2034,204 2012,204 2004,204 1985,242 1985,258 1988,312 2079,312 2077,252 2071,207 2061,201 2061,204"/>
+        <Baseline points="1985,258 2077,252"/>
+        <TextEquiv>
+          <Unicode>115</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

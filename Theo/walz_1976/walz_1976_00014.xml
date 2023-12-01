@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00014.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.492866+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.492877+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00014.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_928e4836"  >
+      <Coords points="1813,395 1622,395 1555,459 1471,459 1471,494 1587,505 1598,621 1447,664 1587,699 1600,785 1738,817 1835,914 1813,1051 1859,1108 1964,1119 1964,1180 1191,1213 398,1191 398,1076 452,1000 408,944 387,731 452,656 290,621 333,473 1331,459 1119,427 1130,344 1076,320 1087,279 1598,279 1643,333 1824,344 1813,395"/>
+      <TextLine id="eSc_line_a35ae9be" >
+        <Coords points="1592,279 1565,279 1539,279 1512,279 1485,279 1458,279 1431,279 1404,279 1377,279 1350,279 1323,279 1296,279 1269,279 1243,279 1216,279 1189,279 1162,279 1135,279 1108,279 1087,290 1081,312 1078,322 1590,338 1595,322 1595,279 1592,279"/>
+        <Baseline points="1081,312 1595,322"/>
+        <TextEquiv>
+          <Unicode>to various squirrels</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac3049b1" >
+        <Coords points="1121,400 1121,408 1119,425 1148,438 1151,438 1154,438 1248,430 1267,430 1579,449 1584,422 1584,371 1232,368 1232,365 1218,355 1218,352 1216,352 1213,352 1210,352 1132,363 1121,400"/>
+        <Baseline points="1124,411 1587,423"/>
+        <TextEquiv>
+          <Unicode>were a little joke</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_df82a58b" >
+        <Coords points="1813,379 1789,341 1762,338 1735,338 1716,336 1547,333 1547,376 1544,387 1813,406 1818,381 1813,373 1813,379"/>
+        <Baseline points="1547,376 1818,381"/>
+        <TextEquiv>
+          <Unicode>as if each</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b759feb" >
+        <Coords points="503,470 476,470 449,470 422,470 395,470 368,470 341,470 341,508 339,519 1156,543 1162,529 1159,486 511,468 503,470"/>
+        <Baseline points="341,508 1162,529"/>
+        <TextEquiv>
+          <Unicode>And then the two of them came on</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_09d281ac" >
+        <Coords points="1124,586 1097,586 1084,583 1027,583 1017,583 990,583 987,581 298,564 290,594 290,607 287,624 758,648 761,648 815,637 817,637 820,637 863,650 866,650 869,650 990,642 1038,656 1041,656 1043,656 1132,642 1135,632 1135,586 1124,586"/>
+        <Baseline points="290,607 1135,632"/>
+        <TextEquiv>
+          <Unicode>which was the meadow of the world</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b60cf639" >
+        <Coords points="1576,540 1143,529 1130,529 1103,529 1076,529 1049,527 1022,527 995,527 968,527 968,581 965,591 1582,607 1587,594 1584,559 1576,540"/>
+        <Baseline points="968,581 1587,594"/>
+        <TextEquiv>
+          <Unicode>thru the enormous meadow</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d44cbff" >
+        <Coords points="438,667 438,712 435,723 1549,755 1555,745 1552,694 1409,680 1407,680 1404,680 1388,685 1374,694 1364,685 1356,677 1353,677 1350,677 1348,677 1345,677 1331,685 1318,691 1089,688 1030,675 995,667 992,667 990,667 971,672 939,680 852,667 809,661 807,661 737,664 546,669 443,653 438,667"/>
+        <Baseline points="438,712 1555,745"/>
+        <TextEquiv>
+          <Unicode>at a very still spot where the trees dreamed</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e42745b" >
+        <Coords points="1116,688 1116,699 1326,707 1331,683 1326,642 1143,632 1140,632 1138,632 1113,642 1116,688"/>
+        <Baseline points="1116,688 1331,683"/>
+        <TextEquiv>
+          <Unicode>and then</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a667ce65" >
+        <Coords points="387,734 387,763 384,788 1525,809 1530,793 1530,747 395,720 387,734"/>
+        <Baseline points="387,763 1530,793"/>
+        <TextEquiv>
+          <Unicode>and seemed to have been waiting thru all time</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d39b03b" >
+        <Coords points="411,863 408,879 1299,901 1304,887 1304,836 411,807 411,863"/>
+        <Baseline points="411,863 1304,887"/>
+        <TextEquiv>
+          <Unicode>they sat down together on the grass</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3c1e419" >
+        <Coords points="1724,815 1700,807 1509,798 1509,852 1509,863 1730,868 1732,852 1732,815 1724,815"/>
+        <Baseline points="1509,852 1732,852"/>
+        <TextEquiv>
+          <Unicode>for them</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44238903" >
+        <Coords points="452,968 449,976 842,997 847,976 847,933 452,917 452,968"/>
+        <Baseline points="452,968 847,976"/>
+        <TextEquiv>
+          <Unicode>and ate oranges</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82217944" >
+        <Coords points="1810,903 1078,890 1078,938 1076,946 1818,963 1824,954 1821,938 1810,903"/>
+        <Baseline points="1078,938 1824,954"/>
+        <TextEquiv>
+          <Unicode>without looking at each other</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5cab6348" >
+        <Coords points="777,1030 774,1041 1514,1059 1520,1043 1520,997 777,981 777,1030"/>
+        <Baseline points="777,1030 1520,1043"/>
+        <TextEquiv>
+          <Unicode>without looking at each other</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_895f0268" >
+        <Coords points="1961,1113 1934,1113 1907,1110 1880,1108 1853,1105 1851,1100 1800,1100 1800,1102 1773,1102 1746,1102 1719,1102 1692,1102 1665,1102 1638,1102 1611,1102 1584,1102 1557,1102 1530,1102 1504,1102 1477,1102 1450,1102 1423,1102 1396,1102 1391,1089 400,1067 400,1070 400,1116 398,1129 882,1143 882,1145 895,1156 895,1159 898,1159 901,1159 904,1159 974,1148 976,1148 990,1148 1280,1170 1283,1170 1353,1159 1358,1159 1372,1159 1576,1178 1579,1178 1966,1175 1969,1159 1966,1105 1961,1102 1961,1113"/>
+        <Baseline points="400,1116 1969,1159"/>
+        <TextEquiv>
+          <Unicode>in a basket which they seemed to have brought for that purpose</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc97a434" >
+        <Coords points="1374,1100 1372,1108 1816,1121 1821,1102 1818,1057 1374,1054 1374,1100"/>
+        <Baseline points="1374,1100 1821,1102"/>
+        <TextEquiv>
+          <Unicode>and put the peels</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0f349a7e" >
+        <Coords points="1173,1137 1146,1137 1119,1137 1092,1137 1065,1135 1038,1135 1011,1135 984,1132 957,1132 930,1132 904,1132 877,1129 850,1129 823,1129 796,1129 769,1127 742,1127 715,1127 688,1124 661,1124 634,1124 608,1124 581,1121 554,1121 527,1121 500,1121 473,1119 446,1119 446,1170 443,1191 1181,1199 1186,1183 1183,1137 1173,1137"/>
+        <Baseline points="446,1170 1186,1183"/>
+        <TextEquiv>
+          <Unicode>without looking at each other</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a08a1d6a"  >
+      <Coords points="1458,1396 1342,1441 1759,1506 1813,1654 1350,1718 1493,1807 1942,1839 1931,1901 742,1891 729,1923 861,1979 1867,2065 1921,2119 1910,2181 1783,2192 1802,2224 1738,2278 1525,2289 1479,2332 1576,2345 1590,2388 1856,2410 1856,2482 1716,2525 1931,2560 1931,2730 957,2730 150,2676 161,2625 330,2603 365,2528 559,2515 559,2399 462,2396 430,2334 567,2313 602,2267 559,2130 624,2033 503,1977 301,1966 301,1915 406,1904 408,1861 387,1775 333,1761 365,1732 258,1643 269,1592 395,1560 398,1506 473,1471 365,1406 398,1301 322,1288 322,1248 452,1237 546,1237 634,1301 1447,1323 1458,1396"/>
+      <TextLine id="eSc_line_f674fc19" >
+        <Coords points="535,1237 508,1237 481,1237 454,1237 427,1237 400,1240 373,1242 347,1245 320,1240 320,1283 317,1307 538,1304 540,1288 538,1237 535,1237"/>
+        <Baseline points="320,1283 540,1288"/>
+        <TextEquiv>
+          <Unicode>And then</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c701e0f" >
+        <Coords points="1434,1320 1407,1320 1380,1320 1353,1320 1326,1318 1299,1318 1272,1318 1245,1318 1218,1315 1191,1315 1165,1315 1138,1312 1111,1312 1095,1312 1084,1312 1057,1312 1030,1310 1003,1310 976,1310 949,1310 922,1307 895,1307 869,1307 842,1307 815,1304 788,1304 761,1304 734,1304 707,1301 680,1301 653,1301 626,1299 616,1291 519,1288 519,1345 516,1353 1434,1374 1439,1366 1436,1320 1434,1320"/>
+        <Baseline points="519,1345 1439,1366"/>
+        <TextEquiv>
+          <Unicode>he took his shirt and undershirt off</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc545282" >
+        <Coords points="850,1353 823,1353 796,1353 769,1353 742,1350 715,1350 688,1350 661,1350 634,1350 608,1347 581,1347 554,1347 527,1347 521,1336 365,1334 365,1385 363,1398 852,1417 858,1401 858,1353 850,1353"/>
+        <Baseline points="365,1385 858,1401"/>
+        <TextEquiv>
+          <Unicode>but kept his hat on</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae6d8219" >
+        <Coords points="839,1457 839,1471 1057,1468 1060,1452 1054,1409 987,1409 984,1406 965,1390 965,1388 963,1388 960,1388 957,1388 836,1401 839,1457"/>
+        <Baseline points="839,1457 1060,1452"/>
+        <TextEquiv>
+          <Unicode>sideways</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7bf6edf8" >
+        <Coords points="1713,1498 1687,1495 1660,1490 1633,1484 1606,1482 1600,1479 1041,1466 1041,1511 1038,1522 1727,1538 1732,1530 1730,1498 1713,1498"/>
+        <Baseline points="1041,1511 1732,1530"/>
+        <TextEquiv>
+          <Unicode>and without saying anything</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75e4652a" >
+        <Coords points="411,1498 411,1541 408,1557 922,1573 928,1554 925,1506 435,1484 411,1498"/>
+        <Baseline points="411,1541 928,1554"/>
+        <TextEquiv>
+          <Unicode>fell asleep under it</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae160b5c" >
+        <Coords points="1797,1627 1781,1581 1264,1554 1261,1554 1259,1554 1235,1565 1154,1549 1151,1549 1030,1557 992,1544 990,1544 987,1544 912,1554 912,1603 909,1619 1800,1654 1805,1632 1802,1627 1797,1627"/>
+        <Baseline points="912,1603 1805,1632"/>
+        <TextEquiv>
+          <Unicode>and his wife just sat there looking</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7dee449" >
+        <Coords points="258,1608 258,1635 255,1646 998,1667 1003,1657 1003,1611 538,1581 535,1581 411,1592 349,1576 347,1576 344,1576 282,1587 258,1608"/>
+        <Baseline points="258,1635 1003,1657"/>
+        <TextEquiv>
+          <Unicode>at the birds which flew about</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b9cde43" >
+        <Coords points="817,1654 791,1651 764,1651 737,1651 325,1651 306,1681 306,1692 304,1716 839,1721 844,1702 842,1654 817,1654"/>
+        <Baseline points="306,1692 844,1702"/>
+        <TextEquiv>
+          <Unicode>calling to each other</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e4aeb20e" >
+        <Coords points="836,1756 834,1767 1267,1772 1272,1764 1272,1705 836,1705 836,1756"/>
+        <Baseline points="836,1756 1272,1764"/>
+        <TextEquiv>
+          <Unicode>in the stilly air</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d12b4e59" >
+        <Coords points="400,1794 398,1815 1339,1831 1345,1818 1345,1778 400,1745 400,1794"/>
+        <Baseline points="400,1794 1345,1818"/>
+        <TextEquiv>
+          <Unicode>as if they were questioning existence</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_59996eaa" >
+        <Coords points="949,1864 947,1877 971,1891 974,1891 976,1891 1068,1880 1221,1896 1224,1896 1302,1885 1313,1885 1315,1885 1334,1899 1337,1899 1339,1899 1342,1899 1426,1891 1444,1888 1455,1891 1487,1901 1490,1901 1942,1904 1948,1885 1948,1839 949,1815 949,1864"/>
+        <Baseline points="949,1864 1948,1885"/>
+        <TextEquiv>
+          <Unicode>or trying to recall something forgotten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8180438b" >
+        <Coords points="352,1907 325,1909 298,1907 298,1958 295,1971 357,1987 360,1987 400,1979 417,1977 425,1982 454,1995 457,1995 460,1995 462,1995 492,1985 503,1982 513,1987 540,1998 543,1998 546,1998 591,1993 637,1985 710,1998 715,1963 710,1901 656,1915 360,1904 352,1907"/>
+        <Baseline points="298,1958 715,1963"/>
+        <TextEquiv>
+          <Unicode>But then finally</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de20b32d" >
+        <Coords points="1138,2001 1111,2001 1084,1998 1057,1995 1030,1993 1003,1990 976,1987 949,1985 922,1985 895,1982 877,1979 626,1974 626,2017 624,2033 1159,2041 1165,2030 1162,2001 1138,2001"/>
+        <Baseline points="626,2017 1165,2030"/>
+        <TextEquiv>
+          <Unicode>she too lay down flat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e55ebec0" >
+        <Coords points="1826,2060 1800,2057 1773,2057 1746,2055 1719,2052 1692,2049 1684,2047 1100,2036 1100,2082 1097,2095 1835,2114 1840,2098 1840,2063 1826,2060"/>
+        <Baseline points="1100,2082 1840,2098"/>
+        <TextEquiv>
+          <Unicode>and just lay there looking up</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b5adec5" >
+        <Coords points="1910,2146 1891,2106 1641,2103 1641,2149 1638,2160 1907,2176 1913,2154 1910,2143 1910,2146"/>
+        <Baseline points="1641,2149 1913,2154"/>
+        <TextEquiv>
+          <Unicode>at nothing</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aeb5338e" >
+        <Coords points="565,2160 565,2170 562,2178 1256,2197 1261,2181 1261,2130 1076,2114 1073,2114 575,2119 565,2160"/>
+        <Baseline points="565,2170 1261,2181"/>
+        <TextEquiv>
+          <Unicode>yet fingering the old flute</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b736217" >
+        <Coords points="1240,2238 1237,2262 1735,2262 1738,2246 1738,2192 1240,2184 1240,2238"/>
+        <Baseline points="1240,2238 1738,2246"/>
+        <TextEquiv>
+          <Unicode>which nobody played</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af4f991b" >
+        <Coords points="613,2267 610,2278 1226,2294 1232,2283 1229,2221 1130,2232 1052,2219 1025,2216 1022,2216 613,2216 613,2267"/>
+        <Baseline points="613,2267 1232,2283"/>
+        <TextEquiv>
+          <Unicode>and finally looking over</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7ed1fb0" >
+        <Coords points="1216,2337 1216,2351 1385,2351 1385,2337 1382,2289 1216,2289 1216,2337"/>
+        <Baseline points="1216,2337 1385,2337"/>
+        <TextEquiv>
+          <Unicode>at him</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4ee9d54" >
+        <Coords points="1269,2340 1243,2340 1216,2340 1210,2326 487,2324 462,2326 441,2345 435,2367 433,2380 1272,2407 1278,2386 1278,2340 1269,2340"/>
+        <Baseline points="435,2367 1278,2386"/>
+        <TextEquiv>
+          <Unicode>without any particular expression</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ecb9578a" >
+        <Coords points="1837,2407 1810,2404 1783,2402 1756,2402 1730,2399 1703,2396 1676,2394 1668,2391 1165,2391 1165,2439 1162,2458 1848,2469 1853,2453 1851,2404 1837,2407"/>
+        <Baseline points="1165,2439 1853,2453"/>
+        <TextEquiv>
+          <Unicode>except a certain awful look</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e256032" >
+        <Coords points="559,2469 556,2480 912,2504 914,2504 1146,2493 1148,2482 1148,2426 570,2426 559,2469"/>
+        <Baseline points="559,2469 1148,2482"/>
+        <TextEquiv>
+          <Unicode>of terrible depression⁵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_039d6687" >
+        <Coords points="355,2547 355,2577 352,2593 1506,2636 1509,2636 1576,2622 1590,2633 1590,2636 1592,2636 1595,2636 1826,2644 1829,2644 1923,2628 1926,2617 1915,2566 1547,2547 1544,2547 1426,2555 1412,2555 1409,2555 1385,2542 1382,2542 1380,2542 1318,2552 1315,2552 1288,2539 1286,2539 1283,2539 1103,2547 1087,2547 1078,2547 974,2531 971,2531 704,2536 565,2520 562,2520 376,2528 355,2547"/>
+        <Baseline points="355,2577 1926,2617"/>
+        <TextEquiv>
+          <Unicode>Anne Sexton&#x27;s book of poems entitled Live or Die is introduced</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_670aa6d1" >
+        <Coords points="153,2652 153,2671 150,2706 212,2711 215,2711 217,2711 220,2711 223,2708 250,2692 540,2714 554,2714 556,2714 559,2714 624,2703 645,2716 651,2719 653,2719 656,2719 659,2719 678,2716 726,2706 785,2719 839,2730 842,2730 890,2719 936,2711 982,2722 1041,2735 1232,2741 1235,2741 1299,2727 1329,2722 1382,2730 1525,2749 1528,2749 1530,2749 1584,2733 1595,2730 1600,2733 1635,2751 1638,2751 1641,2751 1643,2751 1708,2735 1722,2733 1800,2735 1845,2738 1867,2757 1869,2757 1872,2757 1875,2757 1878,2757 1918,2738 1921,2719 1921,2676 1727,2673 1724,2671 1711,2657 1708,2657 1705,2657 1703,2657 1641,2668 1633,2668 1617,2655 1614,2655 1611,2655 1608,2655 1452,2663 1434,2663 1426,2652 1423,2652 1423,2649 1420,2649 1417,2649 1415,2649 1342,2660 1334,2660 1323,2660 1232,2644 1229,2644 1052,2652 1038,2652 1030,2652 936,2636 933,2636 852,2646 850,2646 844,2646 742,2630 739,2630 454,2636 449,2636 443,2636 239,2617 236,2617 172,2625 153,2652"/>
+        <Baseline points="153,2671 1921,2719"/>
+        <TextEquiv>
+          <Unicode>by her with the statement that &quot;they read like a fever chart for a bad</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_eb107fd6"  >
+      <Coords points="987,2872 987,2913 365,2913 355,2840 922,2851 987,2872"/>
+      <TextLine id="eSc_line_e9725e68" >
+        <Coords points="963,2907 936,2907 909,2907 893,2867 890,2867 863,2848 861,2848 858,2848 855,2848 852,2848 815,2862 799,2867 780,2859 756,2848 753,2848 750,2848 747,2848 726,2856 704,2864 675,2854 653,2846 643,2846 629,2843 589,2848 530,2854 398,2840 373,2840 371,2837 347,2835 347,2891 344,2937 516,2942 519,2942 548,2937 618,2921 696,2934 777,2950 780,2950 782,2950 844,2934 869,2929 976,2932 982,2910 979,2872 976,2872 963,2907"/>
+        <Baseline points="347,2891 982,2910"/>
+        <TextEquiv>
+          <Unicode>⁵Ferlinghetti, pp. 20-21.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_2d4d3763" >
+        <Coords points="2015,234 2012,260 2044,269 2050,236 2050,180 2017,177 2015,234"/>
+        <Baseline points="2016,236 2051,237"/>
+        <TextEquiv>
+          <Unicode>7</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

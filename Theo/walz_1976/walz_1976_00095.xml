@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00095.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.171326+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.171338+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00095.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_c1db1e5f"  >
+      <Coords points="1988,204 2061,215 2071,363 1942,406 2050,408 2007,438 2071,556 2017,613 1996,1051 2028,1170 2017,1213 1953,1226 2017,1269 2028,1363 1974,1431 1985,1579 1942,1675 1985,1732 1964,1815 2039,2278 1859,2299 1835,2334 1856,2482 2017,2550 1985,2593 2017,2773 1931,2967 301,2967 312,2657 495,2593 204,2558 204,1839 236,1775 376,1740 258,1718 341,1686 215,1675 226,301 1974,290 1988,204"/>
+      <TextLine id="eSc_line_ce86cba8" >
+        <Coords points="2031,209 2004,207 1980,236 1982,247 1985,279 2052,260 2052,242 2047,209 2031,209"/>
+        <Baseline points="1982,247 2052,242"/>
+        <TextEquiv>
+          <Unicode>88</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6920e957" >
+        <Coords points="1439,293 1412,293 1385,293 1358,293 1331,293 1304,293 1278,293 1251,293 1224,293 1197,293 1170,293 1143,293 1116,293 1089,295 1062,295 1035,295 1008,295 982,295 955,295 928,295 901,295 874,295 847,295 820,295 793,295 766,295 739,295 713,295 686,295 659,298 632,298 605,298 578,298 551,298 524,298 497,298 470,298 443,298 417,298 390,298 363,298 336,298 309,298 282,298 255,298 228,298 228,333 226,341 2047,371 2052,352 2050,298 1442,293 1439,293"/>
+        <Baseline points="228,333 2052,352"/>
+        <TextEquiv>
+          <Unicode>The dead are cut off from God and from living communion with him. Being</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_761853c7" >
+        <Coords points="226,438 223,446 309,462 312,462 629,451 661,465 664,465 667,465 1452,457 1482,470 1485,470 1487,470 1899,457 1902,449 1899,403 226,392 226,438"/>
+        <Baseline points="226,438 1902,449"/>
+        <TextEquiv>
+          <Unicode>able to praise God and being no longer able to praise him are here</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_987acace" >
+        <Coords points="2034,500 1146,500 1089,489 1054,484 1052,484 850,486 339,494 234,481 234,540 231,554 2050,559 2055,546 2050,524 2034,500"/>
+        <Baseline points="234,540 2055,546"/>
+        <TextEquiv>
+          <Unicode>synonyms for the antithesis of life and death. Death cuts man off from</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9259d9f5" >
+        <Coords points="223,637 223,664 1972,664 1974,648 1972,591 1541,599 1358,586 1321,583 1318,583 1315,583 1310,586 1286,599 1100,599 1049,583 1038,581 1035,581 1033,581 1003,583 885,594 801,581 791,581 788,581 777,581 664,594 613,581 605,578 602,578 600,578 581,581 495,591 473,578 470,578 468,578 223,578 223,637"/>
+        <Baseline points="223,637 1974,648"/>
+        <TextEquiv>
+          <Unicode>God by separating him from his promises and his praise. The hopes of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_edce93f8" >
+        <Coords points="223,739 220,755 2017,763 2023,750 2020,707 1783,707 1781,704 1765,691 1762,691 1759,691 1756,691 1224,702 1130,702 1124,702 1100,685 1097,685 1095,685 1092,685 807,699 772,699 761,699 675,683 672,683 223,694 223,739"/>
+        <Baseline points="223,739 2023,750"/>
+        <TextEquiv>
+          <Unicode>resurrection did find a place on the periphery of the Old Testament and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_439943ac" >
+        <Coords points="223,839 220,858 1948,866 1953,855 1950,809 1665,790 1662,790 1442,801 1380,804 1339,801 1226,788 1224,788 1130,798 1092,801 1062,796 1011,788 1008,788 887,796 812,798 791,793 750,782 747,782 745,782 742,782 721,793 713,796 645,790 478,780 476,780 223,785 223,839"/>
+        <Baseline points="223,839 1953,855"/>
+        <TextEquiv>
+          <Unicode>in the apocalyptic of late Judaism. According to Ezekiel 37:11, the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3fbbbebf" >
+        <Coords points="1991,903 220,887 220,944 217,954 1991,965 1996,954 1993,922 1991,903"/>
+        <Baseline points="220,944 1996,954"/>
+        <TextEquiv>
+          <Unicode>people of the promise can now recognize themselves only in the picture</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_09e5d302" >
+        <Coords points="215,1057 1918,1078 1923,1057 1921,1008 1565,1008 1547,1000 1512,992 1509,992 1506,992 1304,997 1121,1003 1095,995 1070,987 1068,987 1065,987 882,992 672,997 653,989 648,984 645,984 643,984 640,984 602,987 516,997 489,987 478,981 476,981 473,981 433,984 344,995 282,981 269,981 266,981 263,981 260,981 242,995 223,981 217,1041 215,1057"/>
+        <Baseline points="217,1041 1923,1057"/>
+        <TextEquiv>
+          <Unicode>of dead bones, i. e., of hope chat has come to noching, and then are</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8b97171" >
+        <Coords points="2007,1108 217,1097 217,1143 215,1167 2007,1170 2012,1154 2012,1127 2007,1108"/>
+        <Baseline points="217,1143 2012,1154"/>
+        <TextEquiv>
+          <Unicode>given to hear the prophetic message of a new promise of life by Yahweh:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2e19ec5d" >
+        <Coords points="226,1237 223,1253 1886,1266 1891,1250 1888,1197 226,1183 226,1237"/>
+        <Baseline points="226,1237 1891,1250"/>
+        <TextEquiv>
+          <Unicode>&quot;Behold, I will cause breath to enter into you, and you shal live&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_606102a8" >
+        <Coords points="2012,1301 223,1296 223,1345 220,1355 250,1371 252,1371 255,1371 600,1361 645,1361 653,1361 704,1374 707,1374 710,1374 952,1366 1046,1363 1073,1369 1121,1377 1124,1377 1302,1371 1452,1366 2012,1379 2017,1355 2015,1307 2012,1301"/>
+        <Baseline points="223,1345 2017,1355"/>
+        <TextEquiv>
+          <Unicode>(Ezekiel 37:5). This promises a creative act of Yahweh upon his people</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d81062ee" >
+        <Coords points="217,1444 215,1457 228,1468 231,1468 234,1468 236,1468 495,1457 503,1468 505,1468 505,1471 508,1471 511,1471 513,1471 726,1460 739,1460 750,1460 874,1474 1939,1479 1945,1460 1945,1409 217,1393 217,1444"/>
+        <Baseline points="217,1444 1945,1460"/>
+        <TextEquiv>
+          <Unicode>beyond the bounds of the temporal and the possible. It is a promise</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ca0956e" >
+        <Coords points="215,1568 1964,1570 1969,1560 1966,1514 217,1501 217,1546"/>
+        <Baseline points="217,1546 1969,1560"/>
+        <TextEquiv>
+          <Unicode>that has no conditions and no presuppositions, a promise of life from</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0aec5243" >
+        <Coords points="217,1643 215,1654 1751,1670 1756,1659 1754,1614 1399,1614 1391,1608 1353,1597 1350,1597 1348,1597 1259,1608 1248,1608 1240,1608 1167,1595 1165,1595 1097,1605 1084,1608 1068,1605 987,1592 984,1592 982,1592 947,1605 944,1605 930,1605 815,1592 812,1592 809,1592 807,1592 793,1603 791,1605 782,1603 721,1592 718,1592 602,1603 586,1603 583,1603 570,1589 567,1589 565,1589 562,1589 489,1600 476,1603 465,1600 411,1587 408,1587 406,1587 217,1597 217,1643"/>
+        <Baseline points="217,1643 1756,1659"/>
+        <TextEquiv>
+          <Unicode>the dead on the ground of a creative act of Yahweh ex nihilo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1151dba9" >
+        <Coords points="417,1759 1958,1770 1964,1759 1961,1710 858,1710 812,1694 807,1694 804,1694 801,1694 756,1694 468,1705 422,1692 419,1748 417,1759"/>
+        <Baseline points="419,1748 1964,1759"/>
+        <TextEquiv>
+          <Unicode>In the context of these expectations, Jesus&#x27; death is experi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae8d65db" >
+        <Coords points="212,1815 212,1850 209,1861 1937,1872 1942,1861 1939,1815 223,1796 212,1815"/>
+        <Baseline points="212,1850 1942,1861"/>
+        <TextEquiv>
+          <Unicode>enced and proclaimed as god-forsakenness, judgment, curse, exclusion</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e4d9f560" >
+        <Coords points="212,1966 1961,1974 1966,1963 1964,1915 828,1909 769,1896 753,1893 750,1893 704,1893 511,1904 379,1891 376,1891 373,1891 371,1891 258,1901 217,1888 215,1947 212,1966"/>
+        <Baseline points="215,1947 1966,1963"/>
+        <TextEquiv>
+          <Unicode>from the promised life, reprobation, and damnation. His resurrection</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_844b3b30" >
+        <Coords points="212,2049 209,2068 1964,2082 1969,2063 1966,2020 212,1998 212,2049"/>
+        <Baseline points="212,2049 1969,2063"/>
+        <TextEquiv>
+          <Unicode>must then be understood not as a mere return to life as such but as a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b27edb7c" >
+        <Coords points="212,2152 209,2165 1985,2181 1991,2162 1988,2117 1450,2100 1447,2100 1382,2111 1380,2111 1348,2098 1345,2098 1342,2098 1140,2111 1105,2111 1100,2111 1057,2095 1054,2095 1052,2095 866,2108 850,2108 831,2108 640,2092 637,2092 634,2092 632,2092 616,2106 543,2092 540,2092 538,2092 505,2106 487,2092 484,2092 481,2092 478,2092 212,2103 212,2152"/>
+        <Baseline points="212,2152 1991,2162"/>
+        <TextEquiv>
+          <Unicode>conquest of the deadliness of death. Jesus&#x27; resurrection was not seen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_37f83240" >
+        <Coords points="2026,2211 212,2205 212,2251 209,2267 2031,2283 2036,2259 2034,2254 2026,2211"/>
+        <Baseline points="212,2251 2036,2259"/>
+        <TextEquiv>
+          <Unicode>as a private Easter for his private Good Friday but as the beginning and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b71e1c1a" >
+        <Coords points="209,2353 207,2364 1808,2377 1813,2361 1810,2316 209,2308 209,2353"/>
+        <Baseline points="209,2353 1813,2361"/>
+        <TextEquiv>
+          <Unicode>source of the abolition of the universal Good Friday. It means</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be438dc1" >
+        <Coords points="212,2453 209,2474 1829,2482 1835,2461 1832,2412 1579,2399 1576,2399 1382,2410 1318,2412 1296,2410 1224,2396 1221,2396 1218,2396 1167,2410 1159,2410 1154,2410 1095,2396 1092,2396 1089,2396 1054,2410 1049,2412 756,2412 731,2407 632,2394 629,2394 567,2407 565,2407 559,2407 511,2394 508,2394 505,2394 212,2404 212,2453"/>
+        <Baseline points="212,2453 1835,2461"/>
+        <TextEquiv>
+          <Unicode>following the intention of God by entering into the dialectic of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0e7a7640" >
+        <Coords points="1985,2536 1958,2525 1942,2517 209,2501 209,2552 207,2563 1996,2577 2001,2566 1993,2547 1985,2536"/>
+        <Baseline points="209,2552 2001,2566"/>
+        <TextEquiv>
+          <Unicode>suffering and dying in expectation of eternal life and of resurrection.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fffce4de" >
+        <Coords points="465,2601 438,2611 411,2620 411,2655 408,2665 1974,2673 1980,2663 1977,2620 1415,2598 1412,2598 1409,2598 1348,2614 1329,2598 1326,2598 1323,2598 1321,2598 1243,2614 1224,2598 1221,2598 1218,2598 1132,2598 1130,2598 1127,2598 1124,2598 1100,2614 1076,2598 1073,2598 1070,2598 1068,2598 952,2614 936,2614 930,2614 893,2595 890,2595 887,2595 885,2595 828,2611 828,2614 527,2614 521,2611 492,2595 489,2595 487,2595 473,2595 465,2601"/>
+        <Baseline points="411,2655 1980,2663"/>
+        <TextEquiv>
+          <Unicode>Just as the urge of promise is towards fulfilment, as the urge</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47943b77" >
+        <Coords points="1999,2708 1980,2671 306,2663 306,2703 304,2714 1996,2727 2001,2714 1999,2708 1999,2708"/>
+        <Baseline points="306,2703 2001,2714"/>
+        <TextEquiv>
+          <Unicode>of faith is towards obedience and sight, and as the urge of hope is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_768070d8" >
+        <Coords points="309,2727 309,2754 306,2765 1993,2778 1999,2765 1996,2722 328,2711 309,2727"/>
+        <Baseline points="309,2754 1999,2765"/>
+        <TextEquiv>
+          <Unicode>towards the life that is promised and finally attained, so the urge</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_83bb2194" >
+        <Coords points="1974,2765 1948,2765 1921,2765 1894,2765 1867,2765 1840,2765 1813,2765 1786,2765 1759,2765 1732,2765 1705,2765 1678,2765 1652,2765 1625,2765 1598,2765 1590,2762 306,2762 306,2805 304,2816 1974,2829 1980,2819 1977,2765 1974,2765"/>
+        <Baseline points="306,2805 1980,2819"/>
+        <TextEquiv>
+          <Unicode>of the raising of Christ is towards life in the Spirit and towards</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4314d12d" >
+        <Coords points="1872,2819 1845,2819 1818,2819 1791,2819 1765,2819 1738,2819 1711,2819 1684,2819 1657,2819 1638,2816 1487,2816 1469,2816 1442,2816 1415,2816 1388,2816 1361,2816 1334,2816 1321,2813 1095,2813 1092,2813 1065,2813 1038,2813 1011,2813 984,2813 974,2811 702,2811 688,2811 661,2811 656,2808 312,2808 312,2856 309,2864 1878,2872 1883,2864 1880,2819 1872,2819"/>
+        <Baseline points="312,2856 1883,2864"/>
+        <TextEquiv>
+          <Unicode>the eternal life that is the consummation of all things. This</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_66d8e660" >
+        <Coords points="309,2905 306,2915 1918,2934 1923,2915 1921,2875 309,2864 309,2905"/>
+        <Baseline points="309,2905 1923,2915"/>
+        <TextEquiv>
+          <Unicode>eternal life here lies hidden beneath its opposite, under trial,</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_1a80117f" >
+        <Coords points="306,2969 304,3007 430,3010 433,3010 435,3010 449,3007 521,2988 573,3007 578,3007 581,3007 583,3007 586,3007 589,3007 618,2988 713,2988 828,3004 874,3010 877,3010 957,3002 1113,2988 1175,3002 1229,3012 1232,3012 1235,3012 1269,3002 1299,2991 1350,2999 1382,3004 1385,3004 1514,2999 1617,2993 1622,2996 1630,3004 1630,3007 1633,3007 1635,3007 1638,3007 1641,3007 1660,2996 1673,2991 1687,2996 1727,3012 1730,3012 1732,3012 1923,2993 1926,2975 1923,2926 306,2921 306,2969"/>
+        <Baseline points="309,2970 1927,2976"/>
+        <TextEquiv>
+          <Unicode>suffering, death and sorrow. Yet this its hiddenness is not an</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

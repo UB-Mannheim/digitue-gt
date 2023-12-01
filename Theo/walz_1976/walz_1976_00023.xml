@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00023.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.655486+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.655498+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00023.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_55e18b65"  >
+      <Coords points="1931,309 1835,341 1888,355 1867,427 1974,462 1974,503 1794,535 1824,567 1791,610 1662,632 193,610 193,247 1921,247 1931,309"/>
+      <TextLine id="eSc_line_a35d23a4" >
+        <Coords points="1910,250 1426,247 1426,247 1399,247 1372,247 1345,247 1318,247 1291,247 1264,247 1237,247 1210,247 1183,247 1156,247 1130,247 1103,247 1076,247 1049,247 1022,247 995,247 968,247 941,247 914,247 887,247 861,247 834,247 807,247 780,247 753,247 726,247 699,247 672,247 645,247 618,247 591,247 565,247 538,247 511,247 484,247 457,247 430,247 403,247 376,247 349,247 322,247 295,247 269,247 242,247 215,247 191,242 191,287 188,298 1923,317 1929,295 1926,285 1910,250"/>
+        <Baseline points="191,287 1929,295"/>
+        <TextEquiv>
+          <Unicode>human hearts before we sense the desperate need that exists for hope.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1ea77ea4" >
+        <Coords points="191,395 191,411 1864,419 1867,395 1867,349 191,336 191,395"/>
+        <Baseline points="191,395 1867,395"/>
+        <TextEquiv>
+          <Unicode>It is at such a time as this that a &quot;school of hope&quot; has come into</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1094112a" >
+        <Coords points="1942,449 1528,435 1525,435 1434,449 1396,435 1393,435 1391,435 1388,435 1385,435 1366,451 1218,451 1189,435 1186,435 1183,435 1030,449 885,435 882,435 750,449 737,438 737,435 734,435 731,435 729,435 726,435 696,451 320,451 250,435 247,435 244,435 199,446 188,497 188,516 228,538 231,538 234,538 355,516 363,516 433,516 435,516 452,532 454,532 457,532 460,532 462,532 489,519 497,516 559,516 565,519 578,532 581,532 583,532 586,532 589,532 591,532 610,519 621,519 699,532 702,532 761,521 796,516 804,521 820,535 823,535 826,535 828,535 879,524 901,519 914,524 949,538 952,538 955,538 957,538 960,538 974,524 987,516 1329,516 1374,529 1377,529 1380,529 1431,521 1444,532 1450,538 1452,538 1455,538 1458,540 1802,540 1802,538 1805,538 1808,538 1848,521 1958,538 1961,497 1961,457 1942,449"/>
+        <Baseline points="188,497 1961,497"/>
+        <TextEquiv>
+          <Unicode>being. These theologians are being given an eager hearing by many who</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa2108c5" >
+        <Coords points="191,591 188,613 301,634 304,637 390,637 390,634 392,634 395,634 419,616 422,616 489,616 513,616 538,634 540,634 543,634 546,634 548,634 610,618 616,616 618,618 637,632 637,634 640,634 643,634 718,637 721,640 1017,640 1017,637 1019,637 1057,621 1062,618 1205,618 1210,621 1243,637 1245,637 1248,637 1251,637 1296,621 1299,621 1302,621 1334,640 1337,640 1339,642 1466,642 1466,640 1469,640 1522,624 1533,621 1770,624 1775,599 1773,540 191,543 191,591"/>
+        <Baseline points="191,591 1775,599"/>
+        <TextEquiv>
+          <Unicode>want to perceive and share a message of living hope in our day.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_98a3ef5b"  >
+      <Coords points="1945,201 1956,172 1988,161 2007,201 1945,201"/>
+      <TextLine id="eSc_line_0738efaf" >
+        <Coords points="1988,174 1964,166 1961,188 1956,217 1993,215 1999,193 1996,180 1988,174"/>
+        <Baseline points="1961,188 1999,193"/>
+        <TextEquiv>
+          <Unicode>16</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00123.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.548992+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.549004+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00123.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_74bc2253"  >
+      <Coords points="1923,182 2028,204 1996,247 2028,352 1953,505 2017,570 2028,653 1985,710 1985,858 1899,903 1899,1030 1985,1086 2028,1751 2007,1966 1791,2030 1953,2065 1985,2108 2028,2364 1985,2410 1974,2644 1910,2751 2017,2776 2028,2859 1913,2870 1878,2894 1888,2956 1781,2967 204,2967 182,2302 204,2162 247,2130 204,2117 182,1901 193,301 1845,290 1988,255 1923,244 1923,182"/>
+      <TextLine id="eSc_line_fdd0db1c" >
+        <Coords points="2001,199 1972,193 1945,185 1923,231 1923,250 2015,236 2015,223 2012,220 2001,199"/>
+        <Baseline points="1923,231 2015,223"/>
+        <TextEquiv>
+          <Unicode>116</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0865d760" >
+        <Coords points="2001,287 1837,287 1829,290 1802,290 1775,290 1748,290 1722,290 1695,290 1668,290 1641,290 1614,290 1587,290 1560,290 1533,290 1506,290 1479,290 1452,290 1426,293 1399,293 1372,293 1345,293 1318,293 1291,293 1264,293 1237,293 1210,293 1183,293 1156,293 1130,293 1103,293 1076,293 1049,293 1022,293 995,295 968,295 941,295 914,295 887,295 861,295 834,295 807,295 780,295 753,295 726,295 699,295 672,295 645,295 618,295 591,298 565,298 538,298 511,298 484,298 457,298 430,298 403,298 376,298 349,298 322,298 295,298 269,298 242,298 215,298 188,295 191,338 191,363 2012,357 2015,330 2012,322 2001,287"/>
+        <Baseline points="191,338 2015,330"/>
+        <TextEquiv>
+          <Unicode>will not achieve any public credibility in the human and social problems</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2bade2e0" >
+        <Coords points="191,441 191,465 1966,438 1966,425 1961,384 1786,384 1762,368 1759,368 1756,368 1754,368 1670,384 1662,387 1509,387 1506,384 1479,371 1477,371 1474,371 1471,371 1442,384 1442,387 1237,387 1229,387 1154,371 1151,371 1076,387 1057,390 1003,387 780,373 777,373 667,390 634,395 527,395 519,390 497,376 495,376 492,376 489,376 398,390 360,395 352,390 333,379 330,379 328,379 325,379 188,390 191,441"/>
+        <Baseline points="191,441 1966,425"/>
+        <TextEquiv>
+          <Unicode>of our divided world. The &quot;death of God&quot; theology has compelled theo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d7d136b3" >
+        <Coords points="193,540 193,562 1918,546 1921,535 1915,492 1057,478 1054,478 1052,478 1017,492 419,481 417,481 191,494 193,540"/>
+        <Baseline points="193,540 1921,535"/>
+        <TextEquiv>
+          <Unicode>logians to begin with christology and so speak of God in relation to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af36f40b" >
+        <Coords points="2004,586 651,581 648,581 645,581 643,581 621,594 263,583 260,583 191,597 193,642 193,653 2020,642 2020,632 2017,629 2004,586"/>
+        <Baseline points="193,642 2020,632"/>
+        <TextEquiv>
+          <Unicode>Jesus. A trinitarian approach to the death of Jesus allows us to affirm</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e0e6612a" >
+        <Coords points="193,742 193,763 1958,745 1961,731 1956,691 1687,675 1684,675 1622,688 1619,688 1611,688 1506,677 1504,677 1501,677 1498,677 1487,688 1485,691 1479,688 1455,677 1452,677 1450,677 1447,677 1409,688 1393,691 1302,688 1127,680 1124,680 1068,688 1014,694 971,685 930,680 928,680 777,685 532,696 191,685 193,742"/>
+        <Baseline points="193,742 1961,731"/>
+        <TextEquiv>
+          <Unicode>that the Father suffers with him on the cross but not in the same way.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d43cdb71" >
+        <Coords points="193,841 193,855 1966,847 1969,833 1964,790 191,785 193,841"/>
+        <Baseline points="193,841 1969,833"/>
+        <TextEquiv>
+          <Unicode>When the crucified Jesus is called the &quot;image of the invisible God&quot; it</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c3c69c2" >
+        <Coords points="193,944 193,957 1869,949 1872,938 1867,895 1668,895 1665,893 1635,879 1633,879 1630,879 1627,879 1579,893 1574,893 1436,890 901,882 898,882 895,882 882,887 866,895 807,887 764,882 761,882 758,882 737,887 702,895 664,887 645,882 643,882 640,882 610,887 548,895 191,885 193,944"/>
+        <Baseline points="193,944 1872,938"/>
+        <TextEquiv>
+          <Unicode>is meant that this is God, and God is like this. God is not more</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06b35c0a" >
+        <Coords points="193,1046 193,1062 1869,1054 1872,1035 1864,984 191,987 193,1046"/>
+        <Baseline points="193,1046 1872,1035"/>
+        <TextEquiv>
+          <Unicode>glorious than he is in his self-surrender. Jesus&#x27; death cannot be</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d149f47" >
+        <Coords points="196,1143 196,1159 1969,1159 1972,1137 1966,1094 1191,1081 1189,1081 1087,1094 1076,1097 193,1097 196,1143"/>
+        <Baseline points="196,1143 1972,1137"/>
+        <TextEquiv>
+          <Unicode>understood &quot;as the death of God&quot; but only as death in God. The origin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75cb34cb" >
+        <Coords points="193,1245 193,1258 1969,1250 1972,1234 1969,1191 1918,1175 1915,1175 1913,1175 1592,1188 1525,1175 1522,1175 1520,1175 1458,1191 1304,1178 1302,1178 1043,1194 764,1180 761,1180 758,1180 731,1194 656,1180 653,1180 651,1180 613,1197 575,1183 573,1183 570,1183 392,1197 295,1183 293,1183 191,1199 193,1245"/>
+        <Baseline points="193,1245 1972,1234"/>
+        <TextEquiv>
+          <Unicode>of Christian theology is only the death on the cross in God and God in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_09b2c088" >
+        <Coords points="193,1345 193,1369 1945,1350 1948,1336 1942,1293 191,1291 193,1345"/>
+        <Baseline points="193,1345 1948,1336"/>
+        <TextEquiv>
+          <Unicode>Jesus&#x27; death. Moltmann says that most previous statements about &quot;the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ce929bff" >
+        <Coords points="193,1444 193,1460 2020,1455 2023,1439 2017,1396 1183,1382 1181,1382 1073,1396 301,1385 298,1385 191,1398 193,1444"/>
+        <Baseline points="193,1444 2023,1439"/>
+        <TextEquiv>
+          <Unicode>death of God&quot; have lacked the trinitarian dimension. With the Christian</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e67ac3ad" >
+        <Coords points="193,1544 193,1557 2023,1552 2023,1538 2017,1492 247,1484 244,1484 242,1484 191,1498 193,1544"/>
+        <Baseline points="193,1544 2023,1538"/>
+        <TextEquiv>
+          <Unicode>message of the cross of Christ something new and strange has entered the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6a44308" >
+        <Coords points="193,1643 193,1667 1996,1651 1999,1632 1993,1592 1918,1576 1915,1576 1700,1589 1579,1576 1576,1576 1574,1576 1530,1595 1167,1595 1097,1579 1095,1579 952,1595 643,1581 640,1581 637,1581 575,1597 290,1584 287,1584 191,1600 193,1643"/>
+        <Baseline points="193,1643 1999,1632"/>
+        <TextEquiv>
+          <Unicode>metaphysical world. Faith must think of the suffering of Christ as the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd589804" >
+        <Coords points="193,1745 193,1767 2012,1759 2012,1740 2004,1686 191,1686 193,1745"/>
+        <Baseline points="193,1745 2012,1740"/>
+        <TextEquiv>
+          <Unicode>power of God and the death of Christ as God&#x27;s potentiality. Conversely,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5f1115ec" >
+        <Coords points="199,1848 199,1858 1972,1850 1974,1839 1969,1794 1479,1780 1477,1780 1385,1794 1374,1796 196,1796 199,1848"/>
+        <Baseline points="199,1848 1974,1839"/>
+        <TextEquiv>
+          <Unicode>it must think of freedom from suffering and death as a possibility for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1af03b2d" >
+        <Coords points="196,1947 196,1961 1999,1950 1999,1939 1991,1896 193,1901 196,1947"/>
+        <Baseline points="196,1947 1999,1939"/>
+        <TextEquiv>
+          <Unicode>man. No Christian eschatology is possible without the knowledge of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e92c5698" >
+        <Coords points="193,2030 196,2047 196,2065 1738,2055 1740,2041 1735,1998 217,1987 215,1987 212,1987 209,1987 204,1987 193,2030"/>
+        <Baseline points="196,2047 1740,2041"/>
+        <TextEquiv>
+          <Unicode>God who creates from nothing and raises the crucified Christ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5ebf0d6b" >
+        <Coords points="398,2149 398,2170 1969,2154 1972,2141 1966,2098 395,2098 398,2149"/>
+        <Baseline points="398,2149 1972,2141"/>
+        <TextEquiv>
+          <Unicode>Metaphysical atheism sees an unjust and absurd world of trium-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4dbd910" >
+        <Coords points="193,2213 196,2251 196,2275 293,2262 664,2270 777,2273 780,2273 782,2273 791,2270 817,2259 1113,2264 1345,2270 1348,2270 1950,2254 1953,2243 1945,2189 196,2200 193,2213"/>
+        <Baseline points="196,2251 1953,2243"/>
+        <TextEquiv>
+          <Unicode>phant evil and suffering without seeing the countenance of a God. It</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5858788a" >
+        <Coords points="2012,2294 196,2294 199,2348 199,2369 2023,2356 2023,2340 2020,2326 2012,2294"/>
+        <Baseline points="199,2348 2023,2340"/>
+        <TextEquiv>
+          <Unicode>says belief in the devil is more plausible than belief in God. The peak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11e4cda7" >
+        <Coords points="199,2450 199,2464 1948,2455 1950,2442 1942,2396 196,2402 199,2450"/>
+        <Baseline points="199,2450 1950,2442"/>
+        <TextEquiv>
+          <Unicode>of metaphysical rebellion against the God who cannot die is a freely-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_941385c7" >
+        <Coords points="1972,2499 196,2496 196,2552 196,2571 1974,2563 1974,2552 1974,2523 1972,2499"/>
+        <Baseline points="196,2552 1974,2552"/>
+        <TextEquiv>
+          <Unicode>chosen death, suicide. A God who is incapable of suffering is a being</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_13ce1e85" >
+        <Coords points="196,2652 196,2676 1948,2668 1950,2644 1945,2601 239,2593 236,2593 234,2593 193,2606 196,2652"/>
+        <Baseline points="196,2652 1950,2644"/>
+        <TextEquiv>
+          <Unicode>who cannot love either. He is a loveless, uninvolved being. Protest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8d9cf93" >
+        <Coords points="196,2714 196,2751 196,2762 1872,2768 1875,2751 1875,2708 196,2708 196,2714"/>
+        <Baseline points="196,2751 1875,2751"/>
+        <TextEquiv>
+          <Unicode>atheism will arrive at its own truth if it recognizes man--erring,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a20acf6a" >
+        <Coords points="2012,2797 196,2800 199,2851 199,2878 944,2864 1124,2867 1409,2875 1412,2875 1541,2864 1571,2862 1617,2862 1883,2872 1886,2872 2023,2856 2023,2843 2015,2805 2012,2797"/>
+        <Baseline points="199,2851 2023,2843"/>
+        <TextEquiv>
+          <Unicode>loving, and suffering, unrighteous and protesting against injustice--and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f67d597" >
+        <Coords points="1869,2897 196,2897 199,2950 199,2977 1878,2967 1880,2945 1878,2937 1869,2897"/>
+        <Baseline points="199,2950 1880,2945"/>
+        <TextEquiv>
+          <Unicode>sees that in his human experiences he is greater than all gods and</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

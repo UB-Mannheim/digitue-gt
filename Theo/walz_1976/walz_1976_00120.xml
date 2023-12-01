@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00120.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.507258+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.507269+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00120.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_be4b235b"  >
+      <Coords points="2082,890 2007,936 2082,1170 2071,1277 2017,1323 1985,1643 796,1632 664,1686 1996,1710 2007,1783 1942,1839 1888,2052 1953,2076 1985,2184 2007,2611 1964,2655 2028,2690 2039,2773 215,2762 226,1764 376,1729 236,1700 441,1686 226,1643 258,290 1845,301 1996,290 2009,204 2093,215 2061,269 2093,685 2082,890"/>
+      <TextLine id="eSc_line_34235356" >
+        <Coords points="2071,250 2044,207 2026,204 1991,215 1991,258 1993,309 2087,282 2087,258 2087,220 2085,220 2071,250"/>
+        <Baseline points="1991,258 2087,258"/>
+        <TextEquiv>
+          <Unicode>113</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08c2fa73" >
+        <Coords points="2061,336 2052,306 1310,295 1307,295 1280,295 1253,295 1226,295 1200,295 1173,295 1146,295 1119,295 1092,295 1065,295 1038,293 1011,293 984,293 957,293 930,293 904,293 877,293 850,293 823,293 796,293 769,293 742,293 715,293 688,293 661,293 634,290 608,290 581,290 554,290 527,290 500,290 473,290 446,290 419,290 392,290 365,290 339,290 312,290 285,290 258,290 258,328 255,341 2055,368 2061,357 2061,338 2061,336"/>
+        <Baseline points="258,328 2061,357"/>
+        <TextEquiv>
+          <Unicode>poor for which he lived. Jesus was accused of blasphemy because in his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d3f2feb6" >
+        <Coords points="255,427 252,446 2071,486 2077,465 2074,419 255,379 255,427"/>
+        <Baseline points="255,427 2077,465"/>
+        <TextEquiv>
+          <Unicode>preaching he put himself above Moses, claimed the right to forgive sins,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e722f5cb" >
+        <Coords points="255,527 252,540 1245,572 1248,572 2069,570 2071,556 2069,516 255,481 255,527"/>
+        <Baseline points="255,527 2071,556"/>
+        <TextEquiv>
+          <Unicode>and proclaimed the kingdom of God open to those outside the Law--those</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a2f19f8" >
+        <Coords points="252,629 252,656 979,656 1140,669 1170,672 1173,672 1189,672 1272,661 1563,677 1622,680 1625,680 1646,680 1770,669 1800,683 1802,683 1805,683 2071,685 2077,661 2077,616 252,586 252,629"/>
+        <Baseline points="252,629 2077,661"/>
+        <TextEquiv>
+          <Unicode>justified by grace. Through his own poverty, lowliness, and abandonment</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0ff89ca8" >
+        <Coords points="252,731 250,750 1875,777 1880,758 1880,710 1592,710 1579,702 1555,691 1552,691 1549,691 1119,691 678,691 608,680 578,675 575,675 513,677 333,685 252,672 252,731"/>
+        <Baseline points="252,731 1880,758"/>
+        <TextEquiv>
+          <Unicode>the righteousness and grace of God comes to the poor, lowly, and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d98b92a" >
+        <Coords points="250,828 247,850 2069,876 2074,863 2071,815 250,782 250,828"/>
+        <Baseline points="250,828 2074,863"/>
+        <TextEquiv>
+          <Unicode>abandoned. His execution must be seen as a necessary consequence of his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7c726b6" >
+        <Coords points="247,930 244,941 1945,976 1950,963 1950,903 1127,903 1113,893 1105,885 1103,885 1100,885 1097,885 1022,893 960,898 922,890 877,882 874,882 871,882 839,890 815,895 780,890 723,879 721,879 718,879 696,887 686,893 680,887 667,876 664,876 661,876 659,876 594,887 570,890 530,887 390,871 387,871 247,882 247,930"/>
+        <Baseline points="247,930 1950,963"/>
+        <TextEquiv>
+          <Unicode>conflict with the law. As a result, the theological trial of Jesus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_260abc7a" >
+        <Coords points="244,1030 242,1043 920,1067 922,1067 1143,1059 1186,1059 1208,1062 1326,1076 1329,1076 1560,1067 1571,1067 1587,1081 1590,1081 1592,1081 1595,1081 1996,1073 1999,1065 1996,1016 244,984 244,1030"/>
+        <Baseline points="244,1030 1999,1065"/>
+        <TextEquiv>
+          <Unicode>after Easter turns on the question of righteousness. It is a contest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc5d94fa" >
+        <Coords points="2058,1113 244,1073 244,1129 242,1143 269,1156 271,1156 274,1156 371,1145 457,1159 2063,1180 2069,1162 2066,1137 2058,1113"/>
+        <Baseline points="244,1129 2069,1162"/>
+        <TextEquiv>
+          <Unicode>between gospel and law, righteousness by faith and by works, and between</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_84b17442" >
+        <Coords points="244,1229 242,1242 521,1264 524,1264 982,1264 1216,1264 1226,1269 1237,1277 1240,1277 1243,1277 1245,1277 1286,1272 1318,1266 1337,1272 1358,1280 1361,1280 1364,1280 1574,1280 1899,1277 2052,1291 2058,1264 2058,1218 244,1180 244,1229"/>
+        <Baseline points="244,1229 2058,1264"/>
+        <TextEquiv>
+          <Unicode>the justification of the godless and the justification of the righteous.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_faafccca" >
+        <Coords points="239,1331 236,1342 1985,1374 1991,1361 1988,1315 842,1283 839,1283 774,1283 567,1291 546,1277 543,1277 540,1277 538,1277 521,1277 414,1288 400,1277 400,1275 398,1275 395,1275 392,1275 387,1275 312,1285 239,1272 239,1331"/>
+        <Baseline points="239,1331 1991,1361"/>
+        <TextEquiv>
+          <Unicode>Jesus&#x27; proclamation of God&#x27;s law of grace affected not only the Phar-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f65cc258" >
+        <Coords points="236,1428 234,1449 1980,1476 1985,1455 1985,1420 1923,1404 1921,1404 1918,1404 1915,1404 1880,1417 1875,1417 1875,1414 1859,1401 1856,1401 1853,1401 1851,1401 1778,1412 1765,1414 1759,1412 1730,1398 1727,1398 1724,1398 1544,1406 1477,1409 1469,1404 1458,1396 1455,1396 1452,1396 1450,1396 1415,1404 1396,1406 1353,1401 1269,1390 1267,1390 1264,1390 1235,1398 1213,1404 1197,1396 1175,1388 1173,1388 1170,1388 1127,1396 1092,1401 965,1401 957,1390 949,1385 949,1382 947,1382 944,1382 941,1382 855,1388 764,1393 729,1385 713,1379 710,1379 707,1379 678,1382 618,1390 538,1379 503,1374 500,1374 484,1377 435,1388 236,1371 236,1428"/>
+        <Baseline points="236,1428 1633,1460 1985,1455"/>
+        <TextEquiv>
+          <Unicode>isees and Zealots but also the cultic and political religious founda-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_edd62000" >
+        <Coords points="234,1530 231,1552 1205,1576 1208,1576 1248,1568 1261,1565 1299,1568 1434,1581 1436,1581 1530,1570 1544,1570 1565,1570 1697,1587 1700,1587 1797,1576 1845,1589 1848,1589 1851,1589 1961,1576 1964,1565 1964,1517 234,1479 234,1530"/>
+        <Baseline points="234,1530 1964,1565"/>
+        <TextEquiv>
+          <Unicode>tions of the Pax Romana and the archaic conceptions of righteousness</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06d53d9f" >
+        <Coords points="231,1630 228,1646 645,1659 651,1638 651,1589 231,1573 231,1630"/>
+        <Baseline points="231,1630 651,1638"/>
+        <TextEquiv>
+          <Unicode>held by all men.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94e9686f" >
+        <Coords points="1991,1721 433,1681 430,1686 430,1737 427,1759 1991,1786 1996,1770 1996,1745 1991,1721"/>
+        <Baseline points="430,1737 1996,1770"/>
+        <TextEquiv>
+          <Unicode>Socrates and Zealot, Stoic, and Christian martyrs died calmly.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f5e1084" >
+        <Coords points="228,1831 226,1850 1902,1880 1907,1861 1907,1815 1420,1807 1420,1804 1407,1794 1407,1791 1404,1791 1401,1791 1399,1791 1218,1802 1200,1802 1194,1802 1146,1786 1143,1786 1140,1786 1035,1799 1025,1799 1014,1799 941,1783 939,1783 936,1783 901,1796 898,1796 869,1796 532,1775 530,1775 470,1788 465,1788 462,1788 379,1772 376,1772 228,1783 228,1831"/>
+        <Baseline points="228,1831 1907,1861"/>
+        <TextEquiv>
+          <Unicode>Jesus&#x27; death was different.⁶ We need to see his death not only in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ffa02dd6" >
+        <Coords points="226,1934 223,1950 1872,1987 1878,1966 1878,1909 226,1877 226,1934"/>
+        <Baseline points="226,1934 1878,1966"/>
+        <TextEquiv>
+          <Unicode>relation to human authorities but also in relation to his God and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf4b15a8" >
+        <Coords points="223,2030 220,2052 1848,2079 1853,2065 1853,2012 223,1974 223,2030"/>
+        <Baseline points="223,2030 1853,2065"/>
+        <TextEquiv>
+          <Unicode>Father. Jesus died with the signs and expressions of a profound</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a6aec576" >
+        <Coords points="223,2133 220,2143 1945,2178 1950,2168 1948,2122 223,2087 223,2133"/>
+        <Baseline points="223,2133 1950,2168"/>
+        <TextEquiv>
+          <Unicode>abandonment by God. Anyone who lived in such direct fellowship with</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_354f94f5" >
+        <Coords points="217,2235 215,2254 1969,2286 1974,2267 1974,2224 1789,2205 1786,2205 1687,2216 1681,2216 1649,2203 1646,2203 1643,2203 1544,2213 1533,2213 1514,2213 1318,2197 1315,2197 1259,2208 1251,2208 217,2186 217,2235"/>
+        <Baseline points="217,2235 1974,2267"/>
+        <TextEquiv>
+          <Unicode>God could not regard his being handed over to death on the cross as a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5dfbe695" >
+        <Coords points="217,2334 215,2348 1961,2380 1966,2369 1964,2324 217,2278 217,2334"/>
+        <Baseline points="217,2334 1966,2369"/>
+        <TextEquiv>
+          <Unicode>human misunderstanding but was bound to experience it as rejection by</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08e998de" >
+        <Coords points="217,2431 215,2445 1961,2477 1966,2464 1966,2421 217,2377 217,2431"/>
+        <Baseline points="217,2431 1966,2464"/>
+        <TextEquiv>
+          <Unicode>the very God whom he had dared to call &quot;my Father.“ This made it the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0fcac135" >
+        <Coords points="215,2536 212,2555 1982,2587 1988,2568 1985,2523 1399,2499 1396,2499 1194,2501 979,2504 965,2496 960,2490 957,2490 955,2490 952,2490 863,2493 661,2499 532,2485 511,2482 508,2482 492,2482 395,2493 215,2477 215,2536"/>
+        <Baseline points="215,2536 1988,2568"/>
+        <TextEquiv>
+          <Unicode>torment of hell. In the theological context of what Jesus preached he</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b93dee8c" >
+        <Coords points="207,2636 204,2657 1913,2690 1918,2668 1918,2625 1886,2609 1883,2609 1880,2609 1770,2620 1617,2603 1614,2603 1495,2614 1487,2614 1477,2614 1382,2601 1380,2601 1235,2609 1202,2609 1200,2606 1175,2595 1173,2595 1170,2595 1167,2595 1138,2606 1135,2606 1127,2606 1057,2593 207,2585 207,2636"/>
+        <Baseline points="207,2636 1918,2668"/>
+        <TextEquiv>
+          <Unicode>must have felt that the deity of God was at stake as though he were</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca8439b3" >
+        <Coords points="2020,2722 1619,2706 1617,2706 1614,2706 1584,2716 1579,2716 1574,2716 1544,2703 1541,2703 1539,2703 1331,2711 1302,2711 1296,2711 1278,2698 1275,2698 1272,2698 1269,2698 1165,2708 1148,2708 1143,2708 1113,2695 1111,2695 1108,2695 1003,2706 987,2706 963,2703 852,2692 850,2692 699,2700 667,2700 661,2700 634,2687 632,2687 629,2687 209,2690 209,2695 209,2735 207,2754 1431,2786 1434,2786 1703,2778 1716,2778 1724,2778 1888,2794 1891,2794 2028,2781 2031,2768 2028,2759 2020,2722"/>
+        <Baseline points="209,2735 2031,2768"/>
+        <TextEquiv>
+          <Unicode>crying out, &quot;My God, why hast thou forsaken thyself?“ &quot;The cross of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6c0d34ce"  >
+      <Coords points="398,2945 408,2894 570,2883 1727,2905 1824,2915 1856,2967 398,2945"/>
+      <TextLine id="eSc_line_63abf1dd" >
+        <Coords points="1802,2964 1775,2964 1748,2964 1722,2964 1695,2964 1668,2961 1641,2961 1614,2961 1587,2961 1560,2961 1533,2961 1506,2961 1479,2953 1452,2953 1426,2953 1399,2953 1372,2953 1345,2953 1318,2953 1291,2950 1264,2950 1237,2950 1210,2950 1183,2950 1156,2950 1130,2950 1103,2948 1076,2948 1049,2948 1022,2948 995,2948 968,2948 941,2948 914,2945 887,2945 861,2945 834,2945 807,2945 780,2945 761,2897 422,2894 406,2899 406,2937 403,2953 465,2972 468,2972 470,2972 473,2972 521,2959 538,2975 540,2975 543,2975 904,2983 906,2983 971,2975 1000,2969 1022,2975 1057,2985 1060,2985 1062,2985 1200,2980 1321,2977 1399,2988 1444,2993 1447,2993 1450,2993 1452,2993 1458,2991 1474,2980 1843,3002 1848,2969 1845,2964 1829,2964"/>
+        <Baseline points="406,2937 1848,2969"/>
+        <TextEquiv>
+          <Unicode>⁶See Hebrews 5:7, Mark 15:37, Psalm 22:1, and Mark 15:34.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_81b80329"  >
+      <Coords points="696,2859 538,2870 398,2829 686,2829 696,2859"/>
+    </TextRegion>
+  </Page>
+</PcGts>

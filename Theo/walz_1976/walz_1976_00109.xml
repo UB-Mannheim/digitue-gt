@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00109.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.352576+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.352587+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00109.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_13bc31cd"  >
+      <Coords points="2061,365 2017,459 1275,473 1288,516 2071,527 2093,570 2061,1030 1996,1076 1964,1170 1791,1280 1974,1345 1985,1600 2061,1657 2061,1729 1985,1786 1996,1891 2050,1936 2050,2030 1974,2184 1996,2310 1921,2377 1985,2622 1942,2751 1856,2786 1974,2862 1910,3010 193,2977 215,2862 333,2859 215,2827 193,2784 226,1409 258,1345 376,1342 247,1331 236,1277 247,667 269,570 427,559 452,527 419,505 462,492 258,470 279,301 1974,312 2061,365"/>
+      <TextLine id="eSc_line_bceebd47" >
+        <Coords points="785,303 758,303 731,303 704,303 678,301 651,301 624,301 597,301 570,301 543,301 516,301 489,301 462,301 435,301 408,301 382,301 355,301 328,301 301,301 274,295 274,338 271,363 1993,403 1999,390 1996,341 791,303 785,303"/>
+        <Baseline points="274,338 1999,390"/>
+        <TextEquiv>
+          <Unicode>their social roles as well as be the company that gathers around the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4950bb38" >
+        <Coords points="266,392 266,441 263,451 1202,486 1208,470 1205,411 955,416 869,400 863,400 861,400 858,400 791,411 777,400 777,398 774,398 772,398 769,398 764,398 696,408 269,384 266,392"/>
+        <Baseline points="266,441 1208,470"/>
+        <TextEquiv>
+          <Unicode>word and sacrament in divine worship.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a36521a" >
+        <Coords points="470,548 468,559 2063,607 2069,597 2069,548 470,492 470,548"/>
+        <Baseline points="470,548 2069,597"/>
+        <TextEquiv>
+          <Unicode>The weekday obedience has receded unduly into the background in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5cb95bc6" >
+        <Coords points="263,645 260,659 2085,718 2090,696 2090,645 263,597 263,645"/>
+        <Baseline points="263,645 2090,696"/>
+        <TextEquiv>
+          <Unicode>the movements of the modern evangelical church towards reform. From the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08d99744" >
+        <Coords points="258,747 255,766 2052,809 2058,798 2058,753 1840,734 1837,734 1783,745 1775,745 1773,745 1754,728 1751,728 1748,728 1746,728 1743,728 1695,742 1692,742 1689,742 1676,728 1676,726 1673,726 1670,726 1668,726 1665,726 1627,739 1625,739 1426,737 1420,734 1364,718 1361,718 1358,718 1235,728 1218,728 1216,728 1183,712 1181,712 1178,712 1175,712 1127,726 1119,726 941,723 936,720 887,704 885,704 882,704 686,712 664,712 661,712 643,696 640,696 637,696 634,696 556,710 546,710 532,707 449,691 446,691 258,699 258,747"/>
+        <Baseline points="258,747 2058,798"/>
+        <TextEquiv>
+          <Unicode>standpoint of sociology this is understandable, but from the standpoint</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f9dcfae3" >
+        <Coords points="252,844 250,858 2028,917 2034,901 2034,844 252,798 252,844"/>
+        <Baseline points="252,844 2034,901"/>
+        <TextEquiv>
+          <Unicode>of theology it is unintelligible. It is precisely at this point where</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9f50e93b" >
+        <Coords points="250,971 729,973 747,984 761,989 764,989 766,989 793,984 828,979 836,987 844,992 847,992 850,992 1019,997 1022,997 1057,992 1084,987 1111,992 1140,1000 1143,1000 1146,1000 1148,1000 1173,995 1191,989 1288,997 1461,1011 1463,1011 1509,1003 1525,1000 1595,1003 1883,1024 1886,1024 2047,1014 2050,1003 2050,957 1961,938 1958,938 1956,938 1923,952 1918,952 1886,949 1748,936 1746,936 1743,936 1724,944 1716,946 1713,944 1703,933 1703,930 1700,930 1697,930 1619,928 1617,928 1517,936 1458,938 1450,933 1439,922 1436,922 1434,922 1431,922 1428,922 1412,930 1401,936 1121,930 1108,917 1103,911 1100,911 1097,911 1095,911 1092,911 1078,917 1060,925 971,911 939,909 936,909 922,911 885,919 866,909 858,903 855,903 852,903 850,903 847,903 831,906 791,917 753,903 745,901 742,901 739,901 726,903 678,911 573,895 556,895 554,895 551,895 548,895 511,909 433,890 425,890 422,890 417,890 357,903 347,890 344,890 344,887 341,887 339,887 336,887 333,887 306,898 255,885 252,946 250,971"/>
+        <Baseline points="252,946 2050,1003"/>
+        <TextEquiv>
+          <Unicode>it must be decided whether Christians can become an accommodating group</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54c13cff" >
+        <Coords points="247,1049 244,1059 1969,1110 1974,1100 1972,1054 1888,1054 1886,1049 1869,1035 1867,1035 1864,1035 1487,1035 1280,1035 1210,1022 1140,1014 1138,1014 1135,1014 1111,1019 1076,1027 1022,1016 995,1011 992,1011 963,1014 885,1022 556,1000 554,1000 462,1008 443,995 441,995 438,995 435,995 379,1006 247,987 247,1049"/>
+        <Baseline points="247,1049 1974,1100"/>
+        <TextEquiv>
+          <Unicode>or whether their existence within the horizon of eschatological hope</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d25593a5" >
+        <Coords points="244,1148 242,1162 1869,1221 1875,1199 1872,1154 1251,1121 1248,1121 1146,1129 1132,1129 1130,1129 1105,1116 1103,1116 1100,1116 1046,1127 1041,1127 1035,1127 998,1113 995,1113 244,1102 244,1148"/>
+        <Baseline points="244,1148 1875,1199"/>
+        <TextEquiv>
+          <Unicode>makes them resist accommodation and their presence has something</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d5392a8" >
+        <Coords points="239,1250 236,1269 979,1280 984,1269 984,1223 239,1205 239,1250"/>
+        <Baseline points="239,1250 984,1269"/>
+        <TextEquiv>
+          <Unicode>peculiar to say to the world.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dbdaa134" >
+        <Coords points="1953,1339 1428,1339 1350,1320 1337,1318 1334,1318 1310,1318 1165,1328 1073,1328 1049,1310 1046,1310 1043,1310 1041,1310 1017,1310 801,1318 441,1293 441,1355 438,1366 1961,1417 1966,1401 1966,1345 1953,1339"/>
+        <Baseline points="441,1355 1966,1401"/>
+        <TextEquiv>
+          <Unicode>By &quot;modern society&quot; we mean the society that has established</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c13c7049" >
+        <Coords points="234,1449 231,1463 1931,1517 1937,1501 1934,1455 1719,1449 1713,1447 1670,1431 1668,1431 1665,1431 1598,1441 1579,1444 1571,1441 1544,1428 1541,1428 1539,1428 1536,1428 1504,1439 1493,1441 1455,1436 1369,1425 1366,1425 1307,1431 1288,1433 1283,1431 1269,1420 1267,1420 1264,1420 1261,1420 1124,1425 1043,1428 1033,1423 1017,1414 1014,1414 1011,1414 1008,1414 987,1420 965,1425 904,1417 812,1406 809,1406 766,1412 737,1417 234,1396 234,1449"/>
+        <Baseline points="234,1449 1937,1501"/>
+        <TextEquiv>
+          <Unicode>itself with the rise of the modern industrial system. This society</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e5b99eda" >
+        <Coords points="231,1546 228,1565 1956,1614 1961,1600 1961,1554 1724,1549 1722,1546 1705,1533 1703,1533 1700,1533 1697,1533 1495,1538 1466,1538 1461,1538 1428,1525 1426,1525 1423,1525 1226,1530 1189,1530 1175,1527 1100,1514 231,1501 231,1546"/>
+        <Baseline points="231,1546 1961,1600"/>
+        <TextEquiv>
+          <Unicode>considers itself neutral toward matters of religion and questions of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a217fe92" >
+        <Coords points="231,1651 228,1662 2050,1718 2055,1702 2039,1657 231,1603 231,1651"/>
+        <Baseline points="231,1651 2055,1702"/>
+        <TextEquiv>
+          <Unicode>value. Modern society has emancipated itself from the classical concept</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_947b9864" >
+        <Coords points="226,1753 223,1761 1950,1813 1956,1804 1956,1751 226,1697 226,1753"/>
+        <Baseline points="226,1753 1956,1804"/>
+        <TextEquiv>
+          <Unicode>of religion. From the days of the Emperor Constantine and until far</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b48b4758" >
+        <Coords points="223,1853 220,1869 1966,1917 1972,1907 1969,1848 1724,1853 1700,1839 1697,1839 1695,1839 1692,1839 1689,1839 1687,1839 1643,1850 1369,1845 1356,1831 1353,1829 1350,1829 1348,1829 1345,1829 1326,1831 1283,1839 1216,1829 1178,1823 1175,1823 1151,1826 1116,1834 1100,1826 1089,1821 1087,1821 1084,1821 1054,1826 1022,1831 1011,1823 1006,1818 1003,1818 1000,1818 998,1818 963,1823 925,1829 871,1821 815,1813 812,1813 777,1818 750,1823 675,1815 551,1804 548,1804 452,1810 425,1813 419,1810 406,1799 403,1799 400,1799 398,1799 223,1804 223,1853"/>
+        <Baseline points="223,1853 1972,1907"/>
+        <TextEquiv>
+          <Unicode>into the nineteenth century, the Christian church possessed a clearly</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_450bd296" >
+        <Coords points="217,1955 215,1969 2039,2020 2044,2004 2031,1955 1800,1939 1797,1939 1565,1944 1533,1944 1520,1944 1428,1928 1426,1928 1245,1936 1229,1936 1221,1936 1124,1920 1121,1920 758,1923 721,1909 718,1909 715,1909 422,1915 419,1915 417,1915 312,1899 309,1899 217,1909 217,1955"/>
+        <Baseline points="217,1955 2044,2004"/>
+        <TextEquiv>
+          <Unicode>defined character in public social life. The Christian faith had become</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c76e870" >
+        <Coords points="217,2055 215,2065 1991,2127 1996,2106 1996,2063 1719,2057 1703,2052 1611,2036 1608,2036 1606,2036 1576,2049 1574,2049 1345,2047 1318,2041 1156,2022 1154,2022 1073,2036 1060,2036 974,2036 974,2033 963,2020 960,2020 960,2017 957,2017 955,2017 952,2017 949,2017 922,2030 909,2017 906,2017 904,2017 901,2017 721,2025 688,2025 683,2025 651,2009 648,2009 645,2009 532,2020 519,2020 516,2020 492,2004 489,2004 487,2004 484,2004 481,2004 430,2017 427,2017 411,2001 408,2001 406,2001 403,2001 217,2009 217,2055"/>
+        <Baseline points="217,2055 1996,2106"/>
+        <TextEquiv>
+          <Unicode>the religion of society. Modern society, however, acquired its nature</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e6fd16eb" >
+        <Coords points="215,2154 212,2176 1937,2216 1942,2205 1942,2157 215,2108 215,2154"/>
+        <Baseline points="215,2154 1942,2205"/>
+        <TextEquiv>
+          <Unicode>and its power precisely through its emancipation from this religious</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2f95713" >
+        <Coords points="209,2259 207,2270 1974,2329 1980,2310 1980,2264 1878,2246 1875,2246 1703,2254 1697,2254 1687,2254 1138,2224 1135,2224 1132,2224 1089,2235 1046,2221 1043,2221 209,2211 209,2259"/>
+        <Baseline points="209,2259 1980,2310"/>
+        <TextEquiv>
+          <Unicode>center. This society, in contradistinction to all previous societies,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_79d64fc8" >
+        <Coords points="207,2359 204,2372 1856,2412 1861,2402 1861,2356 207,2310 207,2359"/>
+        <Baseline points="207,2359 1861,2402"/>
+        <TextEquiv>
+          <Unicode>restricts itself to such social relationships as bind individuals</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55380999" >
+        <Coords points="207,2458 204,2474 1904,2517 1910,2507 1910,2461 1348,2431 1345,2431 1342,2431 1313,2442 1251,2429 1248,2429 1175,2439 1165,2439 1148,2437 1062,2423 1060,2423 1057,2423 1017,2434 1011,2434 1006,2434 936,2421 933,2421 882,2431 871,2431 839,2429 664,2412 207,2412 207,2458"/>
+        <Baseline points="207,2458 1910,2507"/>
+        <TextEquiv>
+          <Unicode>together in the satisfying of their needs by means of their divided</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cade67bb" >
+        <Coords points="1964,2560 1579,2536 1576,2536 1574,2536 1571,2536 1555,2547 1549,2550 1506,2544 1426,2533 1423,2533 1369,2539 1318,2544 1304,2536 1294,2528 1291,2528 1288,2528 1286,2528 1073,2528 758,2528 726,2515 718,2512 715,2512 713,2512 710,2512 702,2515 667,2525 591,2509 573,2507 570,2507 556,2509 500,2520 398,2501 384,2501 382,2501 373,2501 293,2515 201,2496 201,2560 199,2577 1964,2625 1969,2611 1966,2574 1964,2560"/>
+        <Baseline points="201,2560 1969,2611"/>
+        <TextEquiv>
+          <Unicode>labor. Everything else that makes up a man&#x27;s life--culture, religion,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aabf1c92" >
+        <Coords points="199,2660 196,2671 1918,2727 1923,2708 1923,2663 199,2603 199,2660"/>
+        <Baseline points="199,2660 1923,2708"/>
+        <TextEquiv>
+          <Unicode>tradition, nationality, morals, etc.--is excluded from the necessary</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fddda078" >
+        <Coords points="196,2759 193,2776 1783,2824 1789,2802 1789,2757 196,2708 196,2759"/>
+        <Baseline points="196,2759 1789,2802"/>
+        <TextEquiv>
+          <Unicode>social relationships and left to each man&#x27;s individual freedom.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07b7695a" >
+        <Coords points="1953,2902 1937,2859 395,2808 395,2862 392,2875 430,2889 433,2889 435,2889 438,2889 487,2878 1318,2915 1321,2915 1498,2907 1525,2921 1528,2921 1530,2921 1673,2913 1872,2932 1875,2932 1964,2918 1966,2907 1958,2889 1953,2902"/>
+        <Baseline points="395,2862 1966,2907"/>
+        <TextEquiv>
+          <Unicode>The Christian church has lost the character of cultus publicus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16d71f37" >
+        <Coords points="1880,3002 1853,3002 1843,2959 188,2905 188,2959 185,2975 465,2983 468,2985 508,3004 511,3004 513,3004 656,2993 686,2991 704,2993 764,3007 766,3007 909,3002 984,2999 1003,3004 1043,3018 1046,3018 1049,3018 1052,3018 1073,3007 1087,3002 1097,3007 1124,3020 1127,3020 1130,3020 1256,3012 1326,3010 1337,3015 1353,3026 1356,3026 1358,3026 1361,3026 1364,3026 1391,3018 1401,3015 1407,3018 1417,3028 1420,3028 1423,3028 1617,3034 1619,3034 1622,3034 1646,3026 1678,3018 1697,3028 1708,3037 1711,3037 1713,3037 1716,3037 1748,3031 1783,3023 1883,3034 1888,3004 1886,3002 1880,3002"/>
+        <Baseline points="190,2959 1889,3005"/>
+        <TextEquiv>
+          <Unicode>to which it had been accustomed for more than a thousand years. It</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a883ae4b"  >
+      <Coords points="2104,298 1999,320 2020,236 2093,247 2104,298"/>
+      <TextLine id="eSc_line_bb499522" >
+        <Coords points="2082,244 2023,244 2007,277 2007,295 2009,347 2098,333 2098,290 2090,255 2082,244"/>
+        <Baseline points="2007,295 2098,290"/>
+        <TextEquiv>
+          <Unicode>102</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

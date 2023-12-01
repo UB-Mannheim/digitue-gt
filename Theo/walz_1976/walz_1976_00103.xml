@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00103.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.276515+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.276526+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00103.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_fe0ab48b"  >
+      <Coords points="1856,610 1953,634 2050,785 2028,1008 1931,1065 1942,1385 2061,1452 2050,1589 1996,1622 753,1611 667,1622 729,1646 696,1665 460,1708 226,1686 236,699 398,653 247,632 258,312 1931,333 2017,408 2039,492 1856,610"/>
+      <TextLine id="eSc_line_3dc76549" >
+        <Coords points="1813,330 1786,330 1759,330 1732,330 1727,328 1695,336 1687,336 1676,336 1638,328 1625,328 1598,328 1571,328 1544,328 1517,328 1490,325 1463,325 1458,325 1302,328 1183,328 1178,325 1173,322 1167,322 1140,322 1113,322 1089,320 1076,322 1049,325 1027,322 1014,320 1006,320 979,320 952,320 925,320 898,320 866,322 847,317 844,317 817,317 791,317 766,317 737,320 731,317 710,317 683,317 675,314 675,317 672,314 656,314 629,314 602,314 575,314 548,314 521,314 495,314 468,314 441,312 414,312 387,312 360,312 333,312 306,312 279,312 252,306 252,355 250,368 1923,400 1929,384 1926,341 1840,330 1813,330"/>
+        <Baseline points="252,355 1929,384"/>
+        <TextEquiv>
+          <Unicode>from the eternal present of being to the open possibilities of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b5139d2" >
+        <Coords points="247,459 244,481 2015,505 2020,489 2020,446 1939,430 1937,430 1861,441 1856,441 247,403 247,459"/>
+        <Baseline points="247,459 2020,489"/>
+        <TextEquiv>
+          <Unicode>future, from the metaphysical glorification of the cosmos to the sense</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ff56053f" >
+        <Coords points="244,543 244,556 242,578 898,594 901,594 1006,583 1017,583 1019,583 1038,597 1041,597 1043,597 1046,597 1183,583 1186,572 1186,519 600,519 591,513 559,503 556,503 554,503 462,513 454,513 449,513 387,500 384,500 252,511 244,543"/>
+        <Baseline points="244,556 1186,572"/>
+        <TextEquiv>
+          <Unicode>of mission that transforms the world.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a0dbf3f" >
+        <Coords points="446,659 443,669 1942,699 1948,688 1945,634 745,621 721,605 718,605 715,605 713,605 707,605 583,616 446,599 446,659"/>
+        <Baseline points="446,659 1948,688"/>
+        <TextEquiv>
+          <Unicode>In recent years all historians and thinkers on history have</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a85c34f" >
+        <Coords points="2020,745 239,712 239,758 236,780 2028,815 2034,793 2031,761 2020,745"/>
+        <Baseline points="239,758 2034,793"/>
+        <TextEquiv>
+          <Unicode>possessed a sense of mission, a belief in a history that is meaningful,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2bb1a898" >
+        <Coords points="239,858 236,876 2009,903 2015,893 2015,847 239,809 239,858"/>
+        <Baseline points="239,858 2015,893"/>
+        <TextEquiv>
+          <Unicode>and a faith in the great task of mankind. Modern views of history can</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_043c20a0" >
+        <Coords points="236,957 234,971 2009,1006 2015,992 2015,946 236,901 236,957"/>
+        <Baseline points="236,957 2015,992"/>
+        <TextEquiv>
+          <Unicode>no longer renounce the governing idea of a &quot;universal history or world</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3eca8ac4" >
+        <Coords points="231,1081 1861,1110 1867,1089 1867,1043 1598,1041 1590,1035 1568,1024 1565,1024 1563,1024 1498,1032 1466,1035 1447,1030 1417,1022 1415,1022 1412,1022 1178,1022 941,1024 893,1016 866,1011 863,1011 844,1014 809,1022 791,1014 780,1008 777,1008 774,1008 707,1011 551,1016 508,1006 500,1003 497,1003 495,1003 457,1003 266,1011 236,997 234,1057 231,1081"/>
+        <Baseline points="234,1057 1867,1089"/>
+        <TextEquiv>
+          <Unicode>history.“ It can be said that only where a knowledge of mission</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_164c0119" >
+        <Coords points="234,1162 231,1180 1907,1202 1913,1191 1910,1148 1759,1132 1756,1132 1643,1143 1625,1143 1598,1140 1444,1127 1442,1127 1337,1137 1321,1137 1313,1137 1269,1124 1267,1124 1264,1124 1170,1135 1154,1135 1143,1132 1087,1121 1084,1121 1014,1132 1000,1132 992,1129 947,1119 944,1119 234,1119 234,1162"/>
+        <Baseline points="234,1162 1913,1191"/>
+        <TextEquiv>
+          <Unicode>supplies the sense of a future and a purpose is there room for the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_773a7498" >
+        <Coords points="231,1261 228,1283 1926,1304 1931,1293 1929,1232 1797,1245 1611,1226 1608,1226 1393,1237 1329,1221 1326,1221 1323,1221 1321,1221 1095,1232 949,1232 933,1215 933,1213 930,1213 928,1213 925,1213 906,1213 661,1223 626,1210 624,1210 621,1210 411,1218 376,1202 373,1202 371,1202 231,1202 231,1261"/>
+        <Baseline points="231,1261 1931,1293"/>
+        <TextEquiv>
+          <Unicode>concept of the uniqueness of events and of a meaningful future. If</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d50adc6b" >
+        <Coords points="231,1361 228,1374 1902,1409 1907,1393 1907,1347 231,1310 231,1361"/>
+        <Baseline points="231,1361 1907,1393"/>
+        <TextEquiv>
+          <Unicode>there are no prospects at all then history becomes pointless. The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_084c43bd" >
+        <Coords points="228,1463 226,1476 2044,1506 2050,1492 2050,1449 1810,1433 1808,1433 1743,1441 1727,1444 1724,1441 1711,1431 1711,1428 1708,1428 1705,1428 1703,1428 1590,1439 1557,1441 1474,1436 1232,1423 1229,1423 1226,1423 1208,1431 1205,1433 1205,1431 1191,1420 1189,1420 1186,1420 1183,1420 1124,1431 1103,1433 1062,1428 963,1417 960,1417 826,1425 756,1428 745,1423 721,1412 718,1412 715,1412 629,1420 583,1425 556,1420 516,1409 513,1409 511,1409 452,1417 417,1423 390,1417 352,1406 349,1406 347,1406 228,1412 228,1463"/>
+        <Baseline points="228,1463 2050,1492"/>
+        <TextEquiv>
+          <Unicode>understanding of history, of its possibilities for good and evil, of its</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b54a214a" >
+        <Coords points="223,1562 220,1587 2023,1608 2028,1592 2028,1549 1318,1522 1315,1522 1240,1533 1202,1519 1200,1519 223,1519 223,1562"/>
+        <Baseline points="223,1562 2028,1592"/>
+        <TextEquiv>
+          <Unicode>direction and its meaning lies in the field of hope and can be acquired</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e187ff24" >
+        <Coords points="220,1643 220,1659 217,1670 317,1686 320,1686 508,1675 511,1667 511,1619 266,1600 263,1600 260,1600 231,1608 220,1643"/>
+        <Baseline points="220,1659 511,1667"/>
+        <TextEquiv>
+          <Unicode>only there.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6cb6c9ca"  >
+      <Coords points="1902,1850 1974,1861 2050,2235 2007,2407 1942,2429 2007,2442 2028,2762 699,2773 675,2805 785,2872 1964,2894 1996,2956 1159,2999 193,2977 226,1764 1856,1786 1902,1850"/>
+      <TextLine id="eSc_line_1842f7de" >
+        <Coords points="1861,1796 452,1767 433,1767 425,1764 333,1764 325,1764 298,1764 271,1764 244,1764 242,1761 217,1761 217,1815 215,1839 1571,1874 1574,1874 1869,1864 1872,1845 1872,1813 1861,1796"/>
+        <Baseline points="217,1815 1872,1845"/>
+        <TextEquiv>
+          <Unicode>Death and guilt as driving forces of the historical outlook. One</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ab60d39" >
+        <Coords points="1988,1936 1972,1888 215,1858 215,1915 212,1923 1988,1955 1993,1947 1993,1891 1988,1888 1988,1936"/>
+        <Baseline points="215,1915 1993,1947"/>
+        <TextEquiv>
+          <Unicode>historian said correctly, &quot;To me the great historic events of the past</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc528c43" >
+        <Coords points="215,2012 212,2025 1985,2055 1991,2041 1991,1993 215,1958 215,2012"/>
+        <Baseline points="215,2012 1991,2041"/>
+        <TextEquiv>
+          <Unicode>always seem like frozen cataracts--pictures that have stiffened in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07ae1b8e" >
+        <Coords points="212,2114 209,2135 1525,2146 1547,2152 1638,2162 1641,2162 1703,2152 1713,2152 1716,2152 1746,2165 1748,2165 1751,2165 1853,2154 1859,2154 1880,2168 1883,2168 1886,2168 1888,2168 2012,2154 2015,2146 2015,2095 212,2065 212,2114"/>
+        <Baseline points="212,2114 2015,2146"/>
+        <TextEquiv>
+          <Unicode>cold of vanished life and keep us at a distance.“32 So why do we do it</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aac51eec" >
+        <Coords points="209,2216 207,2235 2028,2273 2034,2254 2034,2208 209,2168 209,2216"/>
+        <Baseline points="209,2216 2034,2254"/>
+        <TextEquiv>
+          <Unicode>and why do we not rather flee the shadowy realm of the past? Underlying</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_37d4aac3" >
+        <Coords points="207,2316 204,2329 1980,2356 1985,2345 1982,2286 1821,2297 1673,2297 1665,2283 1662,2283 1662,2281 1660,2281 1657,2281 1654,2281 1652,2281 1498,2291 207,2259 207,2316"/>
+        <Baseline points="207,2316 1985,2345"/>
+        <TextEquiv>
+          <Unicode>all history is the fact that history is memory. Our faculty of remem-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e259673c" >
+        <Coords points="207,2415 204,2429 1802,2458 1808,2447 1805,2399 207,2361 207,2415"/>
+        <Baseline points="207,2415 1808,2447"/>
+        <TextEquiv>
+          <Unicode>bering matters of history is always selective. Remembering and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4baca1cf" >
+        <Coords points="1996,2493 1450,2493 1339,2477 1304,2474 1302,2474 1272,2477 1173,2488 1062,2472 1030,2469 1027,2469 998,2472 895,2482 669,2464 613,2461 610,2461 608,2461 605,2461 602,2464 586,2474 465,2461 460,2461 457,2461 454,2461 433,2472 414,2458 411,2458 408,2458 406,2458 403,2458 400,2458 379,2472 325,2458 317,2455 314,2455 312,2455 301,2455 247,2469 207,2455 204,2515 201,2533 2001,2571 2007,2550 2001,2507 1996,2493"/>
+        <Baseline points="204,2515 2007,2550"/>
+        <TextEquiv>
+          <Unicode>forgetting are interwoven in each other. Historical science has a task</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0b7af8d" >
+        <Coords points="199,2617 196,2633 1977,2660 1982,2649 1982,2603 199,2568 199,2617"/>
+        <Baseline points="199,2617 1982,2649"/>
+        <TextEquiv>
+          <Unicode>of criticism and purification. R. Wittram has called guilt the secret</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b60c067" >
+        <Coords points="196,2716 196,2746 885,2746 909,2754 930,2759 933,2759 936,2759 1248,2757 1382,2757 1450,2759 1743,2776 1746,2776 1869,2765 1872,2765 1888,2778 1891,2778 1894,2778 1896,2778 2020,2765 2023,2751 2023,2706 963,2687 920,2676 895,2671 893,2671 861,2673 788,2681 756,2671 745,2668 742,2668 739,2668 713,2671 621,2679 597,2668 594,2665 591,2665 333,2660 330,2660 328,2660 277,2671 196,2657 196,2716"/>
+        <Baseline points="196,2716 2023,2751"/>
+        <TextEquiv>
+          <Unicode>motor which keeps the movement going, mostly hidden, always at work, the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bcdd9a39" >
+        <Coords points="1982,2942 1964,2902 1606,2886 1582,2886 1555,2886 1528,2886 1501,2883 1485,2883 1463,2889 1434,2894 1396,2886 1372,2880 1366,2880 1339,2880 1313,2880 1286,2880 1259,2880 1232,2880 1210,2880 852,2880 801,2872 801,2872 796,2870 769,2867 737,2862 734,2862 707,2864 624,2875 398,2856 398,2913 395,2929 1420,2975 1684,2980 1687,2980 1689,2980 1743,2964 1861,2964 1883,2983 1886,2983 1888,2983 1891,2983 1988,2967 1991,2950 1985,2942 1982,2942"/>
+        <Baseline points="398,2913 1991,2950"/>
+        <TextEquiv>
+          <Unicode>32Reinhard Wittram, Das Interesse an der Geschichte (Göttingen:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_76f880d1" >
+        <Coords points="196,2964 193,2993 661,2993 699,2999 801,3012 804,3015 901,3015 901,3012 904,3012 906,3012 906,3010 917,2999 920,2999 930,3002 1041,3018 1043,3018 1159,3002 1162,2985 1162,2945 196,2921 196,2964"/>
+        <Baseline points="196,2964 1162,2985"/>
+        <TextEquiv>
+          <Unicode>Vandenhoeck &amp; Ruprecht, 1958). p. 15f.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_636dd1bf"  >
+      <Coords points="2009,247 2071,247 2082,287 2009,309 2009,247"/>
+      <TextLine id="eSc_line_02fc22a7" >
+        <Coords points="2066,285 2039,247 2012,247 2012,290 2012,328 2071,333 2074,290 2071,285 2066,285"/>
+        <Baseline points="2012,290 2074,290"/>
+        <TextEquiv>
+          <Unicode>96</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

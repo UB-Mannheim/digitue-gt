@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00028.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.735812+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.735824+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00028.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_135a12bc"  >
+      <Coords points="1966,193 2028,193 1985,269 2028,301 1974,505 2007,591 1985,1062 1942,1108 1996,1280 1942,1441 1974,1535 1931,1568 772,1570 1931,1592 1931,1622 774,1622 707,1665 1942,1700 1931,1891 2007,1936 1974,2130 2017,2291 1985,2377 2007,2504 1054,2525 1170,2558 826,2590 1931,2668 1974,2880 1910,2924 355,2924 172,2956 161,2700 352,2711 365,2601 182,2590 161,2482 172,2141 376,2063 352,2009 279,1987 279,1732 398,1667 581,1665 182,1632 193,1538 376,1514 182,1428 193,279 1964,279 1966,193"/>
+      <TextLine id="eSc_line_d1deeec0" >
+        <Coords points="2023,199 1996,193 1969,193 1966,236 1964,258 2017,274 2026,242 2026,190 2023,188 2023,199"/>
+        <Baseline points="1966,236 2026,242"/>
+        <TextEquiv>
+          <Unicode>21</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ffae643c" >
+        <Coords points="1466,279 1439,279 1412,279 1385,279 1358,279 1331,279 1304,279 1278,279 1251,279 1224,279 1197,279 1170,279 1143,279 1116,279 1089,279 1062,279 1035,279 1008,279 982,279 955,279 928,279 901,279 874,279 847,279 820,279 793,279 766,279 739,279 713,279 686,279 659,279 632,279 605,279 578,279 551,279 524,279 497,279 470,279 443,279 417,279 390,279 363,279 336,279 309,279 282,279 255,279 228,279 201,279 201,309 199,328 1999,349 2004,336 2004,285 1487,279 1466,279"/>
+        <Baseline points="201,309 2004,336"/>
+        <TextEquiv>
+          <Unicode>𝓆𝓌𝒽 includes the note of eternal strain. The word 𝓎𝒽𝓁,  &quot;to wait,&quot; does</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d1ad40b" >
+        <Coords points="201,408 199,422 1972,449 1977,435 1974,384 201,363 201,408"/>
+        <Baseline points="201,408 1977,435"/>
+        <TextEquiv>
+          <Unicode>not project this kind of tension. It rather presupposes the condition</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_822d074d" >
+        <Coords points="196,505 193,527 1923,543 1929,532 1926,486 196,457 196,505"/>
+        <Baseline points="196,505 1929,532"/>
+        <TextEquiv>
+          <Unicode>of &quot;not yet&quot; in which a man waits for what is coming and is oriented</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ed26f48" >
+        <Coords points="196,610 193,626 209,637 212,637 215,637 217,637 791,632 815,645 817,645 820,645 823,645 1027,637 1194,650 1197,650 1993,645 1996,634 1996,591 1794,572 1791,572 1635,583 1595,586 1339,583 1337,578 1323,567 1321,567 1318,567 1315,567 1232,578 1200,581 1151,575 1035,564 1033,564 1030,564 1006,572 998,578 984,572 957,562 955,562 952,562 850,572 801,575 764,570 696,559 694,559 196,559 196,610"/>
+        <Baseline points="196,610 1996,634"/>
+        <TextEquiv>
+          <Unicode>toward the event of its coming. The word 𝒽𝓀𝒽 also appears to have this-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e178efa1" >
+        <Coords points="196,710 193,718 223,734 226,734 228,734 578,726 788,742 791,745 1969,745 1972,734 1969,691 1853,675 1851,675 1791,685 1775,672 1773,672 1770,672 1767,672 1630,685 1608,685 1600,683 1560,669 1557,669 1555,669 1412,680 1382,683 1353,680 1245,667 1243,667 1073,675 1030,677 982,675 785,659 782,659 707,669 691,672 651,669 516,659 513,659 433,667 395,669 373,667 325,653 322,653 320,653 196,661 196,710"/>
+        <Baseline points="196,710 1972,734"/>
+        <TextEquiv>
+          <Unicode>emphasis. The word &#x27;𝒶𝒽𝒶𝓇𝒾𝓉, &quot;the end,&quot; by way of contrast, brings to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b772ddc" >
+        <Coords points="193,812 191,825 1762,858 1765,858 1896,844 1899,836 1894,777 1751,788 1711,774 1708,774 1705,774 1697,774 1522,785 1477,772 1474,772 1471,772 1466,772 1331,782 193,758 193,812"/>
+        <Baseline points="193,812 1899,836"/>
+        <TextEquiv>
+          <Unicode>full expression the note of the &quot;future moment.&quot; The object toward</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7413da5" >
+        <Coords points="191,911 188,930 1966,952 1972,938 1969,893 1791,876 1789,876 1649,887 1622,887 1584,885 1382,871 1380,871 1283,882 1264,882 1232,879 1052,866 191,866 191,911"/>
+        <Baseline points="191,911 1972,938"/>
+        <TextEquiv>
+          <Unicode>which hope reaches lies at the end of a time span characterized by the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de73e2cc" >
+        <Coords points="193,1011 191,1032 1958,1049 1964,1038 1961,984 193,963 193,1011"/>
+        <Baseline points="193,1011 1964,1038"/>
+        <TextEquiv>
+          <Unicode>tension of waiting and involves something of result and goal. Another</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_491c0bba" >
+        <Coords points="191,1110 188,1129 1837,1159 1843,1137 1843,1092 1539,1076 1536,1076 1533,1076 1514,1086 1512,1086 1509,1084 1474,1073 1471,1073 1469,1073 1372,1084 1356,1084 1353,1084 1337,1070 1334,1070 1331,1070 1329,1070 1243,1081 1232,1081 1226,1081 1186,1067 1183,1067 1181,1067 1116,1078 1111,1078 858,1078 855,1076 844,1065 844,1062 842,1062 839,1062 836,1062 191,1062 191,1110"/>
+        <Baseline points="191,1110 1843,1137"/>
+        <TextEquiv>
+          <Unicode>kind of stress is brought out by the words 𝒷𝒾𝓉𝓉ä𝒽𝑜𝓃, &quot;trust,&quot; and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eaa55fa1" >
+        <Coords points="185,1210 182,1221 360,1240 363,1240 425,1229 503,1242 1937,1256 1942,1240 1942,1183 185,1156 185,1210"/>
+        <Baseline points="185,1210 1942,1240"/>
+        <TextEquiv>
+          <Unicode>𝓀𝒾𝓈𝓁ä𝒽, &quot;confidence.&quot; Here there is the suggestion that man, when he</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4be260c5" >
+        <Coords points="1982,1280 185,1264 185,1315 182,1328 1982,1361 1988,1336 1985,1288 1982,1280"/>
+        <Baseline points="185,1315 1988,1336"/>
+        <TextEquiv>
+          <Unicode>hopes, gives himself over to what is coming, places his trust in it and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95e54e8d" >
+        <Coords points="185,1412 182,1425 1794,1455 1800,1436 1797,1393 1619,1377 1617,1377 1404,1382 1291,1385 1280,1379 1264,1371 1261,1371 1259,1371 1097,1374 928,1379 893,1371 877,1366 874,1366 871,1366 739,1366 419,1371 368,1358 365,1358 363,1358 360,1358 349,1358 263,1369 185,1355 185,1412"/>
+        <Baseline points="185,1412 1800,1436"/>
+        <TextEquiv>
+          <Unicode>holds out for it, wins for himself certitude and even certainty.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b24ed8a" >
+        <Coords points="1950,1492 384,1466 384,1519 382,1533 1762,1565 1765,1565 1958,1552 1961,1541 1958,1533 1950,1492"/>
+        <Baseline points="384,1519 1961,1541"/>
+        <TextEquiv>
+          <Unicode>Zimmerli closes his fine vocabulary study of the Old Testament</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_df67c70b" >
+        <Coords points="182,1579 182,1614 180,1638 696,1643 702,1619 699,1576 193,1560 182,1579"/>
+        <Baseline points="182,1614 702,1619"/>
+        <TextEquiv>
+          <Unicode>with this statement:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_17abf387" >
+        <Coords points="1915,1697 1888,1697 1861,1697 1835,1694 1808,1694 1781,1694 1754,1694 1727,1692 1700,1692 1673,1692 1646,1689 1619,1689 1592,1689 1565,1689 1539,1686 1512,1686 1485,1686 1458,1683 1431,1683 1404,1683 1377,1683 1358,1681 1310,1681 1296,1681 1291,1678 406,1665 382,1673 382,1718 379,1732 1926,1756 1931,1737 1929,1697 1915,1697"/>
+        <Baseline points="382,1718 1931,1737"/>
+        <TextEquiv>
+          <Unicode>Old Testament faith reckons with the future. It is more than</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a8bddf9c" >
+        <Coords points="279,1770 277,1780 1826,1799 1832,1788 1829,1740 298,1726 279,1770"/>
+        <Baseline points="279,1770 1832,1788"/>
+        <TextEquiv>
+          <Unicode>just a coincidence that it is precisely the people of the Old</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f774e8ee" >
+        <Coords points="1627,1788 1625,1786 282,1775 282,1815 279,1831 1902,1861 1907,1842 1904,1791 1633,1788 1627,1788"/>
+        <Baseline points="282,1815 1907,1842"/>
+        <TextEquiv>
+          <Unicode>Testament, who far more than any other experienced death and the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b54afa76" >
+        <Coords points="282,1869 279,1880 1848,1909 1853,1891 1851,1845 282,1826 282,1869"/>
+        <Baseline points="282,1869 1853,1891"/>
+        <TextEquiv>
+          <Unicode>threat of death again and again, who never gave up hope in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d94a4994" >
+        <Coords points="713,1877 686,1877 675,1874 575,1874 551,1874 524,1874 497,1874 478,1872 427,1872 417,1872 390,1872 363,1872 336,1872 309,1872 282,1872 282,1915 279,1928 1896,1950 1902,1936 1899,1899 721,1877 713,1877"/>
+        <Baseline points="282,1915 1902,1936"/>
+        <TextEquiv>
+          <Unicode>future. The country which has arisen in our time under the name</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_93e0f6b3" >
+        <Coords points="1991,1936 1808,1936 1800,1936 1773,1936 1746,1936 1719,1936 1703,1934 1619,1934 1611,1934 1584,1934 1557,1934 1530,1934 1504,1934 1482,1931 1428,1931 1423,1931 1396,1931 1369,1931 1342,1931 1315,1931 1294,1928 1240,1928 1235,1928 1208,1928 1181,1928 1154,1928 1127,1928 1100,1928 1076,1926 1049,1926 1046,1926 1019,1926 992,1926 965,1926 939,1926 912,1926 887,1923 861,1923 858,1923 831,1923 804,1923 777,1923 750,1923 723,1923 696,1923 669,1920 643,1920 616,1920 589,1920 562,1920 535,1920 508,1920 481,1917 454,1917 427,1917 400,1917 373,1917 347,1917 320,1917 293,1917 293,1966 290,1979 519,1998 521,2001 1565,2001 1630,2014 1633,2014 1781,2004 1813,2017 1816,2017 1818,2017 1999,2004 2001,1979 1999,1958 1991,1936"/>
+        <Baseline points="293,1966 1584,1990 2001,1979"/>
+        <TextEquiv>
+          <Unicode>&quot;Israel&quot;, labels its national anthem with the word 𝓉𝒾𝓆𝓌ä𝒽, &quot;hope&quot;.¹¹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34d6a526" >
+        <Coords points="1974,2047 1918,2033 1915,2033 1913,2033 1910,2033 1872,2047 1867,2047 1856,2047 1786,2033 1783,2033 1617,2039 1549,2041 1533,2039 1501,2028 1498,2028 1495,2028 1407,2033 1345,2039 1313,2033 1267,2022 1264,2022 1189,2028 1108,2036 1062,2025 1033,2020 1030,2020 1000,2025 952,2033 890,2022 874,2020 871,2020 826,2020 586,2028 505,2012 497,2012 495,2012 487,2012 411,2025 387,2009 382,2068 379,2084 1972,2103 1977,2092 1977,2076 1974,2047"/>
+        <Baseline points="382,2068 1977,2092"/>
+        <TextEquiv>
+          <Unicode>Rudolf Bultmann and Karl Rengstorf¹² provide comments of perti-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_59a09bff" >
+        <Coords points="201,2127 174,2138 174,2170 172,2178 1896,2208 1902,2195 1899,2141 212,2122 201,2127"/>
+        <Baseline points="174,2170 1902,2195"/>
+        <TextEquiv>
+          <Unicode>nence to our study of Old Testament references. They point out that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5cbbec2b" >
+        <Coords points="1999,2240 174,2219 174,2270 172,2289 1996,2308 2001,2299 2001,2251 1999,2240"/>
+        <Baseline points="174,2270 2001,2299"/>
+        <TextEquiv>
+          <Unicode>hope in the Old Testament is always looking for something good. As long</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f66e1bf" >
+        <Coords points="172,2372 169,2394 1845,2412 1851,2394 1848,2348 1218,2326 1216,2326 1046,2337 1017,2337 1014,2337 1000,2324 998,2324 995,2324 992,2324 834,2334 807,2334 804,2334 793,2324 793,2321 791,2321 788,2321 785,2321 637,2332 613,2332 610,2332 597,2318 594,2318 591,2318 589,2318 172,2324 172,2372"/>
+        <Baseline points="172,2372 1851,2394"/>
+        <TextEquiv>
+          <Unicode>as man lives he hopes. ¹³ To have hope and to have a future are an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21dd9ba5" >
+        <Coords points="1991,2439 172,2421 172,2469 172,2496 452,2488 489,2501 497,2504 500,2504 503,2504 538,2501 626,2493 656,2504 667,2507 669,2507 672,2507 702,2504 796,2490 823,2504 828,2507 831,2507 834,2507 836,2507 842,2504 877,2493 1052,2507 1084,2509 1087,2509 1103,2509 1197,2496 1216,2509 1218,2512 1221,2512 1224,2512 1226,2512 1253,2509 1331,2501 1374,2512 1388,2515 1391,2515 1393,2515 1415,2512 1495,2499 1549,2515 1565,2517 1568,2517 1571,2517 1574,2517 1590,2515 1641,2501 1719,2515 1735,2517 1738,2517 1740,2517 1743,2517 1743,2515 1765,2501 1789,2517 1797,2520 1800,2520 1802,2520 1805,2520 1816,2517 1848,2507 1991,2517 1996,2490 1996,2469 1991,2439"/>
+        <Baseline points="172,2469 1996,2490"/>
+        <TextEquiv>
+          <Unicode>indication that a man is in the state of well-being. This hope is fixed</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34d50e2c" >
+        <Coords points="371,2636 368,2646 828,2655 834,2644 834,2598 371,2579 371,2636"/>
+        <Baseline points="371,2636 834,2644"/>
+        <TextEquiv>
+          <Unicode>¹¹Zimmerli, p. 10.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46b74118" >
+        <Coords points="1931,2692 1929,2690 371,2652 371,2711 368,2722 1937,2749 1942,2738 1939,2714 1931,2692"/>
+        <Baseline points="371,2711 1942,2738"/>
+        <TextEquiv>
+          <Unicode>¹²Rudolf Bultmann and Karl Heinrich Rengstorf, &quot;The Concept of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f9ea244f" >
+        <Coords points="1536,2733 1509,2733 1482,2733 1455,2730 1428,2730 1401,2730 1374,2730 1348,2730 1321,2730 1294,2727 1280,2727 1183,2735 1175,2735 1173,2735 1148,2724 1132,2724 1105,2724 1097,2724 998,2733 995,2733 992,2733 939,2722 917,2722 890,2722 863,2722 852,2719 610,2727 562,2716 540,2716 519,2714 180,2722 164,2759 164,2765 161,2776 199,2792 201,2792 204,2792 742,2786 1135,2808 1138,2808 1288,2794 1326,2811 1329,2811 1331,2811 1455,2797 1592,2811 1595,2811 1759,2802 1773,2813 1773,2816 1775,2816 1778,2816 1781,2816 1910,2800 1913,2789 1910,2746 1539,2733 1536,2733"/>
+        <Baseline points="164,2765 1913,2789"/>
+        <TextEquiv>
+          <Unicode>Hope in the Old Testament,&quot; Bible Key Words (1971), Vol. V. pp. 8-13.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_016a2488" >
+        <Coords points="1961,2837 1953,2813 1945,2808 1942,2808 1939,2808 1937,2808 1783,2819 1778,2819 1748,2805 1746,2805 1743,2805 1740,2805 1705,2816 1700,2819 1678,2816 1571,2802 1568,2802 1514,2813 1490,2816 1471,2811 1434,2800 1431,2800 1428,2800 1366,2808 1331,2813 1278,2805 1216,2797 1213,2797 1210,2797 1191,2802 1175,2811 1162,2802 1151,2794 1148,2794 1146,2794 1143,2794 1089,2800 1035,2808 925,2797 844,2789 842,2789 793,2794 702,2802 373,2784 373,2837 371,2848 1961,2886 1966,2864 1966,2837 1961,2837"/>
+        <Baseline points="373,2837 1966,2864"/>
+        <TextEquiv>
+          <Unicode>¹³They cite Ecclesiastes 9:4 which reads, &quot;But he who is joined</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2e638ea2" >
+        <Coords points="166,2891 164,2905 317,2907 320,2910 336,2924 339,2924 341,2924 344,2924 578,2918 600,2918 637,2937 640,2937 742,2940 1049,2942 1052,2942 1054,2942 1081,2932 1100,2924 1121,2932 1146,2942 1148,2942 1151,2942 1197,2934 1261,2924 1288,2937 1310,2948 1313,2948 1315,2950 1452,2950 1452,2948 1455,2948 1458,2948 1458,2945 1463,2942 1477,2929 1826,2929 1880,2953 1888,2915 1888,2867 166,2846 166,2891"/>
+        <Baseline points="166,2891 1888,2915"/>
+        <TextEquiv>
+          <Unicode>with all the living has hope, for a living dog is better than a dead</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c782a92d" >
+        <Coords points="301,2932 274,2937 247,2940 220,2940 201,2905 166,2905 166,2945 166,2964 231,2985 234,2985 236,2985 317,2975 317,2945 317,2929 301,2932"/>
+        <Baseline points="169,2948 319,2946"/>
+        <TextEquiv>
+          <Unicode>lion.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

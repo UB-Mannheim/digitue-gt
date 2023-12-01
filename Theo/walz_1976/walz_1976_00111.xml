@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00111.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.381960+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.381972+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00111.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_a1a31dcd"  >
+      <Coords points="2061,1180 2017,1237 2050,1492 1985,1579 955,1603 1802,1624 1781,1665 1673,1675 710,1643 610,1678 1652,1700 2039,1818 2017,2289 1964,2396 1288,2407 1130,2439 1062,2496 1084,2525 707,2539 1974,2571 2007,2719 1899,2797 1888,2934 193,2902 204,1807 236,1753 355,1740 226,1710 419,1697 247,1686 204,1589 247,290 2007,333 2061,1180"/>
+      <TextLine id="eSc_line_0d8e9bd4" >
+        <Coords points="1958,330 1931,330 1904,330 1878,328 1851,328 1824,328 1797,328 1770,325 1743,325 1716,325 1689,325 1662,322 1635,322 1608,322 1582,322 1555,320 1528,320 1501,320 1474,320 1447,317 1420,317 1393,317 1366,317 1339,314 1313,314 1286,314 1259,314 1232,312 1205,312 1178,312 1151,312 1124,312 1097,309 1070,309 1043,309 1017,309 990,306 963,306 936,306 909,306 882,303 855,303 828,303 801,303 774,301 747,301 721,301 694,301 667,298 640,298 613,298 586,298 559,295 532,295 505,295 478,295 452,293 425,293 398,293 371,293 344,290 317,290 290,290 263,290 260,282 236,282 236,333 234,365 1103,381 1105,381 1127,379 1189,365 1980,387 1985,363 1985,330 1958,330"/>
+        <Baseline points="236,333 1985,363"/>
+        <TextEquiv>
+          <Unicode>Religion as the cult of co-humanity. The second role in which modern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ba15295" >
+        <Coords points="234,438 231,449 1980,478 1985,465 1985,419 234,392 234,438"/>
+        <Baseline points="234,438 1985,465"/>
+        <TextEquiv>
+          <Unicode>society expects religion to be effective consists in the transcendent</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_862366e6" >
+        <Coords points="234,524 234,538 231,556 1999,578 2004,564 2004,513 1146,508 1138,503 1113,492 1111,492 1108,492 850,500 809,500 804,500 764,486 761,486 758,486 608,497 591,497 589,497 562,484 559,484 556,484 427,494 422,494 419,494 373,481 371,481 368,481 242,492 234,524"/>
+        <Baseline points="234,538 2004,564"/>
+        <TextEquiv>
+          <Unicode>determination of co-humanity as community. Since the beginning of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53053b39" >
+        <Coords points="234,637 231,650 1974,677 1980,661 1977,605 1808,616 1705,602 1703,602 1590,613 1391,597 1382,597 1380,597 1372,597 1202,607 234,583 234,637"/>
+        <Baseline points="234,637 1980,661"/>
+        <TextEquiv>
+          <Unicode>industrial revolution the romanticist reaction to the conditions that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a80bf69" >
+        <Coords points="226,763 1999,782 2004,766 2004,715 1474,715 1399,702 1372,699 1369,699 1350,702 1296,710 1256,699 1243,696 1240,696 1237,696 1208,699 1121,707 1068,696 1054,694 1052,694 1035,696 979,704 949,694 941,691 939,691 936,691 904,694 782,702 742,688 737,688 734,688 731,688 713,688 586,699 363,683 357,683 355,683 277,694 231,680 228,739 226,763"/>
+        <Baseline points="228,739 2004,766"/>
+        <TextEquiv>
+          <Unicode>seem to rob man of his humanity has clung again and again, and in ever</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92bc81b2" >
+        <Coords points="228,839 226,850 2044,876 2050,866 2044,807 1958,820 1942,807 1939,807 1937,807 1934,807 1547,815 1396,801 1323,796 1321,796 1272,801 1200,809 1181,801 1173,796 1170,796 1167,796 1165,796 1162,796 1156,801 1143,809 1124,801 1108,793 1105,793 1103,793 1043,798 982,807 965,798 947,790 944,790 941,790 863,798 807,804 782,798 745,788 742,788 739,788 688,798 667,801 651,796 618,788 616,788 613,788 484,796 435,798 427,796 392,782 390,782 387,782 228,793 228,839"/>
+        <Baseline points="228,839 2050,866"/>
+        <TextEquiv>
+          <Unicode>new forms, to the idea of &quot;community.&quot; This idea of community, which is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a41445ab" >
+        <Coords points="226,936 223,954 1996,981 2001,968 2001,928 1918,911 1915,911 1859,922 1840,906 1837,906 1835,906 1832,906 1730,919 1708,903 1705,903 1703,903 1466,901 1463,901 1461,901 1412,914 1348,901 1345,901 979,906 955,893 952,893 949,893 947,893 831,903 796,887 793,887 791,887 680,901 589,885 586,885 583,885 581,885 562,898 505,882 503,882 500,882 395,895 333,879 330,879 242,879 239,879 236,879 234,879 234,882 226,887 226,936"/>
+        <Baseline points="226,936 2001,968"/>
+        <TextEquiv>
+          <Unicode>held to promise the saving of culture from technical civilization, has</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dcafd2a7" >
+        <Coords points="223,1054 1993,1078 1999,1070 1993,1008 1937,1022 1676,1003 1670,1003 1668,1003 1665,1003 1557,1016 1469,1000 1466,1000 1463,1000 1415,1014 1130,997 1127,997 1030,1008 446,984 443,984 277,995 228,979 226,1041 223,1054"/>
+        <Baseline points="226,1041 1999,1070"/>
+        <TextEquiv>
+          <Unicode>its origins in romanticism. It is found in the Communist Manifesto as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7dddaeba" >
+        <Coords points="226,1143 223,1156 1904,1175 1910,1167 1904,1108 1533,1116 226,1094 226,1143"/>
+        <Baseline points="226,1143 1910,1167"/>
+        <TextEquiv>
+          <Unicode>the revolution&#x27;s goal in a &#x27;&#x27;free association of free individuals.&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc90579e" >
+        <Coords points="223,1242 220,1264 414,1258 578,1272 610,1275 613,1275 637,1275 761,1264 804,1277 809,1277 812,1277 815,1277 828,1277 898,1266 1966,1291 1972,1266 1972,1221 223,1194 223,1242"/>
+        <Baseline points="223,1242 1972,1266"/>
+        <TextEquiv>
+          <Unicode>idea of commnity is found with socially critical and socially thera-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9727212f" >
+        <Coords points="1937,1164 1934,1183 2036,1191 2042,1170 2039,1124 1937,1119 1937,1164"/>
+        <Baseline points="1937,1164 2042,1170"/>
+        <TextEquiv>
+          <Unicode>The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_794bac2c" >
+        <Coords points="217,1345 215,1355 1991,1388 1996,1369 1993,1315 217,1293 217,1345"/>
+        <Baseline points="217,1345 1996,1369"/>
+        <TextEquiv>
+          <Unicode>peutic intent also in Roman Catholic social teaching. However, in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_943f6f4a" >
+        <Coords points="2034,1420 217,1393 217,1441 215,1460 2036,1484 2042,1474 2042,1468 2034,1420"/>
+        <Baseline points="217,1441 2042,1474"/>
+        <TextEquiv>
+          <Unicode>course of the progress of industrial society this ideal of community has</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_abd9b9a0" >
+        <Coords points="215,1544 215,1565 573,1565 578,1568 597,1581 600,1581 602,1581 605,1581 608,1581 637,1568 640,1568 667,1581 669,1581 672,1581 831,1570 844,1570 850,1570 909,1584 912,1584 1127,1573 1159,1573 1165,1573 1210,1589 1213,1589 1216,1589 1342,1579 1380,1592 1382,1592 1385,1592 1539,1581 1654,1595 1657,1595 1722,1581 1770,1597 1773,1597 1775,1597 1964,1581 1966,1568 1964,1525 1886,1509 1883,1509 1805,1519 1783,1522 1730,1519 1539,1503 1536,1503 1461,1514 1423,1517 1350,1511 1243,1501 1240,1501 1237,1501 1218,1509 1202,1514 1183,1506 1159,1498 1156,1498 1154,1498 1078,1503 1000,1511 930,1501 885,1495 882,1495 815,1498 696,1506 540,1492 495,1490 492,1490 489,1490 481,1492 446,1503 408,1490 400,1487 398,1487 215,1487 215,1544"/>
+        <Baseline points="215,1544 1966,1568"/>
+        <TextEquiv>
+          <Unicode>alsο lost its revolutionary power and been integrated into the indus-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f18ca385" >
+        <Coords points="212,1622 215,1648 215,1662 546,1665 551,1643 543,1587 217,1597 212,1622"/>
+        <Baseline points="215,1648 551,1643"/>
+        <TextEquiv>
+          <Unicode>trial system.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc82faaa" >
+        <Coords points="1762,1732 1735,1724 1730,1721 1563,1708 1560,1708 1286,1710 1041,1713 1027,1702 1022,1697 1019,1697 1017,1697 1014,1697 928,1700 756,1708 721,1694 715,1692 713,1692 710,1692 694,1694 610,1705 570,1689 567,1689 565,1689 419,1686 417,1694 417,1748 414,1759 1775,1788 1781,1772 1778,1737 1762,1732"/>
+        <Baseline points="417,1748 1781,1772"/>
+        <TextEquiv>
+          <Unicode>In the circle of his friends, his intimate colleagues,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f1e648c" >
+        <Coords points="2015,1815 2012,1813 2009,1813 2007,1813 2004,1813 1896,1823 1851,1810 1848,1810 1845,1810 1778,1823 1770,1823 1377,1821 1366,1813 1358,1804 1356,1804 1353,1804 1350,1804 1278,1810 1210,1815 1186,1807 1159,1799 1156,1799 1154,1799 1151,1799 1135,1807 1121,1813 734,1810 562,1791 521,1788 519,1788 487,1788 304,1799 215,1783 212,1788 212,1845 209,1858 2031,1885 2036,1874 2034,1869 2015,1815"/>
+        <Baseline points="212,1845 2036,1874"/>
+        <TextEquiv>
+          <Unicode>neighbors and children, at home, in the choral society, and in the local</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82680ab8" >
+        <Coords points="209,1947 207,1958 1880,1987 1886,1971 1883,1926 209,1891 209,1947"/>
+        <Baseline points="209,1947 1886,1971"/>
+        <TextEquiv>
+          <Unicode>community, it is as if man&#x27;s businesslike and inhuman outlook were</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77e35bfd" >
+        <Coords points="209,2047 207,2065 2028,2095 2034,2073 2034,2028 209,1998 209,2047"/>
+        <Baseline points="209,2047 2034,2073"/>
+        <TextEquiv>
+          <Unicode>suddenly blown away. Through small groups the church can have its place</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_470b7f2c" >
+        <Coords points="207,2146 204,2157 1953,2181 1958,2170 1953,2114 1767,2125 1727,2111 1724,2111 1722,2111 1716,2111 1603,2122 1541,2108 1536,2108 1533,2108 1517,2108 1380,2119 1213,2106 1170,2103 1167,2103 1140,2106 1049,2114 207,2098 207,2146"/>
+        <Baseline points="207,2146 1958,2170"/>
+        <TextEquiv>
+          <Unicode>and carry out its function. Here it can become a refuge of the inner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb6d20a3" >
+        <Coords points="204,2248 201,2267 1999,2291 2004,2275 2004,2230 1105,2203 1103,2203 1043,2208 955,2213 936,2205 925,2200 922,2200 920,2200 780,2200 395,2205 204,2189 204,2248"/>
+        <Baseline points="204,2248 2004,2275"/>
+        <TextEquiv>
+          <Unicode>life, away from the supposedly &quot;soulless“ world of affairs. Conditions</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ed6722d1" >
+        <Coords points="204,2369 1948,2396 1953,2372 1950,2321 1848,2310 1845,2310 1802,2316 1762,2324 1740,2316 1722,2308 1719,2308 1716,2308 1670,2313 1622,2321 1560,2313 1509,2305 1506,2305 1396,2308 1218,2316 1191,2305 1178,2299 1175,2299 1173,2299 1113,2302 984,2313 944,2299 933,2297 930,2297 928,2297 904,2299 812,2310 462,2294 460,2294 457,2294 414,2305 403,2291 400,2291 400,2289 398,2289 395,2289 392,2289 382,2289 266,2299 209,2286 207,2348 204,2369"/>
+        <Baseline points="207,2348 1953,2372"/>
+        <TextEquiv>
+          <Unicode>in the vast industrial complexes transcend our intellectual range and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca153660" >
+        <Coords points="201,2450 199,2477 1065,2477 1068,2464 1065,2418 643,2399 640,2399 637,2399 605,2410 600,2410 597,2410 551,2396 548,2396 546,2396 201,2402 201,2450"/>
+        <Baseline points="201,2450 1068,2464"/>
+        <TextEquiv>
+          <Unicode>can no longer be mastered morally.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e3918d0" >
+        <Coords points="1958,2577 201,2552 201,2598 199,2622 1167,2646 1170,2646 1173,2646 1197,2633 1200,2633 1810,2638 1813,2641 1861,2657 1864,2657 1867,2657 1972,2641 1974,2628 1974,2595 1958,2577"/>
+        <Baseline points="201,2598 1974,2628"/>
+        <TextEquiv>
+          <Unicode>Religion as the cult of the institution. A third role in which modern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f9d4f5b5" >
+        <Coords points="1982,2679 1611,2663 1608,2663 1536,2673 1525,2673 1522,2673 1498,2660 1495,2660 1493,2660 1232,2668 1183,2668 1156,2665 1014,2652 199,2652 199,2700 196,2727 982,2727 1008,2733 1041,2741 1043,2741 1046,2741 1121,2735 1175,2730 1218,2735 1283,2743 1286,2743 1288,2743 1313,2735 1323,2733 1326,2735 1337,2746 1339,2746 1342,2746 1345,2746 1455,2738 1485,2735 1490,2738 1501,2749 1504,2749 1506,2749 1509,2749 1641,2738 1662,2738 1670,2738 1722,2751 1724,2751 1727,2751 1821,2741 1826,2741 1832,2741 1904,2754 1907,2754 1991,2741 1993,2730 1991,2724 1982,2679"/>
+        <Baseline points="199,2700 1993,2730"/>
+        <TextEquiv>
+          <Unicode>society expects the Christian religion to be effective is, surprisingly</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d7ebff1" >
+        <Coords points="196,2800 193,2816 1867,2840 1872,2824 1869,2768 196,2746 196,2800"/>
+        <Baseline points="196,2800 1872,2824"/>
+        <TextEquiv>
+          <Unicode>enough, once more to be found today in the institution with all it</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a4e7bab" >
+        <Coords points="1000,2910 974,2910 947,2910 920,2910 893,2907 866,2907 839,2907 812,2907 785,2907 758,2907 731,2905 704,2905 678,2905 651,2905 624,2905 597,2902 570,2902 543,2902 516,2902 489,2902 462,2899 435,2899 411,2899 384,2899 357,2899 330,2897 304,2897 277,2897 250,2897 223,2897 196,2897 196,2899 193,2926 1883,2950 1888,2926 1886,2875 1638,2870 1635,2870 1633,2870 1625,2872 1587,2886 1442,2870 1372,2864 1014,2864 1000,2910"/>
+        <Baseline points="196,2899 1888,2926"/>
+        <TextEquiv>
+          <Unicode>involves in the way of officialdom and official claims. Industrial</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1da7a208"  >
+      <Coords points="2061,266 1966,277 1966,225 2050,225 2061,266"/>
+      <TextLine id="eSc_line_2a213959" >
+        <Coords points="2044,225 2017,225 1991,225 1966,266 1969,314 2058,312 2055,260 2050,234 2044,225"/>
+        <Baseline points="1966,266 2055,260"/>
+        <TextEquiv>
+          <Unicode>104</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

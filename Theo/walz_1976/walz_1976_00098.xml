@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00098.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.210794+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.210806+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00098.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_55881c25"  >
+      <Coords points="2061,373 1194,373 1076,384 1095,406 1019,459 247,449 269,279 2007,290 2020,204 2082,215 2061,373"/>
+      <TextLine id="eSc_line_9b5ce350" >
+        <Coords points="2066,212 2039,207 2026,220 2017,258 2017,274 2071,274 2071,252 2069,250 2066,212"/>
+        <Baseline points="2017,258 2071,252"/>
+        <TextEquiv>
+          <Unicode>91</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_66da32a0" >
+        <Coords points="2055,309 1991,295 1988,295 1619,301 1614,301 1598,287 1595,287 1592,287 1590,287 1461,298 1455,298 1444,298 1235,285 1218,285 1191,285 1165,285 1138,285 1113,282 1022,290 1011,290 998,282 976,282 949,282 922,282 895,282 869,282 842,282 815,282 788,282 761,282 734,282 707,282 680,279 653,279 626,279 600,279 573,279 546,279 519,279 492,279 465,279 438,279 411,279 384,279 357,279 330,279 304,279 277,279 274,277 250,277 250,322 247,333 400,355 403,355 530,341 546,355 548,355 551,355 554,355 556,355 586,344 702,360 704,360 823,347 834,347 858,347 1156,368 1159,368 1342,357 1358,357 1364,357 1407,371 1409,371 1412,371 1539,360 1568,360 1576,363 1614,376 1617,376 1619,376 2055,371 2058,355 2058,349 2055,309"/>
+        <Baseline points="250,322 2058,355"/>
+        <TextEquiv>
+          <Unicode>other than the origin, and the goals greater than the beginning, and the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e1e87305" >
+        <Coords points="250,425 250,427 247,446 427,441 462,449 492,457 495,457 497,457 500,457 532,449 556,443 610,449 718,459 721,459 723,459 772,449 780,446 785,449 820,462 823,462 826,465 982,465 982,462 984,462 1014,446 1017,438 1011,381 634,390 535,384 271,371 269,371 266,371 263,371 250,425"/>
+        <Baseline points="250,427 1017,438"/>
+        <TextEquiv>
+          <Unicode>future more than all the past.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_feb8de14"  >
+      <Coords points="1942,997 2050,1065 2071,1320 2017,1377 2017,1740 1953,1818 2007,1926 1953,2203 2007,2248 2050,2429 1996,2496 2017,2741 1899,2924 204,2902 215,1947 226,1915 408,1880 215,1804 236,538 269,516 1985,570 1942,997"/>
+      <TextLine id="eSc_line_7b7bfa44" >
+        <Coords points="1945,567 1918,567 1891,564 1864,564 1837,564 1810,562 1783,562 1756,562 1730,562 1703,559 1676,559 1649,559 1622,556 1595,556 1568,556 1541,554 1514,554 1487,554 1461,551 1434,551 1407,551 1380,548 1353,548 1326,548 1299,548 1272,546 1245,546 1218,546 1191,543 1165,543 1138,543 1111,540 1108,540 1084,540 1057,540 1038,538 1000,538 976,538 965,535 893,535 869,535 858,532 269,519 250,527 250,575 247,607 1251,607 1272,616 1296,626 1299,626 1302,626 1304,626 1323,616 1337,610 1426,618 1595,632 1598,632 1600,632 1625,618 1633,616 1643,618 1684,634 1687,634 1689,634 1770,621 1789,618 1966,621 1972,607 1969,567 1945,567"/>
+        <Baseline points="250,575 1972,607"/>
+        <TextEquiv>
+          <Unicode>The historical method. Without &quot;method“ no assured knowledge can be</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7fdac477" >
+        <Coords points="244,680 242,696 1942,718 1948,707 1948,661 244,634 244,680"/>
+        <Baseline points="244,680 1948,707"/>
+        <TextEquiv>
+          <Unicode>attained. Historical methodology therefore embraces principles for</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a6728554" >
+        <Coords points="244,780 242,793 1961,823 1966,809 1966,763 244,720 244,780"/>
+        <Baseline points="244,780 1966,809"/>
+        <TextEquiv>
+          <Unicode>historical research and principles for the critical control of their</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62806d17" >
+        <Coords points="242,882 239,903 1915,919 1921,909 1921,858 242,831 242,882"/>
+        <Baseline points="242,882 1921,909"/>
+        <TextEquiv>
+          <Unicode>results. Certain minimum requirements from the concept of science</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8dfa9037" >
+        <Coords points="239,979 236,992 1913,1022 1918,1008 1918,963 1652,960 1646,957 1617,941 1614,941 1611,941 1482,954 1461,954 1065,949 1060,946 1003,930 1000,930 998,930 239,930 239,979"/>
+        <Baseline points="239,979 1918,1008"/>
+        <TextEquiv>
+          <Unicode>associated with natural science have been introduced also into the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55de393e" >
+        <Coords points="236,1084 234,1100 2036,1132 2042,1113 2039,1062 236,1038 236,1084"/>
+        <Baseline points="236,1084 2042,1113"/>
+        <TextEquiv>
+          <Unicode>science of history: (1) The science of history is not art, fiction, or</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a845ec58" >
+        <Coords points="234,1183 231,1194 2009,1221 2015,1210 2012,1164 234,1127 234,1183"/>
+        <Baseline points="234,1183 2015,1210"/>
+        <TextEquiv>
+          <Unicode>legend, but the concept of truth which underlies it is that of a veri-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ecf62697" >
+        <Coords points="234,1283 231,1293 269,1310 271,1310 274,1310 395,1299 400,1299 554,1299 554,1301 562,1312 565,1312 565,1315 567,1315 570,1315 573,1315 807,1307 869,1307 877,1310 893,1320 895,1320 898,1320 901,1320 952,1312 968,1310 2055,1336 2061,1312 2061,1266 234,1237 234,1283"/>
+        <Baseline points="234,1283 2061,1312"/>
+        <TextEquiv>
+          <Unicode>fiable truth of fact; (2) the historical correctness of our knowledge of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50167e8a" >
+        <Coords points="231,1385 228,1398 1974,1425 1980,1417 1980,1366 1627,1350 1625,1350 1530,1355 1407,1361 1393,1350 1385,1345 1382,1345 1380,1345 1377,1345 1272,1347 1108,1355 1054,1345 1030,1339 1027,1339 1008,1342 965,1353 952,1342 949,1339 949,1336 947,1336 944,1336 941,1336 906,1339 823,1350 764,1336 747,1334 745,1334 729,1336 678,1347 616,1334 602,1331 600,1331 586,1334 527,1345 231,1326 231,1385"/>
+        <Baseline points="231,1385 1980,1417"/>
+        <TextEquiv>
+          <Unicode>history, however, presupposes that our insights are controllable; (3)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a115e46" >
+        <Coords points="231,1484 228,1495 2001,1533 2007,1514 2007,1463 231,1439 231,1484"/>
+        <Baseline points="231,1484 2007,1514"/>
+        <TextEquiv>
+          <Unicode>this controllability, however, presupposes that historical objects can</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8bdfc284" >
+        <Coords points="231,1587 228,1605 1999,1627 2004,1616 2004,1570 231,1541 231,1587"/>
+        <Baseline points="231,1587 2004,1616"/>
+        <TextEquiv>
+          <Unicode>in principle be reconstructed; and, (4) historical science, too, works</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2704b52d" >
+        <Coords points="223,1689 220,1700 1996,1726 2001,1718 1999,1667 223,1638 223,1689"/>
+        <Baseline points="223,1689 2001,1718"/>
+        <TextEquiv>
+          <Unicode>with definite hypotheses, plans, approaches, and outlooks, by means of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_89c6249a" >
+        <Coords points="223,1786 220,1807 1611,1823 1617,1813 1617,1767 223,1732 223,1786"/>
+        <Baseline points="223,1786 1617,1813"/>
+        <TextEquiv>
+          <Unicode>which the events are illumined and perceived as events.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02a7f569" >
+        <Coords points="1972,1866 1904,1866 1902,1864 1883,1848 1880,1848 1878,1848 1875,1848 1681,1861 1657,1861 1654,1861 1622,1842 1619,1842 1617,1842 1498,1858 1485,1858 1461,1858 1235,1837 1232,1837 1140,1853 1132,1853 1130,1853 1095,1834 1092,1834 1089,1834 1087,1834 1033,1850 1030,1850 912,1850 909,1848 885,1831 882,1831 879,1831 877,1831 807,1848 799,1848 791,1848 710,1829 707,1829 618,1845 610,1845 605,1845 554,1826 551,1826 548,1826 422,1839 422,1893 419,1904 1969,1931 1974,1917 1974,1869 1972,1866"/>
+        <Baseline points="422,1893 1974,1917"/>
+        <TextEquiv>
+          <Unicode>The historical method is applied critically to the traditions</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_52ac77df" >
+        <Coords points="1993,1990 1985,1969 1775,1955 1773,1955 1678,1966 1662,1966 1657,1966 1625,1952 1622,1952 1619,1952 1366,1961 1331,1961 1323,1961 1267,1947 1264,1947 871,1952 826,1952 817,1952 753,1939 750,1939 217,1942 217,1990 215,2004 1991,2030 1996,2017 1993,1985 1993,1990"/>
+        <Baseline points="217,1990 1996,2017"/>
+        <TextEquiv>
+          <Unicode>and the historical sources. This sort of destructive criticism of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea8acdab" >
+        <Coords points="220,2090 217,2100 1918,2130 1923,2119 1923,2076 220,2047 220,2090"/>
+        <Baseline points="220,2090 1923,2119"/>
+        <TextEquiv>
+          <Unicode>traditions of an event, however, is itself always bound up with the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f9c1ac2" >
+        <Coords points="215,2189 212,2203 1409,2235 1412,2235 1722,2227 1746,2240 1748,2240 1751,2240 1754,2240 1918,2227 1921,2216 1921,2170 215,2138 215,2189"/>
+        <Baseline points="215,2189 1921,2216"/>
+        <TextEquiv>
+          <Unicode>historian&#x27;s own power of picturing and imagining how things may &quot;in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de39de2c" >
+        <Coords points="215,2291 212,2302 1988,2329 1993,2318 1991,2270 215,2246 215,2291"/>
+        <Baseline points="215,2291 1993,2318"/>
+        <TextEquiv>
+          <Unicode>fact“ have been. This means that historical criticism is always bound</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e961a597" >
+        <Coords points="2028,2369 215,2345 215,2394 212,2404 2034,2431 2039,2421 2036,2399 2028,2369"/>
+        <Baseline points="215,2394 2039,2421"/>
+        <TextEquiv>
+          <Unicode>up with historical heuristics. The historical approach must regard past</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e3e399c3" >
+        <Coords points="209,2490 207,2509 1931,2533 1937,2523 1934,2472 209,2442 209,2490"/>
+        <Baseline points="209,2490 1937,2523"/>
+        <TextEquiv>
+          <Unicode>history in that historical detachment in which it can be objectively</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_08be7a1b" >
+        <Coords points="207,2593 204,2603 2007,2630 2012,2620 2007,2560 1864,2571 1654,2558 1619,2555 1617,2555 1592,2555 1474,2566 1326,2555 1261,2550 1259,2550 1224,2552 1165,2560 1019,2552 893,2544 890,2544 207,2544 207,2593"/>
+        <Baseline points="207,2593 2012,2620"/>
+        <TextEquiv>
+          <Unicode>examined. This, understandably enough, becomes more difficult the more</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5380525c" >
+        <Coords points="209,2692 207,2708 1837,2743 1840,2743 2004,2730 2007,2719 2004,2676 209,2646 209,2692"/>
+        <Baseline points="209,2692 2007,2719"/>
+        <TextEquiv>
+          <Unicode>it is a question of &quot;contemporary history.“ For here the object is not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c61d956" >
+        <Coords points="1956,2776 1732,2757 1730,2757 1643,2770 1630,2770 1329,2768 1321,2762 1299,2751 1296,2751 1294,2751 1291,2751 1269,2759 1261,2762 1253,2759 1224,2749 1221,2749 1218,2749 1138,2757 1081,2762 1025,2754 968,2746 965,2746 963,2746 939,2751 909,2759 858,2749 817,2743 815,2743 785,2749 739,2757 473,2741 414,2738 411,2738 408,2738 406,2738 376,2751 344,2738 339,2735 336,2735 204,2735 204,2794 201,2805 1953,2837 1958,2821 1958,2819 1956,2776"/>
+        <Baseline points="204,2794 1958,2821"/>
+        <TextEquiv>
+          <Unicode>firmly established but is still in the state of flux. At bottom, all</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_e87ce5c3" >
+        <Coords points="201,2910 199,2921 279,2940 282,2940 285,2940 287,2940 309,2926 320,2921 460,2921 481,2929 527,2945 530,2945 532,2945 645,2934 699,2929 745,2937 823,2950 826,2950 828,2950 861,2940 885,2932 901,2940 914,2950 917,2950 920,2950 1135,2956 1138,2956 1251,2950 1439,2940 1450,2953 1452,2953 1452,2956 1455,2956 1458,2956 1461,2956 1466,2956 1525,2942 1600,2959 1622,2964 1625,2964 1646,2961 1724,2945 1907,2967 1913,2940 1913,2883 1574,2862 1571,2862 1506,2875 1498,2875 1493,2875 1447,2859 1444,2859 1442,2859 1439,2859 1399,2870 1127,2854 1124,2854 1033,2864 1011,2867 976,2864 820,2848 817,2848 815,2848 769,2862 761,2862 538,2862 532,2856 516,2843 513,2843 511,2843 508,2843 505,2843 473,2854 468,2856 449,2854 355,2840 352,2840 201,2848 201,2910"/>
+        <Baseline points="203,2913 1914,2942"/>
+        <TextEquiv>
+          <Unicode>history is &quot;contemporary history.&quot; The historian&#x27;s object is thus</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00118.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.478078+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.478090+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00118.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_d5341441"  >
+      <Coords points="815,384 269,373 269,301 793,312 815,384"/>
+      <TextLine id="eSc_line_760ea32e" >
+        <Coords points="769,309 742,309 715,309 688,309 661,309 634,306 608,306 581,306 554,306 527,303 519,303 500,303 473,303 446,303 419,303 392,301 387,301 365,301 339,301 312,301 285,301 282,298 258,298 258,347 255,371 793,392 799,357 788,328 769,309"/>
+        <Baseline points="258,347 799,357"/>
+        <TextEquiv>
+          <Unicode>Questions about Jesus</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4dbad586"  >
+      <Coords points="1974,559 2061,742 2039,868 2082,957 2071,1105 1985,1269 2017,1417 1996,1471 1878,1506 1996,1538 2017,1657 2007,1912 1888,1969 1888,2063 2017,2248 1931,2590 1033,2611 309,2722 355,2754 922,2765 965,2786 933,2880 979,2926 1339,2959 1372,2991 1339,3031 419,3020 395,2913 204,2891 226,2862 559,2859 322,2848 193,2794 236,2730 193,2611 226,1603 419,1546 365,1525 373,1492 226,1482 247,494 427,462 462,408 2028,419 2093,451 2061,556 1974,559"/>
+      <TextLine id="eSc_line_bc009daf" >
+        <Coords points="2069,441 2066,438 578,408 562,408 535,408 508,408 481,408 454,416 454,451 452,470 2077,497 2082,486 2079,481 2069,441"/>
+        <Baseline points="454,451 2082,486"/>
+        <TextEquiv>
+          <Unicode>Christian faith basically lives only as a profession of faith in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_27086f28" >
+        <Coords points="250,548 247,559 1875,602 1880,583 1878,521 1633,532 1606,516 1603,516 1600,516 1598,516 1587,516 1501,529 1401,516 1399,516 877,516 815,508 739,497 737,497 672,505 637,511 586,505 468,492 465,492 462,492 460,492 443,503 438,508 384,508 382,503 368,492 368,489 365,489 363,489 360,489 250,500 250,548"/>
+        <Baseline points="250,548 1880,583"/>
+        <TextEquiv>
+          <Unicode>Jesus. Wherever Jesus is acknowledged as the Christ of God there</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8d9c11ae" >
+        <Coords points="250,648 247,659 1972,694 1977,683 1977,629 250,597 250,648"/>
+        <Baseline points="250,648 1977,683"/>
+        <TextEquiv>
+          <Unicode>Christian faith is to be found. But who was Jesus of Nazareth? The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43402b31" >
+        <Coords points="247,750 244,766 2042,801 2047,785 2047,739 247,704 247,750"/>
+        <Baseline points="247,750 2047,785"/>
+        <TextEquiv>
+          <Unicode>more his divinity was emphasized the more difficult it became to demon-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_64fc8c56" >
+        <Coords points="244,847 242,858 1945,898 1950,887 1950,844 244,798 244,847"/>
+        <Baseline points="244,847 1950,887"/>
+        <TextEquiv>
+          <Unicode>strate that God was of one substance with Jesus of Nazareth. It is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7535e421" >
+        <Coords points="244,952 242,973 2063,1011 2069,989 2066,941 1937,925 1934,925 1826,936 1805,936 1552,933 1552,930 1544,919 1541,919 1541,917 1539,917 1536,917 1533,917 1466,928 1458,928 1409,925 1062,909 1060,909 933,917 909,917 904,917 866,903 863,903 861,903 570,909 521,909 519,909 508,898 508,895 505,895 503,895 500,895 244,901 244,952"/>
+        <Baseline points="244,952 2069,989"/>
+        <TextEquiv>
+          <Unicode>possible to interpret Jesus as the perfect man to those who by tradition</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2c8e5a1" >
+        <Coords points="239,1051 236,1062 2050,1108 2055,1092 2052,1038 239,1003 239,1051"/>
+        <Baseline points="239,1051 2055,1092"/>
+        <TextEquiv>
+          <Unicode>are already Christians but hardly to pagans and post-Christian atheists.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9415ce66" >
+        <Coords points="236,1154 234,1167 1985,1199 1991,1188 1991,1143 236,1097 236,1154"/>
+        <Baseline points="236,1154 1991,1188"/>
+        <TextEquiv>
+          <Unicode>Modern Jesuology cannot reconcile the resurrection with events in the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_100f0c50" >
+        <Coords points="234,1256 231,1266 1896,1293 1902,1283 1899,1226 1738,1237 1703,1223 1697,1221 1695,1221 1692,1221 1670,1223 1568,1234 1458,1234 1444,1221 1444,1218 1442,1218 1439,1218 1436,1218 1404,1218 1259,1229 1181,1215 1167,1215 1165,1215 1140,1215 1049,1223 1033,1215 1027,1210 1025,1210 1022,1210 1019,1210 982,1215 914,1223 850,1213 812,1207 809,1207 807,1207 796,1213 780,1221 734,1213 696,1205 694,1205 234,1205 234,1256"/>
+        <Baseline points="234,1256 1902,1283"/>
+        <TextEquiv>
+          <Unicode>physical world and finds it impossible to take into account Jesus&#x27;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f47b4ca7" >
+        <Coords points="2007,1374 1996,1342 234,1296 234,1353 231,1366 2004,1409 2009,1390 2007,1374 2007,1374"/>
+        <Baseline points="234,1353 2009,1390"/>
+        <TextEquiv>
+          <Unicode>abandonment by God. Therefore attention is turned away from his death</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_497e2fc3" >
+        <Coords points="231,1452 228,1468 1315,1490 1321,1479 1321,1420 231,1404 231,1452"/>
+        <Baseline points="231,1452 1321,1479"/>
+        <TextEquiv>
+          <Unicode>and concentrated on his life and preaching.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_90740729" >
+        <Coords points="427,1568 1956,1603 1961,1592 1958,1538 828,1522 785,1506 782,1506 780,1506 777,1506 766,1506 667,1517 648,1503 645,1503 643,1503 640,1503 634,1503 478,1511 433,1498 430,1557 427,1568"/>
+        <Baseline points="430,1557 1961,1592"/>
+        <TextEquiv>
+          <Unicode>The events which took place around Jesus and at his word are</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9887f543" >
+        <Coords points="226,1657 223,1665 1999,1700 2004,1692 2004,1643 226,1608 226,1657"/>
+        <Baseline points="226,1657 2004,1692"/>
+        <TextEquiv>
+          <Unicode>signs of the messianic age. His office is upheld by the future of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9dfb426a" >
+        <Coords points="223,1753 220,1775 1931,1799 1937,1788 1937,1743 1689,1743 1662,1735 1625,1724 1622,1724 1619,1724 1574,1732 1541,1737 1517,1729 1490,1721 1487,1721 1485,1721 1444,1729 1409,1735 1348,1726 1278,1716 1275,1716 1221,1721 1170,1729 1156,1721 1148,1713 1146,1713 1143,1713 1140,1713 1095,1718 1041,1726 995,1716 971,1710 968,1710 965,1710 963,1710 960,1710 955,1716 941,1724 855,1713 812,1708 809,1708 780,1710 715,1718 699,1708 696,1705 694,1705 691,1705 688,1705 686,1705 672,1708 626,1718 521,1702 487,1700 484,1700 460,1702 382,1713 363,1700 360,1697 357,1697 355,1697 223,1697 223,1753"/>
+        <Baseline points="223,1753 1937,1788"/>
+        <TextEquiv>
+          <Unicode>kingdom which is inaugurated in and around him. The question about</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1d809171" >
+        <Coords points="223,1853 220,1864 1991,1901 1996,1891 1993,1837 1240,1834 1210,1823 1191,1818 1189,1818 1186,1818 1151,1823 1113,1829 1089,1821 1068,1815 1065,1815 1062,1815 1022,1821 984,1826 965,1821 936,1810 933,1810 930,1810 928,1810 893,1818 871,1823 828,1818 731,1804 729,1804 538,1813 484,1815 443,1813 295,1796 293,1796 223,1807 223,1853"/>
+        <Baseline points="223,1853 1996,1891"/>
+        <TextEquiv>
+          <Unicode>Christ is one of being questioned rather than of questioning. He asks</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd900f11" >
+        <Coords points="223,1955 220,1969 1843,1998 1848,1990 1848,1936 223,1899 223,1955"/>
+        <Baseline points="223,1955 1848,1990"/>
+        <TextEquiv>
+          <Unicode>the question, &#x27;&#x27;Who do you say that I am?“ This question aroused</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e12521f" >
+        <Coords points="215,2055 212,2071 1867,2106 1872,2090 1869,2044 215,2006 215,2055"/>
+        <Baseline points="215,2055 1872,2090"/>
+        <TextEquiv>
+          <Unicode>memories of figures in the past like Moses, the prophets, and the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2fa6aeea" >
+        <Coords points="1939,2141 1934,2133 217,2100 217,2154 215,2168 1937,2203 1942,2192 1942,2146 1939,2141"/>
+        <Baseline points="217,2154 1942,2192"/>
+        <TextEquiv>
+          <Unicode>Baptist. It aroused the expectation of Israel. We should let Jesus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a12a924" >
+        <Coords points="1999,2238 212,2203 212,2256 209,2270 2007,2308 2012,2294 2009,2259 1999,2238"/>
+        <Baseline points="212,2256 2012,2294"/>
+        <TextEquiv>
+          <Unicode>change and correct our ideas about God and man. By confessing Jesus as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5bb39d60" >
+        <Coords points="212,2359 209,2372 1953,2402 1958,2394 1958,2340 212,2308 212,2359"/>
+        <Baseline points="212,2359 1958,2394"/>
+        <TextEquiv>
+          <Unicode>the Christ, faith also confesses that his future is real. It antici-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_89e9a275" >
+        <Coords points="1953,2490 1942,2447 207,2402 207,2458 204,2469 1953,2507 1958,2496 1956,2482 1953,2490"/>
+        <Baseline points="207,2458 1958,2496"/>
+        <TextEquiv>
+          <Unicode>pates the future in which Jesus is proclaimed worthy as the Lamb that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4cc6e706" >
+        <Coords points="1869,2590 1843,2590 1816,2590 1789,2587 1762,2587 1735,2587 1708,2587 1681,2590 1670,2547 1202,2523 1200,2523 1197,2523 1162,2531 1146,2536 1138,2531 1127,2520 1124,2520 1121,2520 1119,2520 1116,2520 1095,2528 1084,2533 1049,2528 984,2517 982,2517 796,2520 575,2523 556,2512 554,2509 551,2509 548,2509 546,2509 543,2509 532,2512 487,2523 470,2509 468,2507 465,2507 462,2507 460,2507 425,2507 258,2517 207,2501 204,2560 201,2579 234,2595 236,2595 239,2595 320,2582 336,2595 336,2598 339,2598 341,2598 344,2598 347,2598 373,2585 392,2598 395,2598 398,2598 400,2598 586,2587 597,2587 605,2587 729,2606 731,2606 839,2593 855,2593 877,2595 1025,2611 1027,2611 1100,2601 1121,2598 1181,2603 1385,2620 1388,2620 1444,2609 1461,2606 1477,2609 1517,2622 1520,2622 1522,2622 1907,2620 1910,2595 1880,2590 1869,2590"/>
+        <Baseline points="204,2560 1910,2595"/>
+        <TextEquiv>
+          <Unicode>was slain⁴ and as the time when &quot;God will wipe away every tear from</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53237df2" >
+        <Coords points="204,2652 204,2660 204,2673 546,2673 546,2660 543,2606 212,2614 204,2652"/>
+        <Baseline points="204,2660 546,2660"/>
+        <TextEquiv>
+          <Unicode>their eyes.&quot;⁵</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a139d3b4" >
+        <Coords points="930,2770 909,2762 360,2759 357,2757 320,2743 317,2743 314,2743 220,2754 204,2797 204,2802 201,2827 941,2843 947,2819 947,2778 930,2770"/>
+        <Baseline points="204,2802 947,2819"/>
+        <TextEquiv>
+          <Unicode>The Historical Trial of Jesus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65cf42c0" >
+        <Coords points="400,2961 400,2985 398,3020 532,3020 589,3066 591,3066 594,3066 648,3071 664,3090 691,3115 691,3117 694,3117 696,3117 831,3133 839,2999 839,2950 756,2932 753,2932 664,2945 645,2945 406,2937 400,2961"/>
+        <Baseline points="400,2985 839,2999"/>
+        <TextEquiv>
+          <Unicode>⁴Revelation 5:12.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8b8f2f15" >
+        <Coords points="1348,3007 1326,2967 920,2953 920,2999 917,3028 1353,3042 1358,3012 1353,3004 1348,3007"/>
+        <Baseline points="920,2999 1358,3012"/>
+        <TextEquiv>
+          <Unicode>⁵Revelation 7:17.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_03f6ff1d"  >
+      <Coords points="2009,225 2082,236 2082,298 1988,298 2009,225"/>
+      <TextLine id="eSc_line_ad667bf7" >
+        <Coords points="1991,274 1991,287 1991,303 2082,303 2082,282 2066,239 2004,239 1991,274"/>
+        <Baseline points="1991,287 2082,282"/>
+        <TextEquiv>
+          <Unicode>111</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00017.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.543477+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.543489+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00017.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_35feaaed"  >
+      <Coords points="1705,384 1256,427 1490,473 1393,599 1030,634 1065,667 1382,677 1522,720 1522,772 1253,836 739,839 1170,850 1565,979 1555,1051 1608,1127 1555,1191 1286,1215 1608,1269 1587,1342 1264,1420 1393,1474 1361,1557 764,1632 591,1579 591,1527 516,1503 559,1452 688,1449 589,1331 527,1320 527,1258 742,1245 527,1116 538,1054 688,1041 589,922 527,911 527,860 731,847 602,782 602,731 538,718 527,667 1000,653 667,621 600,524 548,524 538,451 817,438 613,373 602,322 538,298 570,247 1213,258 1256,301 1727,322 1705,384"/>
+      <TextLine id="eSc_line_90800706" >
+        <Coords points="1183,255 1156,255 1130,255 1103,255 1076,255 1049,252 1022,252 995,252 968,252 941,252 914,252 887,250 861,250 834,250 807,250 780,250 753,250 726,247 699,247 672,247 645,247 618,247 591,247 565,252 540,277 538,290 535,309 1200,314 1205,298 1202,255 1183,255"/>
+        <Baseline points="538,290 1205,298"/>
+        <TextEquiv>
+          <Unicode>How long I have gone round</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5f576e7c" >
+        <Coords points="1687,320 1660,317 1633,317 1606,314 1579,314 1552,314 1525,312 1498,312 1471,309 1444,309 1439,306 610,298 610,344 608,368 1716,381 1722,357 1711,338 1687,320"/>
+        <Baseline points="610,344 1722,357"/>
+        <TextEquiv>
+          <Unicode>and round, spiritless with foreknown defeat,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_980cb211" >
+        <Coords points="1444,462 1417,457 1391,454 1364,449 1361,446 1205,454 1113,457 1105,451 1097,443 1097,441 1095,441 1092,441 1089,441 1033,449 990,454 936,446 893,438 890,438 836,441 718,451 651,443 637,446 610,446 583,449 556,449 554,433 530,433 530,492 527,503 1469,513 1474,505 1471,494 1444,462"/>
+        <Baseline points="530,492 1474,505"/>
+        <TextEquiv>
+          <Unicode>Hours, vears maybe. The cry of metal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_094df051" >
+        <Coords points="1331,355 1304,355 1278,355 1251,352 1224,352 1197,352 1170,352 1143,352 1116,352 1089,352 1062,352 1035,349 1008,349 982,349 955,349 928,349 901,349 874,349 847,349 839,347 710,347 686,384 686,395 683,411 1345,425 1350,400 1345,355 1331,355"/>
+        <Baseline points="686,395 1350,400"/>
+        <TextEquiv>
+          <Unicode>in search of that glitter?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac9703be" >
+        <Coords points="1388,505 1361,505 1334,505 1307,505 1283,503 626,503 608,535 608,546 605,556 1393,564 1399,554 1393,505 1388,505"/>
+        <Baseline points="608,546 1399,554"/>
+        <TextEquiv>
+          <Unicode>on asphalt, on iron, the sudden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9230468f" >
+        <Coords points="990,653 963,653 936,653 909,653 882,656 855,656 828,656 801,659 774,659 747,659 721,659 694,661 667,661 640,661 613,664 586,664 559,664 538,680 532,699 532,710 1025,712 1027,699 1025,645 992,645 990,653"/>
+        <Baseline points="532,699 1027,699"/>
+        <TextEquiv>
+          <Unicode>the clear statement</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_10dc1b59" >
+        <Coords points="1299,602 1272,605 1251,559 683,554 683,599 680,621 1313,621 1315,607 1310,602 1299,602"/>
+        <Baseline points="683,599 1315,607"/>
+        <TextEquiv>
+          <Unicode>ching of a precious loss</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_812f2580" >
+        <Coords points="1490,710 624,707 602,750 600,758 1512,777 1517,758 1512,747 1490,710"/>
+        <Baseline points="602,750 1517,758"/>
+        <TextEquiv>
+          <Unicode>of something missing. Over and over</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4906f8f" >
+        <Coords points="1119,847 1092,847 1087,847 1078,855 1078,858 850,858 850,855 815,839 812,839 809,839 723,841 715,847 688,847 661,850 634,852 608,852 581,855 554,858 527,895 524,906 1165,922 1170,901 1167,858 1124,847 1119,847"/>
+        <Baseline points="527,895 1170,901"/>
+        <TextEquiv>
+          <Unicode>like a falling star, only</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e89cd09f" >
+        <Coords points="680,798 678,815 1286,820 1291,807 1288,763 680,755 680,798"/>
+        <Baseline points="680,798 1291,807"/>
+        <TextEquiv>
+          <Unicode>it stops me in my tracks</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f4f5cbe4" >
+        <Coords points="1382,919 1366,911 621,909 602,936 602,949 600,968 1388,976 1393,957 1391,919 1382,919"/>
+        <Baseline points="602,949 1393,957"/>
+        <TextEquiv>
+          <Unicode>this is not the universe&#x27;s loss</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1dcb4e7d" >
+        <Coords points="1539,971 1530,965 678,952 678,1000 675,1022 1552,1032 1557,1011 1552,987 1539,971"/>
+        <Baseline points="678,1000 1557,1011"/>
+        <TextEquiv>
+          <Unicode>it is mine. If I were only colder,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_791c9c34" >
+        <Coords points="1574,1084 1565,1065 1447,1051 1444,1051 1442,1051 1417,1065 1415,1065 1412,1065 1377,1049 1374,1049 1372,1049 1194,1059 1189,1059 1167,1046 1165,1046 1162,1046 1159,1046 1156,1046 1154,1046 1132,1059 1130,1059 1057,1043 1054,1043 1052,1043 1049,1043 1030,1057 944,1043 941,1043 858,1054 842,1041 839,1041 836,1041 834,1041 831,1041 780,1054 774,1054 524,1051 524,1097 521,1108 1587,1124 1592,1113 1587,1102 1574,1084"/>
+        <Baseline points="524,1097 1592,1113"/>
+        <TextEquiv>
+          <Unicode>nearer death, nearer birth, I might let go</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ccb801b5" >
+        <Coords points="597,1148 594,1159 1479,1172 1485,1159 1482,1116 597,1102 597,1148"/>
+        <Baseline points="597,1148 1485,1159"/>
+        <TextEquiv>
+          <Unicode>whatever&#x27;s so bent on staying lost.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2cf6cb94" >
+        <Coords points="675,1194 675,1202 672,1226 1261,1226 1264,1207 1261,1162 696,1156 675,1194"/>
+        <Baseline points="675,1202 1264,1207"/>
+        <TextEquiv>
+          <Unicode>Why not leave the house</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_828e544a" >
+        <Coords points="1600,1293 1574,1264 885,1242 882,1242 834,1245 710,1253 699,1245 686,1248 659,1248 632,1250 605,1253 578,1253 551,1256 524,1250 524,1299 521,1320 1600,1336 1606,1315 1603,1277 1600,1293"/>
+        <Baseline points="524,1299 1606,1315"/>
+        <TextEquiv>
+          <Unicode>locked, to collapse inward among its weeds,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80c2a920" >
+        <Coords points="600,1345 600,1350 597,1358 1385,1377 1391,1358 1388,1315 621,1310 600,1345"/>
+        <Baseline points="600,1350 1391,1358"/>
+        <TextEquiv>
+          <Unicode>the letters to darken and flake</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_78583989" >
+        <Coords points="672,1398 669,1412 1235,1425 1240,1409 1237,1366 672,1355 672,1398"/>
+        <Baseline points="672,1398 1240,1409"/>
+        <TextEquiv>
+          <Unicode>in the drawer, the car</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cbdac6e5" >
+        <Coords points="1356,1457 554,1457 548,1460 524,1487 521,1498 519,1514 1380,1527 1385,1509 1380,1495 1356,1457"/>
+        <Baseline points="521,1498 1385,1509"/>
+        <TextEquiv>
+          <Unicode>to grow skeletal, aflame with rust</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f073f0d" >
+        <Coords points="1296,1557 1275,1514 600,1506 600,1552 597,1562 1307,1570 1313,1560 1310,1557 1296,1557"/>
+        <Baseline points="600,1552 1313,1560"/>
+        <TextEquiv>
+          <Unicode>in the moonlit lot, and walk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_064a0e41" >
+        <Coords points="936,1603 912,1562 769,1554 747,1554 721,1554 694,1554 667,1603 667,1605 667,1616 952,1630 955,1605 952,1600 936,1603"/>
+        <Baseline points="667,1605 955,1605"/>
+        <TextEquiv>
+          <Unicode>ever after?</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a85fd624"  >
+      <Coords points="1396,1926 1555,1926 1565,1966 1226,2020 1245,2065 1404,2076 1415,2138 1372,2203 1191,2235 1953,2281 1964,2622 1888,2655 182,2633 182,2367 406,2345 387,2259 688,2256 643,2181 505,2106 516,2065 914,2052 667,2030 581,1977 578,1934 516,1923 516,1861 678,1848 578,1729 516,1718 527,1657 1275,1689 1318,1815 1183,1861 1396,1926"/>
+      <TextLine id="eSc_line_4a31555e" >
+        <Coords points="1162,1683 1135,1681 1108,1681 1081,1678 1054,1678 1027,1678 1000,1675 974,1675 947,1673 920,1673 893,1670 866,1670 839,1670 812,1667 785,1667 758,1665 731,1665 704,1662 678,1662 651,1662 624,1659 597,1659 570,1657 543,1657 524,1670 516,1697 513,1710 1173,1726 1178,1710 1175,1683 1162,1683"/>
+        <Baseline points="516,1697 1178,1710"/>
+        <TextEquiv>
+          <Unicode>O God I am not spiritless,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4a94d696" >
+        <Coords points="1291,1748 1278,1716 610,1713 591,1743 591,1753 589,1767 1291,1775 1296,1761 1291,1748 1291,1748"/>
+        <Baseline points="591,1753 1296,1761"/>
+        <TextEquiv>
+          <Unicode>but a spirit can be stunned,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5761f621" >
+        <Coords points="1304,1810 1283,1767 661,1761 661,1804 659,1818 1302,1826 1307,1813 1304,1810 1304,1810"/>
+        <Baseline points="661,1804 1307,1813"/>
+        <TextEquiv>
+          <Unicode>a battery felt going dead</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6726ae3c" >
+        <Coords points="594,1853 567,1856 540,1858 513,1853 513,1899 511,1909 1170,1920 1175,1909 1170,1850 597,1850 594,1853"/>
+        <Baseline points="513,1899 1175,1909"/>
+        <TextEquiv>
+          <Unicode>before the light flickers,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6dfec933" >
+        <Coords points="1530,1926 1504,1926 1477,1926 1450,1926 1423,1926 1396,1926 1369,1917 1361,1915 589,1907 589,1955 586,1974 1547,1979 1552,1963 1549,1955 1530,1926"/>
+        <Baseline points="589,1955 1552,1963"/>
+        <TextEquiv>
+          <Unicode>and I&#x27;ve covered this ground too often</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3dd3604" >
+        <Coords points="661,2006 659,2017 1202,2028 1208,2012 1205,1966 661,1958 661,2006"/>
+        <Baseline points="661,2006 1208,2012"/>
+        <TextEquiv>
+          <Unicode>with this yellow disc</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_acc48f61" >
+        <Coords points="1399,2073 1372,2073 1345,2071 1318,2068 1291,2068 1264,2065 1253,2063 591,2063 565,2063 538,2063 511,2098 511,2106 508,2117 1396,2133 1401,2117 1401,2090 1399,2073"/>
+        <Baseline points="511,2106 1401,2117"/>
+        <TextEquiv>
+          <Unicode>within whose beam all&#x27;s commonplace</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f99c5554" >
+        <Coords points="594,2141 591,2154 589,2173 1350,2184 1356,2165 1353,2122 613,2114 594,2141"/>
+        <Baseline points="591,2154 1356,2165"/>
+        <TextEquiv>
+          <Unicode>and whose limits are described</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8c529be0" >
+        <Coords points="1146,2162 1119,2162 1092,2162 1065,2162 1038,2162 1011,2162 1003,2162 680,2165 661,2205 661,2211 661,2235 1173,2230 1173,2211 1170,2162 1146,2162"/>
+        <Baseline points="661,2211 1173,2211"/>
+        <TextEquiv>
+          <Unicode>by the whole night.⁹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f280b24" >
+        <Coords points="1939,2278 1913,2278 1886,2275 1859,2273 1832,2273 1805,2270 1778,2270 1773,2267 1773,2270 1765,2267 1751,2267 1724,2264 1697,2264 1670,2262 1643,2262 1630,2259 1595,2267 1520,2254 1509,2254 1482,2251 678,2251 675,2256 648,2256 621,2256 594,2256 567,2256 540,2256 513,2256 487,2256 460,2256 433,2256 406,2256 403,2251 379,2251 379,2302 376,2324 1950,2340 1956,2321 1950,2256 1939,2256 1939,2278"/>
+        <Baseline points="379,2302 1956,2321"/>
+        <TextEquiv>
+          <Unicode>Michael E. Eliot Hurst of Simon Fraser University has produced</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1d3350ea" >
+        <Coords points="344,2351 317,2353 290,2356 263,2359 236,2359 209,2361 182,2402 182,2426 379,2421 465,2429 543,2437 546,2437 548,2437 551,2437 551,2434 556,2429 565,2423 675,2423 686,2431 691,2437 694,2437 696,2437 699,2437 750,2431 793,2426 817,2431 850,2439 852,2439 855,2439 898,2431 933,2426 976,2431 1041,2442 1043,2442 1046,2442 1049,2442 1062,2431 1070,2429 1084,2434 1111,2442 1113,2442 1447,2447 1450,2447 1953,2437 1956,2421 1953,2377 1662,2359 1660,2359 1657,2359 1627,2372 1533,2359 1530,2359 1458,2372 1450,2372 1444,2372 1399,2356 1396,2356 1393,2356 1243,2369 1235,2369 1226,2369 1127,2353 1124,2353 968,2367 960,2367 949,2367 782,2351 780,2351 777,2351 721,2364 718,2364 645,2348 643,2348 470,2361 344,2348 344,2351"/>
+        <Baseline points="182,2402 1956,2421"/>
+        <TextEquiv>
+          <Unicode>a volume on the modern city entitled I Came to the City. He wants his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_202a9f7c" >
+        <Coords points="177,2501 174,2523 1948,2539 1953,2523 1950,2480 1261,2458 1259,2458 1130,2469 1124,2469 1121,2469 1065,2455 1062,2455 1060,2455 866,2466 858,2466 850,2455 847,2455 847,2453 844,2453 842,2453 839,2453 188,2458 177,2501"/>
+        <Baseline points="177,2501 1953,2523"/>
+        <TextEquiv>
+          <Unicode>students to see che city as an entity, a social and cultural place, an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_baea9eed" >
+        <Coords points="1939,2577 1501,2560 1498,2560 1377,2571 1366,2571 1364,2571 1345,2558 1342,2558 1339,2558 1337,2558 1200,2568 1189,2568 1186,2568 1138,2555 1135,2555 1132,2555 594,2560 573,2560 570,2560 524,2547 521,2547 519,2547 382,2558 344,2544 341,2544 339,2544 188,2555 177,2601 174,2617 185,2628 185,2630 188,2630 191,2630 193,2630 368,2620 411,2633 414,2633 417,2633 721,2625 739,2625 745,2625 809,2638 812,2638 1070,2633 1162,2630 1945,2649 1950,2625 1948,2617 1939,2577"/>
+        <Baseline points="177,2601 1950,2625"/>
+        <TextEquiv>
+          <Unicode>economic place, a pelitical place, a place vith particular netvorks of</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dd0cd881"  >
+      <Coords points="172,2859 182,2808 341,2819 387,2754 1867,2754 1931,2786 1931,2837 172,2859"/>
+      <TextLine id="eSc_line_2a1d3c9f" >
+        <Coords points="1913,2778 1904,2773 1843,2762 1840,2762 1765,2773 1751,2776 1738,2773 1676,2759 1673,2759 1571,2770 1536,2773 1474,2768 1299,2754 1296,2754 1162,2762 1113,2765 1087,2762 1046,2754 1025,2754 1017,2754 1000,2759 982,2765 974,2759 965,2754 944,2754 917,2754 906,2754 861,2757 766,2762 734,2754 729,2754 702,2754 675,2754 648,2754 632,2754 600,2759 489,2754 487,2754 460,2754 433,2754 406,2754 379,2762 379,2802 376,2819 414,2835 417,2835 419,2835 713,2827 761,2846 764,2846 766,2848 1921,2848 1923,2824 1921,2781 1913,2778"/>
+        <Baseline points="379,2802 1923,2824"/>
+        <TextEquiv>
+          <Unicode>⁹Adrienne Rich, Leaflets (New York: W. W. Norton &amp; Co., Inc.,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ccee91fe" >
+        <Coords points="177,2851 177,2886 223,2872 287,2886 322,2891 325,2891 363,2886 414,2875 454,2883 505,2894 508,2894 610,2880 613,2859 613,2811 177,2802 177,2851"/>
+        <Baseline points="177,2851 613,2859"/>
+        <TextEquiv>
+          <Unicode>1969), pp. 34-35.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ea7222e0"  >
+      <Coords points="1988,161 2017,161 2039,201 1966,212 1988,161"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_078aec8f" >
+        <Coords points="1974,207 1974,242 2028,252 2031,207 2031,153 1974,145 1974,207"/>
+        <Baseline points="1974,207 2031,207"/>
+        <TextEquiv>
+          <Unicode>10</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00008.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:27.360201+00:00</Created>
+        <LastChange>2023-05-15T06:16:27.360221+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00008.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_07da0c1d"  >
+      <Coords points="2017,1514 1910,1581 1921,1686 2017,1710 2050,1775 2039,2127 1921,2281 1996,2507 1964,2816 1097,2827 193,2773 204,2431 398,2386 384,2342 204,2289 226,957 258,903 427,882 462,817 1867,839 1913,936 1996,946 2017,1514"/>
+      <TextLine id="eSc_line_dd32e48c" >
+        <Coords points="1872,858 1861,847 678,820 661,820 634,820 618,817 567,817 554,817 527,817 500,817 473,817 452,836 446,866 443,879 1880,903 1886,893 1883,882 1872,858"/>
+        <Baseline points="446,866 1886,893"/>
+        <TextEquiv>
+          <Unicode>This dissertation wrestles with a very real problem. Our</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f4e0bfe0" >
+        <Coords points="236,936 236,963 234,973 1977,1014 1982,997 1982,952 772,914 769,914 425,919 373,906 371,906 368,906 250,917 236,936"/>
+        <Baseline points="236,963 1982,997"/>
+        <TextEquiv>
+          <Unicode>society, with all its material, educational, and technical advantages</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a500b7d6" >
+        <Coords points="234,1062 231,1073 1829,1108 1835,1094 1835,1038 234,1016 234,1062"/>
+        <Baseline points="234,1062 1835,1094"/>
+        <TextEquiv>
+          <Unicode>over previous societies, is in the grip of a feeling of despair</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4286fe81" >
+        <Coords points="234,1164 231,1172 1996,1210 2001,1202 2001,1154 1969,1137 1966,1137 1964,1137 1872,1151 1743,1132 1740,1132 1665,1145 1622,1129 1619,1129 1617,1129 1522,1143 1501,1127 1498,1127 1495,1127 1493,1127 1388,1140 1385,1140 1380,1140 1272,1124 1269,1124 1146,1135 1135,1135 1108,1119 1105,1119 1103,1119 1100,1119 1006,1132 990,1132 686,1127 683,1124 669,1110 667,1110 664,1110 661,1110 234,1110 234,1164"/>
+        <Baseline points="234,1164 2001,1202"/>
+        <TextEquiv>
+          <Unicode>regarding the future. The population explosion and a dwindling supply</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6e8ff99" >
+        <Coords points="231,1266 228,1275 387,1293 390,1293 470,1283 1878,1312 1883,1296 1883,1248 231,1213 231,1266"/>
+        <Baseline points="231,1266 1883,1296"/>
+        <TextEquiv>
+          <Unicode>of resources are causing an increasing number of people to lead a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a56721d" >
+        <Coords points="228,1363 226,1374 1996,1414 2001,1404 1999,1353 1372,1328 1369,1328 1296,1331 1178,1336 1167,1328 1165,1326 1165,1323 1162,1323 1159,1323 1156,1323 1124,1326 1057,1334 960,1320 925,1318 922,1318 804,1318 352,1318 228,1301 228,1363"/>
+        <Baseline points="228,1363 2001,1404"/>
+        <TextEquiv>
+          <Unicode>demeaning and deprived existence. Thousands of people are in the grip</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9dd26941" >
+        <Coords points="226,1466 223,1474 341,1476 357,1492 360,1492 363,1492 365,1492 904,1490 917,1501 917,1503 920,1503 922,1503 925,1503 982,1492 1315,1511 1318,1511 1996,1509 1999,1501 1999,1455 226,1420 226,1466"/>
+        <Baseline points="226,1466 1999,1501"/>
+        <TextEquiv>
+          <Unicode>of hunger and starvation. Civilization has not been able to solve the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd84b55c" >
+        <Coords points="226,1565 223,1581 1869,1611 1875,1600 1875,1554 1366,1527 1364,1527 1361,1527 1358,1527 1339,1541 1232,1525 1229,1525 1146,1538 1138,1538 1132,1538 1087,1522 1084,1522 1081,1522 901,1533 874,1533 861,1533 777,1517 774,1517 226,1517 226,1565"/>
+        <Baseline points="226,1565 1875,1600"/>
+        <TextEquiv>
+          <Unicode>threat and onslaught of war. Industry has benefited humanity but</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_abf582b9" >
+        <Coords points="223,1667 220,1681 1891,1710 1896,1700 1894,1651 223,1614 223,1667"/>
+        <Baseline points="223,1667 1896,1700"/>
+        <TextEquiv>
+          <Unicode>increasing demands for production have caused pollution of natural</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_472769ae" >
+        <Coords points="220,1767 217,1783 2028,1821 2034,1804 2034,1759 1904,1743 1902,1743 1697,1751 1668,1751 1662,1751 1646,1737 1643,1737 1641,1737 1638,1737 1544,1748 1528,1748 1525,1748 1501,1735 1498,1735 1495,1735 1404,1745 1385,1745 1331,1743 1073,1726 1070,1726 1011,1737 998,1737 220,1721 220,1767"/>
+        <Baseline points="220,1767 2034,1804"/>
+        <TextEquiv>
+          <Unicode>resources and environment, as well as impersonalness in human relations.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_86a8286d" >
+        <Coords points="220,1869 217,1891 1991,1923 1996,1901 1996,1856 220,1813 220,1869"/>
+        <Baseline points="220,1869 1996,1901"/>
+        <TextEquiv>
+          <Unicode>Human greed and misuse of power have eroded the people&#x27;s confidence in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c9d9ce4" >
+        <Coords points="215,1971 212,1982 2009,2017 2015,2006 2009,1947 1923,1958 1837,1944 1835,1944 1832,1944 1617,1952 1598,1939 1595,1939 1592,1939 1590,1939 1582,1939 1520,1950 1356,1936 1315,1934 1313,1934 1259,1934 1049,1942 1014,1931 1003,1928 1000,1928 998,1928 995,1928 984,1931 949,1939 909,1928 887,1926 885,1926 850,1928 769,1936 215,1920 215,1971"/>
+        <Baseline points="215,1971 2015,2006"/>
+        <TextEquiv>
+          <Unicode>business and governmental leaders. The church, with its vast spiritual</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70a05fb0" >
+        <Coords points="212,2068 209,2082 2028,2119 2034,2106 2028,2047 1915,2060 1891,2044 1888,2041 1886,2041 1883,2041 1880,2041 1864,2044 1797,2057 1703,2041 1695,2041 1692,2041 1689,2041 1687,2041 1657,2055 1617,2041 1600,2036 1598,2036 1595,2036 1536,2039 1401,2049 1318,2036 1256,2028 1253,2028 1251,2028 1226,2036 1216,2039 1183,2036 1095,2025 1092,2025 1089,2025 1087,2025 1078,2033 1068,2041 871,2030 678,2022 675,2022 634,2028 608,2033 594,2028 567,2017 565,2017 562,2017 511,2028 492,2030 465,2028 347,2009 344,2009 212,2022 212,2068"/>
+        <Baseline points="212,2068 2034,2106"/>
+        <TextEquiv>
+          <Unicode>and human resources, has not proved itself very effective in the face of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_625b0634" >
+        <Coords points="212,2173 209,2184 1956,2219 1961,2203 1961,2157 212,2117 212,2173"/>
+        <Baseline points="212,2173 1961,2203"/>
+        <TextEquiv>
+          <Unicode>society&#x27;s needs. In fact, generally speaking, the church still seems</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa67a5c9" >
+        <Coords points="209,2273 207,2283 1695,2316 1700,2302 1700,2254 209,2219 209,2273"/>
+        <Baseline points="209,2273 1700,2302"/>
+        <TextEquiv>
+          <Unicode>more interested in saving itself than in redeeming society.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b12d235" >
+        <Coords points="1945,2367 1939,2359 1848,2359 1843,2353 1813,2340 1810,2340 1808,2340 1703,2351 1670,2353 1660,2351 1630,2337 1627,2337 1625,2337 1560,2348 1530,2351 1509,2345 1474,2334 1471,2334 1469,2334 1350,2340 1269,2345 1261,2340 1253,2332 1253,2329 1251,2329 1248,2329 1245,2329 1003,2332 718,2334 702,2324 696,2318 694,2318 691,2318 688,2318 618,2321 446,2329 414,2316 411,2375 408,2386 548,2404 551,2404 656,2394 659,2394 661,2394 710,2407 713,2407 715,2407 909,2399 939,2399 965,2402 1111,2415 1945,2423 1950,2404 1948,2377 1945,2367"/>
+        <Baseline points="411,2375 1950,2404"/>
+        <TextEquiv>
+          <Unicode>In light of these circumstances we are raising the questions,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97e22526" >
+        <Coords points="1974,2461 1878,2447 1875,2447 1541,2450 1366,2450 1353,2445 1337,2437 1334,2437 1331,2437 1089,2437 739,2437 653,2423 626,2421 624,2421 621,2421 610,2423 565,2434 500,2421 489,2418 487,2418 476,2418 411,2431 255,2415 247,2418 220,2426 220,2469 217,2482 1974,2517 1980,2504 1980,2472 1974,2461"/>
+        <Baseline points="220,2469 1980,2504"/>
+        <TextEquiv>
+          <Unicode>&quot;Is there hope for the future? If so, what is its basis and how can a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f7a0957b" >
+        <Coords points="204,2574 201,2590 1969,2620 1974,2609 1974,2563 204,2528 204,2574"/>
+        <Baseline points="204,2574 1974,2609"/>
+        <TextEquiv>
+          <Unicode>message of hope be formulated and communicated to modern society?&quot; In</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ec37b4b" >
+        <Coords points="201,2679 199,2690 1969,2716 1974,2706 1972,2660 1444,2638 1442,2638 1299,2649 1275,2649 1269,2649 1243,2636 1240,2636 1237,2636 1121,2646 1100,2646 1089,2646 1035,2633 201,2633 201,2679"/>
+        <Baseline points="201,2679 1974,2706"/>
+        <TextEquiv>
+          <Unicode>approaching this second phase of the problem we turn in our study to a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b79cdde" >
+        <Coords points="304,2773 279,2770 252,2770 226,2768 212,2768 199,2773 196,2794 505,2819 508,2819 1245,2819 1364,2835 1366,2835 1652,2824 1813,2843 1816,2843 1945,2827 1948,2805 1945,2746 1816,2759 1794,2743 1791,2743 1789,2743 1786,2743 1778,2743 1660,2757 1600,2741 1595,2741 1592,2741 1590,2741 1582,2741 1528,2754 1509,2741 1506,2738 1504,2738 1501,2738 1498,2738 1477,2741 1401,2751 1377,2738 1369,2735 1366,2735 1364,2735 1337,2738 1272,2749 1256,2738 1253,2735 1251,2735 1248,2735 1245,2735 1202,2738 1076,2746 917,2735 777,2724 774,2724 772,2724 742,2733 723,2738 691,2733 634,2722 632,2722 629,2722 600,2733 586,2735 532,2730 406,2719 403,2719 317,2727 304,2773"/>
+        <Baseline points="199,2773 1948,2805"/>
+        <TextEquiv>
+          <Unicode>modern &quot;school of hope&quot; with particular emphasis upon the writings of</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e095d096"  >
+      <Coords points="1054,387 1256,376 1307,398 1296,449 1043,427 1054,387"/>
+      <TextLine id="eSc_line_2ae21c8b" >
+        <Coords points="1272,384 1248,376 1089,381 1084,384 1057,419 1057,425 1057,438 1288,451 1291,425 1288,387 1272,384"/>
+        <Baseline points="1059,426 1292,426"/>
+        <TextEquiv>
+          <Unicode>Chapter 1</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bbde6894"  >
+      <Coords points="1054,610 1000,589 1000,538 1043,527 1318,538 1329,578 1264,632 1054,610"/>
+      <TextLine id="eSc_line_47adbed7" >
+        <Coords points="1296,538 1269,538 1243,535 1216,535 1189,532 1162,532 1135,529 1108,529 1027,529 1000,578 1000,605 1318,605 1318,578 1310,548 1296,538"/>
+        <Baseline points="1000,578 1318,578"/>
+        <TextEquiv>
+          <Unicode>INTRODUCTION</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9372af92"  >
+      <Coords points="1022,688 1226,677 1296,677 1329,728 1011,728 1022,688"/>
+      <TextLine id="eSc_line_d19e4db6" >
+        <Coords points="1022,728 1022,753 1315,750 1315,723 1307,653 1232,672 1019,672 1022,728"/>
+        <Baseline points="1022,728 1315,723"/>
+        <TextEquiv>
+          <Unicode>THE PROBLEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

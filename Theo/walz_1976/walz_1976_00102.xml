@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/walz_1976/walz_1976_00102.jp2/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-05-15T06:16:28.264110+00:00</Created>
+        <LastChange>2023-05-15T06:16:28.264122+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="walz_1976_00102.jpg" imageWidth="2470" imageHeight="3228">
+    <TextRegion id="eSc_textblock_3d8914b0"  >
+      <Coords points="1985,449 2082,527 1985,718 1888,782 1802,785 1888,847 1791,871 2017,903 2061,1000 1985,1345 1996,1987 904,1987 632,2138 1953,2152 1985,2278 1942,2299 1996,2334 2039,2827 1956,2859 1921,2934 215,2913 226,979 398,933 279,893 430,879 226,847 236,301 1859,279 1974,365 1985,449"/>
+      <TextLine id="eSc_line_9e26fade" >
+        <Coords points="1888,301 1374,285 1372,285 1216,295 1186,295 1175,293 1146,287 1130,287 1103,287 1076,287 1060,287 1006,293 987,293 982,293 974,290 968,290 941,290 914,290 887,290 861,290 834,293 807,293 780,293 753,293 726,293 699,293 672,293 645,293 618,295 591,295 565,295 538,295 511,295 484,295 457,295 430,298 403,298 376,298 349,298 322,298 295,298 269,298 242,298 242,328 239,341 1888,363 1894,347 1891,303 1888,301"/>
+        <Baseline points="242,328 1894,347"/>
+        <TextEquiv>
+          <Unicode>expressions of life stand in a sphere of community and are under-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c8956ee" >
+        <Coords points="236,441 484,459 487,459 616,449 640,449 648,451 686,462 688,462 691,462 820,454 869,451 874,454 890,465 893,465 895,465 898,465 1017,457 1087,454 1964,476 1969,451 1969,408 1907,390 1904,390 1902,390 1802,403 1781,406 1778,403 1759,390 1756,390 1754,390 1668,387 1665,387 1662,387 1660,387 1641,400 1635,403 1627,400 1598,387 1595,387 1592,387 1590,387 1587,387 1574,398 1565,403 1382,403 1350,392 1304,381 1302,381 1299,381 1296,381 1278,392 1267,398 1054,398 1041,387 1033,379 1030,379 1027,379 1025,379 1022,379 1000,384 965,395 799,395 782,379 780,379 777,379 774,379 764,379 678,392 643,376 634,373 632,373 629,373 600,376 476,390 452,373 452,371 449,371 446,371 443,371 425,371 295,384 242,368 239,430 236,441"/>
+        <Baseline points="239,430 1969,451"/>
+        <TextEquiv>
+          <Unicode>standable only in such a sphere. Martin Heidegger sets out from the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c0fdd249" >
+        <Coords points="2066,551 2044,508 1985,494 1982,494 1980,494 1934,508 1929,508 1923,505 1886,492 1883,492 1880,492 1746,503 1705,505 1687,503 1638,489 1635,489 1633,489 1471,497 1382,500 1092,489 785,476 782,476 780,476 777,476 772,481 758,489 634,478 570,473 567,473 500,476 301,484 242,470 239,527 236,551 2063,567 2069,554 2066,551 2066,551"/>
+        <Baseline points="239,527 2069,554"/>
+        <TextEquiv>
+          <Unicode>view of history contained in Dilthey&#x27;s philosophy of life. For him the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a33455b8" >
+        <Coords points="244,624 242,637 971,664 974,664 1038,653 1116,667 1119,667 1232,656 1235,656 1237,656 1256,669 1259,669 1261,669 1264,669 1985,667 1988,656 1988,605 828,594 777,578 774,578 772,578 769,578 680,589 497,572 495,572 390,583 244,567 244,624"/>
+        <Baseline points="244,624 1988,656"/>
+        <TextEquiv>
+          <Unicode>&quot;basic weakness&quot; of thus seeing history in terms of the philosophy of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f04cbfac" >
+        <Coords points="234,728 231,747 1883,777 1888,755 1886,704 234,683 234,728"/>
+        <Baseline points="234,728 1888,755"/>
+        <TextEquiv>
+          <Unicode>life lies in the fact that &quot;life&quot; itself has not been taken as an</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b491ab93" >
+        <Coords points="234,831 231,844 739,858 745,841 745,793 234,777 234,831"/>
+        <Baseline points="234,831 745,841"/>
+        <TextEquiv>
+          <Unicode>ontological problem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b66cf9f1" >
+        <Coords points="1993,898 1969,895 1837,906 1649,890 1611,887 1608,887 1584,890 1479,901 1097,898 1041,887 995,879 992,879 433,882 433,936 430,949 629,965 632,965 957,957 984,957 987,957 1019,971 1022,971 1025,971 1587,965 1608,965 1617,976 1619,976 1619,979 1622,979 1625,979 1627,979 1692,968 1837,981 1840,981 2007,968 2009,957 2007,898 1993,898"/>
+        <Baseline points="433,936 2009,957"/>
+        <TextEquiv>
+          <Unicode>Summing up this brief review of the philosophy of history that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_57d54614" >
+        <Coords points="2044,1003 231,987 231,1032 228,1046 2047,1070 2052,1057 2052,1032 2044,1003"/>
+        <Baseline points="231,1032 2052,1057"/>
+        <TextEquiv>
+          <Unicode>emerges from historical heuristics, we find that the definition, compre-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_55b43b3e" >
+        <Coords points="228,1132 226,1145 1189,1175 1191,1175 1264,1164 1331,1178 1334,1178 1627,1170 1633,1170 1665,1183 1668,1183 1670,1183 1800,1172 1826,1186 1829,1186 1832,1186 1958,1172 1961,1162 1961,1116 228,1078 228,1132"/>
+        <Baseline points="228,1132 1961,1162"/>
+        <TextEquiv>
+          <Unicode>hension, and understanding of history inevitably brings about at the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d61e169" >
+        <Coords points="2001,1245 1996,1210 226,1191 226,1237 223,1253 1999,1275 2004,1258 2001,1253 2001,1245"/>
+        <Baseline points="226,1237 2004,1258"/>
+        <TextEquiv>
+          <Unicode>same time abrogation, negation, and annihilation of history. When the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a87fbac2" >
+        <Coords points="223,1342 220,1353 1872,1371 1878,1358 1878,1312 1652,1312 1635,1307 1582,1293 1579,1293 1576,1293 1574,1293 1549,1307 1544,1310 1342,1310 1337,1301 1329,1296 1329,1293 1326,1293 1323,1293 1321,1293 1178,1299 1068,1304 1057,1299 1046,1288 1043,1288 1041,1288 1038,1288 904,1296 782,1301 764,1293 747,1285 745,1285 742,1285 680,1291 608,1299 591,1291 581,1285 578,1285 223,1285 223,1342"/>
+        <Baseline points="223,1342 1878,1358"/>
+        <TextEquiv>
+          <Unicode>primary question is that of the origin, substance, and essence of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3fa79dd6" >
+        <Coords points="223,1412 223,1439 220,1449 1996,1471 2001,1460 2001,1417 1888,1401 1886,1401 1627,1409 1560,1412 1539,1409 1461,1396 1458,1396 1369,1406 1337,1409 1229,1404 963,1390 960,1390 914,1398 893,1404 887,1398 871,1388 869,1388 866,1388 863,1388 780,1398 742,1401 704,1396 629,1385 626,1385 624,1385 586,1396 567,1398 231,1390 223,1412"/>
+        <Baseline points="223,1439 2001,1460"/>
+        <TextEquiv>
+          <Unicode>history, then the concrete movements, changes, crises, and revolutions</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a8d8107" >
+        <Coords points="220,1538 217,1554 1872,1568 1878,1557 1878,1517 1571,1498 1568,1498 1409,1509 1377,1495 1374,1495 1372,1495 756,1501 691,1487 688,1487 220,1495 220,1538"/>
+        <Baseline points="220,1538 1878,1557"/>
+        <TextEquiv>
+          <Unicode>which constitute history are related to some factor that does not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98e8d1e3" >
+        <Coords points="223,1638 220,1651 1991,1675 1996,1657 1996,1614 223,1589 223,1638"/>
+        <Baseline points="223,1638 1996,1657"/>
+        <TextEquiv>
+          <Unicode>change, always exists, and has equal validity at all times. An escha-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0947bf0c" >
+        <Coords points="223,1740 220,1751 1966,1770 1972,1759 1969,1716 1369,1697 1366,1697 1299,1702 1229,1708 1218,1700 1210,1694 1208,1694 1205,1694 1202,1694 1108,1700 979,1705 965,1697 963,1692 960,1692 957,1692 955,1692 885,1694 731,1702 715,1692 713,1689 710,1689 707,1689 454,1686 452,1686 438,1686 325,1697 223,1683 223,1740"/>
+        <Baseline points="223,1740 1972,1759"/>
+        <TextEquiv>
+          <Unicode>tology of history, however, which revolves around the concepts of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aa3a40bd" >
+        <Coords points="1980,1818 1942,1807 1939,1807 1022,1807 847,1788 844,1788 699,1799 376,1780 373,1780 217,1791 217,1839 215,1858 1982,1877 1988,1869 1988,1845 1980,1818"/>
+        <Baseline points="217,1839 1988,1869"/>
+        <TextEquiv>
+          <Unicode>new and the future, would be in a position to take history as history.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87a4b8a3" >
+        <Coords points="217,1939 215,1952 260,1969 263,1969 266,1969 799,1963 1200,1982 1202,1982 1985,1977 1988,1963 1988,1920 217,1891 217,1939"/>
+        <Baseline points="217,1939 1988,1963"/>
+        <TextEquiv>
+          <Unicode>to remember and expect it as history and thus not to annihilate history</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2aafc447" >
+        <Coords points="212,2049 723,2057 729,2049 729,2006 688,1987 686,1987 683,1987 586,1998 570,2001 565,1998 554,1987 551,1987 548,1987 546,1987 481,1995 443,1998 392,1990 341,1982 339,1982 336,1982 320,1987 295,1995 279,1985 277,1982 274,1982 271,1982 269,1982 266,1982 263,1982 260,1985 242,1995 217,1982 215,2041 212,2049"/>
+        <Baseline points="215,2041 729,2049"/>
+        <TextEquiv>
+          <Unicode>but to keep it open.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1dba2bf8" >
+        <Coords points="1958,2203 1939,2165 212,2133 212,2189 209,2211 290,2230 1200,2243 1202,2243 1961,2232 1964,2213 1958,2197 1958,2203"/>
+        <Baseline points="212,2189 1964,2213"/>
+        <TextEquiv>
+          <Unicode>Eschatology of history--philosophic millenarianism. It was the theo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_055ffd46" >
+        <Coords points="212,2294 209,2308 1173,2329 1175,2329 1380,2318 1399,2318 1423,2318 1681,2334 1684,2334 1891,2321 1894,2313 1891,2267 212,2248 212,2294"/>
+        <Baseline points="212,2294 1894,2313"/>
+        <TextEquiv>
+          <Unicode>logical evaluation of &#x27;&#x27;time“ resulting from the expectation of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50106b39" >
+        <Coords points="207,2394 204,2404 1977,2426 1982,2415 1982,2369 1210,2348 1208,2348 1113,2359 1108,2359 1103,2359 1043,2345 1041,2345 912,2356 906,2356 904,2356 828,2342 826,2342 207,2348 207,2394"/>
+        <Baseline points="207,2394 1982,2415"/>
+        <TextEquiv>
+          <Unicode>arrival of the promised future of God in terms of Jewish and Christian</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e095c6ec" >
+        <Coords points="207,2493 204,2509 1956,2528 1961,2517 1958,2472 207,2447 207,2493"/>
+        <Baseline points="207,2493 1961,2517"/>
+        <TextEquiv>
+          <Unicode>messianic thought that first opened the Greek mind for the problem of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1553d6b7" >
+        <Coords points="207,2593 204,2603 2004,2633 2009,2614 2009,2566 207,2544 207,2593"/>
+        <Baseline points="207,2593 2009,2614"/>
+        <TextEquiv>
+          <Unicode>history and for the philosophic idea of a purposeful, irreversible, and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c364c8eb" >
+        <Coords points="207,2698 204,2708 2026,2727 2031,2716 2028,2663 207,2652 207,2698"/>
+        <Baseline points="207,2698 2031,2716"/>
+        <TextEquiv>
+          <Unicode>unrepeatable process of history. The combining of both spheres of truth</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b126bc9" >
+        <Coords points="2023,2768 204,2749 204,2794 201,2808 2026,2829 2031,2816 2028,2789 2023,2768"/>
+        <Baseline points="204,2794 2031,2816"/>
+        <TextEquiv>
+          <Unicode>and both ways of thinking brought about the decisive transition in Greek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d9046dfb" >
+        <Coords points="204,2891 204,2915 295,2915 301,2918 314,2932 317,2932 320,2932 322,2932 325,2932 344,2921 368,2937 371,2937 373,2937 376,2937 379,2937 430,2921 438,2918 543,2918 551,2921 581,2940 583,2940 586,2940 589,2940 801,2924 826,2924 831,2924 887,2945 890,2945 893,2945 1041,2926 1060,2926 1095,2929 1345,2948 1348,2948 1350,2948 1399,2932 1401,2932 1404,2932 1458,2953 1461,2953 1595,2956 1598,2956 1600,2956 1654,2940 1748,2959 1751,2959 1918,2937 1921,2918 1918,2875 204,2837 204,2891"/>
+        <Baseline points="204,2891 1921,2918"/>
+        <TextEquiv>
+          <Unicode>thinking from the static to the dynamic, from substance to function,</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1e89b99b"  >
+      <Coords points="2061,266 1999,266 2020,204 2071,215 2061,266"/>
+      <TextLine id="eSc_line_02d25d60" >
+        <Coords points="2039,215 2026,215 2009,231 2009,255 2009,298 2058,295 2058,255 2055,244 2039,215"/>
+        <Baseline points="2009,255 2058,255"/>
+        <TextEquiv>
+          <Unicode>95</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
