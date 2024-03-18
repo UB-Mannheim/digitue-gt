@@ -12,4 +12,4 @@ developed as part of the Scripta and RESILIENCE projects
 
 - [Grundtlicher Bericht von den zwo roten Neben-Sonnen (1633)](https://opendigi.ub.uni-tuebingen.de/opendigi/Bd231_qt_2) (4 pages / 132 lines)
 
-Total 4 pages / 132 lines.
+Total 9 pages / 305 lines.
