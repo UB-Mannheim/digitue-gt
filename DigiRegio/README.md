@@ -1,12 +1,12 @@
 ## DigiRegio Ground Truth
 
 This directory contains transcriptions for some books which were digitized
-by the University Library of Tübingen in the DigiRegio collection
-(https://opendigi.ub.uni-tuebingen.de/digitue/regio).
+by the University Library of Tübingen in the
+[DigiRegio collection](https://opendigi.ub.uni-tuebingen.de/digitue/regio).
 
-The transcriptions were done with eScriptorium, a transcription platform
-developed as part of the Scripta and RESILIENCE projects
-(https://gitlab.com/scripta/escriptorium/).
+The transcriptions were done with
+[eScriptorium](https://gitlab.com/scripta/escriptorium/),
+a transcription platform developed as part of the Scripta and RESILIENCE projects.
 
 ### List of transcriptions
 
