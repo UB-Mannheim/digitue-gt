@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata externalRef="http://idb.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00024.jp2/full/full/0/default.jpg">
+  <Metadata externalRef="https://opendigi.ub.uni-tuebingen.de/opendigi/image/akzs_1860/akzs_1860_00024.jp2/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
 	<Created>2022-02-23T18:18:46.203964+00:00</Created>
         <LastChange>2022-02-23T18:18:46.203980+00:00</LastChange>

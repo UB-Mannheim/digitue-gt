@@ -14,7 +14,7 @@ BASE_URL = 'https://ub-backup.bib.uni-mannheim.de/~stweil/digitue/theo/Monograph
 #  <fileSec>
 #    <fileGrp USE="DEFAULT">
 #      <file ID="file_andlaw1863_1" MIMETYPE="image/jpeg">
-#        <FLocat LOCTYPE="URL" xlink:href="http://idb.ub.uni-tuebingen.de/opendigi/image/andlaw1863/andlaw1863_00001.jp2/full/full/0/default.jpg"/>
+#        <FLocat LOCTYPE="URL" xlink:href="https://opendigi.ub.uni-tuebingen.de/opendigi/image/andlaw1863/andlaw1863_00001.jp2/full/full/0/default.jpg"/>
 #      </file>
 # [...]
 #  <structMap TYPE="PHYSICAL">

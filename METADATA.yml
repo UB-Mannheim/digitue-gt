@@ -18,9 +18,9 @@ authors:
       - support
 description: >-
   This repository contains transcriptions for digitized books and journals of
-  the University Library of Tübingen (http://idb.ub.uni-tuebingen.de/digitue/).
+  the University Library of Tübingen (https://opendigi.ub.uni-tuebingen.de/digitue).
 project-name: Theologie digital
-project-website: http://idb.ub.uni-tuebingen.de/digitue/theo/
+project-website: https://opendigi.ub.uni-tuebingen.de/digitue/theo
 language:
   - deu
   - lat
