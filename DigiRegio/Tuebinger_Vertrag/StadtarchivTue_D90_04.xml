@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://opendigi.ub.uni-tuebingen.de/opendigi/StadtarchivTue_D90">
+	<Creator>escriptorium</Creator>
+	<Created>2025-01-30T16:19:44.733581+00:00</Created>
+        <LastChange>2025-01-30T16:19:44.733610+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="StadtarchivTue_D90_04.jp2.jpg" imageWidth="3488" imageHeight="4880">
+    <TextRegion id="eSc_textblock_b3d0935e"  custom="structure {type:text;}">
+      <Coords points="404,466 810,477 865,702 922,748 2685,769 2696,1363 813,1439 781,1363 781,965 314,908 249,864 303,520 404,466"/>
+      <TextLine id="eSc_line_63c97897" custom="structure {type:default;}">
+        <Coords points="2636,767 2609,767 2582,767 2554,767 2527,767 2500,767 2473,767 2468,764 846,764 848,829 848,862 2679,856 2682,824 2677,767 2663,764 2663,767"/>
+        <Baseline points="848,829 2682,824"/>
+        <TextEquiv>
+          <Unicode>Ir Ulrich (von gottes gnaden) Hertzog zu ꝛvirtemberg</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6858368" custom="structure {type:default;}">
+        <Coords points="834,894 834,919 2678,906 2682,878 2669,829 830,841 834,894"/>
+        <Baseline points="836,898 2685,881"/>
+        <TextEquiv>
+          <Unicode>vnd zuͦ Tegk/ Graue zuͦ Mümppelgart ꝛc. Bekennen vnd thon kundt mit dißem brieff/ als hieuor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_729ed961" custom="structure {type:default;}">
+        <Coords points="2661,882 2621,882 2580,882 2539,882 2498,882 2458,882 2417,882 2376,882 2336,882 2295,882 2254,882 2214,886 2173,886 2132,886 2091,886 2051,886 2010,886 1969,886 1929,886 1888,886 1847,886 1807,886 1766,886 1725,890 1684,890 1644,890 1603,890 1562,890 1522,890 1481,890 1440,890 1400,890 1359,890 1318,890 1277,894 1237,894 1196,894 1155,894 1115,894 1074,894 1033,894 993,894 952,894 911,894 870,894 830,894 826,886 789,886 793,939 793,967 2678,967 2682,927 2669,878 2661,878 2661,882"/>
+        <Baseline points="797,943 2685,929"/>
+        <TextEquiv>
+          <Unicode>zwiſchen vns vnnd vnßer gehorſamen lanndtſchafft/ ain vertrag vff dem gehaltten Lanndtag zuͦ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_83946ab3" custom="structure {type:default;}">
+        <Coords points="800,1019 2682,1000 2685,978 2677,940 797,951 800,992"/>
+        <Baseline points="800,992 2685,978"/>
+        <TextEquiv>
+          <Unicode>Tüwingen/ gemacht vnd vffgericht iſt. Welcher vertrag vnder anderm inn ainem ſundern artickel/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f800a658" custom="structure {type:default;}">
+        <Coords points="1359,988 1318,988 1277,988 1237,988 1196,988 1155,988 1115,988 1074,988 1033,988 993,988 952,988 911,988 870,988 830,988 789,988 793,1037 793,1065 2678,1061 2682,1032 2673,988 1400,988 1359,988"/>
+        <Baseline points="797,1041 2685,1035"/>
+        <TextEquiv>
+          <Unicode>innhalt vnnd vßwyßet/ das die fryhaiten/ ſo wir gedachter vnſer Lanndtſchafft geben haben/ von vns</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e55aa44" custom="structure {type:default;}">
+        <Coords points="2661,1037 2621,1037 2580,1037 2539,1037 2498,1037 2458,1037 2417,1037 2376,1037 2336,1037 2295,1037 2254,1037 2214,1037 2173,1037 2132,1037 2091,1037 2051,1037 2010,1037 1969,1037 1929,1037 1888,1037 1847,1037 1807,1037 1766,1037 1725,1037 1684,1037 1644,1037 1603,1037 1562,1037 1522,1037 1481,1037 1440,1037 1400,1037 1359,1037 1318,1037 1277,1037 1237,1037 1196,1037 1155,1037 1115,1037 1074,1037 1033,1037 993,1037 952,1037 911,1037 870,1037 830,1037 789,1037 793,1089 793,1122 2678,1118 2682,1085 2669,1037 2661,1037"/>
+        <Baseline points="794,1092 2685,1087"/>
+        <TextEquiv>
+          <Unicode>hertzog Ulrichen/ vnd darnach für vnd für von iedem regierenden fürſten/ allwegen inn anfang irs regi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f28be4f5" custom="structure {type:default;}">
+        <Coords points="797,1165 2685,1163 2687,1133 2679,1095 794,1106 797,1144"/>
+        <Baseline points="797,1144 2687,1133"/>
+        <TextEquiv>
+          <Unicode>ments gehalten/ deß ir brieff vnd ſigel darinn ſie ſich by irn fürſtlichen würden die ſelbigen fryhaiten zuͦ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2953638d" custom="structure {type:default;}">
+        <Coords points="794,1225 2685,1214 2687,1187 2679,1146 791,1146 794,1198"/>
+        <Baseline points="794,1198 2687,1187"/>
+        <TextEquiv>
+          <Unicode>halten verpflichten/ gemainer Landtſchafft übergeben werden ſollen. Dem nach inn vermoͤg ſollichs</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_527ad628" custom="structure {type:default;}">
+        <Coords points="793,1244 793,1268 2673,1276 2682,1240 2669,1195 789,1195 793,1244"/>
+        <Baseline points="797,1247 2685,1241"/>
+        <TextEquiv>
+          <Unicode>vertrags/ vns gebürt/ des wie vor anzaigt/ gegen gedachter vnßer Lanndtſchafft zuͦuerſchryben. Das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4546379c" custom="structure {type:default;}">
+        <Coords points="793,1297 793,1325 2682,1321 2686,1293 2678,1248 789,1248 793,1297"/>
+        <Baseline points="797,1301 2687,1295"/>
+        <TextEquiv>
+          <Unicode>wir dem nach ain verſchrybung vffgericht/ die mit vnſerm anhangenden innſigel beſigelt/ auch mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d945c6c6" custom="structure {type:default;}">
+        <Coords points="800,1371 979,1388 981,1388 1044,1374 1049,1374 2685,1379 2687,1350 2687,1312 800,1312 800,1350"/>
+        <Baseline points="800,1350 2687,1350"/>
+        <TextEquiv>
+          <Unicode>vnnſer aigen hanndt vnderſchriben/ vnnd die ſelbig vnnſerer Lanndtſchafft zuͦ irn hannden geſtelt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8cd79937" custom="structure {type:default;}">
+        <Coords points="816,1366 797,1398 800,1407 800,1439 1695,1439 1695,1396 1689,1358 1019,1352 1017,1352"/>
+        <Baseline points="800,1407 1695,1396"/>
+        <TextEquiv>
+          <Unicode>haben/ der innhalt ſteet von wort zuͦ wort/ Alſo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_28e8f77c"  custom="structure {type:text;}">
+      <Coords points="827,1670 2706,1691 2717,3608 2685,3641 2460,3673 2337,3630 867,3630 802,3586 781,1713 827,1670"/>
+      <TextLine id="eSc_line_b3cc02bd" custom="structure {type:default;}">
+        <Coords points="2666,1689 2639,1689 2611,1689 2584,1689 2557,1689 2530,1689 2503,1689 2476,1689 2449,1686 2422,1686 2394,1686 2367,1686 2340,1686 2313,1686 2286,1686 2259,1686 2232,1686 2205,1683 2177,1683 2150,1683 2123,1683 2096,1683 2069,1683 2042,1683 2015,1683 1988,1680 1960,1680 1933,1680 1906,1680 1879,1680 1852,1680 1825,1680 1798,1680 1771,1680 1744,1678 1716,1678 1689,1678 1662,1678 1635,1678 1608,1678 1581,1678 1554,1678 1527,1678 1499,1675 1472,1675 1445,1675 1418,1675 1391,1675 1364,1675 1337,1675 1310,1675 1282,1672 1255,1672 1228,1672 1201,1672 1174,1672 1147,1672 1120,1672 1093,1672 1065,1672 1038,1670 1011,1670 984,1670 957,1670 930,1670 903,1670 876,1670 873,1670 808,1678 794,1694 797,1740 797,1764 2685,1762 2687,1735 2685,1689 2666,1689"/>
+        <Baseline points="797,1740 1651,1729 2687,1735"/>
+        <TextEquiv>
+          <Unicode>wir Ulrich (von gottes gnaden) Hertzog zu ꝛvirtemberg</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5fdab820" custom="structure {type:default;}">
+        <Coords points="797,1794 797,1819 2693,1808 2696,1783 2687,1745 794,1754 797,1794"/>
+        <Baseline points="797,1794 2696,1783"/>
+        <TextEquiv>
+          <Unicode>vnd zuͦ Teck/ graue zuͦ Mümpelgart ꝛc. Bekennen vnd thon kundt offembar menigklichẽ mit diſem brie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c132351" custom="structure {type:default;}">
+        <Coords points="797,1848 797,1867 2690,1862 2693,1838 2685,1800 794,1805 797,1848"/>
+        <Baseline points="797,1848 2693,1838"/>
+        <TextEquiv>
+          <Unicode>ue/ als zwiſchent vns vnd gemainer vnſer Landtſchafft ain vertrag abgeredt/ vnd vffgericht iſt wor⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_da213370" custom="structure {type:default;}">
+        <Coords points="794,1900 794,1922 2611,1916 2614,1892 2609,1848 791,1854 794,1900"/>
+        <Baseline points="794,1900 1806,1886 2614,1892"/>
+        <TextEquiv>
+          <Unicode>den/ vff dem landtag inn vnſer ſtat Tüwingen deßhalb gehalten/ der von wort zuͦ wort alſo lutet.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_83edf6be" custom="structure {type:default;}">
+        <Coords points="840,1952 840,1970 2693,1968 2696,1943 2690,1900 838,1908 840,1952"/>
+        <Baseline points="840,1952 2039,1938 2696,1943"/>
+        <TextEquiv>
+          <Unicode>Des aller durchleuchtigiſten/ großmechtigiſte/ fürſten vnd herrn/ herrn Maximilian (võ gottes gna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e69cd5c" custom="structure {type:default;}">
+        <Coords points="791,2003 791,2025 2693,2025 2696,1992 2687,1952 789,1962 791,2003"/>
+        <Baseline points="791,2003 2696,1992"/>
+        <TextEquiv>
+          <Unicode>den) roͤmiſchẽ kaiſer/ zuͦ allen zyte merer des rychs ꝛc. vnſers aller gnedigſtẽ herrn/ geſant rät/ mit namẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c373239b" custom="structure {type:default;}">
+        <Coords points="794,2055 794,2076 2693,2065 2696,2044 2687,2006 791,2011 794,2055"/>
+        <Baseline points="794,2055 2696,2044"/>
+        <TextEquiv>
+          <Unicode>wir Joͤrg Graue zuͦ Montſort/ herr zuͦ Bregentz. Criſtoff herr zuͦ Lympurg/ des hailigen Rychs Erb⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d397d8b6" custom="structure {type:default;}">
+        <Coords points="794,2106 794,2133 2696,2122 2696,2098 2687,2052 791,2063 794,2106"/>
+        <Baseline points="794,2106 2696,2098"/>
+        <TextEquiv>
+          <Unicode>ſchenck Semperfry/ vnnd Johann Schad baider rechte Doctor/ vnd (von gottes gnaden) wir Wil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f8a8bbd" custom="structure {type:default;}">
+        <Coords points="794,2158 794,2187 2690,2182 2693,2149 2685,2111 791,2117 794,2158"/>
+        <Baseline points="794,2158 2693,2149"/>
+        <TextEquiv>
+          <Unicode>halm biſchoffe zuͦ Straßburg/ Landtgraue in Elſaß/ auch (von der ſelben gnade) wir Hug biſchoff zuͦ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97b2acca" custom="structure {type:default;}">
+        <Coords points="797,2209 797,2236 2687,2225 2690,2206 2685,2163 794,2166 797,2209"/>
+        <Baseline points="797,2209 1936,2198 2690,2206"/>
+        <TextEquiv>
+          <Unicode>Coſtentz. Auch wir nach benanten/ Schenck Valentin herr zuͦ Erdtbach/ Florentz võ Voͤningen baider</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f5c6c277" custom="structure {type:default;}">
+        <Coords points="797,2263 797,2285 2687,2274 2690,2250 2682,2212 794,2225 797,2263"/>
+        <Baseline points="797,2263 2690,2250"/>
+        <TextEquiv>
+          <Unicode>rechten doctor Cantzler/ vnd Franciſcus von Sickingen/ von vnſern gnedigſten vnd gnedigen herren/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd2fb8e3" custom="structure {type:default;}">
+        <Coords points="800,2315 800,2339 2687,2331 2690,2301 2682,2263 797,2274 800,2315"/>
+        <Baseline points="800,2315 2690,2301"/>
+        <TextEquiv>
+          <Unicode>herrn Ludwigen Churfürſten/ vnd herrn Friderichen/ baiden Pfalntzgrauen by Rhyn/ vnd hertzogen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21e8e947" custom="structure {type:default;}">
+        <Coords points="800,2364 800,2388 2690,2388 2693,2355 2685,2318 797,2320 800,2364"/>
+        <Baseline points="800,2364 2693,2355"/>
+        <TextEquiv>
+          <Unicode>in Bairn gebruͤdern. Peter von Vffiaß zuͦ Bomberg vnd Wirtzburg Thumbherr/ Probſt zuͦ Camberg</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d47876c" custom="structure {type:default;}">
+        <Coords points="805,2415 805,2440 2685,2434 2687,2410 2682,2366 802,2374 805,2415"/>
+        <Baseline points="805,2415 2009,2402 2687,2410"/>
+        <TextEquiv>
+          <Unicode>vnd Ludwig von Hutten ritter/ von vnſerm gnedigen herrn/ herrn Lorentzen biſchoffen zuͦ Wirtzburg/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8cba8889" custom="structure {type:default;}">
+        <Coords points="805,2464 805,2486 2687,2486 2690,2456 2682,2421 802,2423 805,2464"/>
+        <Baseline points="805,2464 2690,2456"/>
+        <TextEquiv>
+          <Unicode>vnd hertzogen zuͦ Francken/ vnnd Plycker Lanndtſchad/ von meins gnedigen herren/ herrn Philippen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eca473e1" custom="structure {type:default;}">
+        <Coords points="805,2515 805,2540 2687,2529 2690,2505 2682,2469 802,2469 805,2515"/>
+        <Baseline points="805,2515 2690,2505"/>
+        <TextEquiv>
+          <Unicode>Marggrauen zuͦ Baden vnnd Roͤteln/ geſant vnd verordnet rät. Bekennen offentlich in dißem brieue/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ba9f316" custom="structure {type:default;}">
+        <Coords points="805,2567 805,2589 2693,2580 2696,2562 2690,2521 802,2524 805,2567"/>
+        <Baseline points="805,2567 1749,2556 2696,2562"/>
+        <TextEquiv>
+          <Unicode>vnnd thon kundt aller menglich/ nach dem ſich zwiſchent dem durchleuchtigen hochgebornen fürſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d03700ed" custom="structure {type:default;}">
+        <Coords points="805,2616 805,2640 2696,2632 2698,2608 2690,2572 802,2578 805,2616"/>
+        <Baseline points="805,2616 2698,2608"/>
+        <TextEquiv>
+          <Unicode>vnd herren/ herrn Vlrichen hertzogen zuͦ Wirtemperg vnd zuͦ Tegk/ graue zuͦ Mümpelgart ꝛc. vnſerm</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9d4d5a3e" custom="structure {type:default;}">
+        <Coords points="805,2667 805,2692 2696,2684 2698,2659 2690,2624 802,2624 805,2667"/>
+        <Baseline points="805,2667 2698,2659"/>
+        <TextEquiv>
+          <Unicode>lieben herren/ freund/ vnd gnedigen herrn/ ains/ vnnd den erwirdigen vnnd erſamen/ Prelaten vnnd ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c078065" custom="structure {type:default;}">
+        <Coords points="805,2719 805,2746 2696,2738 2698,2713 2690,2678 802,2681 805,2719"/>
+        <Baseline points="805,2719 2698,2713"/>
+        <TextEquiv conf="0.9897031887717869">
+          <Unicode>mainer Lanndtſchafft ſyner lieb vnnd gnaden fürſtenthumbs verwandten vnnd vnderthonen anders</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d9e72d6" custom="structure {type:default;}">
+        <Coords points="805,2776 805,2800 2690,2792 2693,2762 2685,2724 802,2730 805,2776"/>
+        <Baseline points="805,2776 2693,2762"/>
+        <TextEquiv>
+          <Unicode>tails/ etlich ſpenn vnnd gebrechen gehalten/ dernhalb etwas vffruͤr vnder gemainer Lanndtſchafft ſich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_942ed751" custom="structure {type:default;}">
+        <Coords points="808,2827 808,2854 2698,2846 2701,2816 2693,2776 805,2781 808,2827"/>
+        <Baseline points="808,2827 2701,2816"/>
+        <TextEquiv>
+          <Unicode>erwegt vnd begeben. Aber da zwiſchent ſo vil inn der guͤt fürgenomen vnd gehanndelt/ das die ſelbigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c51b9ea" custom="structure {type:default;}">
+        <Coords points="808,2876 808,2900 2696,2895 2698,2868 2690,2830 805,2838 808,2876"/>
+        <Baseline points="808,2876 2698,2868"/>
+        <TextEquiv>
+          <Unicode>zuͦ gemainem ſyner lieb vnd gnaden vßgeſchriben lanndstag allher vnd zuͦ ferner handlung gebraucht.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b711c20" custom="structure {type:default;}">
+        <Coords points="808,2928 808,2957 2698,2946 2701,2919 2696,2881 805,2881 808,2928"/>
+        <Baseline points="808,2928 2701,2919"/>
+        <TextEquiv>
+          <Unicode>Auch etwas vil tagher zwiſchent inen baider ſeits gehandelt worden. Aber zuͦ letſt fuͤr vns zuͦ gierlicher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6cebd000" custom="structure {type:default;}">
+        <Coords points="808,2979 808,3006 2696,3003 2698,2971 2690,2936 805,2941 808,2979"/>
+        <Baseline points="808,2979 2698,2971"/>
+        <TextEquiv>
+          <Unicode>handlung komen/ darinn wir ſo vil arbait vnnd flyß fürgewendt vnd gethon/ das wir ſie ſollicher aller</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5dfe6b92" custom="structure {type:default;}">
+        <Coords points="810,3031 810,3052 2696,3055 2701,3025 2693,2990 808,2993 810,3031"/>
+        <Baseline points="810,3031 2701,3025"/>
+        <TextEquiv>
+          <Unicode>vnnd ſunderlich/ mit ir baidertailn guͦtten wiſſen vnnd willen inn der giet entſchaiden vnnd vertragen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ac74a4c" custom="structure {type:default;}">
+        <Coords points="808,3082 808,3106 2704,3104 2704,3077 2696,3039 805,3041 808,3082"/>
+        <Baseline points="808,3082 2704,3077"/>
+        <TextEquiv>
+          <Unicode>haben/ wie hernach volgt. Nemlich vnd zum erſten/ ſollen die Landtſchafft für ſich/ obgemeltem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dfc9b94f" custom="structure {type:default;}">
+        <Coords points="808,3134 808,3163 2698,3163 2698,3134 2698,3093 808,3090 808,3134"/>
+        <Baseline points="808,3134 2698,3134"/>
+        <TextEquiv>
+          <Unicode>hertzog Vlrichen fünff iaur lanng die nechßten/ aines ieden iaurs geben vnd raichen/ zwaivndzwaintzig</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45367757" custom="structure {type:default;}">
+        <Coords points="813,3185 813,3207 2698,3201 2701,3180 2693,3142 810,3144 813,3185"/>
+        <Baseline points="813,3185 2701,3180"/>
+        <TextEquiv>
+          <Unicode>tuſent guldin. Darzuͦ ſollen im die Prelaten/ ſtifft/ doͤſter/ auch die ampter Mümppelgart / Nürtingen/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3db7bc13" custom="structure {type:default;}">
+        <Coords points="816,3234 816,3266 2701,3266 2701,3234 2701,3196 816,3193 816,3234"/>
+        <Baseline points="816,3234 2701,3234"/>
+        <TextEquiv>
+          <Unicode>Blawmont vnnd Rychenwyler/ auch geben vnnd raichen/ als vil by den ſelben allen erraicht werden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43cc8a7c" custom="structure {type:default;}">
+        <Coords points="813,3283 810,3302 2690,3318 2696,3291 2693,3250 813,3242 813,3283"/>
+        <Baseline points="813,3283 2696,3291"/>
+        <TextEquiv>
+          <Unicode>mag/ vnnd ſollichs alles ſo die angezaigten fünff iar lang allenthalb wie obſtat geuelt/ ſollen zuͦ hertzog</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_434d5fee" custom="structure {type:default;}">
+        <Coords points="816,3337 816,3364 2701,3364 2701,3337 2701,3302 816,3291 816,3337"/>
+        <Baseline points="816,3337 2701,3337"/>
+        <TextEquiv conf="0.9715104893634193">
+          <Unicode>Vlrichs wachender ſchuld vnnd zuͦ ſtattlicher bezalung der gültten/ bewendt werden. Darnach vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45a82a7c" custom="structure {type:default;}">
+        <Coords points="810,3388 810,3413 2701,3410 2701,3388 2701,3350 810,3350 810,3388"/>
+        <Baseline points="810,3388 2701,3388"/>
+        <TextEquiv>
+          <Unicode>nach vßgang der fünff iaur obgemelt/ ſollen gemaine Lanndtſchafft mitſampt den Prelaten/ ſtifften/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_baeb4505" custom="structure {type:default;}">
+        <Coords points="813,3437 810,3462 2696,3467 2701,3443 2698,3405 813,3397 813,3437"/>
+        <Baseline points="813,3437 2701,3443"/>
+        <TextEquiv>
+          <Unicode>cloͤſtern auch den amptern Mümppelgart/ Nürtingen/ Blawmont vnnd Rychenwyler/ ſo vil by den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_593c86a2" custom="structure {type:default;}">
+        <Coords points="810,3486 810,3519 2696,3519 2698,3494 2696,3453 810,3448 810,3486"/>
+        <Baseline points="810,3486 2698,3494"/>
+        <TextEquiv>
+          <Unicode>ſelben amptern auch erlangt werden mag/ achtmal hundert tuſent guldin hauptguͦts/ zuͦ abloͤßung der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ede6a61a" custom="structure {type:default;}">
+        <Coords points="808,3543 808,3573 2693,3573 2696,3548 2693,3508 808,3500 808,3543"/>
+        <Baseline points="808,3543 2696,3548"/>
+        <TextEquiv>
+          <Unicode>zinß vnd gülten/ damit das fürſtenthumb beſchwerdt iſt/ vff ſich nemen vnd bezaln/ wie hernach volgt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5809d8a4" custom="structure {type:default;}">
+        <Coords points="857,3597 857,3643 1057,3630 1101,3643 1112,3646 1114,3646 1117,3646 1120,3646 1136,3643 1187,3630 1206,3643 1212,3646 1215,3646 1217,3646 1220,3649 1575,3649 1575,3646 1608,3638 1649,3630 1681,3638 1706,3646 1708,3646 1711,3646 1714,3646 1730,3638 1744,3632 1757,3638 1787,3649 1790,3649 1792,3649 1993,3635 2066,3632 2083,3635 2137,3649 2139,3649 2142,3649 2145,3649 2175,3635 2183,3632 2202,3635 2294,3649 2297,3649 2300,3649 2302,3649 2327,3632 2332,3632 2696,3632 2698,3603 2696,3559 857,3554 857,3597"/>
+        <Baseline points="857,3597 2698,3603"/>
+        <TextEquiv>
+          <Unicode>Alſo dz die landtſchafft für ſich/ daran ſollen geben zwaivndzwaintzig tuſent guldin aines ieden iars/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_25d8b039" custom="structure {type:default;}">
+        <Coords points="2560,3651 2538,3613 2479,3605 2479,3654 2479,3681 2571,3700 2573,3654 2573,3649 2560,3651"/>
+        <Baseline points="2479,3654 2573,3654"/>
+        <TextEquiv>
+          <Unicode>A ii</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

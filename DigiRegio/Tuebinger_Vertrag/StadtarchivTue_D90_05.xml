@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://opendigi.ub.uni-tuebingen.de/opendigi/StadtarchivTue_D90">
+	<Creator>escriptorium</Creator>
+	<Created>2025-01-30T16:19:44.824782+00:00</Created>
+        <LastChange>2025-01-30T16:19:44.824815+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="StadtarchivTue_D90_05.jp2.jpg" imageWidth="3488" imageHeight="4880">
+    <TextRegion id="eSc_textblock_c07d24f0"  custom="structure {type:text;}">
+      <Coords points="1193,596 3097,618 3097,3033 3054,3662 1150,3619 1193,596"/>
+      <TextLine id="eSc_line_122bcd65" custom="structure {type:default;}">
+        <Coords points="3051,615 3024,615 2997,615 2969,615 2942,615 2915,615 2888,615 2861,615 2834,612 2807,612 2780,612 2752,612 2725,612 2698,612 2671,612 2644,612 2617,610 2590,610 2563,610 2535,610 2508,610 2481,610 2454,610 2427,610 2400,610 2373,607 2346,607 2319,607 2291,607 2264,607 2237,607 2210,607 2183,607 2156,607 2129,604 2102,604 2074,604 2047,604 2020,604 1993,604 1966,604 1939,604 1912,604 1885,601 1857,601 1830,601 1803,601 1776,601 1749,601 1722,601 1695,601 1668,601 1640,599 1613,599 1586,599 1559,599 1532,599 1505,599 1478,599 1451,599 1423,596 1396,596 1369,596 1342,596 1315,596 1288,596 1261,596 1234,596 1206,596 1204,593 1179,593 1179,637 1177,666 3083,669 3089,650 3086,615 3078,615"/>
+        <Baseline points="1179,637 3089,650"/>
+        <TextEquiv>
+          <Unicode>ſo lang biß ob angezaigt ſumma achtmal hundert tuſent guldin bezalt vnd abgeloͤßt iſt. Daneben ſollen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d6f2a87" custom="structure {type:default;}">
+        <Coords points="1177,710 3083,723 3089,702 3086,664 1179,653 1179,691"/>
+        <Baseline points="1179,691 3089,702"/>
+        <TextEquiv>
+          <Unicode>die Prelaten/ ſtifft doͤſter vnd ob beſtimpt ampter iedes iars geben als vil by den ſelben allen erlangt wer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b656f269" custom="structure {type:default;}">
+        <Coords points="1177,764 3083,775 3089,753 3086,710 1179,704 1179,745"/>
+        <Baseline points="1179,745 3089,753"/>
+        <TextEquiv>
+          <Unicode>den mag/ vnd was alſo von den Prelaten vnd amptern ierlichs geuelt/ das ſoll inn die achtmalhundert</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8659c45a" custom="structure {type:default;}">
+        <Coords points="1179,821 3083,832 3089,805 3086,764 1182,756 1182,797"/>
+        <Baseline points="1182,797 3089,805"/>
+        <TextEquiv conf="0.9893744468688965">
+          <Unicode>tuſent guldin gerechnet vnd daran abgezogen. Alſo was zuͦ ieder zyt iars von ſollicher ſumma achtmal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_19bc3c8a" custom="structure {type:default;}">
+        <Coords points="1587,797 1546,797 1505,797 1465,797 1424,797 1383,797 1343,797 1302,797 1261,797 1221,797 1180,797 1180,845 1176,870 3076,890 3085,858 3080,809 1652,797 1628,797"/>
+        <Baseline points="1182,848 3089,862"/>
+        <TextEquiv>
+          <Unicode>hundert tuſent guldin der verſchrybnen gülten ob beſtimpt abgeloͤſt werden/ die ſelben ſollen in hertzog</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5bbc8bfa" custom="structure {type:default;}">
+        <Coords points="2649,858 2608,858 2568,858 2527,858 2486,858 2458,854 2319,854 2283,854 2242,854 2201,854 2161,854 2120,854 2079,854 2039,854 1998,854 1957,854 1916,854 1876,854 1835,854 1794,849 1754,849 1713,849 1672,849 1632,849 1591,849 1550,849 1509,849 1469,849 1428,849 1387,849 1347,849 1306,849 1265,849 1225,849 1208,841 1184,841 1184,890 1180,919 3076,943 3085,910 3080,862 2698,858 2690,858"/>
+        <Baseline points="1185,894 3089,913"/>
+        <TextEquiv>
+          <Unicode>Ulrichs ſeckel allzyt geuallen. Vnd zuͦ empfahung ſollicher ierlichen raichung als nemlich der erſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8745bf30" custom="structure {type:default;}">
+        <Coords points="3007,910 2967,910 2926,910 2885,910 2844,910 2804,910 2763,910 2722,910 2698,906 2442,906 2437,906 2397,906 2356,906 2348,902 1176,898 1176,951 1172,980 3072,992 3080,963 3076,910 3048,910"/>
+        <Baseline points="1179,954 3083,965"/>
+        <TextEquiv>
+          <Unicode>fünffiarn auch nachuolgender landtſteur der achtmal hundert tuſent guldin/ ſollen ſunder perſonen ſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_78e9e415" custom="structure {type:default;}">
+        <Coords points="1177,1019 3075,1035 3081,1011 3078,970 1179,962 1179,1003"/>
+        <Baseline points="1179,1003 3081,1011"/>
+        <TextEquiv>
+          <Unicode>vor mals mit amptern ynnemens vnd vßgebens nit beladen ſindt/ von hertzog Vlrichen vnd der landt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f5d11c55" custom="structure {type:default;}">
+        <Coords points="1172,1085 3072,1093 3080,1065 3076,1012 1176,1004 1176,1057"/>
+        <Baseline points="1179,1060 3083,1068"/>
+        <TextEquiv>
+          <Unicode>ſchafft/ mit verpflichtung geordnet werden/ ſolliche raichung der erſten fünff iar fürter zuͦ den wachen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82b83b7b" custom="structure {type:default;}">
+        <Coords points="3007,1065 2967,1065 2926,1065 2885,1065 2844,1065 2804,1065 2763,1065 2722,1065 2682,1065 2641,1065 2600,1065 2560,1065 2519,1065 2478,1065 2437,1065 2397,1065 2356,1065 2315,1065 2275,1065 2234,1065 2193,1065 2153,1065 2112,1061 2071,1061 2030,1061 1990,1061 1949,1061 1908,1061 1868,1061 1827,1061 1786,1061 1746,1061 1705,1061 1664,1061 1623,1061 1583,1061 1542,1061 1501,1061 1461,1061 1420,1061 1379,1061 1339,1061 1298,1061 1257,1061 1216,1061 1176,1061 1176,1106 1172,1126 3072,1146 3080,1114 3076,1065 3048,1065"/>
+        <Baseline points="1179,1108 3083,1116"/>
+        <TextEquiv>
+          <Unicode>den ſchulden vnd bezalung der gülten/ vnd nach mals die landtſteur zuͦ abloͤßung der zinßen vnd gülten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e86815ab" custom="structure {type:default;}">
+        <Coords points="2397,1114 2356,1114 2315,1114 2275,1114 2234,1114 2193,1114 2153,1114 2132,1110 1807,1110 1786,1110 1746,1110 1705,1110 1664,1110 1623,1110 1583,1110 1542,1110 1501,1110 1461,1110 1420,1110 1379,1110 1339,1110 1298,1110 1257,1110 1216,1110 1176,1110 1176,1159 1172,1187 3072,1195 3080,1167 3076,1118 2442,1114 2437,1114"/>
+        <Baseline points="1179,1160 3083,1171"/>
+        <TextEquiv>
+          <Unicode>da mit das fürſtenthumb beſchwerdt iſt/ vnnd nit anders wohin trewlich zuwenden vnd zuͦkoͤren/ vnnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8dd6246a" custom="structure {type:default;}">
+        <Coords points="2397,1167 2356,1167 2315,1167 2275,1167 2234,1167 2193,1167 2153,1167 2132,1163 1807,1163 1786,1163 1746,1163 1705,1163 1664,1163 1623,1163 1583,1163 1542,1163 1501,1163 1461,1163 1420,1163 1379,1163 1339,1163 1298,1163 1257,1163 1216,1163 1176,1163 1176,1211 1172,1236 3068,1252 3076,1224 3072,1171 2437,1167"/>
+        <Baseline points="1177,1214 3078,1225"/>
+        <TextEquiv>
+          <Unicode>dern halb alle iaur gemeltem hertzog Ulrichen vnnd der Lanndtſchafft vffrichtlich/ redlich rechnung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9bfe7dd2" custom="structure {type:default;}">
+        <Coords points="3007,1224 2967,1224 2926,1224 2885,1224 2844,1224 2804,1224 2763,1224 2722,1224 2682,1224 2641,1224 2600,1224 2560,1224 2519,1224 2478,1224 2437,1220 2397,1220 2356,1220 2315,1220 2275,1220 2234,1220 2193,1220 2153,1220 2112,1220 2071,1220 2030,1220 1990,1220 1949,1220 1908,1220 1868,1220 1827,1220 1786,1215 1746,1215 1705,1215 1664,1215 1623,1215 1583,1215 1542,1215 1501,1215 1461,1215 1420,1215 1379,1215 1339,1215 1298,1215 1257,1215 1216,1215 1176,1215 1176,1264 1172,1285 3076,1301 3085,1272 3080,1220 3048,1215 3048,1224"/>
+        <Baseline points="1179,1268 3089,1276"/>
+        <TextEquiv>
+          <Unicode>zuͦthon. Unnd hieruff ſoll hertzog Ulrich vß ſundern gnaden die er zuͦ ſyner lanndtſchafft tregt/ den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bb49588d" custom="structure {type:default;}">
+        <Coords points="1174,1336 3078,1350 3083,1328 3081,1287 1177,1274 1177,1314"/>
+        <Baseline points="1177,1314 3083,1328"/>
+        <TextEquiv>
+          <Unicode>landtſchaden/ ſo bißher inn gebrauch geweßt/ ietzo abthon vnd nachlaſſen/ alſo das der hinfuͤr nit mer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a4c1dfc" custom="structure {type:default;}">
+        <Coords points="1177,1390 3078,1404 3083,1379 3083,1336 1179,1323 1179,1366"/>
+        <Baseline points="1179,1366 3083,1379"/>
+        <TextEquiv conf="0.9943728110577801">
+          <Unicode>begert werden oder ſein ſoll. Doch das diſe nachlaſſung des lanndtſchades vnd die bezalung der erſten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4fa274c0" custom="structure {type:default;}">
+        <Coords points="1176,1447 3068,1464 3076,1435 3076,1382 1180,1366 1180,1419"/>
+        <Baseline points="1182,1423 3078,1436"/>
+        <TextEquiv conf="0.9894145156747551">
+          <Unicode>zwai vnnd zwaintzig tauſent guldin ains mit dem andern zuͦgeen vnnd beſchehen. Der haubtkrieg</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d523aff" custom="structure {type:default;}">
+        <Coords points="1177,1504 3081,1504 3083,1480 3081,1439 1177,1434 1177,1474"/>
+        <Baseline points="1177,1474 3083,1480"/>
+        <TextEquiv>
+          <Unicode>halb ſo die zuͦ rettung lanndt/ leut vnd ſyner hertzog Ulrichs verwandten zuͦ hanndthabung ſeiner ober</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6be764c0" custom="structure {type:default;}">
+        <Coords points="3007,1476 2967,1476 2926,1476 2885,1476 2844,1476 2804,1476 2763,1476 2722,1476 2682,1476 2641,1476 2600,1476 2560,1476 2519,1476 2478,1476 2437,1476 2397,1476 2356,1476 2315,1476 2275,1476 2234,1476 2193,1476 2153,1476 2112,1476 2071,1476 2030,1476 1990,1476 1949,1476 1908,1476 1868,1476 1827,1476 1786,1476 1746,1476 1705,1476 1664,1476 1623,1476 1583,1476 1542,1476 1501,1476 1461,1476 1420,1476 1379,1476 1339,1476 1298,1476 1257,1476 1216,1476 1176,1476 1176,1525 1172,1545 3080,1561 3089,1533 3085,1520 3048,1476"/>
+        <Baseline points="1179,1529 3092,1534"/>
+        <TextEquiv>
+          <Unicode>vnnd herlichait/ auch gerechtigkait hilff vnnd haltung ſeiner ainung bißher angenomen vnd beſchloſ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_015db034" custom="structure {type:default;}">
+        <Coords points="3003,1533 2962,1533 2922,1533 2881,1533 2840,1533 2800,1533 2759,1533 2718,1533 2678,1533 2637,1533 2596,1533 2555,1533 2515,1533 2474,1533 2433,1533 2393,1533 2352,1533 2311,1533 2271,1533 2230,1533 2189,1533 2148,1533 2108,1529 2067,1529 2026,1529 1986,1529 1945,1529 1904,1529 1864,1529 1823,1529 1782,1529 1741,1529 1701,1529 1660,1529 1619,1529 1579,1529 1538,1529 1497,1529 1457,1529 1416,1529 1375,1529 1334,1529 1294,1529 1253,1529 1212,1529 1172,1525 1172,1577 1168,1606 3072,1614 3080,1586 3076,1533 3044,1533"/>
+        <Baseline points="1174,1580 3083,1588"/>
+        <TextEquiv>
+          <Unicode>ſen. Vnnd der ihenen ſo er fürter ſyns geuallens dem fürſtenthumb zuͦ gut annemen vnnd thon mag/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b05ca5e" custom="structure {type:default;}">
+        <Coords points="3007,1586 2967,1586 2926,1586 2885,1586 2844,1586 2804,1586 2763,1586 2722,1586 2682,1586 2641,1586 2600,1586 2560,1586 2519,1586 2478,1586 2437,1586 2397,1586 2356,1586 2315,1586 2275,1586 2234,1586 2193,1586 2153,1586 2112,1581 2071,1581 2030,1581 1990,1581 1949,1581 1908,1581 1868,1581 1827,1581 1786,1581 1746,1581 1705,1581 1664,1581 1623,1581 1583,1581 1542,1581 1501,1581 1461,1581 1420,1581 1379,1581 1339,1581 1298,1581 1257,1581 1216,1581 1212,1577 1176,1577 1176,1630 1172,1659 3072,1667 3080,1638 3076,1586 3048,1586"/>
+        <Baseline points="1177,1632 3081,1642"/>
+        <TextEquiv>
+          <Unicode>fürgenomen wolten werden/ ſo ſoll das geſchehen mit rat vnnd wiſſen gemainer Lanndtſchafft. Wur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a143d10b" custom="structure {type:default;}">
+        <Coords points="3007,1638 2967,1638 2926,1638 2885,1638 2844,1638 2804,1638 2763,1638 2722,1638 2682,1638 2641,1638 2600,1638 2560,1638 2519,1638 2478,1638 2437,1638 2397,1638 2356,1638 2315,1638 2275,1638 2234,1638 2193,1638 2153,1638 2112,1634 2071,1634 2030,1634 1990,1634 1949,1634 1908,1634 1868,1634 1827,1634 1786,1634 1746,1634 1705,1634 1664,1634 1623,1634 1583,1634 1542,1634 1501,1634 1461,1634 1420,1634 1379,1634 1339,1634 1298,1634 1257,1634 1216,1634 1212,1630 1176,1630 1176,1679 1172,1699 3072,1720 3080,1687 3076,1638 3048,1638"/>
+        <Baseline points="1177,1683 3083,1691"/>
+        <TextEquiv>
+          <Unicode>de aber hertzog Vlrich vſſerthalb der obgemelten ſtuck ainich krieg fürnemen/ vnnd iemandt vß freunt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f429a401" custom="structure {type:default;}">
+        <Coords points="3007,1687 2967,1687 2926,1687 2885,1687 2844,1687 2804,1687 2763,1687 2722,1687 2682,1687 2641,1687 2600,1687 2560,1687 2519,1687 2478,1687 2437,1687 2397,1687 2356,1687 2315,1687 2275,1687 2234,1687 2193,1687 2153,1687 2112,1683 2071,1683 2030,1683 1990,1683 1949,1683 1908,1683 1868,1683 1827,1683 1786,1683 1746,1683 1705,1683 1664,1683 1623,1683 1583,1683 1542,1683 1501,1683 1461,1683 1420,1683 1379,1683 1339,1683 1298,1683 1257,1683 1216,1683 1212,1675 1176,1675 1176,1732 1172,1764 3072,1769 3080,1740 3076,1687 3048,1687"/>
+        <Baseline points="1177,1735 3083,1743"/>
+        <TextEquiv>
+          <Unicode>ſchafft oder ſunſt fürſchub oder hilff thon/ ſo ſoll das ſelbig geſchehen mit rat wiſſen vnnd willen ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_563d6674" custom="structure {type:default;}">
+        <Coords points="3007,1740 2967,1740 2926,1740 2885,1740 2844,1740 2804,1740 2763,1740 2722,1740 2682,1740 2641,1740 2600,1740 2560,1740 2519,1740 2478,1740 2437,1740 2397,1740 2356,1740 2315,1740 2275,1740 2234,1740 2193,1740 2153,1740 2132,1736 1176,1736 1176,1785 1172,1809 3076,1821 3085,1793 3080,1740 3048,1736 3048,1740"/>
+        <Baseline points="1177,1786 3086,1797"/>
+        <TextEquiv>
+          <Unicode>mainer Landtſchafft/ ſouer anders hertzog Vlrich von inen hilff haben woͤlt. Vnd ſol inn allen ſtucken</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8cc76c5c" custom="structure {type:default;}">
+        <Coords points="2637,1793 2596,1793 2555,1793 2515,1793 2474,1793 2433,1793 2393,1793 2352,1793 2311,1793 2271,1793 2230,1793 2189,1793 2148,1793 2108,1789 2067,1789 2026,1789 1986,1789 1945,1789 1904,1789 1864,1789 1823,1789 1782,1789 1741,1789 1701,1789 1660,1789 1619,1789 1579,1789 1538,1789 1497,1789 1457,1789 1416,1789 1375,1789 1334,1789 1294,1789 1253,1789 1212,1789 1208,1777 1172,1777 1172,1838 1168,1862 3072,1878 3080,1850 3076,1797 2694,1793 2678,1793"/>
+        <Baseline points="1174,1840 3081,1851"/>
+        <TextEquiv>
+          <Unicode>hertzog Vlrich/ wie ſyne voreltern/ die lifferung geben/ des glych die Landtſchafft mit irn lyben/ fuͤrung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f83985d" custom="structure {type:default;}">
+        <Coords points="3007,1850 2967,1850 2926,1850 2885,1850 2844,1850 2804,1850 2763,1850 2722,1850 2682,1850 2641,1850 2600,1850 2560,1850 2519,1850 2478,1850 2437,1846 2397,1846 2356,1846 2315,1846 2275,1846 2234,1846 2193,1846 2153,1846 2112,1846 2071,1846 2030,1846 1990,1846 1949,1846 1908,1846 1868,1846 1827,1846 1786,1842 1746,1842 1705,1842 1664,1842 1623,1842 1583,1842 1542,1842 1501,1842 1461,1842 1420,1842 1379,1842 1339,1842 1298,1842 1257,1842 1216,1842 1212,1838 1176,1838 1176,1886 1172,1919 3072,1931 3080,1899 3076,1850 3048,1850"/>
+        <Baseline points="1177,1889 3083,1903"/>
+        <TextEquiv>
+          <Unicode>vnd andern dienen/ wie von alter herkomen/ vnd by hertzog Ulrichs voreltern auch beſchehen iſt/ alles</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac19649a" >
+        <Coords points="2555,1899 2515,1899 2474,1899 2462,1895 2124,1895 2108,1895 2067,1895 2026,1895 1986,1895 1945,1895 1904,1895 1864,1895 1823,1895 1794,1891 1648,1891 1619,1891 1579,1891 1538,1891 1497,1891 1457,1891 1416,1891 1375,1891 1334,1891 1294,1891 1253,1891 1212,1891 1208,1886 1172,1886 1172,1935 1168,1968 3072,1984 3080,1952 3076,1903 2600,1899 2596,1899"/>
+        <Baseline points="1174,1938 3083,1954"/>
+        <TextEquiv>
+          <Unicode>ongeuarlich. Unnd ob ain lands krieg obgemelter maß angenomen/ vnd man hilff darzuͦ thon</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4896e394" custom="structure {type:default;}">
+        <Coords points="2588,1947 2120,1947 2104,1947 2063,1947 2055,1943 1644,1943 1615,1943 1575,1943 1534,1943 1493,1943 1452,1943 1432,1939 1168,1939 1168,1992 1164,2013 3068,2037 3076,2008 3072,1956 2596,1952 2592,1952"/>
+        <Baseline points="1171,1995 3078,2011"/>
+        <TextEquiv>
+          <Unicode>mießt/ das dann die ſelbig zyt diße ietzige angenomne hilff ainen ſtillſtandt haben ſoll/ doch on ab</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04bcd17f" custom="structure {type:default;}">
+        <Coords points="3040,2008 2999,2008 2958,2008 2918,2008 2877,2008 2836,2008 2796,2008 2755,2008 2714,2008 2673,2008 2633,2008 2592,2004 2551,2004 2511,2004 2470,2004 2429,2004 2389,2004 2348,2004 2307,2004 2266,2004 2226,2004 2185,2004 2144,2004 2104,2000 2063,2000 2022,2000 1982,2000 1941,2000 1900,2000 1859,2000 1819,2000 1778,2000 1737,2000 1697,2000 1656,2000 1615,1996 1575,1996 1534,1996 1493,1996 1452,1996 1412,1996 1371,1996 1330,1996 1290,1996 1249,1996 1208,1996 1204,1984 1168,1984 1168,2045 1164,2069 3068,2090 3076,2061 3072,2008 3040,2008"/>
+        <Baseline points="1171,2049 3078,2063"/>
+        <TextEquiv>
+          <Unicode>brüchlich dißem zuͦſagen biß zuͦ endt der kriegs hilff. Der geſtalt ſoll es auch gehalten werden/ wo ain</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d1f5cc5" custom="structure {type:default;}">
+        <Coords points="3036,2061 2995,2061 2954,2061 2914,2061 2873,2061 2832,2061 2792,2061 2751,2061 2710,2061 2669,2061 2629,2061 2588,2057 2547,2057 2507,2057 2466,2057 2425,2057 2385,2057 2344,2057 2303,2057 2262,2057 2222,2057 2181,2057 2140,2057 2100,2053 2059,2053 2018,2053 1978,2053 1937,2053 1896,2053 1855,2053 1815,2053 1774,2053 1733,2053 1693,2053 1652,2053 1611,2049 1571,2049 1530,2049 1489,2049 1448,2049 1408,2049 1367,2049 1326,2049 1286,2049 1245,2049 1204,2049 1164,2045 1164,2098 1159,2126 3060,2143 3068,2114 3064,2061 3036,2061"/>
+        <Baseline points="1168,2101 3070,2117"/>
+        <TextEquiv>
+          <Unicode>regierender fürſt (das got verhiet) gefangen wurde/ vnd ſol die Lanndtſchafft alls dann zuͦ erledigung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_782a2554" custom="structure {type:default;}">
+        <Coords points="3040,2114 2999,2114 2958,2114 2918,2114 2877,2114 2836,2114 2796,2114 2755,2114 2714,2114 2673,2114 2633,2114 2592,2114 2551,2110 2511,2110 2470,2110 2429,2110 2389,2110 2348,2110 2307,2110 2266,2110 2226,2110 2185,2110 2144,2110 2104,2106 2063,2106 2022,2106 1982,2106 1941,2106 1900,2106 1859,2106 1819,2106 1778,2106 1737,2106 1697,2106 1656,2106 1615,2102 1575,2102 1534,2102 1493,2102 1452,2102 1412,2102 1371,2102 1330,2102 1290,2102 1249,2102 1208,2102 1204,2098 1168,2098 1168,2151 1164,2179 3064,2187 3072,2163 3068,2098 3048,2098 3040,2114"/>
+        <Baseline points="1171,2152 3073,2166"/>
+        <TextEquiv>
+          <Unicode>irs regierenden lanndtsfürſten trewlich helffen/ vnnd ſolliche hilff mit irem rat vnnd wiſſen fuͤrgeno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef1cc330" custom="structure {type:default;}">
+        <Coords points="3036,2163 2995,2163 2954,2163 2914,2163 2873,2163 2832,2163 2792,2163 2751,2163 2710,2163 2669,2163 2629,2163 2588,2163 2547,2163 2507,2163 2466,2163 2425,2159 2385,2159 2344,2159 2303,2159 2262,2159 2222,2159 2181,2159 2140,2159 2100,2159 2059,2159 2018,2159 1978,2159 1937,2159 1896,2159 1855,2159 1815,2159 1774,2155 1733,2155 1693,2155 1652,2155 1611,2155 1571,2155 1530,2155 1489,2155 1448,2155 1408,2155 1367,2155 1326,2155 1286,2155 1245,2155 1204,2155 1164,2151 1164,2200 1159,2224 3064,2244 3072,2216 3068,2163 3036,2163"/>
+        <Baseline points="1168,2201 3073,2217"/>
+        <TextEquiv>
+          <Unicode>men werden/ wie dann by hertzog Vlrichs voreltern geſchehen iſt. Damit auch der gemain man</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e1ffc496" custom="structure {type:default;}">
+        <Coords points="2661,2216 2621,2216 2612,2212 2299,2212 2295,2212 2254,2212 2214,2212 2173,2212 2132,2212 2112,2208 1916,2208 1888,2208 1847,2208 1807,2208 1766,2208 1725,2208 1684,2208 1644,2208 1607,2204 1534,2204 1522,2204 1481,2204 1440,2204 1400,2204 1359,2204 1318,2204 1277,2204 1237,2204 1196,2204 1192,2200 1155,2200 1155,2252 1151,2281 3060,2297 3068,2265 3064,2220 2682,2216 2661,2216"/>
+        <Baseline points="1158,2255 3070,2269"/>
+        <TextEquiv>
+          <Unicode>den laſt/ ſo vil lydenlicher vnnd williger tragen/ ſo ſoll inen hertzog Ulrich ainen fryen zug gnedigklich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_73521b42" custom="structure {type:default;}">
+        <Coords points="2592,2265 2551,2265 2511,2265 2470,2265 2458,2261 2116,2261 2104,2261 2063,2261 2022,2261 1982,2261 1941,2261 1900,2261 1859,2261 1819,2261 1790,2257 1640,2257 1615,2257 1575,2257 1534,2257 1493,2257 1452,2257 1412,2257 1371,2257 1330,2257 1290,2257 1249,2257 1208,2257 1204,2252 1168,2252 1168,2305 1164,2322 3064,2346 3072,2322 3068,2269 2592,2265 2592,2265"/>
+        <Baseline points="1171,2307 3075,2323"/>
+        <TextEquiv>
+          <Unicode>vergünden vnnd zuͦlaſſen. Doch alſo/ das inn den nechſten fünff iarn niemants ron der Lanndtſchafft</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ff2c026a" custom="structure {type:default;}">
+        <Coords points="3040,2322 2999,2322 2958,2322 2918,2322 2877,2322 2836,2322 2796,2322 2755,2322 2714,2322 2673,2322 2633,2322 2592,2318 2551,2318 2511,2318 2470,2318 2429,2318 2389,2318 2348,2318 2307,2318 2266,2318 2226,2318 2185,2318 2144,2318 2104,2313 2063,2313 2022,2313 1982,2313 1941,2313 1900,2313 1859,2313 1819,2313 1778,2313 1737,2313 1697,2313 1656,2313 1615,2309 1575,2309 1534,2309 1493,2309 1452,2309 1412,2309 1371,2309 1330,2309 1290,2309 1249,2309 1208,2309 1204,2301 1168,2301 1168,2354 1164,2374 3072,2399 3080,2370 3076,2318 3040,2313 3040,2322"/>
+        <Baseline points="1171,2355 3081,2372"/>
+        <TextEquiv>
+          <Unicode>vß dem lanndt ziehen/ woͤlt aber iemands inn ſolcher zyt ſyne kindt vß ſollichen/ hyraten/ der ſoll des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f929d995" custom="structure {type:default;}">
+        <Coords points="2995,2370 2954,2370 2914,2370 2873,2370 2832,2370 2792,2370 2751,2370 2710,2370 2669,2370 2629,2370 2588,2366 2547,2366 2507,2366 2466,2366 2425,2366 2385,2366 2344,2366 2303,2366 2262,2366 2222,2366 2181,2366 2140,2366 2100,2362 2059,2362 2018,2362 1978,2362 1937,2362 1896,2362 1855,2362 1815,2362 1774,2362 1733,2362 1693,2362 1652,2362 1611,2358 1571,2358 1530,2358 1489,2358 1448,2358 1408,2358 1367,2358 1326,2358 1286,2358 1245,2358 1204,2358 1200,2350 1164,2350 1164,2403 1159,2427 3064,2448 3072,2419 3072,2370 3036,2370"/>
+        <Baseline points="1168,2407 3075,2423"/>
+        <TextEquiv>
+          <Unicode>macht haben mit abzug des zehenden pfennigs/ aller hab die das vßgeſteurt kindt hinauß nimpt/ vnnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3ce9c79" custom="structure {type:default;}">
+        <Coords points="2995,2419 2954,2419 2914,2419 2873,2419 2832,2419 2792,2419 2751,2419 2710,2419 2669,2419 2629,2419 2596,2415 2442,2415 2425,2415 2385,2415 2344,2415 2303,2415 2262,2415 2222,2415 2181,2415 2140,2415 2116,2411 1803,2411 1774,2411 1733,2411 1693,2411 1652,2411 1640,2407 1164,2407 1164,2460 1159,2480 3072,2505 3080,2476 3080,2419 3036,2415 3036,2419"/>
+        <Baseline points="1168,2461 3081,2477"/>
+        <TextEquiv>
+          <Unicode>ſollicher abzug des zehenden pfennings ſol hertzog Ulrichen inn den fünff iaurn inn ſeinen ſeckel/ geual</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_628929f4" custom="structure {type:default;}">
+        <Coords points="2995,2476 2954,2476 2914,2476 2873,2476 2832,2476 2792,2476 2751,2476 2710,2476 2669,2476 2629,2476 2588,2472 2547,2472 2507,2472 2466,2472 2425,2472 2385,2472 2344,2472 2303,2472 2262,2472 2222,2472 2181,2472 2140,2472 2100,2468 2059,2468 2018,2468 1978,2468 1937,2468 1896,2468 1855,2468 1815,2468 1774,2468 1733,2468 1693,2468 1652,2468 1611,2464 1571,2464 1530,2464 1489,2464 1448,2464 1408,2464 1367,2464 1326,2464 1286,2464 1245,2464 1204,2464 1200,2456 1164,2456 1164,2509 1159,2541 3064,2553 3072,2525 3068,2476 3036,2476"/>
+        <Baseline points="1168,2510 3075,2529"/>
+        <TextEquiv conf="0.9892884742240516">
+          <Unicode>len. Welcher aber nach vßgang ſollicher fünff iarn inn den andern nechßtuolgenden fünffiaurn hinuß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_91781e66" custom="structure {type:default;}">
+        <Coords points="2995,2525 2954,2525 2914,2525 2873,2525 2832,2525 2792,2525 2751,2525 2710,2525 2669,2525 2629,2525 2588,2521 2547,2521 2507,2521 2466,2521 2425,2521 2385,2521 2344,2521 2303,2521 2262,2521 2222,2521 2181,2521 2140,2521 2100,2517 2059,2517 2018,2517 1978,2517 1937,2517 1896,2517 1855,2517 1815,2517 1774,2517 1733,2517 1693,2517 1652,2517 1628,2513 1164,2513 1164,2562 1159,2590 3068,2606 3076,2574 3076,2521 3036,2517 3036,2525"/>
+        <Baseline points="1168,2562 3078,2578"/>
+        <TextEquiv>
+          <Unicode>ziehen/ oder ſeine kindt hinuß hyraten woͤlt/ der ſoll das zuͤthon macht haben/ mit abzug des zehenden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fe63050d" custom="structure {type:default;}">
+        <Coords points="1159,2643 3064,2659 3072,2631 3072,2582 1164,2566 1164,2614"/>
+        <Baseline points="1168,2616 3075,2632"/>
+        <TextEquiv>
+          <Unicode>pfennings wie obſteet. Welcher aber nach vßgang ietzgemelter zehen iaurn inn nechßtuolgenden zehen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_843ad536" custom="structure {type:default;}">
+        <Coords points="2629,2631 2621,2627 2307,2627 2303,2627 2262,2627 2222,2627 2181,2627 2140,2627 2120,2623 1925,2623 1896,2623 1855,2623 1815,2623 1774,2623 1733,2623 1693,2623 1652,2623 1615,2618 1542,2618 1530,2618 1489,2618 1448,2618 1408,2618 1367,2618 1326,2618 1286,2618 1245,2618 1204,2618 1200,2614 1164,2614 1164,2663 1159,2688 3064,2712 3072,2684 3072,2635 2690,2631 2669,2631"/>
+        <Baseline points="1168,2667 3073,2684"/>
+        <TextEquiv>
+          <Unicode>iaurn hinuß ziehen woͤlt/ der ſoll den zwaintzigſten pfenning zuͦ abzug geben. Unnd füro vß wer nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21b2fbe9" custom="structure {type:default;}">
+        <Coords points="2710,2684 2702,2679 2433,2679 2425,2679 2385,2679 2344,2679 2328,2675 2116,2675 2100,2675 2059,2675 2018,2675 1978,2675 1937,2675 1908,2671 1798,2671 1774,2671 1733,2671 1693,2671 1652,2671 1611,2671 1571,2671 1534,2667 1481,2667 1448,2667 1408,2667 1367,2667 1326,2667 1286,2667 1245,2667 1204,2667 1200,2663 1164,2663 1164,2716 1159,2736 3064,2765 3072,2732 3072,2688 2751,2684"/>
+        <Baseline points="1168,2719 3073,2735"/>
+        <TextEquiv>
+          <Unicode>den zwaintzig iarn hinuß ziehet/ der ſoll für den abzug zuͦgeben nichts ſchuldig/ ſunder als dann fry ſyn.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aeb19b9c" custom="structure {type:default;}">
+        <Coords points="3003,2732 2962,2732 2922,2732 2881,2732 2840,2732 2800,2732 2759,2732 2718,2732 2678,2732 2637,2732 2596,2732 2555,2728 2515,2728 2474,2728 2433,2728 2393,2728 2352,2728 2311,2728 2271,2728 2230,2728 2189,2728 2148,2728 2108,2724 2067,2724 2026,2724 1986,2724 1945,2724 1904,2724 1864,2724 1823,2724 1782,2724 1741,2724 1701,2724 1660,2724 1619,2720 1579,2720 1538,2720 1497,2720 1457,2720 1416,2720 1375,2720 1334,2720 1294,2720 1253,2720 1212,2720 1172,2720 1172,2769 1168,2789 3064,2818 3072,2785 3068,2732 3044,2732"/>
+        <Baseline points="1174,2770 3075,2789"/>
+        <TextEquiv>
+          <Unicode>Vnnd was alſo nach verſchynung der erſten fünff iaurn von abzug geuallet/ ſoll der Lanndtſchafft zuͦ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ab0fb3e4" custom="structure {type:default;}">
+        <Coords points="2629,2785 2621,2781 2303,2781 2262,2781 2222,2781 2181,2781 2140,2781 2120,2777 1925,2777 1896,2777 1855,2777 1815,2777 1774,2777 1733,2777 1693,2777 1652,2777 1615,2773 1542,2773 1530,2773 1489,2773 1448,2773 1408,2773 1367,2773 1326,2773 1286,2773 1245,2773 1204,2773 1200,2769 1164,2769 1164,2818 1159,2846 3064,2858 3072,2838 3068,2789 2686,2785 2669,2785"/>
+        <Baseline points="1168,2822 3073,2841"/>
+        <TextEquiv>
+          <Unicode>hilff der zwaivnndzwainnzig tuſent guldin zuͦuallen vnnd komen. und hieruff ſollen Landt/ Leut/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1d51583a" custom="structure {type:default;}">
+        <Coords points="2999,2838 2958,2838 2918,2838 2877,2838 2836,2838 2796,2838 2755,2838 2714,2838 2673,2834 2633,2834 2592,2834 2551,2834 2511,2834 2470,2834 2429,2834 2389,2834 2348,2834 2307,2830 2266,2830 2226,2830 2185,2830 2144,2830 2104,2830 2063,2830 2022,2830 1982,2830 1941,2830 1900,2826 1859,2826 1819,2826 1778,2826 1737,2826 1697,2826 1656,2826 1615,2826 1575,2826 1534,2822 1493,2822 1452,2822 1412,2822 1371,2822 1330,2822 1290,2822 1249,2822 1208,2822 1168,2822 1168,2871 1164,2891 3064,2919 3072,2891 3068,2838 3040,2838"/>
+        <Baseline points="1171,2873 3075,2895"/>
+        <TextEquiv>
+          <Unicode>Schloß/ Stet vnnd Doͤrffer one rat wiſſen vnnd willen gemainer Lanndtſchafft nit mer verſetzt oder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_033d51e6" custom="structure {type:default;}">
+        <Coords points="2751,2891 2710,2891 2686,2887 2588,2887 2547,2887 2507,2887 2466,2887 2425,2887 2385,2887 2344,2887 2303,2883 2262,2883 2222,2883 2181,2883 2140,2883 2100,2883 2059,2883 2018,2883 1978,2883 1937,2883 1896,2879 1855,2879 1815,2879 1774,2879 1733,2879 1693,2879 1652,2879 1611,2879 1571,2879 1530,2875 1489,2875 1448,2875 1408,2875 1367,2875 1326,2875 1286,2875 1245,2875 1204,2875 1164,2871 1164,2919 1159,2940 3060,2976 3068,2944 3064,2895 2824,2891 2792,2891"/>
+        <Baseline points="1168,2922 3070,2946"/>
+        <TextEquiv>
+          <Unicode>verendert. Aber doch ob ſich erſchainten eehafftig noͤtt vnnd vrſachen/ ſollen inn ſollicher bewilligung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_46c618b6" custom="structure {type:default;}">
+        <Coords points="1164,2972 1159,3005 3064,3021 3072,2997 3068,2948 2751,2944 1164,2923 1164,2972"/>
+        <Baseline points="1166,2976 3073,2998"/>
+        <TextEquiv conf="0.9849039200617342">
+          <Unicode>auch betracht vnnd angeſehen werden. Auch gemaine Lanndtſchafft nit ſchuldig ſein ſich fürter meer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_15d4d411" custom="structure {type:default;}">
+        <Coords points="3032,2997 2991,2997 2950,2997 2910,2997 2869,2997 2828,2997 2787,2997 2759,2993 2592,2993 2584,2993 2543,2993 2503,2993 2462,2993 2446,2989 1159,2980 1159,3029 1155,3058 3064,3078 3072,3050 3072,2997 3032,2997"/>
+        <Baseline points="1163,3031 3075,3052"/>
+        <TextEquiv conf="0.9912240499197834">
+          <Unicode>als mitſchuldner zuͦuerſchryben vnnd zuͦbeſigeln. Der gleichen ſol auch ainich ſchatzung oder ſunſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_23408931" custom="structure {type:default;}">
+        <Coords points="2747,3050 2706,3050 2698,3045 2429,3045 2421,3045 2380,3045 2340,3045 2323,3041 2112,3041 2096,3041 2055,3041 2014,3041 1973,3041 1933,3041 1904,3037 1794,3037 1770,3037 1729,3037 1689,3037 1648,3037 1607,3037 1566,3037 1530,3033 1477,3033 1444,3033 1404,3033 1363,3033 1322,3033 1282,3033 1241,3033 1200,3033 1159,3033 1159,3078 1155,3102 3064,3135 3072,3102 3068,3054 2747,3050 2747,3050"/>
+        <Baseline points="1160,3082 3073,3106"/>
+        <TextEquiv>
+          <Unicode>ander vnordenlich hilff oder beſchwerdt/ wie die namen haben moͤgen/ fürter vff Prelaten oder Landt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1af3ebcf" custom="structure {type:default;}">
+        <Coords points="3032,3102 2991,3102 2950,3102 2910,3102 2869,3102 2828,3102 2787,3102 2751,3098 2682,3098 2665,3098 2625,3098 2584,3098 2543,3098 2503,3098 2462,3098 2433,3094 2299,3094 2299,3094 2258,3094 2218,3094 2177,3094 2136,3094 2116,3090 1921,3090 1892,3090 1851,3090 1811,3090 1794,3086 1538,3086 1526,3086 1485,3086 1477,3082 1159,3082 1159,3131 1155,3163 3060,3184 3068,3151 3064,3102 3032,3102"/>
+        <Baseline points="1160,3134 3070,3155"/>
+        <TextEquiv>
+          <Unicode>ſchafft nit meer gelegt werden. Wie aber die Toͤchtern von Wirtemperg vß geſteurt/ vnd was inen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f993493c" custom="structure {type:default;}">
+        <Coords points="1155,3184 1151,3204 3052,3237 3060,3208 3056,3159 1155,3135 1155,3184"/>
+        <Baseline points="1158,3188 3062,3209"/>
+        <TextEquiv>
+          <Unicode>in erbfals wyß zuͤſteen/ ſoll ſich hertzog ulrich mit ſeiner lantſchafft deßhalb vnderredẽ vnd verainigẽ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8e7f7d27" custom="structure {type:default;}">
+        <Coords points="3040,3208 2999,3208 2958,3208 2918,3208 2877,3208 2836,3208 2796,3208 2755,3208 2714,3204 2673,3204 2633,3204 2592,3204 2551,3204 2511,3204 2470,3204 2429,3204 2389,3200 2348,3200 2307,3200 2266,3200 2226,3200 2185,3200 2144,3200 2104,3196 2063,3196 2022,3196 1982,3196 1941,3196 1900,3196 1859,3196 1819,3196 1778,3192 1737,3192 1697,3192 1656,3192 1615,3192 1575,3192 1534,3192 1493,3192 1452,3188 1412,3188 1371,3188 1330,3188 1290,3188 1249,3188 1208,3188 1208,3233 1204,3257 3060,3294 3068,3261 3064,3208 3040,3204 3040,3208"/>
+        <Baseline points="1212,3234 3070,3264"/>
+        <TextEquiv>
+          <Unicode>Es ſoll auch niemant inn pynlichen ſachen wo es eer/ lyb/ oder leben antrifft/ anders dann mit vrtail</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3adb238f" custom="structure {type:default;}">
+        <Coords points="3032,3261 2991,3261 2950,3261 2910,3261 2869,3261 2828,3261 2787,3257 2747,3257 2706,3257 2665,3257 2625,3257 2584,3257 2543,3257 2503,3253 2462,3253 2421,3253 2380,3253 2340,3253 2299,3253 2258,3249 2246,3249 2218,3249 2177,3249 2136,3249 2096,3249 2055,3249 2014,3249 1973,3245 1933,3245 1892,3245 1851,3245 1811,3245 1770,3245 1733,3241 1701,3241 1689,3241 1648,3241 1607,3241 1566,3241 1526,3241 1485,3241 1444,3237 1428,3237 1404,3237 1363,3237 1322,3237 1282,3237 1241,3237 1237,3233 1159,3233 1159,3281 1155,3306 3060,3338 3068,3310 3064,3261 3032,3261"/>
+        <Baseline points="1163,3285 3070,3312"/>
+        <TextEquiv>
+          <Unicode>vnnd recht geſtrafft eder getedt/ ſunder ainen ieden nach ſynem verſchulden rechts geſtattet wer⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d02812f8" custom="structure {type:default;}">
+        <Coords points="3036,3310 1159,3285 1159,3338 1155,3367 3060,3395 3068,3367 3064,3330 3036,3310"/>
+        <Baseline points="1163,3342 3070,3369"/>
+        <TextEquiv>
+          <Unicode>den. Es were dann inn vellen darinnen die kaiſerlichen recht anders zuͦthon zuͦlaſſen/ vnnd mit gefenck⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_598a1ff6" custom="structure {type:default;}">
+        <Coords points="3036,3367 2995,3367 2954,3367 2914,3367 2873,3367 2832,3367 2792,3363 2779,3363 2751,3363 2710,3363 2669,3363 2629,3363 2588,3363 2547,3363 2507,3359 2466,3359 2425,3359 2385,3359 2344,3359 2303,3359 2262,3359 2222,3355 2181,3355 2140,3355 2100,3355 2059,3355 2018,3355 1978,3355 1937,3350 1896,3350 1855,3350 1815,3350 1774,3350 1733,3350 1693,3346 1652,3346 1611,3346 1571,3346 1530,3346 1489,3346 1448,3346 1408,3342 1367,3342 1326,3342 1286,3342 1245,3342 1204,3342 1164,3342 1164,3391 1159,3420 3048,3448 3056,3420 3052,3367 3036,3367"/>
+        <Baseline points="1166,3394 3059,3421"/>
+        <TextEquiv>
+          <Unicode>nus vnnd frage ſoll es wie von alter herkomen iſt gehalten werden. Damit aber hertzog Ulrich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9cf85ca8" custom="structure {type:default;}">
+        <Coords points="3032,3420 2991,3420 2950,3420 2910,3420 2869,3420 2828,3420 2787,3420 2747,3416 2706,3416 2665,3416 2625,3416 2584,3416 2543,3416 2503,3411 2462,3411 2421,3411 2380,3411 2340,3411 2299,3411 2258,3411 2218,3407 2177,3407 2136,3407 2096,3407 2055,3407 2014,3407 1973,3403 1969,3403 1933,3403 1892,3403 1851,3403 1811,3403 1770,3403 1729,3403 1689,3399 1648,3399 1607,3399 1566,3399 1526,3399 1485,3399 1444,3399 1404,3395 1363,3395 1322,3395 1282,3395 1241,3395 1200,3395 1159,3391 1159,3440 1155,3468 3052,3501 3060,3468 3056,3420 3032,3416 3032,3420"/>
+        <Baseline points="1160,3443 3064,3472"/>
+        <TextEquiv>
+          <Unicode>von Wirtemperg by lanndt vnnd leuten/ vnnd herwiderumb lanndt vnd leut by ſynen fürſtlichen gna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a029d7ab" custom="structure {type:default;}">
+        <Coords points="1155,3497 1151,3525 3052,3554 3060,3521 3056,3472 1155,3444 1155,3497"/>
+        <Baseline points="1158,3500 3062,3524"/>
+        <TextEquiv>
+          <Unicode>den inn friden vnnd gehorſami. Auch ain ieder biderman by heußlichen eern/ wyb vnnd kinden/ auch by</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ca813ee" custom="structure {type:default;}">
+        <Coords points="2991,3521 2950,3521 2910,3521 2869,3521 2828,3521 2787,3521 2747,3521 2706,3517 2665,3517 2625,3517 2584,3517 2543,3517 2503,3517 2462,3517 2421,3513 2380,3513 2340,3513 2299,3513 2258,3513 2218,3513 2177,3513 2136,3513 2096,3509 2055,3509 2014,3509 1973,3509 1933,3509 1892,3509 1851,3509 1811,3509 1770,3505 1729,3505 1689,3505 1648,3505 1607,3505 1566,3505 1526,3505 1485,3505 1444,3501 1404,3501 1363,3501 1322,3501 1282,3501 1241,3501 1200,3501 1159,3501 1159,3550 1155,3578 3052,3599 3060,3574 3056,3521 3032,3517 3032,3521"/>
+        <Baseline points="1160,3551 3062,3578"/>
+        <TextEquiv conf="0.9924709119048774">
+          <Unicode>recht vnnd gerechtigkait belyben. Des gleichen ſyn fürſtlich gnad vnnd die erberkait ſich vor vngehor⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f317aea" custom="structure {type:default;}">
+        <Coords points="1843,3562 1803,3562 1786,3558 1628,3558 1599,3558 1558,3558 1518,3558 1477,3558 1444,3554 1387,3554 1355,3554 1314,3554 1273,3554 1233,3554 1192,3554 1172,3550 1151,3550 1151,3607 1151,3668 1225,3647 1253,3672 1257,3672 1261,3672 1396,3676 1400,3676 1416,3672 1518,3651 1689,3680 1709,3680 1713,3680 1717,3680 1721,3680 1766,3655 1864,3680 1876,3684 1880,3684 1884,3684 1904,3684 2051,3660 2153,3688 2161,3688 2165,3688 2169,3688 2173,3688 2177,3688 2205,3664 2258,3688 2262,3688 2266,3688 2275,3688 2437,3668 2588,3692 2608,3696 2612,3700 2771,3700 2771,3696 2775,3696 2779,3696 2796,3680 2812,3692 2812,3696 2816,3696 2820,3696 2824,3696 2828,3696 2897,3680 3052,3700 3060,3639 3056,3582 1864,3562 1843,3562"/>
+        <Baseline points="1155,3608 3064,3642"/>
+        <TextEquiv>
+          <Unicode>ſami ſchmach vnnd nidertruckung der vngehorſamen vnnd boͤffels vffenhaltten moͤgen ſo haben ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
