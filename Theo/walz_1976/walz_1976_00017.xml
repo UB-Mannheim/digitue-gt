@@ -246,7 +246,7 @@
         <Coords points="344,2544 341,2544 339,2544 188,2555 174,2617 185,2628 185,2630 368,2620 411,2633 745,2625 809,2638 1162,2630 1945,2649 1950,2625 1939,2577 1501,2560 1377,2571 1364,2571 1345,2558 1186,2568 1138,2555 570,2560 524,2547 382,2558"/>
         <Baseline points="177,2601 1950,2625"/>
         <TextEquiv>
-          <Unicode>economic place, a pelitical place, a place vith particular netvorks of</Unicode>
+          <Unicode>economic place, a political place, a place with particular networks of</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>
