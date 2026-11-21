@@ -102,7 +102,7 @@
         <Coords points="1993,1622 1966,1622 1939,1622 1913,1622 1907,1622 1880,1624 1802,1619 1778,1619 1751,1619 1724,1619 1697,1616 1670,1616 1643,1616 1617,1616 1590,1616 1563,1614 1549,1619 1479,1614 1455,1614 1428,1614 1401,1611 1374,1611 1356,1611 1331,1616 1323,1611 1321,1611 1294,1611 1267,1608 1240,1608 1200,1614 1175,1608 1159,1608 1132,1608 1105,1605 1078,1605 1052,1605 1025,1605 998,1605 971,1603 957,1603 955,1605 944,1611 922,1605 912,1603 890,1603 863,1603 836,1603 828,1600 804,1605 772,1608 659,1603 460,1595 460,1595 433,1595 406,1595 379,1592 352,1592 325,1592 298,1592 271,1592 244,1592 242,1592 217,1630 217,1643 215,1667 236,1681 239,1681 242,1681 1151,1694 1154,1697 1304,1697 1304,1694 1307,1694 1310,1694 1326,1681 2017,1686 2023,1670 2017,1611 1993,1611 1993,1622"/>
         <Baseline points="217,1643 2023,1670"/>
         <TextEquiv>
-          <Unicode>wodern soctety and the cult of the absolute., be nou ralse che question</Unicode>
+          <Unicode>Modern society and the cult of the absolute., We now raise the question</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_eccb774c" >
@@ -116,14 +116,14 @@
         <Coords points="217,1848 215,1866 2012,1880 2017,1872 2017,1826 217,1802 217,1848"/>
         <Baseline points="217,1848 2017,1872"/>
         <TextEquiv>
-          <Unicode>soclety. Here the title &#x27;&#x27;Exodus Church“ is meant to focus attention on</Unicode>
+          <Unicode>society. Here the title &amp;#x27;&amp;#x27;Exodus Church“ is meant to focus attention on</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e839636a" >
         <Coords points="217,1944 215,1958 1961,1985 1966,1966 1958,1907 1904,1920 1883,1907 1880,1907 1878,1907 1875,1907 1670,1917 1649,1904 1646,1904 1643,1904 1641,1904 1557,1917 1533,1901 1530,1901 1528,1901 1525,1901 1517,1901 1108,1912 1087,1896 1084,1896 1081,1896 1078,1896 1076,1896 1073,1896 1052,1912 877,1912 785,1893 782,1893 780,1893 756,1907 739,1893 737,1893 734,1893 731,1893 729,1893 669,1907 586,1891 583,1891 581,1891 530,1904 360,1891 357,1891 298,1901 217,1885 217,1944"/>
         <Baseline points="217,1944 1966,1966"/>
         <TextEquiv>
-          <Unicode>che reality of christlanity as chat of che &#x27;pilgrin people of Cca&#x27; as</Unicode>
+          <Unicode>the reality of Christianity as that of the &amp;#x27;pilgrim people of God&amp;#x27; as</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_14299858" >
@@ -144,14 +144,14 @@
         <Coords points="212,2251 209,2262 2028,2283 2034,2275 2034,2230 1948,2213 1945,2213 1886,2224 1875,2227 1867,2224 1826,2211 1824,2211 1821,2211 1687,2221 1630,2224 1560,2219 1458,2208 1455,2208 1452,2208 1439,2216 1428,2221 1415,2213 1401,2205 1399,2205 1396,2205 1393,2205 1237,2211 1084,2216 1011,2205 968,2200 965,2200 922,2203 823,2213 659,2197 616,2195 613,2195 578,2197 417,2208 212,2189 212,2251"/>
         <Baseline points="212,2251 2034,2275"/>
         <TextEquiv>
-          <Unicode>city. but we scek the city ehich is to come.“33 uhat does this nean kor</Unicode>
+          <Unicode>city. but we seek the city which is to come.“33 What does this mean for</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e980816c" >
         <Coords points="212,2351 209,2372 1982,2383 1988,2372 1985,2318 212,2305 212,2351"/>
         <Baseline points="212,2351 1988,2372"/>
         <TextEquiv>
-          <Unicode>the social shape of Christianity in modern soctety and for the task 1t</Unicode>
+          <Unicode>the social shape of Christianity in modern society and for the task 1t</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_7a08e36b" >

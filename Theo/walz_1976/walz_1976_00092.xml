@@ -180,7 +180,7 @@
         <Coords points="247,2770 247,2784 1103,2792 1105,2792 1213,2778 1676,2786 1678,2786 1681,2786 1684,2786 1700,2773 1950,2784 1953,2784 1956,2784 1958,2784 1980,2770 1980,2754 1972,2700 244,2719 247,2770"/>
         <Baseline points="247,2770 1980,2754"/>
         <TextEquiv>
-          <Unicode>mission, can the raising of Jesus fron the dead be called &quot;historic.“</Unicode>
+          <Unicode>mission, can the raising of Jesus from the dead be called &amp;quot;historic.“</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_366cb9b2" >

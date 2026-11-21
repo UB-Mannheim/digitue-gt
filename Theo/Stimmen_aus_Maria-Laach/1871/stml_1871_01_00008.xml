@@ -57,7 +57,7 @@
         <Coords points="95,430 91,395 150,382 150,382 150,382 152,382 269,391 292,382 292,382 294,382 294,382 294,382 296,382 296,382 298,382 298,382 298,382 300,382 300,382 300,384 310,391 374,382 374,382 376,382 804,390 815,380 815,380 817,380 817,380 817,380 819,380 819,380 821,380 1362,391 1366,427 1364,438 95,448"/>
         <Baseline points="95,430 1366,427"/>
         <TextEquiv>
-          <Unicode>uund hatte den Stiftsprobſt Döllinger vollſtändig für ſeinen Plan ge⸗</Unicode>
+          <Unicode>und hatte den Stiftsprobſt Döllinger vollſtändig für ſeinen Plan ge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_9ede8f8b" >
@@ -186,14 +186,14 @@
         <Coords points="95,1491 95,1450 1364,1450 1366,1495 1364,1503 95,1509"/>
         <Baseline points="95,1491 1366,1495"/>
         <TextEquiv>
-          <Unicode>Blätter ſchlug wie eine Bombe in&#39;s ſeindliche Lager. Schon unter dem 8. Mai bringt</Unicode>
+          <Unicode>Blätter ſchlug wie eine Bombe in&amp;#39;s feindliche Lager. Schon unter dem 8. Mai bringt</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_9cc078c5" >
         <Coords points="91,1538 91,1499 1366,1505 1368,1538 1364,1558 89,1550"/>
         <Baseline points="91,1538 1368,1538"/>
         <TextEquiv>
-          <Unicode>ddie A. A. Z. eine Correſpondenz aus München, welche, nach dem Periodenſtil zu</Unicode>
+          <Unicode>die A. A. Z. eine Correſpondenz aus München, welche, nach dem Periodenſtil zu</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a82fd51c" >
