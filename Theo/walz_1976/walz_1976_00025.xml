@@ -61,7 +61,7 @@
         <Coords points="199,1000 196,1019 796,1038 799,1038 885,1024 887,1000 879,954 742,971 721,954 718,954 715,954 713,954 597,968 519,949 513,949 511,949 508,949 438,965 199,946 199,1000"/>
         <Baseline points="199,1000 772,1014 887,1000"/>
         <TextEquiv>
-          <Unicode>&quot;the hope chat is in you.&quot;⁴</Unicode>
+          <Unicode>&amp;quot;the hope that is in you.&amp;quot;⁴</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e52a582f" >
